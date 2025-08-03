@@ -5,6 +5,7 @@ import logging
 import random
 import base64
 import asyncio
+import argparse
 from datetime import datetime, timedelta
 from telethon.sync import TelegramClient
 from telethon.tl.types import Message, MessageEntityTextUrl, MessageEntityUrl
