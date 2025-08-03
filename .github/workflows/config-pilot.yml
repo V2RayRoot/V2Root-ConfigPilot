@@ -35,12 +35,13 @@ jobs:
         with:
           go-version: '1.21'
 
-      - name: Install Go dependencies
+      - name: Initialize Go module and install dependencies
         run: |
-          go get github.com/google/uuid
-          go get golang.org/x/exp/slog
-          go get github.com/pires/go-proxyproto
-          go get github.com/pingcap/go-ycsb/pkg/util
+          if [ ! -f go.mod ]; then
+            go mod init github.com/v2root/configpilot
+          fi
+          go mod tidy
+          go mod download
 
       - name: Build and run ConfigPilot
         env:
