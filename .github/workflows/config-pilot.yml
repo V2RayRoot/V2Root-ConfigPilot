@@ -8,9 +8,13 @@ on:
 jobs:
   optimize-configs:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grant write access to repository contents
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Use GITHUB_TOKEN with write permissions
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,6 +34,11 @@ jobs:
         run: |
           python3 FetchConfig.py --output configs.json
 
+      - name: Debug configs.json
+        run: |
+          cat configs.json
+        if: failure() # Only run if previous steps fail
+
       - name: Set up Go
         uses: actions/setup-go@v3
         with:
@@ -42,6 +51,7 @@ jobs:
           fi
           go mod tidy
           go mod download
+          cat go.mod # Debug: show go.mod after tidy
 
       - name: Build and run ConfigPilot
         env:
