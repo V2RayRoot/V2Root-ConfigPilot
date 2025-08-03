@@ -3,7 +3,6 @@ package parser
 import (
 	"encoding/base64"
 	"encoding/json"
-	"net/url"
 	"regexp"
 )
 
@@ -63,4 +62,5 @@ func ExtractServerAddress(protocol, configURL string) (string, string) {
 		}
 	}
 	return "", ""
+
 }
