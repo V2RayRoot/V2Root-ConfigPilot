@@ -8,7 +8,6 @@ import (
 	"sort"
 	"sync"
 	"time"
-	"github.com/google/uuid"
 	"github.com/v2root/configpilot/parser"
 	"github.com/v2root/configpilot/scorer"
 	"github.com/v2root/configpilot/tester"
@@ -116,4 +115,5 @@ func main() {
 		os.Exit(1)
 	}
 	logger.Info("Saved BestConfigs_scored.json", "path", jsonPath)
+
 }
