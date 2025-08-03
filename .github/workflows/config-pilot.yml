@@ -1,0 +1,59 @@
+name: V2Root-ConfigPilot
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  optimize-configs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install telethon
+
+      - name: Run FetchConfig.py
+        env:
+          TELEGRAM_SESSION_STRING: ${{ secrets.TELEGRAM_SESSION_STRING }}
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+        run: |
+          python3 FetchConfig.py --output configs.json
+
+      - name: Set up Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: '1.21'
+
+      - name: Install Go dependencies
+        run: |
+          go get github.com/google/uuid
+          go get golang.org/x/exp/slog
+          go get github.com/pires/go-proxyproto
+          go get github.com/pingcap/go-ycsb/pkg/util
+
+      - name: Build and run ConfigPilot
+        env:
+          TEST_TIMEOUT: 10s
+          MAX_CONCURRENCY: 10
+        run: |
+          go build -o configpilot .
+          ./configpilot
+
+      - name: Commit and push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/BestConfigs.txt output/BestConfigs_scored.json
+          git commit -m "Update BestConfigs from daily run" || echo "No changes to commit"
+          git push
