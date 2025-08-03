@@ -246,6 +246,10 @@ async def post_config_and_proxies_to_channel(client, all_configs, all_proxies, c
         logger.error(f"Failed to post config/proxies to {DESTINATION_CHANNEL}: {str(e)}")
 
 async def main():
+    parser = argparse.ArgumentParser(description="Fetch VPN configs and proxies from Telegram channels")
+    parser.add_argument("--output", default="configs.json", help="Output JSON file for configs")
+    args = parser.parse_args()
+
     logger.info("Starting config+proxy collection process")
     invalid_channels = []
     channel_stats = {}
@@ -333,6 +337,11 @@ async def main():
                 all_configs[protocol] = list(set(all_configs[protocol]))
                 logger.info(f"Found {len(all_configs[protocol])} unique {protocol} configs")
             all_proxies = list(set(all_proxies))
+
+            # Save configs to JSON
+            with open(args.output, "w", encoding="utf-8") as f:
+                json.dump(all_configs, f, ensure_ascii=False, indent=4)
+            logger.info(f"Saved configs to {args.output}")
 
             for protocol in all_configs:
                 save_configs(all_configs[protocol], protocol)
