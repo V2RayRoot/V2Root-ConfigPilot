@@ -5,8 +5,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 174.24424011161213,
+      "Latency": 2,
+      "Throughput": 12.275228181684904,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,9 +17,21 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 129.11888434053273,
+      "Latency": 3,
+      "Throughput": 41.951845259779724,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?path=%2Ftjkqcpws\u0026security=tls\u0026encryption=none\u0026host=638879176706477448.amsterdam-prx-dnraaal.info\u0026type=ws\u0026sni=638879176706477448.amsterdam-prx-dnraaal.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 80,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 2.775272803054831,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -29,55 +41,19 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
+      "Latency": 5,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality\u0026encryption=none\u0026pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sid=974a74bf#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "URL": "vless://9453d30f-cbd7-430e-8352-22e315b7d97f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fcopbywws\u0026security=tls\u0026encryption=none\u0026host=638894516851829772.yasuj-prx-dnraaao.info\u0026type=ws\u0026sni=638894516851829772.yasuj-prx-dnraaao.info#%40V2ray_Alpha--All-48",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 190,
-      "Throughput": 20.80737927047466,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=vl.hongkong6.qzz.io\u0026fp=random\u0026type=ws\u0026sni=vl.hongkong6.qzz.io#%40V2ray_Alpha--All-46",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 0,
-      "DNSResolution": 11,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://9453d30f-cbd7-430e-8352-22e315b7d97f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fcopbywws\u0026security=tls\u0026encryption=none\u0026host=638894516851829772.yasuj-prx-dnraaao.info\u0026type=ws\u0026sni=638894516851829772.yasuj-prx-dnraaao.info#%40V2ray_Alpha--All-48",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ed2591a2-26f5-4cfc-a652-557e518bf7c5@www.speedtest.net:2053?mode=auto\u0026path=%2Ftest%3Fed%3D2096\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=pars.stepson.ir\u0026fp=chrome\u0026type=xhttp\u0026sni=ham.stepson.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 7,
+      "Latency": 27,
       "Throughput": 0,
       "DNSResolution": 1,
       "PacketLoss": 0
@@ -89,33 +65,57 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
+      "Latency": 4,
       "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?path=%2Ftjkqcpws\u0026security=tls\u0026encryption=none\u0026host=638879176706477448.amsterdam-prx-dnraaal.info\u0026type=ws\u0026sni=638879176706477448.amsterdam-prx-dnraaal.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=vl.hongkong6.qzz.io\u0026fp=random\u0026type=ws\u0026sni=vl.hongkong6.qzz.io#%40V2ray_Alpha--All-46",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
+      "Latency": 8,
       "Throughput": 0,
-      "DNSResolution": 5,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality\u0026encryption=none\u0026pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sid=974a74bf#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "URL": "ss://ed2591a2-26f5-4cfc-a652-557e518bf7c5@www.speedtest.net:2053?mode=auto\u0026path=%2Ftest%3Fed%3D2096\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=pars.stepson.ir\u0026fp=chrome\u0026type=xhttp\u0026sni=ham.stepson.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 212,
-      "Throughput": 20.84174965519214,
-      "DNSResolution": 1,
+      "Latency": 3,
+      "Throughput": 0,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://2df2194a-547a-4e2e-bb52-a91932e30fdc@ca.musicbaaz.ir:43669?security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=tc.dony-e-eqtesad.com\u0026headerType=http\u0026fp=chrome\u0026type=tcp\u0026sni=ca.musicbaaz.ir#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 31,
+      "Throughput": 0,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?path=%2Ftjkqcpws\u0026security=tls\u0026encryption=none\u0026host=638879176706477448.amsterdam-prx-dnraaal.info\u0026type=ws\u0026sni=638879176706477448.amsterdam-prx-dnraaal.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
