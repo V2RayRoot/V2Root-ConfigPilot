@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Use GITHUB_TOKEN with write permissions
+          token: ${{ github.token }} # Use built-in GITHUB_TOKEN
 
       - name: Set up Python
         uses: actions/setup-python@v4
