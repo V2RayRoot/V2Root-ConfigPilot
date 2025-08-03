@@ -1,61 +1,34 @@
-# V2Root-ConfigPilot
+# V2Root-ConfigPilot (Beta)
 
-A fully automated VPN configuration optimizer that runs in GitHub Actions, testing and ranking VLESS, VMess, Shadowsocks, and Trojan configs for performance.
+**Status: This project is in Beta and under active development (dev). Features and performance may change as we continue to improve the repository.**
+
+V2Root-ConfigPilot is a fully automated VPN configuration optimizer running in GitHub Actions, designed to test and rank VLESS, VMess, Shadowsocks, and Trojan configs for performance, optimized for use in Iran.
+
+**[نسخه فارسی (Persian)](README.fa.md)**
 
 ## Overview
-V2Root-ConfigPilot fetches VPN configurations using a provided Python script (`FetchConfig.py`), tests them for connectivity, latency, throughput, and DNS resolution, and outputs the top 10 configurations in `BestConfigs.txt` and `BestConfigs_scored.json`.
+V2Root-ConfigPilot fetches VPN configurations, tests them for connectivity and performance, and outputs the top 10 configurations. Results are published every 2 hours to the GitHub repository and the Telegram channel `@V2RootConfigPilot`.
 
 ## Features
-- **Input**: Reads configs from `FetchConfig.py` output (`configs.json`).
-- **Tests**:
-  - TLS handshake success
-  - ICMP ping latency (5 packets)
-  - Throughput (~1 MiB download)
-  - DNS resolution time
-- **Scoring**: Weighted composite score based on test results.
+- **Input**: Processes VPN configurations and outputs them to `configs.json`.
 - **Output**:
   - `output/BestConfigs.txt`: Top 10 config URLs.
-  - `output/BestConfigs_scored.json`: Top 10 configs with scores and test results.
-- **Automation**: Runs daily via GitHub Actions, commits results to the repository.
+  - `output/BestConfigs_scored.json`: Top 10 configs with performance metrics.
+- **Automation**: Runs every 2 hours via GitHub Actions, committing results to the repository and posting to `@V2RootConfigPilot`.
+- **Tests**: Evaluates configs for connectivity, latency, throughput, and DNS resolution.
 
-## Setup
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-repo/v2root-configpilot.git
-   cd v2root-configpilot
-   ```
+## Config Distribution
+- The top 10 configurations are updated every 2 hours and available in:
+  - The GitHub repository: `output/BestConfigs.txt` and `output/BestConfigs_scored.json`.
+  - The Telegram channel: `@V2RootConfigPilot`.
 
-2. **Configure Secrets**:
-   In your GitHub repository, add the following secrets under Settings > Secrets and variables > Actions:
-   - `TELEGRAM_SESSION_STRING`
-   - `TELEGRAM_API_ID`
-   - `TELEGRAM_API_HASH`
-
-3. **Customize Environment Variables** (optional):
-   In `.github/workflows/config-pilot.yml`, adjust:
-   - `TEST_TIMEOUT`: Duration for each test (default: 10s).
-   - `MAX_CONCURRENCY`: Number of concurrent tests (default: 10).
-
-4. **Run Workflow**:
-   - The workflow runs daily at midnight UTC or can be triggered manually via GitHub Actions.
-
-## Scoring Weights
-The scoring algorithm in `scorer/scorer.go` uses:
-- TLS handshake success: +25
-- Latency <50 ms: +30, <100 ms: +15
-- Throughput >5 Mbps: +30, >1 Mbps: +10
-- DNS resolution <100 ms: +10
-- No packet loss: +5
-
-To adjust weights, modify `CalculateScore` in `scorer/scorer.go`.
-
-## Extending Protocols
-To add a new protocol:
-1. Update `parser/parser.go` with a new regex pattern and validation logic.
-2. Ensure `tester/tester.go` can handle the protocol's server/port extraction.
+## Notes
+- This project is in **Beta** and under active **development (dev)**. Expect potential changes and improvements as we refine functionality.
+- For optimal "Iran-tested" configs, use a self-hosted runner in an Iran-based environment with full network access (ICMP, TCP, HTTP).
+- Ensure the `GITHUB_TOKEN` has `contents: write` permissions, or use a PAT stored as `REPO_TOKEN`.
 
 ## Contributing
-Fork the repository, make changes, and submit a pull request. Community contributions are welcome to add new metrics, protocols, or improve testing.
+Fork the repository, make changes, and submit a pull request. Community contributions are welcome to enhance the repository's functionality during this Beta phase.
 
 ## License
 MIT License
