@@ -4,10 +4,12 @@ import json
 import logging
 import asyncio
 import argparse
-from datetime import datetime, timedelta
+import base64
+from datetime import datetime
 from telethon.sync import TelegramClient
 from telethon.tl.types import Message
 from telethon.errors import ChannelInvalidError, PeerIdInvalidError
+from telethon.sessions import StringSession
 
 SESSION_STRING = os.getenv("TELEGRAM_SESSION_STRING", None)
 API_ID = os.getenv("TELEGRAM_API_ID", None)
