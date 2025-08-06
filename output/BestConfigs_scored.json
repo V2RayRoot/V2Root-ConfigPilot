@@ -5,9 +5,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 31.01035500487729,
-      "DNSResolution": 8,
+      "Latency": 4,
+      "Throughput": 22.449177923451494,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -17,21 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 26.449604461043187,
-      "DNSResolution": 7,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://52d726aa-b3b0-46a3-8c6d-b5421ef8b1a1@stupid-erica-vz-76e7190b.koyeb.app:443?path=%2FTG%40bing990118\u0026security=tls\u0026encryption=none\u0026host=stupid-erica-vz-76e7190b.koyeb.app\u0026type=ws\u0026sni=stupid-erica-vz-76e7190b.koyeb.app#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 102.71670666819013,
-      "DNSResolution": 0,
+      "Latency": 10,
+      "Throughput": 30.397377198785254,
+      "DNSResolution": 6,
       "PacketLoss": 0
     }
   },
@@ -41,31 +29,43 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 102.8267907388434,
+      "Latency": 2,
+      "Throughput": 34.293258361640525,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=%2F\u0026security=\u0026encryption=none\u0026host=ewedwdewed.farcadezero.ir\u0026type=ws#%40NETMelliAnti%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1",
+    "URL": "ss://52d726aa-b3b0-46a3-8c6d-b5421ef8b1a1@stupid-erica-vz-76e7190b.koyeb.app:443?path=%2FTG%40bing990118\u0026security=tls\u0026encryption=none\u0026host=stupid-erica-vz-76e7190b.koyeb.app\u0026type=ws\u0026sni=stupid-erica-vz-76e7190b.koyeb.app#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 34.570544259375744,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@193.124.224.3:8880/?type=ws\u0026channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none\u0026flow=\u0026host=bitget1.asdasd.click\u0026path=%2FTelegramU0001F1E8U0001F1F3#%40networld_vpn",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 5,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=%2F\u0026security=\u0026encryption=none\u0026host=ewedwdewed.farcadezero.ir\u0026type=ws#%40NETMelliAnti%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1",
+    "Protocol": "shadowsocks",
+    "URL": "ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@168.100.6.254:8880/?type=ws\u0026channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none\u0026flow=\u0026host=yg.bantony199.top\u0026path=%2FTelegram#%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%86%0A%40networld_vpn",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 5,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -73,35 +73,11 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://05a8b989-e84e-4780-9f3f-c12ab22ed4e8@vip5.tiba98.fun:145?security=none\u0026encryption=none\u0026host=speedtest.net\u0026headerType=http\u0026type=tcp#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
-    "Score": 15,
+    "URL": "ss://0132166f-e702-48ed-a9e7-b07af768faf8@154.83.2.251:8880/?type=ws\u0026channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none\u0026flow=\u0026host=cf.d3z.net\u0026path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%40networld_vpn",
+    "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 213,
-      "Throughput": 0,
-      "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://05a8b989-e84e-4780-9f3f-c12ab22ed4e8@vip5.tiba98.fun:145?security=none\u0026encryption=none\u0026host=speedtest.net\u0026headerType=http\u0026type=tcp#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
-    "Score": 15,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 203,
-      "Throughput": 0,
-      "DNSResolution": 15,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.188.109:443?security=none\u0026encryption=none\u0026host=zula.ir\u0026headerType=http\u0026type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%3A%40NETMelliAnti",
-    "Score": 5,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 2163,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -109,11 +85,35 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.188.109:443?security=none\u0026encryption=none\u0026host=zula.ir\u0026headerType=http\u0026type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%3A%40NETMelliAnti",
-    "Score": 5,
+    "URL": "vless://0132166f-e702-48ed-a9e7-b07af768faf8@176.124.223.251:8880/?type=ws\u0026channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none\u0026flow=\u0026host=cf.d3z.net\u0026path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%86%0A%40networld",
+    "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 2163,
+      "Latency": 2,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.83.2.251:8880/?type=ws\u0026channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none\u0026flow=\u0026host=cf.d3z.net\u0026path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%40networld_vpn",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://b5441b0d-2147-4898-8a6a-9b2c87f58382@86.38.214.3:8880/?type=ws\u0026channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none\u0026flow=\u0026host=bitget1.asdasd.click\u0026path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%40networld_vpn",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
