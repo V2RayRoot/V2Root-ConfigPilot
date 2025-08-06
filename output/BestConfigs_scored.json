@@ -1,12 +1,36 @@
 [
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8a83985a-77e1-4a4f-9a81-dda433403913@www.speedtest.net:443?path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cftr.changiz.cloud\u0026fp=randomized\u0026type=ws\u0026sni=cftr.changiz.cloud#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 28.80813285855706,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8a83985a-77e1-4a4f-9a81-dda433403913@www.speedtest.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN\u0026path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cftr.changiz.cloud\u0026fp=randomized\u0026type=ws\u0026sni=cftr.changiz.cloud#🇹🇷[Telegram:NetifyVPN]",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 83.99511421419395,
+      "DNSResolution": 4,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
     "URL": "vless://8a83985a-77e1-4a4f-9a81-dda433403913@www.speedtest.net:443?path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cftr.changiz.cloud\u0026fp=randomized\u0026type=ws\u0026sni=cftr.changiz.cloud#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 53.69805986359055,
+      "Latency": 10,
+      "Throughput": 107.30290997175868,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
@@ -17,56 +41,20 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 66.36597680505793,
-      "DNSResolution": 17,
+      "Latency": 11,
+      "Throughput": 145.8085925769101,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://8a83985a-77e1-4a4f-9a81-dda433403913@www.speedtest.net:443?path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cftr.changiz.cloud\u0026fp=randomized\u0026type=ws\u0026sni=cftr.changiz.cloud#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 31,
-      "Throughput": 31.704520589464554,
-      "DNSResolution": 16,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8a83985a-77e1-4a4f-9a81-dda433403913@www.speedtest.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN\u0026path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cftr.changiz.cloud\u0026fp=randomized\u0026type=ws\u0026sni=cftr.changiz.cloud#🇹🇷[Telegram:NetifyVPN]",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 63.322089915816285,
-      "DNSResolution": 17,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://52d726aa-b3b0-46a3-8c6d-b5421ef8b1a1@stupid-erica-vz-76e7190b.koyeb.app:443?path=%2FTG%40bing990118\u0026security=tls\u0026encryption=none\u0026host=stupid-erica-vz-76e7190b.koyeb.app\u0026type=ws\u0026sni=stupid-erica-vz-76e7190b.koyeb.app#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
+    "URL": "ss://52d726aa-b3b0-46a3-8c6d-b5421ef8b1a1@stupid-erica-vz-76e7190b.koyeb.app:443?path=%2FTG%40bing990118\u0026security=tls\u0026encryption=none\u0026host=stupid-erica-vz-76e7190b.koyeb.app\u0026type=ws\u0026sni=stupid-erica-vz-76e7190b.koyeb.app#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 24,
-      "Throughput": 38.274070957926796,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJKVPN_TELEGRAM_JKVPN_JKVPN\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=randomized\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#5%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 91.6870555756503,
+      "Latency": 7,
+      "Throughput": 99.84457569319001,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -77,20 +65,32 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 88.28177025033455,
+      "Latency": 2,
+      "Throughput": 115.0413138523331,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://52d726aa-b3b0-46a3-8c6d-b5421ef8b1a1@stupid-erica-vz-76e7190b.koyeb.app:443?path=%2FTG%40bing990118\u0026security=tls\u0026encryption=none\u0026host=stupid-erica-vz-76e7190b.koyeb.app\u0026type=ws\u0026sni=stupid-erica-vz-76e7190b.koyeb.app#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
+    "Protocol": "vless",
+    "URL": "vless://52d726aa-b3b0-46a3-8c6d-b5421ef8b1a1@stupid-erica-vz-76e7190b.koyeb.app:443?path=%2FTG%40bing990118\u0026security=tls\u0026encryption=none\u0026host=stupid-erica-vz-76e7190b.koyeb.app\u0026type=ws\u0026sni=stupid-erica-vz-76e7190b.koyeb.app#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 27,
-      "Throughput": 42.88607824730088,
+      "Latency": 7,
+      "Throughput": 104.91376606441224,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJKVPN_TELEGRAM_JKVPN_JKVPN\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=randomized\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#5%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
+    "Score": 75,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 88,
+      "Throughput": 141.45404752986843,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -101,21 +101,21 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 157,
-      "Throughput": 8.49886069425967,
-      "DNSResolution": 40,
+      "Latency": 127,
+      "Throughput": 13.563415886612013,
+      "DNSResolution": 19,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
     "URL": "vless://30375a07-a94f-4036-96e3-a122bdc2750a@zs3.topsekan.site:49647?type=tcp\u0026security=reality\u0026pbk=A2mqDNc1cwW69QapVDC5v7JOlHhwNITenMLbM9l5Nm0\u0026fp=chrome\u0026sni=www.speedtest.net\u0026sid=7f0e6085\u0026spx=%2F\u0026flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B7%20ZS31327",
-    "Score": 60,
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 196,
-      "Throughput": 7.536474089951583,
-      "DNSResolution": 165,
+      "Latency": 127,
+      "Throughput": 9.019617806277825,
+      "DNSResolution": 11,
       "PacketLoss": 0
     }
   }
