@@ -1,36 +1,12 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://8a83985a-77e1-4a4f-9a81-dda433403913@www.speedtest.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN\u0026path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cftr.changiz.cloud\u0026fp=randomized\u0026type=ws\u0026sni=cftr.changiz.cloud#🇹🇷[Telegram:NetifyVPN]",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 17.626966971486063,
-      "DNSResolution": 11,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8a83985a-77e1-4a4f-9a81-dda433403913@www.speedtest.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN\u0026path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cftr.changiz.cloud\u0026fp=randomized\u0026type=ws\u0026sni=cftr.changiz.cloud#🇹🇷[Telegram:NetifyVPN]",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 165.3264341510186,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://8a83985a-77e1-4a4f-9a81-dda433403913@www.speedtest.net:443?path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cftr.changiz.cloud\u0026fp=randomized\u0026type=ws\u0026sni=cftr.changiz.cloud#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 34.19806971389365,
+      "Latency": 5,
+      "Throughput": 176.41609641633633,
       "DNSResolution": 4,
       "PacketLoss": 0
     }
@@ -41,9 +17,33 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 39.462507039556314,
-      "DNSResolution": 1,
+      "Latency": 7,
+      "Throughput": 165.58781719096703,
+      "DNSResolution": 7,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8a83985a-77e1-4a4f-9a81-dda433403913@www.speedtest.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN\u0026path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cftr.changiz.cloud\u0026fp=randomized\u0026type=ws\u0026sni=cftr.changiz.cloud#🇹🇷[Telegram:NetifyVPN]",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 201.396346322869,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8a83985a-77e1-4a4f-9a81-dda433403913@www.speedtest.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN\u0026path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cftr.changiz.cloud\u0026fp=randomized\u0026type=ws\u0026sni=cftr.changiz.cloud#🇹🇷[Telegram:NetifyVPN]",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 36.10105533763805,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -54,7 +54,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 89.25302636093711,
+      "Throughput": 7.3830535439364855,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -66,30 +66,42 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 201.39341587022915,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://dae81384-bbf5-4134-bcd4-110ce819fd9d@94.237.27.223:33115?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN\u0026security=reality\u0026encryption=none\u0026pbk=53Q1y0Vmf2zaGBBlcO1NyKFvQM1TShkJKBCNjlevpns\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=yelp.com\u0026sid=09cb#🇫🇮[Telegram:NetifyVPN]",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 90,
-      "Throughput": 0,
+      "Throughput": 6.118512225809983,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://dae81384-bbf5-4134-bcd4-110ce819fd9d@94.237.27.223:33115?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN\u0026security=reality\u0026encryption=none\u0026pbk=53Q1y0Vmf2zaGBBlcO1NyKFvQM1TShkJKBCNjlevpns\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=yelp.com\u0026sid=09cb#🇫🇮[Telegram:NetifyVPN]",
-    "Score": 45,
+    "URL": "ss://30375a07-a94f-4036-96e3-a122bdc2750a@zs3.topsekan.site:49647?type=tcp\u0026security=reality\u0026pbk=A2mqDNc1cwW69QapVDC5v7JOlHhwNITenMLbM9l5Nm0\u0026fp=chrome\u0026sni=www.speedtest.net\u0026sid=7f0e6085\u0026spx=%2F\u0026flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B7%20ZS31327",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 91,
+      "Latency": 140,
+      "Throughput": 9.047783836844879,
+      "DNSResolution": 9,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://30375a07-a94f-4036-96e3-a122bdc2750a@zs3.topsekan.site:49647?type=tcp\u0026security=reality\u0026pbk=A2mqDNc1cwW69QapVDC5v7JOlHhwNITenMLbM9l5Nm0\u0026fp=chrome\u0026sni=www.speedtest.net\u0026sid=7f0e6085\u0026spx=%2F\u0026flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B7%20ZS31327",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 132,
+      "Throughput": 12.022530968431761,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026host=Q9cI2lEeUz.GiTi4.OrG\u0026type=ws\u0026sni=Q9cI2lEeUz.GiTi4.OrG#🇫🇷[Telegram:NetifyVPN]",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -97,25 +109,13 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?security=reality\u0026encryption=none\u0026pbk=jydcbn_c_lQzE7FxMCqmo4pzl9oYypd-EdpJzpdvfS4\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.sweetpurr.com#%F0%9F%87%B7%F0%9F%87%BA%20%D8%A7%D8%B2%D8%A7%D8%AF%DB%8C%20%E2%99%A5%EF%B8%8F",
-    "Score": 40,
+    "URL": "vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=F1.paRsa.fiLegEar-Sg.Me\u0026type=ws\u0026sni=F1.paRsa.fiLegEar-Sg.Me#%F0%9F%8E%B6%E0%AA%A1%EA%AA%96%F0%9D%95%9B%F0%9D%95%9B%EA%AA%96%E1%A6%94%F0%9F%8E%B6%E2%9A%A1%EF%B8%8F%20VPN%F0%9F%9A%80",
+    "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 108,
+      "Latency": 2,
       "Throughput": 0,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?security=reality\u0026encryption=none\u0026pbk=jydcbn_c_lQzE7FxMCqmo4pzl9oYypd-EdpJzpdvfS4\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.sweetpurr.com#%F0%9F%87%B7%F0%9F%87%BA%20%D8%A7%D8%B2%D8%A7%D8%AF%DB%8C%20%E2%99%A5%EF%B8%8F",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 117,
-      "Throughput": 0,
-      "DNSResolution": 87,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
