@@ -1,5 +1,29 @@
 [
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=hetzner-4.access.name.ng\u0026fp=random\u0026type=ws\u0026sni=hetzner-4.access.name.ng#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=hetzner-4.access.name.ng\u0026fp=random\u0026type=ws\u0026sni=hetzner-4.access.name.ng#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 0,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
     "URL": "vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=F1.paRsa.fiLegEar-Sg.Me\u0026type=ws\u0026sni=F1.paRsa.fiLegEar-Sg.Me#%F0%9F%8E%B6%E0%AA%A1%EA%AA%96%F0%9D%95%9B%F0%9D%95%9B%EA%AA%96%E1%A6%94%F0%9F%8E%B6%E2%9A%A1%EF%B8%8F%20VPN%F0%9F%9A%80",
     "Score": 60,
@@ -24,98 +48,74 @@
     }
   },
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality\u0026encryption=none\u0026pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com\u0026sid=f5#%40NETMelliAnti%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84",
+    "Score": 55,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 79,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality\u0026encryption=none\u0026pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y\u0026headerType=none\u0026fp=chrome\u0026spx=%2F%40FREEV2RNG\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 91,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
-    "URL": "vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443?security=reality\u0026encryption=none\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026sid=d3b13f31#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆",
+    "URL": "vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality\u0026encryption=none\u0026pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y\u0026headerType=none\u0026fp=chrome\u0026spx=%2F%40FREEV2RNG\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 85,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality\u0026encryption=none\u0026pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4\u0026host=%2F\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com\u0026sid=f5#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 149,
+      "Latency": 214,
       "Throughput": 0,
-      "DNSResolution": 3,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443?security=reality\u0026encryption=none\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026sid=d3b13f31#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆",
+    "Protocol": "vless",
+    "URL": "vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality\u0026encryption=none\u0026pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4\u0026host=%2F\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com\u0026sid=f5#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 144,
+      "Latency": 194,
       "Throughput": 0,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=%2F7YVyoVNnbaVzgl6D%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=vghavi32.ip-ddns.com\u0026type=ws#%F0%9F%8E%B6%E0%AA%A1%EA%AA%96%F0%9D%95%9B%F0%9D%95%9B%EA%AA%96%E1%A6%94%F0%9F%8E%B6%E2%9A%A1%EF%B8%8F%20VPN%F0%9F%9A%80",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FShadowProxy66\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%F0%9F%8E%B6%E0%AA%A1%EA%AA%96%F0%9D%95%9B%F0%9D%95%9B%EA%AA%96%E1%A6%94%F0%9F%8E%B6%E2%9A%A1%EF%B8%8F%20VPN%F0%9F%9A%80",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=barayeiran.mahiozonboroon.qzz.io\u0026type=ws#%F0%9F%8E%B6%E0%AA%A1%EA%AA%96%F0%9D%95%9B%F0%9D%95%9B%EA%AA%96%E1%A6%94%F0%9F%8E%B6%E2%9A%A1%EF%B8%8F%20VPN%F0%9F%9A%80",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=%2F7YVyoVNnbaVzgl6D%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=vghavi32.ip-ddns.com\u0026type=ws#%F0%9F%8E%B6%E0%AA%A1%EA%AA%96%F0%9D%95%9B%F0%9D%95%9B%EA%AA%96%E1%A6%94%F0%9F%8E%B6%E2%9A%A1%EF%B8%8F%20VPN%F0%9F%9A%80",
-    "Score": 35,
+    "URL": "ss://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality\u0026encryption=none\u0026pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=i2pd.website\u0026sid=55e6af1a35e64a98#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
+    "Score": 40,
     "Results": {
-      "TLSOK": false,
-      "Latency": 1,
+      "TLSOK": true,
+      "Latency": 200,
       "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FShadowProxy66\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%F0%9F%8E%B6%E0%AA%A1%EA%AA%96%F0%9D%95%9B%F0%9D%95%9B%EA%AA%96%E1%A6%94%F0%9F%8E%B6%E2%9A%A1%EF%B8%8F%20VPN%F0%9F%9A%80",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=barayeiran.mahiozonboroon.qzz.io\u0026type=ws#%F0%9F%8E%B6%E0%AA%A1%EA%AA%96%F0%9D%95%9B%F0%9D%95%9B%EA%AA%96%E1%A6%94%F0%9F%8E%B6%E2%9A%A1%EF%B8%8F%20VPN%F0%9F%9A%80",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 25,
       "PacketLoss": 0
     }
   }
