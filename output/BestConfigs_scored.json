@@ -1,25 +1,25 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=hetzner-4.access.name.ng\u0026fp=random\u0026type=ws\u0026sni=hetzner-4.access.name.ng#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
-    "Score": 70,
+    "URL": "ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJKVPN_TELEGRAM_JKVPN_JKVPN\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=randomized\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#5%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 32,
-      "Throughput": 0,
-      "DNSResolution": 1,
+      "Latency": 2,
+      "Throughput": 408.5860685021102,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=hetzner-2.access.name.ng\u0026fp=random\u0026type=ws\u0026sni=hetzner-2.access.name.ng#Telegram:%40Darkline_net",
-    "Score": 70,
+    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJKVPN_TELEGRAM_JKVPN_JKVPN\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=randomized\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#5%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 32,
-      "Throughput": 0,
-      "DNSResolution": 2,
+      "Latency": 2,
+      "Throughput": 310.5478428842193,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -29,9 +29,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
+      "Latency": 6,
       "Throughput": 0,
-      "DNSResolution": 17,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -41,19 +41,43 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
+      "Latency": 3,
       "Throughput": 0,
-      "DNSResolution": 17,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=hetzner-4.access.name.ng\u0026fp=random\u0026type=ws\u0026sni=hetzner-4.access.name.ng#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026host=E4aRpUi7Xe.GiTi4.OrG\u0026fp=chrome\u0026type=ws\u0026sni=E4aRpUi7Xe.GiTi4.OrG#🇫🇷[Telegram:NetifyVPN]",
+    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=hetzner-2.access.name.ng\u0026fp=random\u0026type=ws\u0026sni=hetzner-2.access.name.ng#Telegram:%40Darkline_net",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 0,
+      "DNSResolution": 4,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality\u0026encryption=none\u0026pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y\u0026headerType=none\u0026fp=chrome\u0026spx=%2F%40FREEV2RNG\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
+      "Latency": 8,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -65,19 +89,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=F1.paRsa.fiLegEar-Sg.Me\u0026type=ws\u0026sni=F1.paRsa.fiLegEar-Sg.Me#%F0%9F%8E%B6%E0%AA%A1%EA%AA%96%F0%9D%95%9B%F0%9D%95%9B%EA%AA%96%E1%A6%94%F0%9F%8E%B6%E2%9A%A1%EF%B8%8F%20VPN%F0%9F%9A%80",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 14,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -89,19 +101,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=%2F%3FJoin---FREEV2RNG%3Fed\u0026security=tls\u0026encryption=none\u0026host=PmQ1cCsP9x.GhEiChI.oRg\u0026type=ws\u0026sni=PmQ1cCsP9x.GhEiChI.oRg#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 26,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -113,7 +113,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
