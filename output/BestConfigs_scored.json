@@ -5,7 +5,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -17,7 +17,19 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
+      "Latency": 2,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F\u0026security=tls\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%F0%9F%94%B0%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%0A%40Vpn_Reddfilter",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -25,11 +37,35 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://19574256-67b2-40c5-b11b-7b990fde13fc@77.110.121.191:52105?path=%2Fgfgbbj\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=yx.yushan.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=yx.yushan.dpdns.org#Telegram:%40Darkline_net",
-    "Score": 45,
+    "URL": "vless://6ec4cb50-6353-4f60-bc9b-624ad418f6c7@172.66.40.99:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON\u0026security=none\u0026encryption=none\u0026host=pen.srv2.quest\u0026type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%AA%BD",
+    "Score": 35,
     "Results": {
-      "TLSOK": true,
-      "Latency": 97,
+      "TLSOK": false,
+      "Latency": 2,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F\u0026security=tls\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%F0%9F%94%B0%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%0A%40Vpn_Reddfilter",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6ec4cb50-6353-4f60-bc9b-624ad418f6c7@172.66.40.99:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON\u0026security=none\u0026encryption=none\u0026host=pen.srv2.quest\u0026type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%AA%BD",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -38,24 +74,24 @@
   {
     "Protocol": "shadowsocks",
     "URL": "ss://19574256-67b2-40c5-b11b-7b990fde13fc@77.110.121.191:52105?path=%2Fgfgbbj\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=yx.yushan.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=yx.yushan.dpdns.org#Telegram:%40Darkline_net",
-    "Score": 45,
+    "Score": 30,
     "Results": {
       "TLSOK": true,
-      "Latency": 97,
+      "Latency": 113,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Telegram:%40Darkline_net",
+    "Protocol": "vless",
+    "URL": "vless://381a4e2b-9380-431c-94b3-58b529de0aef@de2.leperfume.ir:444?security=tls\u0026encryption=none\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=subx.nava-shop.ir#%40Fit_vpn_Helper🇩🇪",
     "Score": 30,
     "Results": {
-      "TLSOK": false,
-      "Latency": 0,
+      "TLSOK": true,
+      "Latency": 115,
       "Throughput": 0,
-      "DNSResolution": 9,
+      "DNSResolution": 332,
       "PacketLoss": 0
     }
   },
@@ -67,31 +103,19 @@
       "TLSOK": false,
       "Latency": 0,
       "Throughput": 0,
-      "DNSResolution": 9,
+      "DNSResolution": 64,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaNXdOMU9pcHJzOHlqS1Uwajc2elB3@91.224.75.60:1080?note=--Telegram--NetifyVPN--#🇵🇱[Telegram:NetifyVpn]",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 99,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://YWVzLTI1Ni1nY206MnhnNUdkVVFSUWZxOThuTlM4WFc4bnZBK0l4M0pxNTBJT004cERtNnJXcz0@95.164.55.85:36170?note=--Telegram--NetifyVPN--#🇫🇮[Telegram:NetifyVpn]",
-    "Score": 20,
+    "URL": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Telegram:%40Darkline_net",
+    "Score": 30,
     "Results": {
       "TLSOK": false,
       "Latency": 0,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
