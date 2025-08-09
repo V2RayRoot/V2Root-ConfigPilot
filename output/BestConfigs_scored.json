@@ -1,35 +1,35 @@
 [
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%A9%B5",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 8,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
-    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%40NETMelliAnti",
+    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%A9%B5",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 14,
+      "Latency": 9,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%40NETMelliAnti",
+    "Protocol": "vless",
+    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=randomized\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%A9%B5",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 13,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F\u0026security=tls\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%F0%9F%87%B8%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%DA%86%D9%86%D9%84%20%40NETMelliAnti",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 13,
+      "Latency": 8,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -41,31 +41,7 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 14,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@109.61.16.89:30938?security=reality\u0026encryption=none\u0026pbk=OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE\u0026headerType=none\u0026fp=random\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=indeed.com\u0026sid=9f2b1f07#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
-    "Score": 30,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 116,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?security=reality\u0026encryption=none\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026sid=175d#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
-    "Score": 30,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 126,
+      "Latency": 8,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -73,11 +49,11 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?security=reality\u0026encryption=none\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026sid=175d#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
-    "Score": 30,
+    "URL": "ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=randomized\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%A9%B5",
+    "Score": 35,
     "Results": {
-      "TLSOK": true,
-      "Latency": 121,
+      "TLSOK": false,
+      "Latency": 8,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -85,11 +61,11 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://c1d16861-5a8b-46d9-bfd3-032b9abcb68f@192.142.15.95:443?security=reality\u0026encryption=none\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026sid=48720c#Join%20Telegram%20%40NETMelliAnti",
-    "Score": 30,
+    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%A9%B5",
+    "Score": 35,
     "Results": {
-      "TLSOK": true,
-      "Latency": 124,
+      "TLSOK": false,
+      "Latency": 8,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -97,11 +73,11 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://1068814a-6d43-40d9-a127-0f6b6b77ccfc@109.61.16.89:30938?security=reality\u0026encryption=none\u0026pbk=OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE\u0026headerType=none\u0026fp=random\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=indeed.com\u0026sid=9f2b1f07#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
-    "Score": 30,
+    "URL": "ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%A9%B5",
+    "Score": 35,
     "Results": {
-      "TLSOK": true,
-      "Latency": 121,
+      "TLSOK": false,
+      "Latency": 9,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -109,11 +85,35 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://c1d16861-5a8b-46d9-bfd3-032b9abcb68f@192.142.15.95:443?security=reality\u0026encryption=none\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026sid=48720c#Join%20Telegram%20%40NETMelliAnti",
-    "Score": 30,
+    "URL": "ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F\u0026security=tls\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%A9%B5",
+    "Score": 35,
     "Results": {
-      "TLSOK": true,
-      "Latency": 135,
+      "TLSOK": false,
+      "Latency": 8,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%40NETMelliAnti",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 8,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%40NETMelliAnti",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 8,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
