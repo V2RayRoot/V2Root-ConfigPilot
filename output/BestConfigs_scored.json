@@ -5,8 +5,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 35.01822164408694,
+      "Latency": 14,
+      "Throughput": 37.01342726847662,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -18,19 +18,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 14,
-      "Throughput": 10.356004268102888,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@f6.sarasimano.com:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 10.932728148158025,
+      "Throughput": 108.06739590725536,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -41,15 +29,39 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 113.74714592415184,
+      "Latency": 15,
+      "Throughput": 118.35450022201084,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e552ffd8-aba3-ff79-3a07-b962ae4289d1@Nee.baziir.ir:2010?security=reality\u0026encryption=none\u0026pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw\u0026headerType=none\u0026fp=safari\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=zhaket.com\u0026sid=821bbc44dd7a4e15#NETFLY",
+    "Protocol": "vless",
+    "URL": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@f6.sarasimano.com:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 15,
+      "Throughput": 11.062438349031082,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://10856b94-c350-491c-9955-495dec46f53d@free.blackwhiteraven.com:2090?security=reality\u0026encryption=none\u0026pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com#%F0%9F%9A%80Free%20%40Volt_network%F0%9F%9A%80%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%F0%9F%87%A9%F0%9F%87%AA",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 174,
+      "Throughput": 0,
+      "DNSResolution": 73,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e552ffd8-aba3-ff79-3a07-b962ae4289d1@Nee.baziir.ir:2010?security=reality\u0026encryption=none\u0026pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw\u0026headerType=none\u0026fp=safari\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=zhaket.com\u0026sid=821bbc44dd7a4e15#NETFLY",
     "Score": 40,
     "Results": {
       "TLSOK": true,
@@ -60,8 +72,32 @@
     }
   },
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://10856b94-c350-491c-9955-495dec46f53d@free.blackwhiteraven.com:2090?security=reality\u0026encryption=none\u0026pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com#%F0%9F%9A%80Free%20%40Volt_network%F0%9F%9A%80%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%F0%9F%87%A9%F0%9F%87%AA",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 189,
+      "Throughput": 0,
+      "DNSResolution": 46,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
-    "URL": "vless://99946974-0264-4496-9929-6f1492504d6c@chat.openai.com:8080?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN\u0026path=/olem/ws?ed=1024\u0026security=none\u0026encryption=none\u0026host=shad.ir.fin.test.digicyber.click.\u0026type=ws#🇫🇮[Telegram:NetifyVPN]",
+    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%3Dzani.yaemiko.ggff.net%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%AA%BD",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 14,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3Dzani.yaemiko.ggff.net%2F%3Fmtmvpn---mtmvpn%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%AA%BD",
     "Score": 35,
     "Results": {
       "TLSOK": false,
@@ -73,43 +109,7 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun\u0026security=none\u0026encryption=none\u0026type=grpc#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 47,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443\u0026security=none\u0026encryption=none\u0026host=zoomgov.vipren.biz.id\u0026type=ws#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 14,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://99946974-0264-4496-9929-6f1492504d6c@cafearz.com:8080?path=%2Folem%2Fws%3Fed%3D1024\u0026security=none\u0026encryption=none\u0026host=shad.ir.fin.test.digicyber.click.\u0026type=ws#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 14,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443\u0026security=none\u0026encryption=none\u0026host=zoomgov.vipren.biz.id\u0026type=ws#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "URL": "ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%3Dzani.yaemiko.ggff.net%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=random\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%2098%D8%AA%D9%88%D9%85%D9%86%20%40V2rayCafe_Support%20%F0%9F%AA%BD",
     "Score": 35,
     "Results": {
       "TLSOK": false,
