@@ -1,13 +1,13 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026host=V680pKiHuC.aAaZzZaAa-89.InFo\u0026type=ws\u0026sni=V680pKiHuC.aAaZzZaAa-89.InFo#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
-    "Score": 100,
+    "Protocol": "vless",
+    "URL": "vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026host=V680pKiHuC.aAaZzZaAa-89.InFo\u0026type=ws\u0026sni=V680pKiHuC.aAaZzZaAa-89.InFo#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 42.010331306705936,
-      "DNSResolution": 3,
+      "Latency": 20,
+      "Throughput": 26.505713987515538,
+      "DNSResolution": 171,
       "PacketLoss": 0
     }
   },
@@ -17,20 +17,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 344.4115607939789,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%3Dzani.yaemiko.ggff.net%2F%3FJoin---JKVPN---Join---JKVPN---Join---JKVPN---Join---JKVPN%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=randomized\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 430.4225221167233,
+      "Latency": 6,
+      "Throughput": 250.72518341722443,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -41,8 +29,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 17.1253719301655,
+      "Latency": 6,
+      "Throughput": 181.14491146848133,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%3Dzani.yaemiko.ggff.net%2F%3FJoin---JKVPN---Join---JKVPN---Join---JKVPN---Join---JKVPN%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026fp=randomized\u0026type=ws\u0026sni=carlotta.shoorekeeper.cloudns.org#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 244.26449411311881,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -53,21 +53,21 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 174.36857379606076,
+      "Latency": 6,
+      "Throughput": 229.47659572502886,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026host=V680pKiHuC.aAaZzZaAa-89.InFo\u0026type=ws\u0026sni=V680pKiHuC.aAaZzZaAa-89.InFo#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
-    "Score": 85,
+    "Protocol": "shadowsocks",
+    "URL": "ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026host=V680pKiHuC.aAaZzZaAa-89.InFo\u0026type=ws\u0026sni=V680pKiHuC.aAaZzZaAa-89.InFo#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 91,
-      "Throughput": 25.992002397320356,
-      "DNSResolution": 1,
+      "Latency": 176,
+      "Throughput": 83.33100006533151,
+      "DNSResolution": 9,
       "PacketLoss": 0
     }
   },
@@ -77,7 +77,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
+      "Latency": 6,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -89,33 +89,33 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
+      "Latency": 6,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://10856b94-c350-491c-9955-495dec46f53d@free.blackwhiteraven.com:2090?security=reality\u0026encryption=none\u0026pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com#%F0%9F%9A%80Free%20%40Volt_network%F0%9F%9A%80%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%F0%9F%87%A9%F0%9F%87%AA",
+    "Protocol": "shadowsocks",
+    "URL": "ss://10856b94-c350-491c-9955-495dec46f53d@free.blackwhiteraven.com:2090?security=reality\u0026encryption=none\u0026pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com#%F0%9F%9A%80Free%20%40Volt_network%F0%9F%9A%80%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%F0%9F%87%A9%F0%9F%87%AA",
     "Score": 55,
     "Results": {
       "TLSOK": true,
-      "Latency": 95,
+      "Latency": 92,
       "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 81,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://e552ffd8-aba3-ff79-3a07-b962ae4289d1@Nee.baziir.ir:2010?security=reality\u0026encryption=none\u0026pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw\u0026headerType=none\u0026fp=safari\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=zhaket.com\u0026sid=821bbc44dd7a4e15#NETFLY",
-    "Score": 55,
+    "URL": "ss://07ec7e56-f3e7-48c3-98a8-8886d5d87f74@85.9.200.197:26143?security=reality\u0026encryption=none\u0026pbk=ng3D2eUM-UM3ariA2eCDibCNo_peaKijOWUZJJKiIUI\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=steampowered.com\u0026sid=0d#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%DA%86%D9%86%D9%84%F0%9F%92%A5%20nitruConfing%40",
+    "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 84,
+      "Latency": 93,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
