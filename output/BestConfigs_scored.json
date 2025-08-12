@@ -1,11 +1,59 @@
 [
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=F1.paRsa.fiLegEar-Sg.Me\u0026type=ws\u0026sni=F1.paRsa.fiLegEar-Sg.Me#VTWORAY_WOLF",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.16.108.84:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=shutu.pages.dev\u0026fp=chrome\u0026type=ws\u0026sni=shutu.pages.dev#VTWORAY_WOLF",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
-    "URL": "vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=%2F7YVyoVNnbaVzgl6D%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=vghavi32.ip-ddns.com\u0026type=ws#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.16.108.84:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=shutu.pages.dev\u0026fp=chrome\u0026type=ws\u0026sni=shutu.pages.dev#VTWORAY_WOLF",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=F1.paRsa.fiLegEar-Sg.Me\u0026type=ws\u0026sni=F1.paRsa.fiLegEar-Sg.Me#VTWORAY_WOLF",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@172.67.141.140:8880?security=none\u0026encryption=none\u0026host=v2ngsupply2.ip-ddns.com\u0026type=ws#VTWORAY_WOLF",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 1,
+      "Latency": 8,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -17,7 +65,31 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 1,
+      "Latency": 16,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@172.67.141.140:8880?security=none\u0026encryption=none\u0026host=v2ngsupply2.ip-ddns.com\u0026type=ws#VTWORAY_WOLF",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 8,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=%2F7YVyoVNnbaVzgl6D%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=vghavi32.ip-ddns.com\u0026type=ws#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 16,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
