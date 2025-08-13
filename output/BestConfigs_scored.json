@@ -5,9 +5,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 25.15672917427297,
-      "DNSResolution": 1,
+      "Latency": 16,
+      "Throughput": 40.962445844702415,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -17,9 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 24,
-      "Throughput": 23.107444812027406,
-      "DNSResolution": 10,
+      "Latency": 42,
+      "Throughput": 33.82842644960093,
+      "DNSResolution": 20,
       "PacketLoss": 0
     }
   },
@@ -29,57 +29,21 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 22.435165030227502,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://blue2024@icook.tw:443?allowInsecure=1\u0026sni=hb.lii2010.us.kg\u0026ws=1\u0026wspath=%2F%3Fed%3D2560#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 42.08841693673883,
-      "DNSResolution": 0,
+      "Latency": 15,
+      "Throughput": 15.905567215937927,
+      "DNSResolution": 18,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
     "URL": "vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Ftjkqcpws\u0026security=tls\u0026encryption=none\u0026host=638904268184295507.paris-prx-dnraaal.info\u0026type=ws\u0026sni=638904268184295507.paris-prx-dnraaal.info#🇬🇧[Telegram:NetifyVPN]",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 95,
-      "Throughput": 42.013462636416726,
-      "DNSResolution": 14,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=/\u0026security=tls\u0026encryption=none\u0026host=server8.coin.name.ng\u0026type=ws\u0026sni=server8.coin.name.ng#🇩🇪[Telegram:NetifyVpn]",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 0,
+      "Latency": 210,
+      "Throughput": 10.16799766561076,
       "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026host=vl.hongkong6.qzz.io\u0026fp=random\u0026type=ws\u0026sni=vl.hongkong6.qzz.io#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 13,
-      "Throughput": 0,
-      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -89,9 +53,21 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
+      "Latency": 33,
       "Throughput": 0,
-      "DNSResolution": 12,
+      "DNSResolution": 20,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=/\u0026security=tls\u0026encryption=none\u0026host=server8.coin.name.ng\u0026type=ws\u0026sni=server8.coin.name.ng#🇩🇪[Telegram:NetifyVpn]",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 15,
+      "Throughput": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -101,9 +77,33 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
+      "Latency": 42,
       "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026host=vl.hongkong6.qzz.io\u0026fp=random\u0026type=ws\u0026sni=vl.hongkong6.qzz.io#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 0,
+      "DNSResolution": 18,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://NISHIKUITAN111@188.114.96.219:443?allowInsecure=1\u0026ws=1\u0026wspath=%2F#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 13,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -113,7 +113,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
+      "Latency": 14,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
