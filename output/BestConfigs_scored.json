@@ -17,7 +17,7 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 2,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -25,11 +25,35 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@216.22.5.244:8880?mode=auto\u0026path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048\u0026security=none\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D\u0026host=hostname\u0026type=xhttp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 20,
+    "URL": "ss://6a468dac-3ce3-4880-9007-97e0359b59d8@ww3.leperfume.ir:4064?security=none\u0026encryption=none\u0026host=web.rubika.ir\u0026headerType=http\u0026type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%9A%80",
+    "Score": 15,
     "Results": {
       "TLSOK": false,
-      "Latency": 72,
+      "Latency": 659,
+      "Throughput": 0,
+      "DNSResolution": 7,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6a468dac-3ce3-4880-9007-97e0359b59d8@ww3.leperfume.ir:4064?security=none\u0026encryption=none\u0026host=web.rubika.ir\u0026headerType=http\u0026type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%9A%80",
+    "Score": 15,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 661,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@216.22.5.244:8880?mode=auto\u0026path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048\u0026security=none\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D\u0026host=hostname\u0026type=xhttp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 100,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -38,10 +62,10 @@
   {
     "Protocol": "vless",
     "URL": "vless://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@216.22.5.244:8880?mode=auto\u0026path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048\u0026security=none\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D\u0026host=hostname\u0026type=xhttp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 20,
+    "Score": 5,
     "Results": {
       "TLSOK": false,
-      "Latency": 72,
+      "Latency": 104,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
