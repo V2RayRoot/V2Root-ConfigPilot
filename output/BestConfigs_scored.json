@@ -1,37 +1,49 @@
 [
   {
     "Protocol": "vless",
-    "URL": "vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=rayan-roof.atena.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=rayan-roof.atena.dpdns.org#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "URL": "vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 33.19144281953108,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 130.38738679359616,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026fp=chrome\u0026type=ws\u0026sni=privasi.turah.my.id#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 29,
-      "Throughput": 15.023979491967513,
+      "Latency": 5,
+      "Throughput": 174.939738180377,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=rayan-roof.atena.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=rayan-roof.atena.dpdns.org#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
-    "Score": 90,
+    "URL": "ss://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality\u0026encryption=none\u0026pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=canva.com\u0026sid=b538b3#All-%40V2rayAlpha--18",
+    "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 17.654228426371215,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=rayan-roof.atena.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=rayan-roof.atena.dpdns.org#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%8B",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 17.418538497832163,
-      "DNSResolution": 0,
+      "Latency": 89,
+      "Throughput": 7.976893404666743,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -41,81 +53,69 @@
     "Score": 75,
     "Results": {
       "TLSOK": true,
-      "Latency": 68,
-      "Throughput": 192.57099147654313,
+      "Latency": 81,
+      "Throughput": 169.23867495510257,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026fp=chrome\u0026type=ws\u0026sni=privasi.turah.my.id#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Protocol": "shadowsocks",
+    "URL": "ss://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=rayan-roof.atena.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=rayan-roof.atena.dpdns.org#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%8B",
     "Score": 75,
     "Results": {
       "TLSOK": true,
-      "Latency": 68,
-      "Throughput": 18.02485707099461,
+      "Latency": 91,
+      "Throughput": 25.017739297131243,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://1b368bf6-5aac-413c-a77c-229fb984d5ae@cloudgetservice.mcloudservice.site:443?path=%2Flinkws\u0026security=tls\u0026encryption=none\u0026host=maxnetvipap-cloud76.netkh3.site\u0026type=ws#All-%40V2rayAlpha--40",
-    "Score": 70,
+    "URL": "ss://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%2F%3F-Tel-%40V2rayAlpha\u0026security=tls\u0026encryption=none\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=app-stg.gopay.co.id.servpn.my.id#All-%40V2rayAlpha--22",
+    "Score": 75,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 13,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality\u0026encryption=none\u0026pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com\u0026sid=f5#%F0%9F%87%AB%F0%9F%87%B7%5B%F0%9F%94%BB%20%40%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%94_%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%A7%20%F0%9F%94%BB%5D%20%D8%B3%D8%B1%DA%86%20%DA%A9%D9%86%20%DA%A9%DB%8C%D8%A7%D9%86%D8%AA%F0%9F%92%97",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 23,
-      "Throughput": 0,
-      "DNSResolution": 1,
+      "Latency": 81,
+      "Throughput": 26.830252504872373,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://7db68497-fbfd-40a3-ac95-96d2ee28b709@cloudgetservice.mcloudservice.site:443?path=%2Flinkws\u0026security=tls\u0026encryption=none\u0026host=maxnetvipap-de145.maxnetservices.online\u0026type=ws#All-%40V2rayAlpha--28",
-    "Score": 70,
+    "URL": "vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%2F%3F-Tel-%40V2rayAlpha\u0026security=tls\u0026encryption=none\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=app-stg.gopay.co.id.servpn.my.id#All-%40V2rayAlpha--22",
+    "Score": 75,
     "Results": {
       "TLSOK": true,
-      "Latency": 13,
-      "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality\u0026encryption=none\u0026pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com\u0026sid=f5#%F0%9F%87%A8%F0%9F%87%A6%5B%40%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%94_%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%A7%20%F0%9F%94%BB%5D%20%D8%B3%D8%B1%DA%86%20%DA%A9%D9%86%20%DA%A9%DB%8C%D8%A7%D9%86%D8%AA%F0%9F%92%97",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 23,
-      "Throughput": 0,
-      "DNSResolution": 2,
+      "Latency": 88,
+      "Throughput": 27.411355437012027,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://4d52c5bf-dd6d-4335-8c26-5eac773914d7@cloudgetservice.mcloudservice.site:443?path=%2Flinkws\u0026security=tls\u0026encryption=none\u0026host=maxnetvipap-us83.maxnetservices.online\u0026type=ws#All-%40V2rayAlpha--39",
-    "Score": 70,
+    "URL": "vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=rayan-roof.atena.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=rayan-roof.atena.dpdns.org#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 75,
     "Results": {
       "TLSOK": true,
-      "Latency": 25,
-      "Throughput": 0,
-      "DNSResolution": 2,
+      "Latency": 91,
+      "Throughput": 22.707820769327913,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=rayan-roof.atena.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=rayan-roof.atena.dpdns.org#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 75,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 82,
+      "Throughput": 26.854719525616748,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
