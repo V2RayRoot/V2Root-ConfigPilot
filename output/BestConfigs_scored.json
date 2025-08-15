@@ -1,49 +1,13 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-de-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 133.82138438289056,
-      "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40MARAMBASHI%20%F0%9F%92%9B",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 35.817304115958486,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40MARAMBASHI%20%F0%9F%92%9B",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
       "Latency": 3,
-      "Throughput": 29.241180581231696,
-      "DNSResolution": 6,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-de-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 152.6308192073828,
-      "DNSResolution": 1,
+      "Throughput": 134.27721261990956,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -54,8 +18,44 @@
     "Results": {
       "TLSOK": true,
       "Latency": 3,
-      "Throughput": 130.1193633714968,
+      "Throughput": 113.41213463625162,
       "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-de-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 29.086570643801206,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40MARAMBASHI%20%F0%9F%92%9B",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 106.34985046213995,
+      "DNSResolution": 11,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-de-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 127.39541803588209,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -65,21 +65,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 74.88434978026731,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%3F%2F%3Fed%3D2048\u0026security=tls\u0026encryption=none\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=app-stg.gopay.co.id.servpn.my.id#%40ELFV2RAY",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 100.59087203974737,
-      "DNSResolution": 0,
+      "Latency": 7,
+      "Throughput": 29.677431067850613,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
@@ -90,7 +78,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 286.2385418264459,
+      "Throughput": 164.00312270145778,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -102,7 +90,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 132.10224390027383,
+      "Throughput": 28.142286938412884,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -114,8 +102,20 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 178.27910257597927,
+      "Throughput": 307.76756870006903,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-fr-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-fr-cdn.easy-upload.org#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
