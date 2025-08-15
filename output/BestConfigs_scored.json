@@ -1,49 +1,25 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 11,
-      "Throughput": 175.08275231574845,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
     "URL": "vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 37.17092809674254,
-      "DNSResolution": 4,
+      "Latency": 7,
+      "Throughput": 167.54420386795482,
+      "DNSResolution": 7,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?encryption=none\u0026security=tls\u0026sni=freexxx.ndeso.web.id\u0026fp=chrome\u0026type=ws\u0026host=freexxx.ndeso.web.id\u0026path=%2FFree-CF-Proxy-AT24#%40nethers_vpn%F0%9F%9F%A2%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AA%D9%85%D8%A7%D9%85%20%D9%86%D8%AA%20%D9%87%D8%A7",
-    "Score": 90,
+    "URL": "ss://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 302.05634294722034,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?encryption=none\u0026security=tls\u0026sni=freexxx.ndeso.web.id\u0026fp=chrome\u0026type=ws\u0026host=freexxx.ndeso.web.id\u0026path=%2FFree-CF-Proxy-AT24#%40nethers_vpn%F0%9F%9F%A2%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AA%D9%85%D8%A7%D9%85%20%D9%86%D8%AA%20%D9%87%D8%A7",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 396.1079227724227,
-      "DNSResolution": 0,
+      "Latency": 13,
+      "Throughput": 25.19217813729255,
+      "DNSResolution": 8,
       "PacketLoss": 0
     }
   },
@@ -53,8 +29,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 111.00264764902705,
+      "Latency": 6,
+      "Throughput": 84.27793446918639,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -65,8 +41,32 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 99.62626079990696,
+      "Latency": 6,
+      "Throughput": 127.68124224655656,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?encryption=none\u0026security=tls\u0026sni=freexxx.ndeso.web.id\u0026fp=chrome\u0026type=ws\u0026host=freexxx.ndeso.web.id\u0026path=%2FFree-CF-Proxy-AT24#%40nethers_vpn%F0%9F%9F%A2%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AA%D9%85%D8%A7%D9%85%20%D9%86%D8%AA%20%D9%87%D8%A7",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 160.77588835963476,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?encryption=none\u0026security=tls\u0026sni=freexxx.ndeso.web.id\u0026fp=chrome\u0026type=ws\u0026host=freexxx.ndeso.web.id\u0026path=%2FFree-CF-Proxy-AT24#%40nethers_vpn%F0%9F%9F%A2%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AA%D9%85%D8%A7%D9%85%20%D9%86%D8%AA%20%D9%87%D8%A7",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 192.21396489716494,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -77,9 +77,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
+      "Latency": 7,
       "Throughput": 0,
-      "DNSResolution": 4,
+      "DNSResolution": 6,
       "PacketLoss": 0
     }
   },
@@ -89,7 +89,19 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
+      "Latency": 13,
+      "Throughput": 0,
+      "DNSResolution": 7,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://7db68497-fbfd-40a3-ac95-96d2ee28b709@cloudgetservice.mcloudservice.site:443?path=%2Flinkws\u0026security=tls\u0026encryption=none\u0026host=maxnetvipap-de145.maxnetservices.online\u0026type=ws#https%3A%2F%2Ft.me%2Fvpnod",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 22,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
@@ -97,25 +109,13 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none\u0026security=tls\u0026sni=pq-2.access.name.ng\u0026type=ws\u0026host=pq-2.access.name.ng\u0026path=%2F#%40nethers_vpn%F0%9F%9F%A2%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AA%D9%85%D8%A7%D9%85%20%D9%86%D8%AA%20%D9%87%D8%A7",
+    "URL": "ss://7db68497-fbfd-40a3-ac95-96d2ee28b709@cloudgetservice.mcloudservice.site:443?path=%2Flinkws\u0026security=tls\u0026encryption=none\u0026host=maxnetvipap-de145.maxnetservices.online\u0026type=ws#https%3A%2F%2Ft.me%2Fvpnod",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
+      "Latency": 20,
       "Throughput": 0,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none\u0026security=tls\u0026sni=638901504444939106.esfahan-prx-dnraabg.info\u0026fp=chrome\u0026type=ws\u0026host=638901504444939106.esfahan-prx-dnraabg.info\u0026path=%2Furdpjvws#%40nethers_vpn%F0%9F%9F%A2%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AA%D9%85%D8%A7%D9%85%20%D9%86%D8%AA%20%D9%87%D8%A7",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 15,
       "PacketLoss": 0
     }
   }
