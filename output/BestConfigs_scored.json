@@ -5,7 +5,7 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 13,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -17,7 +17,7 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 13,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -30,6 +30,18 @@
     "Results": {
       "TLSOK": false,
       "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#VTWORAY_WOLF",
+    "Score": 5,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 115,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
