@@ -1,36 +1,12 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://c752abdc-4cef-42e9-8180-569256930f7d@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-de-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 125.43872192995,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 195.67273177942607,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
-    "URL": "vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
+    "URL": "vless://c752abdc-4cef-42e9-8180-569256930f7d@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-de-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 20.66566146650514,
+      "Latency": 15,
+      "Throughput": 89.99369549166234,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -41,8 +17,32 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 201.53692055616128,
+      "Latency": 15,
+      "Throughput": 99.66368737853333,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 30,
+      "Throughput": 31.109351583468523,
+      "DNSResolution": 16,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c752abdc-4cef-42e9-8180-569256930f7d@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-de-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 15,
+      "Throughput": 63.58955182648229,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -53,31 +53,31 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 189.21521075535208,
+      "Latency": 17,
+      "Throughput": 94.38481048255639,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://c752abdc-4cef-42e9-8180-569256930f7d@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-de-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
+    "URL": "vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dl1-de-cdn.easy-upload.org#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 157.92963097846567,
+      "Latency": 15,
+      "Throughput": 93.34173673432197,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-uk-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-uk-cdn.easy-upload.org#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "URL": "vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-fr-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-fr-cdn.easy-upload.org#%40NETMelliAnti",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
+      "Latency": 15,
       "Throughput": 0,
       "DNSResolution": 1,
       "PacketLoss": 0
@@ -85,25 +85,25 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://c752abdc-4cef-42e9-8180-569256930f7d@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-fr-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-fr-cdn.easy-upload.org#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A4%AF",
+    "URL": "ss://c752abdc-4cef-42e9-8180-569256930f7d@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-fr-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-fr-cdn.easy-upload.org#%40NETMelliAnti%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
+      "Latency": 15,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-uk-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-uk-cdn.easy-upload.org#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "URL": "ss://c752abdc-4cef-42e9-8180-569256930f7d@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-uk-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-uk-cdn.easy-upload.org#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
+      "Latency": 17,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 18,
       "PacketLoss": 0
     }
   },
@@ -113,7 +113,7 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
+      "Latency": 15,
       "Throughput": 0,
       "DNSResolution": 1,
       "PacketLoss": 0
