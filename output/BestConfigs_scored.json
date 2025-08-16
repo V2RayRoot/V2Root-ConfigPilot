@@ -5,9 +5,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 32.95453414514851,
-      "DNSResolution": 4,
+      "Latency": 6,
+      "Throughput": 33.32469460052262,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -17,45 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 146.57202657482756,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-fr-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-fr-cdn.easy-upload.org#%40NETMelliAnti",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 0,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-fr-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-fr-cdn.easy-upload.org#%40NETMelliAnti",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 0,
+      "Latency": 7,
+      "Throughput": 143.78850206746299,
       "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-uk-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-uk-cdn.easy-upload.org#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 0,
-      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
@@ -65,9 +29,81 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
+      "Latency": 5,
       "Throughput": 0,
-      "DNSResolution": 6,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-uk-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-uk-cdn.easy-upload.org#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 18,
+      "Throughput": 0,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-fr-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-fr-cdn.easy-upload.org#%40NETMelliAnti",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 15,
+      "Throughput": 0,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dl1-fr-cdn.easy-upload.org\u0026type=ws\u0026sni=dl1-fr-cdn.easy-upload.org#%40NETMelliAnti",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 12,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://7df5a558-c45c-4002-ac52-c0b4e91b6968@Www.speedtest.net:8880?path=%2Fwss9500%3Fed%3D2560%40V2RAYNG_IP---%40V2RAYNG_IP---%40V2RAYNG_IP---%40V2RAYNG_IP---%40V2RAYNG_IP---%40V2RAYNG_IP---%40V2RAYNG_IP---%40V2RAYNG_IP---%40V2RAYNG_IP-G_IP---%40V2RAYNG_IP---%40V2RAYNG_IP---%40V2RAYNG_IP\u0026security=none\u0026encryption=none\u0026host=Mmd.mehrdadspd1980.ir\u0026type=httpupgrade#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 6,
+      "Throughput": 0,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2Ffqogayws\u0026security=tls\u0026allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%3A%40V2raytunn",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 80,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4c2078b8-768c-4b85-8ef2-138b68143158@vpconnect.ahadbala.ir:80?mode=auto\u0026path=%2F\u0026security=none\u0026encryption=none\u0026host=vpnconnects.com\u0026type=xhttp#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%A2%D9%84%D9%85%D8%A7%D9%86-%F0%9F%87%A9%F0%9F%87%AA",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 7,
+      "Throughput": 0,
+      "DNSResolution": 89,
       "PacketLoss": 0
     }
   },
@@ -77,43 +113,7 @@
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 86,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2Fqnbufdws\u0026security=tls\u0026allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%3A%40V2raytunn",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 92,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2Ffqogayws\u0026security=tls\u0026allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%3A%40V2raytunn",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 84,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2Fdcgfdfws\u0026security=tls\u0026allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%3A%40V2raytunn",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 83,
+      "Latency": 80,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
