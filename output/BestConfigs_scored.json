@@ -1,25 +1,85 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://ee405388-1f23-46c2-91e4-0d0ce52774df@www.speedtest.net:80/?type=ws\u0026path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D80\u0026host=www.speedtest.net.c.1.avaacado.ir\u0026security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs",
-    "Score": 45,
+    "Protocol": "shadowsocks",
+    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-us.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 100,
     "Results": {
-      "TLSOK": false,
-      "Latency": 18,
-      "Throughput": 0,
-      "DNSResolution": 12,
+      "TLSOK": true,
+      "Latency": 19,
+      "Throughput": 80.31318366911323,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-us.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 19,
+      "Throughput": 28.610447192769566,
+      "DNSResolution": 21,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://ee405388-1f23-46c2-91e4-0d0ce52774df@www.speedtest.net:80/?type=ws\u0026path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D80\u0026host=www.speedtest.net.c.1.avaacado.ir\u0026security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs",
+    "URL": "ss://0503fa3c-f914-4421-a1e5-72c1f8d781a2@hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev:443?path=%2FD5DmXLFJw0WqKdoZ%2FdHVyay5yYWRpY2FsaXphdGlvbi5pciwxMDQuMTY4LjEwMi4xNjM%3D\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev\u0026type=ws\u0026sni=HPgbaG3g9kIk7asE4cn1Tt8InExOZr4nji7.pages.dev#%F0%9F%87%B9%F0%9F%87%B7%F0%9F%87%A9%F0%9F%87%AA%40Kia_Net%20%F0%9F%92%AF%DA%A9%DB%8C%D8%A7%D9%86%D8%AA%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%D8%AF%D9%86%DB%8C%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 137.95863096614602,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0503fa3c-f914-4421-a1e5-72c1f8d781a2@hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev:443?path=%2FD5DmXLFJw0WqKdoZ%2FdHVyay5yYWRpY2FsaXphdGlvbi5pciwxMDQuMTY4LjEwMi4xNjM%3D\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev\u0026type=ws\u0026sni=HPgbaG3g9kIk7asE4cn1Tt8InExOZr4nji7.pages.dev#%40Kia_Net%20%F0%9F%92%AF%DA%A9%DB%8C%D8%A7%D9%86%D8%AA%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%D8%AF%D9%86%DB%8C%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 59.04379315040337,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0503fa3c-f914-4421-a1e5-72c1f8d781a2@hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev:443?path=%2FD5DmXLFJw0WqKdoZ%2FdHVyay5yYWRpY2FsaXphdGlvbi5pciwxMDQuMTY4LjEwMi4xNjM%3D\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev\u0026type=ws\u0026sni=HPgbaG3g9kIk7asE4cn1Tt8InExOZr4nji7.pages.dev#%40Kia_Net%20%F0%9F%92%AF%DA%A9%DB%8C%D8%A7%D9%86%D8%AA%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%D8%AF%D9%86%DB%8C%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 85.3295852028601,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0503fa3c-f914-4421-a1e5-72c1f8d781a2@hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev:443?path=%2FD5DmXLFJw0WqKdoZ%2FdHVyay5yYWRpY2FsaXphdGlvbi5pciwxMDQuMTY4LjEwMi4xNjM%3D\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=hpgbag3g9kik7ase4cn1tt8inexozr4nji7.pages.dev\u0026type=ws\u0026sni=HPgbaG3g9kIk7asE4cn1Tt8InExOZr4nji7.pages.dev#%F0%9F%87%B9%F0%9F%87%B7%F0%9F%87%A9%F0%9F%87%AA%40Kia_Net%20%F0%9F%92%AF%DA%A9%DB%8C%D8%A7%D9%86%D8%AA%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%D8%AF%D9%86%DB%8C%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 70.31538162596674,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ee405388-1f23-46c2-91e4-0d0ce52774df@www.speedtest.net:80/?type=ws\u0026path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D80\u0026host=www.speedtest.net.c.1.avaacado.ir\u0026security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs",
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 27,
+      "Latency": 28,
       "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -29,33 +89,9 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 19,
-      "Throughput": 0,
-      "DNSResolution": 11,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://eea1fe67-a9d2-45d7-b690-c89ed7a52de1@www.speedtest.net:8080?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy\u0026security=none\u0026encryption=none=--@ghalagyann2--@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2\u0026host=inFo.laLezaRanegomaNandish.onlineshopbb.org.\u0026type=ws#%40%F0%9D%97%B4%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B4%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%BB%F0%9D%9F%AE%20%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-    "Score": 45,
-    "Results": {
-      "TLSOK": false,
       "Latency": 18,
       "Throughput": 0,
-      "DNSResolution": 10,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ee405388-1f23-46c2-91e4-0d0ce52774df@www.speedtest.net:80?path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D80\u0026security=none\u0026encryption=none\u0026host=www.speedtest.net.c.1.avaacado.ir\u0026type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2ray_persian21%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%87%AE%F0%9F%87%B7",
-    "Score": 45,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 27,
-      "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -65,57 +101,21 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 18,
-      "Throughput": 0,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://10aca91a-6e44-46cb-a890-ea246400c0a7@cdn2.azkhaktakhane.ir:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026security=tls\u0026sni=cdn2.azkhaktakhane.ir\u0026alpn=h2%2Chttp%2F1.1\u0026allowInsecure=1\u0026type=tcp\u0026headerType=none#%",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 320,
-      "Throughput": 0,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://10aca91a-6e44-46cb-a890-ea246400c0a7@cdn2.azkhaktakhane.ir:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026security=tls\u0026sni=cdn2.azkhaktakhane.ir\u0026alpn=h2%2Chttp%2F1.1\u0026allowInsecure=1\u0026type=tcp\u0026headerType=none#%",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 560,
+      "Latency": 22,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.13.229:2087?path=%2FTELEGRAM_JKVPN_JKVPN_JKVPN_JKVPN_JKVPN%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=vl.hongkong6.qzz.io\u0026fp=random\u0026type=ws\u0026sni=vl.hongkong6.qzz.io#%F0%9F%87%AB%F0%9F%87%AE%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
-    "Score": 35,
+    "Protocol": "vless",
+    "URL": "vless://a3aaaac5-bd22-4229-aeed-ec1cae84c596@azizisearch.com:2095?path=%2F\u0026security=none\u0026encryption=none\u0026host=de2.amirconfigpanelllll.com.\u0026type=httpupgrade#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 8,
+      "Latency": 9,
       "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.13.229:2087?path=%2FTELEGRAM_JKVPN_JKVPN_JKVPN_JKVPN_JKVPN%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=vl.hongkong6.qzz.io\u0026fp=random\u0026type=ws\u0026sni=vl.hongkong6.qzz.io#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2080%D8%AA%20%3D%C2%BB%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7V2ray_persian21%40%E2%9C%85",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 8,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
