@@ -1,24 +1,36 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-fi.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
+    "Protocol": "shadowsocks",
+    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-fi.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
     "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 13,
-      "Throughput": 13.96067355740617,
+      "Throughput": 82.06995864864099,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-de.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 15,
+      "Throughput": 112.90278421088433,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-fi.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
+    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-us.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 130.50247793211255,
+      "Latency": 15,
+      "Throughput": 83.81697825209247,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -29,9 +41,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 13,
-      "Throughput": 16.021315238432667,
-      "DNSResolution": 1,
+      "Latency": 30,
+      "Throughput": 76.88224136412776,
+      "DNSResolution": 11,
       "PacketLoss": 0
     }
   },
@@ -42,44 +54,56 @@
     "Results": {
       "TLSOK": true,
       "Latency": 13,
-      "Throughput": 32.30658366378425,
-      "DNSResolution": 16,
+      "Throughput": 92.59972727296825,
+      "DNSResolution": 29,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-de.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti",
+    "Protocol": "vless",
+    "URL": "vless://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-fi.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 12,
-      "Throughput": 28.293702438639873,
-      "DNSResolution": 8,
+      "Latency": 31,
+      "Throughput": 24.864724785741675,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-us.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "URL": "ss://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026type=ws\u0026sni=privasi.turah.my.id#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%F0%9F%91%88%F0%9F%8F%BB%40V2raytunn",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 12,
-      "Throughput": 28.68565351187896,
+      "Latency": 15,
+      "Throughput": 124.40483947266031,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-Fi.85858569.xYz.\u0026type=ws#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4",
+    "URL": "vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026type=ws\u0026sni=privasi.turah.my.id#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%F0%9F%91%88%F0%9F%8F%BB%40V2raytunn",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 14,
+      "Throughput": 122.95590420112046,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-De.85858569.xYz.\u0026type=ws#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 13,
+      "Latency": 31,
       "Throughput": 0,
-      "DNSResolution": 8,
+      "DNSResolution": 16,
       "PacketLoss": 0
     }
   },
@@ -89,31 +113,7 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 6,
-      "Throughput": 0,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-Us.85858569.xYz.\u0026type=ws#%40NETMelliAnti%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84",
-    "Score": 45,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 13,
-      "Throughput": 0,
-      "DNSResolution": 8,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-Us.85858569.xYz.\u0026type=ws#%40NETMelliAnti%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84",
-    "Score": 45,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 6,
+      "Latency": 31,
       "Throughput": 0,
       "DNSResolution": 1,
       "PacketLoss": 0
