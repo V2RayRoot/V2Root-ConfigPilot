@@ -1,13 +1,13 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-us.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-fi.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 41.23304960871898,
-      "DNSResolution": 2,
+      "Latency": 2,
+      "Throughput": 29.20424023372971,
+      "DNSResolution": 6,
       "PacketLoss": 0
     }
   },
@@ -17,21 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 27.513169393476822,
-      "DNSResolution": 8,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-de.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 134.25453199247738,
-      "DNSResolution": 2,
+      "Latency": 2,
+      "Throughput": 133.4683944506244,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -41,9 +29,45 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 32.54023294739261,
-      "DNSResolution": 3,
+      "Latency": 3,
+      "Throughput": 25.180806056487473,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://%3FM%7C%24pIEDnf8N@www.speedtest.net:443?path=%2FtrfTOD5pZ7bIEs3KNa%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D\u0026security=tls\u0026alpn=http%2F1.1\u0026host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev\u0026fp=randomized\u0026type=ws\u0026sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev#All_%40V2rayAlpha-44",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 59.28150738942137,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-de.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 141.2168037687658,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-us.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 91.37197823588008,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -53,68 +77,44 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 38.37228121475476,
-      "DNSResolution": 2,
+      "Latency": 3,
+      "Throughput": 95.02867353620236,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=nb-fi.zzula.ir\u0026fp=chrome\u0026type=ws\u0026sni=zzula.ir#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
-    "Score": 100,
+    "URL": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=hetzner-4.access.name.ng\u0026fp=random\u0026type=ws\u0026sni=hetzner-4.access.name.ng#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 103.51389965882724,
+      "Latency": 2,
+      "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026type=ws\u0026sni=privasi.turah.my.id#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%F0%9F%91%88%F0%9F%8F%BB%40V2raytunn",
-    "Score": 90,
+    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=hetzner-4.access.name.ng\u0026fp=random\u0026type=ws\u0026sni=hetzner-4.access.name.ng#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 196.29467786485273,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026type=ws\u0026sni=privasi.turah.my.id#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%F0%9F%91%88%F0%9F%8F%BB%40V2raytunn",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 335.28779574636303,
-      "DNSResolution": 0,
+      "Latency": 6,
+      "Throughput": 0,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=%2Fazadnet1-706.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless\u0026security=tls\u0026encryption=none\u0026host=azadnet1-706.pages.dev\u0026fp=randomized\u0026type=ws\u0026sni=azadnet1-706.pages.dev#%25D8%25B3%25D8%25B1%25D9%2588%25D8%25B1%2520%25D8%25B1%25D8%25A7%25DB%258C%25DA%25AF%25D8%25A7%25D9%2586%25F0%259F%2591%2588%25F0%259F%2592%259A%25F0%259F%258C%25B1%2520%2520v2rayfree_server%2540",
+    "URL": "vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=blog.ruangguru.com.servpn.my.id\u0026fp=randomized\u0026type=ws\u0026sni=blog.ruangguru.com.servpn.my.id#All_%40V2rayAlpha-47",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=%2Fazadnet1-706.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless\u0026security=tls\u0026encryption=none\u0026host=azadnet1-706.pages.dev\u0026fp=randomized\u0026type=ws\u0026sni=azadnet1-706.pages.dev#%25D8%25B3%25D8%25B1%25D9%2588%25D8%25B1%2520%25D8%25B1%25D8%25A7%25DB%258C%25DA%25AF%25D8%25A7%25D9%2586%25F0%259F%2591%2588%25F0%259F%2592%259A%25F0%259F%258C%25B1%2520%2520v2rayfree_server%2540",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 0,
+      "Latency": 141,
+      "Throughput": 16.691496658904843,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
