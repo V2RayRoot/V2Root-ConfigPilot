@@ -1,24 +1,36 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?security=tls\u0026encryption=none\u0026type=ws\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026path=/id5/?-Tel-@V2rayAlpha\u0026sni=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome#تمام",
+    "Protocol": "shadowsocks",
+    "URL": "ss://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=blog.ruangguru.com.servpn.my.id\u0026fp=randomized\u0026type=ws\u0026sni=blog.ruangguru.com.servpn.my.id#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 138.20264079679075,
+      "Latency": 2,
+      "Throughput": 76.39941622442069,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?security=tls\u0026encryption=none\u0026type=ws\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026path=/id5/?-Tel-@V2rayAlpha\u0026sni=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome#تمام",
+    "Protocol": "vless",
+    "URL": "vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=app-stg.gopay.co.id.servpn.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 158.4572632541033,
+      "Throughput": 87.24587362734022,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=ava.game.naver.com.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=ava.game.naver.com.servpn.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 139.06806215208974,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -30,7 +42,19 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 252.9505415924046,
+      "Throughput": 195.68862251427444,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=app-stg.gopay.co.id.servpn.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 79.43859631841428,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -42,19 +66,31 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 137.88403266879493,
+      "Throughput": 89.53300324156477,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=app-stg.gopay.co.id.servpn.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "URL": "ss://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?security=tls\u0026encryption=none\u0026type=ws\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026path=/id5/?-Tel-@V2rayAlpha\u0026sni=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome#تمام",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 162.848211970398,
+      "Throughput": 110.88880062756408,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=ava.game.naver.com.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=ava.game.naver.com.servpn.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 118.96916490263898,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -65,56 +101,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 255.1524041256868,
+      "Latency": 2,
+      "Throughput": 305.9965922689502,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=hetzner-4.access.name.ng\u0026fp=random\u0026type=ws\u0026sni=hetzner-4.access.name.ng#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 0,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=hetzner-4.access.name.ng\u0026fp=random\u0026type=ws\u0026sni=hetzner-4.access.name.ng#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 0,
-      "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=app-stg.gopay.co.id.servpn.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "URL": "vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?security=tls\u0026encryption=none\u0026type=ws\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026path=/id5/?-Tel-@V2rayAlpha\u0026sni=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome#تمام",
     "Score": 70,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 1.1210345307307326,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=ava.game.naver.com.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=ava.game.naver.com.servpn.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 1.3701863211267682,
+      "Throughput": 1.20012798908955,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
