@@ -1,12 +1,36 @@
 [
   {
     "Protocol": "shadowsocks",
+    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=ThM1x3Q3vC.fRoZiA.iNfO\u0026fp=chrome\u0026typ=ws\u0026sni=ThM1x3Q3vC.fRoZiA.iNfO#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 66.24293764375908,
+      "DNSResolution": 12,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=ThM1x3Q3vC.fRoZiA.iNfO\u0026fp=chrome\u0026typ=ws\u0026sni=ThM1x3Q3vC.fRoZiA.iNfO#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 23,
+      "Throughput": 22.703860467658714,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
     "URL": "ss://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026fp=chrome\u0026type=ws\u0026sni=privasi.turah.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 330.8879746913715,
+      "Throughput": 24.502220769499164,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,55 +41,19 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 27.693690981520803,
+      "Latency": 3,
+      "Throughput": 22.96660306534849,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=ThM1x3Q3vC.fRoZiA.iNfO\u0026fp=chrome\u0026typ=ws\u0026sni=ThM1x3Q3vC.fRoZiA.iNfO#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 49.46708705198811,
-      "DNSResolution": 174,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=ava.game.naver.com.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=ava.game.naver.com.servpn.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 75,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 94,
-      "Throughput": 12.066818650761494,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fid5%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=app-stg.gopay.co.id.servpn.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 75,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 79,
-      "Throughput": 69.16977319646386,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=lease-11.access.name.ng\u0026type=ws\u0026sni=lease-11.access.name.ng#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "URL": "ss://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=vl.hongkong6.qzz.io\u0026fp=random\u0026type=ws\u0026sni=vl.hongkong6.qzz.io#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
+      "Latency": 4,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
@@ -77,9 +65,45 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
+      "Latency": 27,
+      "Throughput": 0,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=lease-11.access.name.ng\u0026type=ws\u0026sni=lease-11.access.name.ng#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 28,
       "Throughput": 0,
       "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=ava.game.naver.com.servpn.my.id\u0026fp=chrome\u0026type=ws\u0026sni=ava.game.naver.com.servpn.my.id#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 1.1240476706858005,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=lease-11.access.name.ng\u0026type=ws\u0026sni=lease-11.access.name.ng#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 30,
+      "Throughput": 0,
+      "DNSResolution": 8,
       "PacketLoss": 0
     }
   },
@@ -89,33 +113,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 1.2040740664205667,
+      "Latency": 4,
+      "Throughput": 1.2909828254929268,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://074d7498-4aa9-41f9-b322-3e0debb686c7@www.speedtest.net:2053?path=%2Fcdn%2Fapp-assets%2Fv3.3.2%2F\u0026security=tls\u0026encryption=none\u0026host=cdn-assets.cyberscaler.com\u0026fp=firefox\u0026type=ws\u0026sni=cdn-assets.cyberscaler.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 0,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=ThM1x3Q3vC.fRoZiA.iNfO\u0026fp=chrome\u0026typ=ws\u0026sni=ThM1x3Q3vC.fRoZiA.iNfO#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 171,
-      "Throughput": 15.140362668613676,
-      "DNSResolution": 8,
       "PacketLoss": 0
     }
   }
