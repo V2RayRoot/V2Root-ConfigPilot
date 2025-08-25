@@ -1,25 +1,13 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@ip.root.info.tr:443?path=%2FEyepurples%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=SRV2.SUDO.ORG.TR\u0026fp=chrome\u0026type=httpupgrade\u0026sni=SRV2.SUDO.ORG.TR#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 202.7003076205206,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@ip.root.info.tr:443?path=%2FEyepurples%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=SRV2.SUDO.ORG.TR\u0026fp=chrome\u0026type=httpupgrade\u0026sni=SRV2.SUDO.ORG.TR#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 272.37079197765877,
-      "DNSResolution": 1,
+      "Latency": 10,
+      "Throughput": 454.06306413788354,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -29,9 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 409.90731636908,
-      "DNSResolution": 10,
+      "Latency": 6,
+      "Throughput": 402.5090806048584,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -41,45 +29,21 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 312.84735833254865,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg10%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026type=ws\u0026sni=app-stg.gopay.co.id.servpn.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 57.45375046700024,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg10%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=app-stg.gopay.co.id.servpn.my.id\u0026type=ws\u0026sni=app-stg.gopay.co.id.servpn.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 85.48201002783048,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://102e5f34-1913-4dd3-a1f2-f831d891a490@androidauthority.com:443?path=%2F%40Rayan_Config\u0026security=tls\u0026encryption=none\u0026host=rayan-config-telegram-a05.traneh.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-cOnFiG-TeLeGrAm-a05.tRaNeH.DpDnS.OrG#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
       "Latency": 9,
-      "Throughput": 12.184378505488532,
-      "DNSResolution": 0,
+      "Throughput": 262.58588938267434,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@ip.root.info.tr:443?path=%2FEyepurples%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=SRV2.SUDO.ORG.TR\u0026fp=chrome\u0026type=httpupgrade\u0026sni=SRV2.SUDO.ORG.TR#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 12,
+      "Throughput": 258.4413653237655,
+      "DNSResolution": 11,
       "PacketLoss": 0
     }
   },
@@ -90,7 +54,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 461.9956862307787,
+      "Throughput": 272.60632225856517,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -101,8 +65,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 430.1621297197994,
+      "Latency": 28,
+      "Throughput": 81.63988402238076,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -113,8 +77,44 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 435.96825279183173,
+      "Latency": 28,
+      "Throughput": 282.4709542179551,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026fp=chrome\u0026type=ws\u0026sni=privasi.turah.my.id#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 27,
+      "Throughput": 79.52195377488229,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://102e5f34-1913-4dd3-a1f2-f831d891a490@androidauthority.com:443?path=%2F%40Rayan_Config\u0026security=tls\u0026encryption=none\u0026host=rayan-config-telegram-a05.traneh.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-cOnFiG-TeLeGrAm-a05.tRaNeH.DpDnS.OrG#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 75,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 88,
+      "Throughput": 5.679383561582422,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://102e5f34-1913-4dd3-a1f2-f831d891a490@androidauthority.com:443?path=%2F%40Rayan_Config\u0026security=tls\u0026encryption=none\u0026host=rayan-config-telegram-a05.traneh.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-cOnFiG-TeLeGrAm-a05.tRaNeH.DpDnS.OrG#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 75,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 84,
+      "Throughput": 17.18673637853285,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
