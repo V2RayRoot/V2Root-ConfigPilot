@@ -5,9 +5,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 22,
-      "Throughput": 39.53334757456291,
-      "DNSResolution": 3,
+      "Latency": 16,
+      "Throughput": 50.47459272098453,
+      "DNSResolution": 9,
       "PacketLoss": 0
     }
   },
@@ -17,68 +17,20 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 86.31071681115044,
-      "DNSResolution": 11,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://3498b967-319f-436a-9edd-12f6ede84572@sourceforge.net:443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=rayan-config-03.rayan.dns-dynamic.net\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-cOnFiG-03.rAyAn.dNs-dYnAmIc.nEt#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 26.979270619061015,
-      "DNSResolution": 0,
+      "Latency": 13,
+      "Throughput": 53.885106768085265,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@zula.ir:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026fp=chrome\u0026type=ws\u0026sni=privasi.turah.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "URL": "ss://3498b967-319f-436a-9edd-12f6ede84572@sourceforge.net:443?path=%2F%3Fed%3D2048%40v2ray_configs_pools\u0026security=tls\u0026encryption=none\u0026host=rayan-config-03.rayan.dns-dynamic.net\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-cOnFiG-03.rAyAn.dNs-dYnAmIc.nEt#%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%A8%D8%A7%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%D8%B5%D9%84%20%D8%A8%D8%A7%D8%B4%DB%8C%D8%9F%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%87%A9%F0%9F%87%AA%20%40RayphoriaHub",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 201.1977098469479,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026fp=chrome\u0026type=ws\u0026sni=privasi.turah.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 215.34699426471735,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@laravel.com:443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=rayan-config-08.rayan-iii.dns-dynamic.net\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-cOnFiG-08.rAyAn-iIi.dNs-dYnAmIc.nEt#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 20.16465321554067,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026fp=chrome\u0026type=ws\u0026sni=privasi.turah.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 148.76016675791553,
+      "Latency": 5,
+      "Throughput": 31.763862743314515,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -89,20 +41,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 42.402739577399984,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@mixed-luci-mmrknight-5f66680b.koyeb.app:443?type=ws\u0026path=/v2ray?ed%3D2047@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn\u0026security=tls\u0026fp=chrome\u0026sni=mixed-luci-mmrknight-5f66680b.koyeb.app#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 61.936368402226414,
+      "Latency": 5,
+      "Throughput": 33.162850717614035,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -113,8 +53,68 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 175.05247909211482,
+      "Latency": 5,
+      "Throughput": 149.94750993697463,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@zula.ir:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026fp=chrome\u0026type=ws\u0026sni=privasi.turah.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 290.3660535950403,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026fp=chrome\u0026type=ws\u0026sni=privasi.turah.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 117.59939475119504,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@laravel.com:443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=rayan-config-08.rayan-iii.dns-dynamic.net\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-cOnFiG-08.rAyAn-iIi.dNs-dYnAmIc.nEt#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 34.985225629887665,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@laravel.com:443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=rayan-config-08.rayan-iii.dns-dynamic.net\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-cOnFiG-08.rAyAn-iIi.dNs-dYnAmIc.nEt#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 44.570334344251656,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=privasi.turah.my.id\u0026fp=chrome\u0026type=ws\u0026sni=privasi.turah.my.id#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 173.1496642498148,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
