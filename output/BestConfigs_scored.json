@@ -1,17 +1,5 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.229.159.118:80?security=none\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.229.159.118:80?security=none\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 20,
@@ -26,6 +14,30 @@
   {
     "Protocol": "trojan",
     "URL": "trojan://telegram-id-privatevpns@3.122.68.191:22222?security=tls\u0026type=tcp\u0026sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 20,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://telegram-id-directvpn@15.188.19.235:22223?security=tls\u0026alpn=http/1.1\u0026headerType=none\u0026type=tcp\u0026sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 20,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.229.159.118:80?security=none\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 20,
     "Results": {
       "TLSOK": false,
