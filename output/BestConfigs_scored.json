@@ -5,9 +5,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 27,
-      "Throughput": 16.73400093964762,
-      "DNSResolution": 1,
+      "Latency": 16,
+      "Throughput": 93.84632959145338,
+      "DNSResolution": 16,
       "PacketLoss": 0
     }
   },
@@ -17,19 +17,43 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 92.29658867308805,
-      "DNSResolution": 2,
+      "Latency": 30,
+      "Throughput": 21.324298483957264,
+      "DNSResolution": 17,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://66683d2c-ae9c-427e-be17-4aa54a248d7b@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-De.85858569.xYz.\u0026type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "URL": "vless://66683d2c-ae9c-427e-be17-4aa54a248d7b@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-En.85858569.xYz.\u0026type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 18,
+      "Latency": 32,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://66683d2c-ae9c-427e-be17-4aa54a248d7b@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-De.85858569.xYz.\u0026type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 31,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://66683d2c-ae9c-427e-be17-4aa54a248d7b@www.speedtest.net:2095?path=%2Fhajmi%3F*aiojefoijeafiojaoifjoaijfoieajfea4502542---452525252525082850924520759275942592429465265926359832oiejfiaoiefoieaioaeoifiofeaiofeiofeoijeoijfaeoifja7773422834798732498327498huafuawugfuayufu476942652%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-Fi.85858569.xYz.\u0026type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 15,
       "Throughput": 0,
       "DNSResolution": 1,
       "PacketLoss": 0
@@ -41,33 +65,9 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 27,
+      "Latency": 24,
       "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://66683d2c-ae9c-427e-be17-4aa54a248d7b@www.speedtest.net:2095?path=%2Fhajmi%3F*aiojefoijeafiojaoifjoaijfoieajfea4502542---452525252525082850924520759275942592429465265926359832oiejfiaoiefoieaioaeoifiofeaiofeiofeoijeoijfaeoifja7773422834798732498327498huafuawugfuayufu476942652%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-Fi.85858569.xYz.\u0026type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
-    "Score": 45,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 18,
-      "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://66683d2c-ae9c-427e-be17-4aa54a248d7b@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-De.85858569.xYz.\u0026type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
-    "Score": 45,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 18,
-      "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -77,31 +77,31 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 18,
+      "Latency": 31,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 16,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://66683d2c-ae9c-427e-be17-4aa54a248d7b@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-En.85858569.xYz.\u0026type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "URL": "vless://66683d2c-ae9c-427e-be17-4aa54a248d7b@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2050\u0026security=none\u0026encryption=none\u0026host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-De.85858569.xYz.\u0026type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 18,
+      "Latency": 33,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 16,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://c4939b41-895c-4ef6-a734-65f6b306affc@172.66.40.99:2052?path=%2F%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet\u0026security=none\u0026encryption=none\u0026host=%CF%85%CF%81%CF%81%CF%83%D1%8F%D1%82-%E5%A4%9A%E8%A8%80%E8%AA%9E-%D8%AF%D8%B9%D9%85.snaptripupport.space.\u0026type=ws#%D8%A7%D9%85%D8%B4%D8%A8%20%D8%B3%D8%A7%D8%B9%D8%AA%2012%20%D9%82%D8%B1%D8%B9%D9%87%20%DA%A9%D8%B4%DB%8C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%AF%D8%A7%D8%B1%DB%8C%D9%85%20NormanV2ray%40%F0%9F%92%9F",
+    "Protocol": "shadowsocks",
+    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun\u0026security=none\u0026encryption=none\u0026type=grpc#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 9,
+      "Latency": 34,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -109,11 +109,11 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@cafearz.com:8080?path=%2Folem%2Fws%3Fed%3D1024\u0026security=none\u0026encryption=none\u0026host=shad.ir.fin.test.digicyber.click.\u0026type=ws#%F0%9F%9F%A1%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%40Confvip",
+    "URL": "vless://cc085cde-f9e7-4d9c-83cb-a6df17392f5a@104.19.122.202:8880?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048\u0026security=\u0026encryption=none\u0026host=ma.byte-server.ir.\u0026type=httpupgrade#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 9,
+      "Latency": 14,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
