@@ -5,8 +5,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 60.37993044775431,
+      "Latency": 5,
+      "Throughput": 15.419261843276265,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,9 +17,45 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 9.69502491022734,
+      "Latency": 5,
+      "Throughput": 78.34555574601143,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://868a3ff6-4535-4e8e-9fd9-713b04cea1aa@ttestt.dissertationhelpspecialist.com:5959?security=reality\u0026encryption=none\u0026pbk=C47cFUb_GggbpDAGoYbAnACDIzJqQrnVPt1lmdu3qyI\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026sni=tgju.org\u0026sid=b06997ddbe#@TeleProxyTele",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 99,
+      "Throughput": 23.48492379005724,
+      "DNSResolution": 14,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality\u0026encryption=none\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026host=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026headerType=none\u0026fp=firefox\u0026spx=%2FTELEGRAM_JKVPN_JKVPN\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=wa.sfasti.ru\u0026sid=16895459a2c7768d#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 379,
+      "Throughput": 12.192368315986904,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://7d2cbc04-b08c-4eba-925d-95ffff5ed1b3@sub.saforia.ru:443?security=reality\u0026encryption=none\u0026pbk=fHd4FVfuo67TyhC9xOr08EKzhUFmtytTE88vY7stBV4\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=tgju.org\u0026sid=901a59f4a0#@TeleProxyTele",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 282,
+      "Throughput": 25.89794085083826,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -29,9 +65,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 474,
-      "Throughput": 9.400097305107254,
-      "DNSResolution": 2,
+      "Latency": 122,
+      "Throughput": 18.956150386496002,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -41,7 +77,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 13,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -53,33 +89,9 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 46,
+      "Latency": 11,
       "Throughput": 0,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://7d2cbc04-b08c-4eba-925d-95ffff5ed1b3@sub.saforia.ru:443?security=reality\u0026encryption=none\u0026pbk=fHd4FVfuo67TyhC9xOr08EKzhUFmtytTE88vY7stBV4\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=tgju.org\u0026sid=901a59f4a0#@TeleProxyTele",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 357,
-      "Throughput": 16.841770271483107,
-      "DNSResolution": 172,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality\u0026encryption=none\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026host=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026headerType=none\u0026fp=firefox\u0026spx=%2FTELEGRAM_JKVPN_JKVPN\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=wa.sfasti.ru\u0026sid=16895459a2c7768d#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 315,
-      "Throughput": 10.011487142804576,
-      "DNSResolution": 452,
       "PacketLoss": 0
     }
   },
@@ -89,7 +101,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 47,
+      "Latency": 11,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -101,21 +113,9 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 287,
-      "Throughput": 19.608668239255714,
-      "DNSResolution": 171,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.16.53.11:8443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=hetzner-9.cfuk.name.ng\u0026type=ws\u0026sni=hetzner-9.cfuk.name.ng#@TeleProxyTele",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 13,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "Latency": 227,
+      "Throughput": 18.23854461520763,
+      "DNSResolution": 158,
       "PacketLoss": 0
     }
   }
