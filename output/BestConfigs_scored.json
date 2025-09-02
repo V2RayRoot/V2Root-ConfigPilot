@@ -1,7 +1,7 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls\u0026encryption=none\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=dedic.app-browser.org#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Protocol": "vless",
+    "URL": "vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls\u0026encryption=none\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=dedic.app-browser.org#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 30,
     "Results": {
       "TLSOK": true,
@@ -12,8 +12,8 @@
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls\u0026encryption=none\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=dedic.app-browser.org#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Protocol": "shadowsocks",
+    "URL": "ss://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls\u0026encryption=none\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=dedic.app-browser.org#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 30,
     "Results": {
       "TLSOK": true,
