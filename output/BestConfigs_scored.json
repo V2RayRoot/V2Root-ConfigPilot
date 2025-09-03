@@ -1,37 +1,37 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://9d847ad3-1896-48f9-b89c-13fe345e2b28@zula.ir:443?mode=packet-up\u0026path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026alpn=h3\u0026encryption=none\u0026host=cho.chonon.sbs\u0026fp=chrome\u0026type=xhttp\u0026sni=cho.chonon.sbs#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 193.70356395913717,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://9d847ad3-1896-48f9-b89c-13fe345e2b28@zula.ir:443?mode=packet-up\u0026path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026alpn=h3\u0026encryption=none\u0026host=cho.chonon.sbs\u0026fp=chrome\u0026type=xhttp\u0026sni=cho.chonon.sbs#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 9,
-      "Throughput": 204.22457943904715,
+      "Throughput": 150.39778145224625,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://654d9fda-cc9e-4594-a845-58658f82c818@www.speedtest.net:2087/?type=ws\u0026path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs\u0026host=mango1.mangoap.org\u0026security=tls\u0026fp=chrome\u0026alpn=http%2F1.1\u0026sni=mango1.mangoap.org#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs",
+    "Protocol": "vless",
+    "URL": "vless://9d847ad3-1896-48f9-b89c-13fe345e2b28@zula.ir:443?mode=packet-up\u0026path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026alpn=h3\u0026encryption=none\u0026host=cho.chonon.sbs\u0026fp=chrome\u0026type=xhttp\u0026sni=cho.chonon.sbs#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 150.65320688231304,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://654d9fda-cc9e-4594-a845-58658f82c818@www.speedtest.net:2087/?type=ws\u0026path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs\u0026host=mango1.mangoap.org\u0026security=tls\u0026fp=chrome\u0026alpn=http%2F1.1\u0026sni=mango1.mangoap.org#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
+      "Latency": 5,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -41,8 +41,8 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 518,
-      "Throughput": 11.900539214473104,
+      "Latency": 567,
+      "Throughput": 5.831756335906386,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
@@ -53,21 +53,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
+      "Latency": 2,
       "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://654d9fda-cc9e-4594-a845-58658f82c818@www.speedtest.net:2087/?type=ws\u0026path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs\u0026host=mango1.mangoap.org\u0026security=tls\u0026fp=chrome\u0026alpn=http%2F1.1\u0026sni=mango1.mangoap.org#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 0,
-      "DNSResolution": 11,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -77,7 +65,19 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
+      "Latency": 6,
+      "Throughput": 0,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://654d9fda-cc9e-4594-a845-58658f82c818@www.speedtest.net:2087/?type=ws\u0026path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs\u0026host=mango1.mangoap.org\u0026security=tls\u0026fp=chrome\u0026alpn=http%2F1.1\u0026sni=mango1.mangoap.org#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
@@ -89,9 +89,9 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 505,
-      "Throughput": 11.636658877441162,
-      "DNSResolution": 526,
+      "Latency": 570,
+      "Throughput": 9.549617569926914,
+      "DNSResolution": 606,
       "PacketLoss": 0
     }
   },
@@ -101,19 +101,19 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 17,
+      "Latency": 5,
       "Throughput": 0,
-      "DNSResolution": 6,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality\u0026encryption=none\u0026pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=telewebion.com\u0026sid=5fab0deb#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D",
+    "Protocol": "shadowsocks",
+    "URL": "ss://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality\u0026encryption=none\u0026pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=telewebion.com\u0026sid=5fab0deb#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D",
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 64,
+      "Latency": 71,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
