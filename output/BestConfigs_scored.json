@@ -5,7 +5,19 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 24,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun\u0026security=none\u0026encryption=none\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 20,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 84,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -17,19 +29,7 @@
     "Score": 20,
     "Results": {
       "TLSOK": false,
-      "Latency": 98,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun\u0026security=none\u0026encryption=none\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 5,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 101,
+      "Latency": 81,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
