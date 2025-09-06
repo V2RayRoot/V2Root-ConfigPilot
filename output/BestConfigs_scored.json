@@ -1,37 +1,13 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=YjF03nNq0B.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=YjF03nNq0B.sOlEnTrAa.InFo#%28%40v2raytunn%29%20-%20France%20%F0%9F%87%AB%F0%9F%87%B7",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 45.47645813086243,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
-    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=0JtLb8H7bM.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=0JtLb8H7bM.sOlEnTrAa.InFo#%28%40v2raytunn%29-%20Germany%20%F0%9F%87%A9%F0%9F%87%AA3",
+    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=BtEvEjF8zI.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=BtEvEjF8zI.sOlEnTrAa.InFo#%28%40v2raytunn%29%20-%20France%20%F0%9F%87%AB%F0%9F%87%B7",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 53.57656343058933,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=DhZnIfIa4Z.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=DhZnIfIa4Z.sOlEnTrAa.InFo#%28%40v2raytunn%29%20-%20United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A73",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 47.09399554147016,
-      "DNSResolution": 2,
+      "Latency": 10,
+      "Throughput": 82.27748014356433,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
@@ -42,7 +18,55 @@
     "Results": {
       "TLSOK": true,
       "Latency": 3,
-      "Throughput": 61.962937209904055,
+      "Throughput": 95.94601348091861,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=T9cNlMx0Qe.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=T9cNlMx0Qe.SoLeNtRaA.iNfO#%28%40v2raytunn%29%20-%20Finland%20%F0%9F%87%AB%F0%9F%87%AE2",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 31.414298869191658,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=D0dTpVg4Z3.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%28%40v2raytunn%29%20-%20Germany%20%F0%9F%87%A9%F0%9F%87%AA2",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 101.85338531115293,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=D0dTpVg4Z3.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%28%40v2raytunn%29%20-%20Germany%20%F0%9F%87%A9%F0%9F%87%AA2",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 82.89918683773135,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=6Dd1Xt31Qm.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%28%40v2raytunn%29%20-%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B11",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 88.25241249001093,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -54,68 +78,44 @@
     "Results": {
       "TLSOK": true,
       "Latency": 3,
-      "Throughput": 53.83375577690874,
+      "Throughput": 30.508813754129857,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=S5eW9e55Sx.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=S5eW9e55Sx.SoLeNtRaA.iNfO#%28%40v2raytunn%29%20-%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B12",
+    "Protocol": "shadowsocks",
+    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=BtEvEjF8zI.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=BtEvEjF8zI.sOlEnTrAa.InFo#%28%40v2raytunn%29%20-%20France%20%F0%9F%87%AB%F0%9F%87%B7",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 43.551744497245245,
+      "Latency": 3,
+      "Throughput": 88.14874598437011,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=D0dTpVg4Z3.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%28%40v2raytunn%29%20-%20Germany%20%F0%9F%87%A9%F0%9F%87%AA2",
+    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=DhZnIfIa4Z.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=DhZnIfIa4Z.sOlEnTrAa.InFo#%28%40v2raytunn%29%20-%20United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A73",
     "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 3,
-      "Throughput": 44.18208923491908,
+      "Throughput": 93.19444751209501,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=YjF03nNq0B.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=YjF03nNq0B.sOlEnTrAa.InFo#%28%40v2raytunn%29%20-%20France%20%F0%9F%87%AB%F0%9F%87%B7",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 18,
+      "Throughput": 93.5572260666056,
       "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=T9cNlMx0Qe.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=T9cNlMx0Qe.SoLeNtRaA.iNfO#%28%40v2raytunn%29%20-%20Finland%20%F0%9F%87%AB%F0%9F%87%AE2",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 52.44239438967069,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=6Dd1Xt31Qm.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%28%40v2raytunn%29%20-%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B11",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 50.74220077944207,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=6Dd1Xt31Qm.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%28%40v2raytunn%29%20-%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B11",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 48.01453909052385,
-      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
