@@ -1,49 +1,13 @@
 [
   {
     "Protocol": "vless",
-    "URL": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776502.rtxiran.info\u0026type=ws\u0026sni=6389113402676776502.rtxiran.info#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
+    "URL": "vless://d8665d45-8103-46e9-9cb7-8902bb7559b4@hk3.kaipi.link:443?path=%2Ftexaws\u0026security=tls\u0026encryption=none\u0026host=hk3.kaipi.link\u0026type=ws\u0026sni=hk3.kaipi.link#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 87.9275196749091,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=S5eW9e55Sx.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=S5eW9e55Sx.SoLeNtRaA.iNfO#vip%E2%9A%9C%EF%B8%8FTelegram%3A%20V2rayNGfreeGP_tiknet",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 63.19110931423681,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776502.rtxiran.info\u0026type=ws\u0026sni=6389113402676776502.rtxiran.info#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 26,
-      "Throughput": 8.995440774410929,
-      "DNSResolution": 11,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776506.rtxiran.info\u0026type=ws\u0026sni=6389113402676776506.rtxiran.info#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 72.4157756101604,
-      "DNSResolution": 12,
+      "Latency": 22,
+      "Throughput": 9.592566091263544,
+      "DNSResolution": 19,
       "PacketLoss": 0
     }
   },
@@ -53,9 +17,21 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 30,
-      "Throughput": 10.35337066108257,
-      "DNSResolution": 28,
+      "Latency": 41,
+      "Throughput": 7.922166041642591,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776502.rtxiran.info\u0026type=ws\u0026sni=6389113402676776502.rtxiran.info#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 69.84834309471204,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -65,9 +41,21 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 67.68543855747711,
+      "Latency": 4,
+      "Throughput": 36.05063069541946,
       "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776502.rtxiran.info\u0026type=ws\u0026sni=6389113402676776502.rtxiran.info#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 84.9257738651483,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -77,9 +65,33 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 29.228652890810405,
+      "Latency": 2,
+      "Throughput": 32.27792598299569,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776506.rtxiran.info\u0026type=ws\u0026sni=6389113402676776506.rtxiran.info#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 30.650421013799917,
       "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=S5eW9e55Sx.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=S5eW9e55Sx.SoLeNtRaA.iNfO#vip%E2%9A%9C%EF%B8%8FTelegram%3A%20V2rayNGfreeGP_tiknet",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 24.116166319118545,
+      "DNSResolution": 110,
       "PacketLoss": 0
     }
   },
@@ -90,7 +102,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 9,
-      "Throughput": 58.11319051890851,
+      "Throughput": 26.065649015290447,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -102,20 +114,8 @@
     "Results": {
       "TLSOK": true,
       "Latency": 9,
-      "Throughput": 57.10225458473467,
+      "Throughput": 30.574342151179987,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d8665d45-8103-46e9-9cb7-8902bb7559b4@hk3.kaipi.link:443?path=%2Ftexaws\u0026security=tls\u0026encryption=none\u0026host=hk3.kaipi.link\u0026type=ws\u0026sni=hk3.kaipi.link#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 57,
-      "Throughput": 7.672324893428459,
-      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
