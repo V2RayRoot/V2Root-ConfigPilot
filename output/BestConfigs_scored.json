@@ -5,7 +5,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -17,7 +17,7 @@
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 80,
+      "Latency": 83,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -29,7 +29,7 @@
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 79,
+      "Latency": 82,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -41,7 +41,7 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 5,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -53,7 +53,31 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 5,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://95dbdc38-7da3-47b1-8f66-58887ffe5cb2@At-uK4-gCdn.hVps.Ir:80?path=%2FAzV2ry%3Fed%3D2056\u0026security=none\u0026encryption=none\u0026host=speedtestme502.com\u0026type=httpupgrade#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 20,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 56,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://95dbdc38-7da3-47b1-8f66-58887ffe5cb2@At-uK4-gCdn.hVps.Ir:80?path=%2FAzV2ry%3Fed%3D2056\u0026security=none\u0026encryption=none\u0026host=speedtestme502.com\u0026type=httpupgrade#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 20,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 64,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
