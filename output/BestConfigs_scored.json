@@ -1,49 +1,25 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776506.rtxiran.info\u0026type=ws\u0026sni=6389113402676776506.rtxiran.info#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 19,
-      "Throughput": 27.02650831894,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776506.rtxiran.info\u0026type=ws\u0026sni=6389113402676776506.rtxiran.info#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 38,
-      "Throughput": 30.99679577210525,
-      "DNSResolution": 21,
+      "Latency": 13,
+      "Throughput": 65.93299397950997,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality\u0026encryption=none\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ru.sfasti.ru\u0026sid=16895459a2c7768d#%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%A8%D8%A7%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%D8%B5%D9%84%20%D8%A8%D8%A7%D8%B4%DB%8C%D8%9F%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%87%A9%F0%9F%87%AA%20%40RayphoriaHub",
-    "Score": 70,
+    "URL": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776506.rtxiran.info\u0026type=ws\u0026sni=6389113402676776506.rtxiran.info#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 166,
-      "Throughput": 12.287956828180604,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality\u0026encryption=none\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ru.sfasti.ru\u0026sid=16895459a2c7768d#%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%A8%D8%A7%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%D8%B5%D9%84%20%D8%A8%D8%A7%D8%B4%DB%8C%D8%9F%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%87%A9%F0%9F%87%AA%20%40RayphoriaHub",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 160,
-      "Throughput": 12.716086484253198,
-      "DNSResolution": 1,
+      "Latency": 6,
+      "Throughput": 20.52097386406188,
+      "DNSResolution": 18,
       "PacketLoss": 0
     }
   },
@@ -53,43 +29,43 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 169,
-      "Throughput": 13.935906823941666,
+      "Latency": 126,
+      "Throughput": 16.186107704525558,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776505.rtxiran.info\u0026type=ws\u0026sni=6389113402676776505.rtxiran.info#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B2",
-    "Score": 60,
+    "URL": "ss://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality\u0026encryption=none\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ru.sfasti.ru\u0026sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "Latency": 114,
+      "Throughput": 11.137678449746202,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776505.rtxiran.info\u0026type=ws\u0026sni=6389113402676776505.rtxiran.info#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B2",
+    "URL": "vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality\u0026encryption=none\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ru.sfasti.ru\u0026sid=16895459a2c7768d#%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%A8%D8%A7%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%D8%B5%D9%84%20%D8%A8%D8%A7%D8%B4%DB%8C%D8%9F%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%87%A9%F0%9F%87%AA%20%40RayphoriaHub",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 19,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "Latency": 124,
+      "Throughput": 20.362027689405163,
+      "DNSResolution": 140,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.13:443?security=tls\u0026sni=lu.kpcloud.eu.org\u0026type=ws\u0026host=lu.kpcloud.eu.org\u0026path=%2F%3Fed%3D2048#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "vless://3c7a1227-5383-3a19-7084-76624ec8f84f@147.78.180.10:443?security=reality\u0026encryption=none\u0026pbk=Ot7NIMwy588LBegSSLxqxzXh9MszA0CxFPHbSAj7PR0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com#%E2%9A%9C%EF%B8%8FTelegram%3A%20V2rayNGfreeGP_tiknet",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 49,
+      "Latency": 12,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -101,7 +77,19 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 49,
+      "Latency": 5,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c2c5b83f-4892-c49f-b9d1-7af232611820@206.81.6.239:443?security=reality\u0026encryption=none\u0026pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc\u0026host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=androidcentral.com\u0026sid=6ea3daaac3d6bede#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 11,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -113,9 +101,21 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 148,
-      "Throughput": 9.79738553582826,
-      "DNSResolution": 288,
+      "Latency": 263,
+      "Throughput": 11.882090998907769,
+      "DNSResolution": 139,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://3c7a1227-5383-3a19-7084-76624ec8f84f@147.78.180.10:443?security=reality\u0026encryption=none\u0026pbk=Ot7NIMwy588LBegSSLxqxzXh9MszA0CxFPHbSAj7PR0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A7%D8%B5%D9%84%DB%8C%20%D9%88%20%D8%B3%D9%88%D8%B1%D9%BE%D8%B1%D8%A7%DB%8C%D8%B2%20%D9%87%D8%A7%DB%8C%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%AA%D9%88%20%DA%86%D9%86%D9%84%20%F0%9F%87%AB%F0%9F%87%AE%20%40RayphoriaHub",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 32,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
