@@ -1,37 +1,13 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN07.alaNHIAHo.COm#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 18.47424635559004,
-      "DNSResolution": 17,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
     "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776506.rtxiran.info\u0026type=ws\u0026sni=6389113402676776506.rtxiran.info#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 31,
-      "Throughput": 31.313326554885343,
-      "DNSResolution": 18,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776506.rtxiran.info\u0026type=ws\u0026sni=6389113402676776506.rtxiran.info#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 36.67046951659044,
-      "DNSResolution": 7,
+      "Latency": 4,
+      "Throughput": 140.38032750800596,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -41,9 +17,21 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 40,
-      "Throughput": 14.560813529833672,
-      "DNSResolution": 2,
+      "Latency": 6,
+      "Throughput": 54.52417958233729,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776506.rtxiran.info\u0026type=ws\u0026sni=6389113402676776506.rtxiran.info#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 36.86476440888002,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -53,9 +41,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 43.428774724870024,
-      "DNSResolution": 1,
+      "Latency": 7,
+      "Throughput": 49.89344879808303,
+      "DNSResolution": 6,
       "PacketLoss": 0
     }
   },
@@ -65,8 +53,20 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 32,
-      "Throughput": 33.63726706455349,
+      "Latency": 6,
+      "Throughput": 44.89763342385463,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN07.alaNHIAHo.COm#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 29.014511455578326,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
@@ -77,44 +77,44 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
+      "Latency": 6,
       "Throughput": 0,
-      "DNSResolution": 17,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://4dc8fe0d-ead6-4337-ad57-3faeea499775@www.speedtest.net:8443?path=%2F%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config%3Fed%3D2048\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=www.speedtest24.ir\u0026fp=chrome\u0026type=ws\u0026sni=www.speedtest24.ir#%D8%A7%DB%8C%D9%86%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%AA%D8%B3%D8%AA%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%B1%D9%88%20%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%20%D8%A7%D8%B2%20%DA%86%D9%86%D9%84%20NormanV2ray%40%F0%9F%8C%88",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 31,
-      "Throughput": 0,
-      "DNSResolution": 17,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://4dc8fe0d-ead6-4337-ad57-3faeea499775@www.speedtest.net:8443?path=%2F%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config%3Fed%3D2048\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=www.speedtest24.ir\u0026fp=chrome\u0026type=ws\u0026sni=www.speedtest24.ir#%D8%A7%DB%8C%D9%86%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%AA%D8%B3%D8%AA%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%B1%D9%88%20%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%20%D8%A7%D8%B2%20%DA%86%D9%86%D9%84%20NormanV2ray%40%F0%9F%8C%88",
+    "URL": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN07.alaNHIAHo.COm#%DA%AF%D8%B1%D9%88%D9%87%20%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%88v_ng_gap%40%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 0,
-      "DNSResolution": 17,
+      "Latency": 165,
+      "Throughput": 41.07305154372243,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@hdfynpv2d1.farvaharforever.com:443?path=%2FIyq035lnud9R8ruNNrqGxZZ2\u0026security=tls\u0026encryption=none\u0026host=hdfynpv2d1.farvaharforever.com\u0026fp=chrome\u0026type=ws\u0026sni=hdfynpv2d1.farvaharforever.com#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 131,
+      "Throughput": 8.71521141027027,
+      "DNSResolution": 35,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://4dc8fe0d-ead6-4337-ad57-3faeea499775@www.speedtest.net:8443?path=%2F%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config%3Fed%3D2048\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=www.speedtest24.ir\u0026fp=chrome\u0026type=ws\u0026sni=www.speedtest24.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "URL": "ss://e959d53c-91e9-459d-a332-d59ae89b3b4c@hdfynpv2d1.farvaharforever.com:443?path=%2FIyq035lnud9R8ruNNrqGxZZ2\u0026security=tls\u0026encryption=none\u0026host=hdfynpv2d1.farvaharforever.com\u0026fp=chrome\u0026type=ws\u0026sni=hdfynpv2d1.farvaharforever.com#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 30,
-      "Throughput": 0,
+      "Latency": 131,
+      "Throughput": 8.161111322359211,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
