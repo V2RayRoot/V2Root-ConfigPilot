@@ -1,37 +1,13 @@
 [
   {
     "Protocol": "vless",
-    "URL": "vless://8f0120f1-ba26-e137-5e06-a99b844741aa@gdns.amirconfigpaanelllll.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.cloudflare.com\u0026sid=e41865e506628f44#%40skypro_vpn%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%F0%9F%A5%B9%F0%9F%A9%B5",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 97,
-      "Throughput": 14.83623476613096,
-      "DNSResolution": 6,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
     "URL": "vless://8f0120f1-ba26-e137-5e06-a99b844741aa@fdns.amirconfigpaanelllll.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cloudflare.com\u0026sid=e41865e506628f44#%40skypro_vpn%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%F0%9F%A5%B9%F0%9F%A9%B5",
     "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 87,
-      "Throughput": 29.630257132630685,
-      "DNSResolution": 70,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://8f0120f1-ba26-e137-5e06-a99b844741aa@nldns.amirconfigpaanelllll.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cloudflare.com\u0026sid=e41865e506628f44#%40skypro_vpn%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%F0%9F%A5%B9%F0%9F%A9%B5",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 95,
-      "Throughput": 16.92518042681332,
-      "DNSResolution": 5,
+      "Latency": 82,
+      "Throughput": 23.883966436578483,
+      "DNSResolution": 10,
       "PacketLoss": 0
     }
   },
@@ -41,57 +17,21 @@
     "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 93,
-      "Throughput": 28.774518092463822,
-      "DNSResolution": 36,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8f0120f1-ba26-e137-5e06-a99b844741aa@nldns.amirconfigpaanelllll.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cloudflare.com\u0026sid=e41865e506628f44#%40skypro_vpn%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%F0%9F%A5%B9%F0%9F%A9%B5",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 160,
-      "Throughput": 23.635480641665367,
-      "DNSResolution": 5,
+      "Latency": 92,
+      "Throughput": 24.288204858961034,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
     "URL": "vless://8f0120f1-ba26-e137-5e06-a99b844741aa@fdns.amirconfigpaanelllll.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cloudflare.com\u0026sid=e41865e506628f44#%40skypro_vpn%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%F0%9F%A5%B9%F0%9F%A9%B5vless://8f0120f1-ba26-e137-5e06-a99b844741aa@nldns.amirconfigpaanelllll.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cloudflare.com\u0026sid=e41865e506628f44#%40skypro_vpn%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%F0%9F%A5%B9%F0%9F%A9%B5",
-    "Score": 70,
+    "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 155,
-      "Throughput": 28.525715094214554,
-      "DNSResolution": 6,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8f0120f1-ba26-e137-5e06-a99b844741aa@fdns.amirconfigpaanelllll.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cloudflare.com\u0026sid=e41865e506628f44#%40skypro_vpn%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%F0%9F%A5%B9%F0%9F%A9%B5",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 102,
-      "Throughput": 29.001905407059056,
-      "DNSResolution": 33,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality\u0026encryption=none\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ru.sfasti.ru\u0026sid=16895459a2c7768d#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 257,
-      "Throughput": 12.658407569447975,
-      "DNSResolution": 2,
+      "Latency": 82,
+      "Throughput": 24.205032381749497,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -101,21 +41,81 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 113,
-      "Throughput": 21.49195398330868,
-      "DNSResolution": 7,
+      "Latency": 137,
+      "Throughput": 24.72753203815734,
+      "DNSResolution": 9,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8f0120f1-ba26-e137-5e06-a99b844741aa@swit.amirconfigpaanelllll.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cloudflare.com\u0026sid=e41865e506628f44#%40skypro_vpn%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%F0%9F%A5%B9%F0%9F%A9%B5",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 116,
+      "Throughput": 25.386607891592078,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://e3847ec6-b2fc-4eb2-b919-174d986f882c@poland20.clearorbitllc.com:443?security=reality\u0026encryption=none\u0026pbk=oNYCpjXjcYAV9qSWBt95N9dDUPhc_QnauJZ3kSJVeSQ\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=poland20.clearorbitllc.com\u0026sid=2a22#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "URL": "ss://8f0120f1-ba26-e137-5e06-a99b844741aa@nldns.amirconfigpaanelllll.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cloudflare.com\u0026sid=e41865e506628f44#%40skypro_vpn%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%F0%9F%A5%B9%F0%9F%A9%B5",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 142,
-      "Throughput": 5.286491651567427,
-      "DNSResolution": 31,
+      "Latency": 131,
+      "Throughput": 19.64481448552043,
+      "DNSResolution": 11,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e3847ec6-b2fc-4eb2-b919-174d986f882c@poland20.clearorbitllc.com:443?security=reality\u0026encryption=none\u0026pbk=oNYCpjXjcYAV9qSWBt95N9dDUPhc_QnauJZ3kSJVeSQ\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=poland20.clearorbitllc.com\u0026sid=2a22#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 124,
+      "Throughput": 18.880559318444472,
+      "DNSResolution": 67,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality\u0026encryption=none\u0026pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.speedtest.net#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%8B",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 178,
+      "Throughput": 11.25711181758681,
+      "DNSResolution": 14,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality\u0026encryption=none\u0026pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.speedtest.net#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%8B",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 175,
+      "Throughput": 7.907578679649229,
+      "DNSResolution": 14,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8f0120f1-ba26-e137-5e06-a99b844741aa@nldns.amirconfigpaanelllll.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cloudflare.com\u0026sid=e41865e506628f44#%40skypro_vpn%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%F0%9F%A5%B9%F0%9F%A9%B5",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 150,
+      "Throughput": 24.330781919342186,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
