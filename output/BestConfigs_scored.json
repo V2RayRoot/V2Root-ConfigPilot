@@ -1,48 +1,60 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=S5eW9e55Sx.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=S5eW9e55Sx.SoLeNtRaA.iNfO#🌍",
+    "Protocol": "vless",
+    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=S5eW9e55Sx.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=S5eW9e55Sx.SoLeNtRaA.iNfO#🌍",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 72.71300709630778,
+      "Latency": 8,
+      "Throughput": 76.74850727750932,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?note=-----------Confvip-----------\u0026path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=S5eW9e55Sx.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=S5eW9e55Sx.SoLeNtRaA.iNfO#%F0%9F%94%B5%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%40Confvip",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 74.73831919013408,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a80ef5b5-01a0-4635-a615-c1bea1cc3670@www.speedtest.net:443?path=%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cx.dns-shop.ir\u0026fp=chrome\u0026type=ws\u0026sni=cx.dns-shop.ir#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%AF%D8%B1%20%DA%86%D9%86%D9%84%20%22%20NormanV2ray%20%22%20%F0%9F%8D%94%F0%9F%8D%9F%F0%9F%8D%95",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 65.74843768356912,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?note=-----------Confvip-----------\u0026path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=S5eW9e55Sx.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=S5eW9e55Sx.SoLeNtRaA.iNfO#%F0%9F%94%B5%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%40Confvip",
+    "URL": "vless://a80ef5b5-01a0-4635-a615-c1bea1cc3670@www.speedtest.net:443?path=%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cx.dns-shop.ir\u0026fp=chrome\u0026type=ws\u0026sni=cx.dns-shop.ir#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%AF%D8%B1%20%DA%86%D9%86%D9%84%20%22%20NormanV2ray%20%22%20%F0%9F%8D%94%F0%9F%8D%9F%F0%9F%8D%95",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 71.51464568989545,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=DfN09.alANHiAhO.Com#🇫🇮[Telegram:NetifyVPN]",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 66.32106373481582,
+      "Latency": 9,
+      "Throughput": 54.22639432870002,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN08.aLanHiAhO.com#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Protocol": "shadowsocks",
+    "URL": "ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN08.aLanHiAhO.com#🇩🇪[Telegram:NetifyVpn]",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 66.77131289394448,
+      "Latency": 3,
+      "Throughput": 78.91522111162091,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -54,68 +66,56 @@
     "Results": {
       "TLSOK": true,
       "Latency": 3,
-      "Throughput": 34.802603699371474,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a80ef5b5-01a0-4635-a615-c1bea1cc3670@www.speedtest.net:443?path=%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cx.dns-shop.ir\u0026fp=chrome\u0026type=ws\u0026sni=cx.dns-shop.ir#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%AF%D8%B1%20%DA%86%D9%86%D9%84%20%22%20NormanV2ray%20%22%20%F0%9F%8D%94%F0%9F%8D%9F%F0%9F%8D%95",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 43.83029195850564,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN08.aLanHiAhO.com#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 56.65679044381247,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?note=-----------Confvip-----------\u0026path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=S5eW9e55Sx.SoLeNtRaA.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=S5eW9e55Sx.SoLeNtRaA.iNfO#%F0%9F%94%B5%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%40Confvip",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 56.88343616910535,
+      "Throughput": 69.36303740671441,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://a80ef5b5-01a0-4635-a615-c1bea1cc3670@www.speedtest.net:443?path=%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=cx.dns-shop.ir\u0026fp=chrome\u0026type=ws\u0026sni=cx.dns-shop.ir#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%AF%D8%B1%20%DA%86%D9%86%D9%84%20%22%20NormanV2ray%20%22%20%F0%9F%8D%94%F0%9F%8D%9F%F0%9F%8D%95",
-    "Score": 100,
+    "URL": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN08.aLanHiAhO.com#🇩🇪[Telegram:NetifyVpn]",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 21.81698184451313,
-      "DNSResolution": 4,
+      "Latency": 8,
+      "Throughput": 29.09091903471414,
+      "DNSResolution": 164,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN08.aLanHiAhO.com#🇩🇪[Telegram:NetifyVpn]",
-    "Score": 100,
+    "URL": "ss://d69a36ad-d6a2-4b00-a64b-3307636ee365@ognbqqfj1a49.greendop.com:443?note=-----------Confvip-----------\u0026path=%2F09hmyzvdljYpebWBPqDV7\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=ognbqqfj1a49.greendop.com\u0026fp=chrome\u0026type=ws\u0026sni=ognbqqfj1a49.greendop.com#%F0%9F%9F%A3+%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%40v2ray_proxy_group",
+    "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 56.53747006694319,
+      "Latency": 98,
+      "Throughput": 7.153526499890185,
       "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://d69a36ad-d6a2-4b00-a64b-3307636ee365@ognbqqfj1a49.greendop.com:443?path=%2F09hmyzvdljYpebWBPqDV7\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=ognbqqfj1a49.greendop.com\u0026fp=chrome\u0026type=ws\u0026sni=ognbqqfj1a49.greendop.com#%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%A8%D8%A7%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%D8%B5%D9%84%20%D8%A8%D8%A7%D8%B4%DB%8C%D8%9F%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%87%A9%F0%9F%87%AA%20%40RayphoriaHub",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 93,
+      "Throughput": 7.273258604104463,
+      "DNSResolution": 81,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://d69a36ad-d6a2-4b00-a64b-3307636ee365@ognbqqfj1a49.greendop.com:443?note=-----------Confvip-----------\u0026path=%2F09hmyzvdljYpebWBPqDV7\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=ognbqqfj1a49.greendop.com\u0026fp=chrome\u0026type=ws\u0026sni=ognbqqfj1a49.greendop.com#%F0%9F%9F%A3+%DA%AF%D8%B1%D9%88%D9%87+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%40v2ray_proxy_group",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 97,
+      "Throughput": 7.500791251437122,
+      "DNSResolution": 92,
       "PacketLoss": 0
     }
   }
