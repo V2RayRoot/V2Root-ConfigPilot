@@ -5,7 +5,31 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c417fcd2-b6db-495d-b851-7b4506198d6e@172.66.47.199:443?security=tls\u0026sni=TElegram-Id-Eliv2RAY.pAGeS.DEv\u0026type=ws\u0026host=telegram-id-eliv2ray.pages.dev\u0026fp=randomized\u0026alpn=h2%2Chttp%2F1.1#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Fconfig-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv\u0026fp=random\u0026type=ws\u0026sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -17,7 +41,31 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 5,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Fconfig-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv\u0026fp=random\u0026type=ws\u0026sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c417fcd2-b6db-495d-b851-7b4506198d6e@172.66.47.199:443?security=tls\u0026sni=TElegram-Id-Eliv2RAY.pAGeS.DEv\u0026type=ws\u0026host=telegram-id-eliv2ray.pages.dev\u0026fp=randomized\u0026alpn=h2%2Chttp%2F1.1#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
