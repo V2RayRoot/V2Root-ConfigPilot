@@ -1,11 +1,35 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2U0RXU0JRMjhxZW0wcHdxVzhXSDJW@51.158.252.130:443#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 20,
+    "URL": "ss://0c594034-4210-49c0-99ab-b52ec0df0f6c@test.fast.hosting-ip.com:80?mode=auto\u0026path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80\u0026security=none\u0026encryption=none=ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann\u0026host=shabejome.com\u0026type=xhttp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 0,
+      "Latency": 23,
+      "Throughput": 0,
+      "DNSResolution": 14,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F\u0026security=none\u0026encryption=none\u0026host=crazy-identity.oneeat.co\u0026type=ws#IR-%40V2ray_Alpha--21",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 8,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=%2F\u0026security=none\u0026encryption=none\u0026host=crazy-identity.oneeat.co\u0026type=ws#IR-%40V2ray_Alpha--30",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 9,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -13,13 +37,85 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 5,
+    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun\u0026security=\u0026encryption=none\u0026type=grpc#🌍",
+    "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 112,
+      "Latency": 27,
       "Throughput": 0,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=cf.vless.sandesh.fr\u0026fp=chrome\u0026type=ws\u0026sni=cf.vless.sandesh.fr#%F0%9F%87%AE%F0%9F%87%B3Telegram%3Atik7net_vpn",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 12,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=cf.vless.sandesh.fr\u0026fp=chrome\u0026type=ws\u0026sni=cf.vless.sandesh.fr#%F0%9F%87%AE%F0%9F%87%B3Telegram%3Atik7net_vpn",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 14,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F\u0026security=none\u0026encryption=none\u0026host=crazy-identity.oneeat.co\u0026type=ws#IR-%40V2ray_Alpha--21",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 14,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun\u0026security=\u0026encryption=none\u0026type=grpc#🌍",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 32,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=%2F\u0026security=none\u0026encryption=none\u0026host=crazy-identity.oneeat.co\u0026type=ws#IR-%40V2ray_Alpha--30",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 12,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0c594034-4210-49c0-99ab-b52ec0df0f6c@test.fast.hosting-ip.com:80?mode=auto\u0026path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80\u0026security=none\u0026encryption=none=ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann\u0026host=shabejome.com\u0026type=xhttp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 20,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 85,
+      "Throughput": 0,
+      "DNSResolution": 114,
       "PacketLoss": 0
     }
   }
