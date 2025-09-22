@@ -1,11 +1,35 @@
 [
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776501.rtxiran.info\u0026type=ws\u0026sni=6389113402676776501.rtxiran.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 17,
+      "Throughput": 80.82160087406136,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776501.rtxiran.info\u0026type=ws\u0026sni=6389113402676776501.rtxiran.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 18,
+      "Throughput": 66.5889146753536,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
     "URL": "vless://ea925bb9-3839-4bc7-d045-2bb5e353674b@www.speedtest.net:2083?mode=auto\u0026path=%2F%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config%3Fed%3D2048\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026host=website.amin-4.ir\u0026fp=chrome\u0026type=xhttp\u0026sni=website.amin-4.ir#%D9%86%DB%8C%D9%85%20%D8%B3%D8%A7%D8%B9%D8%AA%20%D8%AF%DB%8C%DA%AF%D9%87%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%22NormanV2ray%22%F0%9F%8D%87%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 26,
+      "Latency": 17,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
@@ -17,21 +41,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 31,
+      "Latency": 18,
       "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.34:443?allowInsecure=0\u0026sni=ax.ylks.xyz\u0026type=ws\u0026host=ax.ylks.xyz\u0026path=/?ed=2048security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 12,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -41,7 +53,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 12,
+      "Latency": 16,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -49,47 +61,11 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=cf.vless.sandesh.fr#%F0%9F%87%AE%F0%9F%87%B3Telegram%3A%20V2rayNGfreeGP_tiknet",
-    "Score": 35,
+    "URL": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.34:443?allowInsecure=0\u0026sni=ax.ylks.xyz\u0026type=ws\u0026host=ax.ylks.xyz\u0026path=/?ed=2048security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 60,
     "Results": {
-      "TLSOK": false,
-      "Latency": 14,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://5b3a5144-70d6-4aff-80be-6cb25a781aac@151.101.3.8:80?mode=auto\u0026path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam%3Fed%3D2048\u0026security=none\u0026encryption=none\u0026host=Mahsazxshop.org\u0026type=xhttp#%D9%86%DB%8C%D9%85%20%D8%B3%D8%A7%D8%B9%D8%AA%20%D8%AF%DB%8C%DA%AF%D9%87%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%22NormanV2ray%22%F0%9F%8D%87%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 11,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.120.100:443?allowInsecure=0\u0026sni=lx.kpcloud.eu.org\u0026type=ws\u0026host=lx.kpcloud.eu.org\u0026path=/?ed=2048security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 9,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F\u0026security=none\u0026encryption=none\u0026host=crazy-identity.oneeat.co\u0026type=ws#%F0%9F%87%B3%F0%9F%87%B1%5BTelegram%3Atik7net_vpn%5D",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 14,
+      "TLSOK": true,
+      "Latency": 16,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -97,23 +73,47 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F\u0026security=none\u0026encryption=none\u0026host=crazy-identity.oneeat.co\u0026type=ws#%F0%9F%87%B3%F0%9F%87%B1%5BTelegram%3Atik7net_vpn%5D",
+    "URL": "ss://a4222cb3-b1e9-42a9-9767-49f6f567b0b7@www.speedtest.net:80?path=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=soft-flower-efa4.cowebag581.workers.dev\u0026type=ws#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 18,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a4222cb3-b1e9-42a9-9767-49f6f567b0b7@www.speedtest.net:80?path=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=soft-flower-efa4.cowebag581.workers.dev\u0026type=ws#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 17,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a4222cb3-b1e9-42a9-9767-49f6f567b0b7@172.64.146.96:80?path=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=soft-flower-efa4.cowebag581.workers.dev\u0026type=ws#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 14,
+      "Latency": 8,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.120.100:443?allowInsecure=0\u0026sni=lx.kpcloud.eu.org\u0026type=ws\u0026host=lx.kpcloud.eu.org\u0026path=/?ed=2048security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Protocol": "vless",
+    "URL": "vless://a4222cb3-b1e9-42a9-9767-49f6f567b0b7@172.64.146.96:80?path=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=soft-flower-efa4.cowebag581.workers.dev\u0026type=ws#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 14,
+      "Latency": 8,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
