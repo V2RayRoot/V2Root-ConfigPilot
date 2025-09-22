@@ -1,11 +1,59 @@
 [
   {
+    "Protocol": "vless",
+    "URL": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.120.100:443?allowInsecure=0\u0026sni=lx.kpcloud.eu.org\u0026type=ws\u0026host=lx.kpcloud.eu.org\u0026path=/?ed=2048security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.120.100:443?allowInsecure=0\u0026sni=lx.kpcloud.eu.org\u0026type=ws\u0026host=lx.kpcloud.eu.org\u0026path=/?ed=2048security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vmess",
     "URL": "vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsICJhZGQiOiAiMTgzLjIzNi41MS4yMyIsICJwb3J0IjogIjUzMDAyIiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAic25pIjogIiJ9",
     "Score": 20,
     "Results": {
       "TLSOK": false,
       "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=0\u0026sni=samane.ir\u0026type=ws\u0026host=samane.ir\u0026path=/4u7lAS4nPLtz0xPz?ed=2560fp=chrome#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 122,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=0\u0026sni=samane.ir\u0026type=ws\u0026host=samane.ir\u0026path=/4u7lAS4nPLtz0xPz?ed=2560fp=chrome#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 125,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
