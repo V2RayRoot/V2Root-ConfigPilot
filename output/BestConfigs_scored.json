@@ -1,25 +1,37 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776501.rtxiran.info\u0026type=ws\u0026sni=6389113402676776501.rtxiran.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 85,
+    "Protocol": "vless",
+    "URL": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776501.rtxiran.info\u0026type=ws\u0026sni=6389113402676776501.rtxiran.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 61,
-      "Throughput": 31.005663021571156,
+      "Latency": 19,
+      "Throughput": 72.98546611219122,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776501.rtxiran.info\u0026type=ws\u0026sni=6389113402676776501.rtxiran.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 43,
+      "Throughput": 39.54883714850748,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=6389113402676776501.rtxiran.info\u0026type=ws\u0026sni=6389113402676776501.rtxiran.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 85,
+    "Protocol": "shadowsocks",
+    "URL": "ss://2d757868-9260-4fa0-9f8a-cf85208d1d9e@V2rayNGSelllBoT.xero-network.ir:2020?encryption=none\u0026type=xhttp\u0026mode=auto\u0026path=/@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT\u0026security=reality\u0026fp=chrome\u0026sni=stackoverflow.com\u0026pbk=a2SqqE7A-8zwXGi3gAxvKsovLL4mI4E3LORJAU8PZkY\u0026sid=077dc29a23d311f2#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 60,
-      "Throughput": 30.092993971831635,
-      "DNSResolution": 17,
+      "Latency": 362,
+      "Throughput": 16.417531784741712,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -29,9 +41,21 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 30,
+      "Latency": 41,
       "Throughput": 0,
-      "DNSResolution": 29,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://2d757868-9260-4fa0-9f8a-cf85208d1d9e@V2rayNGSelllBoT.xero-network.ir:2020?encryption=none\u0026type=xhttp\u0026mode=auto\u0026path=/@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT\u0026security=reality\u0026fp=chrome\u0026sni=stackoverflow.com\u0026pbk=a2SqqE7A-8zwXGi3gAxvKsovLL4mI4E3LORJAU8PZkY\u0026sid=077dc29a23d311f2#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 127,
+      "Throughput": 16.735059052762313,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -41,9 +65,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 31,
+      "Latency": 29,
       "Throughput": 0,
-      "DNSResolution": 3,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -53,33 +77,9 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 23,
+      "Latency": 24,
       "Throughput": 0,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://2d757868-9260-4fa0-9f8a-cf85208d1d9e@V2rayNGSelllBoT.xero-network.ir:2020?encryption=none\u0026type=xhttp\u0026mode=auto\u0026path=/@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT\u0026security=reality\u0026fp=chrome\u0026sni=stackoverflow.com\u0026pbk=a2SqqE7A-8zwXGi3gAxvKsovLL4mI4E3LORJAU8PZkY\u0026sid=077dc29a23d311f2#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 270,
-      "Throughput": 10.697292129724586,
-      "DNSResolution": 232,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://2d757868-9260-4fa0-9f8a-cf85208d1d9e@V2rayNGSelllBoT.xero-network.ir:2020?encryption=none\u0026type=xhttp\u0026mode=auto\u0026path=/@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT-@V2rayNGSelllBoT\u0026security=reality\u0026fp=chrome\u0026sni=stackoverflow.com\u0026pbk=a2SqqE7A-8zwXGi3gAxvKsovLL4mI4E3LORJAU8PZkY\u0026sid=077dc29a23d311f2#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 247,
-      "Throughput": 19.975717866936012,
-      "DNSResolution": 428,
       "PacketLoss": 0
     }
   },
@@ -89,7 +89,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 12,
+      "Latency": 17,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -101,7 +101,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
+      "Latency": 17,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -109,13 +109,13 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://a4222cb3-b1e9-42a9-9767-49f6f567b0b7@www.speedtest.net:80?path=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=soft-flower-efa4.cowebag581.workers.dev\u0026type=ws#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
-    "Score": 45,
+    "URL": "ss://4c54aa59-3f7a-4257-bad6-5f2def2d9fb8@157.173.195.208:8081/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=maeBz8hpeApypC47VuYULiB8zupTv1HxlPpRJ5QsOUI\u0026sid=9d41#%40networld_vpn",
+    "Score": 60,
     "Results": {
-      "TLSOK": false,
-      "Latency": 16,
+      "TLSOK": true,
+      "Latency": 28,
       "Throughput": 0,
-      "DNSResolution": 16,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
