@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "Protocol": "vless",
+    "URL": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN05.AlANhiAho.coM#%F0%9F%87%AB%F0%9F%87%AETelegram%3Atik7net_vpn",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 120,
+      "Throughput": 21.780359827335108,
+      "DNSResolution": 11,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN05.AlANhiAho.coM#%F0%9F%87%AB%F0%9F%87%AETelegram%3Atik7net_vpn",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 109,
+      "Throughput": 41.234845273021094,
+      "DNSResolution": 4,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://d5096e2a-ac8e-436f-9d87-9687109a7b8b@live.wkrq.com:80?mode=auto\u0026path=%2F\u0026security=none\u0026encryption=none\u0026host=xiliunlimited.global.ssl.fastly.net\u0026type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%5BTelegram%3Atik7net_vpn%5D",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 5,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://d5096e2a-ac8e-436f-9d87-9687109a7b8b@live.wkrq.com:80?mode=auto\u0026path=%2F\u0026security=none\u0026encryption=none\u0026host=xiliunlimited.global.ssl.fastly.net\u0026type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%5BTelegram%3Atik7net_vpn%5D",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 3,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=cf.vless.sandesh.fr#%F0%9F%87%AE%F0%9F%87%B3Telegram%3A%20V2rayNGfreeGP_tiknet",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=D0dTpVg4Z3.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%F0%9F%87%A9%F0%9F%87%AATelegram%3Atik7net_vpn",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=cf.vless.sandesh.fr#%F0%9F%AA%84Telegram%3A%20V2rayNGfreeGP_tiknet",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=D0dTpVg4Z3.sOlEnTrAa.InFo\u0026fp=chrome\u0026type=ws\u0026sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%F0%9F%87%A9%F0%9F%87%AATelegram%3Atik7net_vpn",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=cf.vless.sandesh.fr#%F0%9F%87%AE%F0%9F%87%B3Telegram%3A%20V2rayNGfreeGP_tiknet",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=cf.vless.sandesh.fr#%F0%9F%AA%84Telegram%3A%20V2rayNGfreeGP_tiknet",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  }
+]
