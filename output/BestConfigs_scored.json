@@ -1,11 +1,47 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=cf.vless.sandesh.fr#🇩🇪[Telegram:NetifyVpn]",
-    "Score": 35,
+    "Protocol": "shadowsocks",
+    "URL": "ss://8f0120f1-ba26-e137-5e06-a99b844741aa@swit-serv1.ip-venzo.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.cloudflare.com\u0026sid=e41865e506628f44#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "Score": 70,
     "Results": {
-      "TLSOK": false,
-      "Latency": 15,
+      "TLSOK": true,
+      "Latency": 242,
+      "Throughput": 12.439026747970406,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8f0120f1-ba26-e137-5e06-a99b844741aa@swit-serv1.ip-venzo.com:223?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.cloudflare.com\u0026sid=e41865e506628f44#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 241,
+      "Throughput": 9.159096870596146,
+      "DNSResolution": 31,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://116d3496-149b-42e1-99af-db294fe5c584@51.178.42.187:443?path=%2Fws\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=zula.ir#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 85,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=%2Ffqogayws\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 80,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -13,11 +49,23 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=cf.vless.sandesh.fr#🇩🇪[Telegram:NetifyVpn]",
-    "Score": 35,
+    "URL": "ss://ede24d97-5560-4901-8a52-2fb19a64e787@live.wkrq.com:80?mode=auto\u0026path=%2F\u0026security=none\u0026encryption=none\u0026host=xiliunlimited.global.ssl.fastly.net\u0026type=xhttp#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
+    "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 5,
+      "Latency": 39,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=%2Fhxwdnrws%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 80,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -25,11 +73,11 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://694ab385-bedd-4416-8a72-8a81d2fc7ea0@65.109.218.221:443?path=%2Ffotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip%3Fed%3D2048\u0026security=\u0026encryption=none\u0026type=ws#%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20%F0%9F%86%94%20fotonvip",
-    "Score": 5,
+    "URL": "vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=%2Fhxwdnrws%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 45,
     "Results": {
-      "TLSOK": false,
-      "Latency": 117,
+      "TLSOK": true,
+      "Latency": 80,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -37,11 +85,35 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://694ab385-bedd-4416-8a72-8a81d2fc7ea0@65.109.218.221:443?path=%2Ffotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip---fotonvip%3Fed%3D2048\u0026security=\u0026encryption=none\u0026type=ws#%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20%F0%9F%86%94%20fotonvip",
-    "Score": 5,
+    "URL": "ss://5fc531e8-d521-4671-b7b2-f30ae9833d66@146.190.28.213:443?path=%2Fws%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=zula.ir#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 87,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ede24d97-5560-4901-8a52-2fb19a64e787@live.wkrq.com:80?mode=auto\u0026path=%2F\u0026security=none\u0026encryption=none\u0026host=xiliunlimited.global.ssl.fastly.net\u0026type=xhttp#%40NETMelliAnti%20%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84",
+    "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 118,
+      "Latency": 14,
+      "Throughput": 0,
+      "DNSResolution": 7,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://5a44987a-302e-444c-acb8-190741a84031@46.101.158.35:443?path=%2Fws%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=zula.ir#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 89,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
