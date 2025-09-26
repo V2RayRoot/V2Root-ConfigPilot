@@ -5,33 +5,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 95.13708230837001,
-      "DNSResolution": 89,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=CFN06.ALaNHiaHo.COm#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3Atik7net_vpn%5D",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 76.171159184507,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN05.AlANhiAho.coM#%F0%9F%87%AB%F0%9F%87%AETelegram%3Atik7net_vpn",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 77.15864449043634,
-      "DNSResolution": 6,
+      "Latency": 4,
+      "Throughput": 39.405761510479586,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
@@ -41,21 +17,33 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 54.25568320312749,
-      "DNSResolution": 6,
+      "Latency": 3,
+      "Throughput": 92.05169936412067,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026encryption=none\u0026host=Cfn13.aLAnhIahO.COM\u0026type=ws\u0026sni=Cfn13.aLAnhIahO.COM#%40MARAMBASHI%20%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F",
+    "Protocol": "vless",
+    "URL": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN05.AlANhiAho.coM#%F0%9F%87%AB%F0%9F%87%AETelegram%3Atik7net_vpn",
     "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 3,
-      "Throughput": 78.8895950274626,
-      "DNSResolution": 90,
+      "Throughput": 26.14317614329297,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=CFN06.ALaNHiaHo.COm#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3Atik7net_vpn%5D",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 12,
+      "Throughput": 89.22288384956059,
+      "DNSResolution": 57,
       "PacketLoss": 0
     }
   },
@@ -65,9 +53,21 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 325.5775338478544,
+      "Latency": 7,
+      "Throughput": 360.60007819612696,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN05.AlANhiAho.coM#%F0%9F%87%AB%F0%9F%87%AETelegram%3Atik7net_vpn",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 32.131983407124096,
+      "DNSResolution": 161,
       "PacketLoss": 0
     }
   },
@@ -77,20 +77,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 210.77292010599768,
+      "Latency": 6,
+      "Throughput": 183.6843226945976,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=GfN05.AlANhiAho.coM#%F0%9F%87%AB%F0%9F%87%AETelegram%3Atik7net_vpn",
+    "URL": "ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026encryption=none\u0026host=Cfn13.aLAnhIahO.COM\u0026type=ws\u0026sni=Cfn13.aLAnhIahO.COM#%40MARAMBASHI%20%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 169,
-      "Throughput": 82.08402557955759,
+      "Latency": 100,
+      "Throughput": 30.421652160684914,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -101,7 +101,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
+      "Latency": 6,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -109,13 +109,13 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v2.vetrkot.com:8880?mode=gun\u0026security=none\u0026encryption=none\u0026authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026type=grpc#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
-    "Score": 45,
+    "URL": "ss://d2a11ee4-7ede-4e7f-a001-a23e9bb44ff2@ld.nfsn666.gq:8443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=www.yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=ZMtlGCYlW4xf2_g1ruTqLEw1H57ggWXrb6aAbh029lo\u0026sid=9a89fdfc#%20%40networld_vpn",
+    "Score": 55,
     "Results": {
-      "TLSOK": false,
-      "Latency": 43,
+      "TLSOK": true,
+      "Latency": 84,
       "Throughput": 0,
-      "DNSResolution": 44,
+      "DNSResolution": 84,
       "PacketLoss": 0
     }
   }
