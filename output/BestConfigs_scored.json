@@ -1,24 +1,12 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?path=%2Fdb10240eb751d6ab\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=dabaius2.sylu.net\u0026fp=chrome\u0026type=ws\u0026sni=dabaius2.sylu.net#%40V2rayAlpha--All-13",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 70.74196444899717,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
-    "URL": "ss://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?path=%2Fdb10240eb751d6ab\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=dabaius2.sylu.net\u0026fp=chrome\u0026type=ws\u0026sni=dabaius2.sylu.net#%40V2rayAlpha--All-13",
+    "URL": "ss://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026host=frAgteSt.JaHANGiRKh.eU.orG\u0026fp=chrome\u0026type=ws\u0026sni=frAgteSt.JaHANGiRKh.eU.orG#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B2",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 279.94985818090123,
+      "Latency": 1,
+      "Throughput": 334.5844421496599,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -29,79 +17,43 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 248.8134320687235,
+      "Latency": 1,
+      "Throughput": 232.78522693737108,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026host=frAgteSt.JaHANGiRKh.eU.orG\u0026fp=chrome\u0026type=ws\u0026sni=frAgteSt.JaHANGiRKh.eU.orG#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B2",
+    "Protocol": "vless",
+    "URL": "vless://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?path=%2Fdb10240eb751d6ab\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=dabaius2.sylu.net\u0026fp=chrome\u0026type=ws\u0026sni=dabaius2.sylu.net#%40V2rayAlpha--All-13",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 139.8238858732275,
+      "Latency": 1,
+      "Throughput": 55.64803292516035,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://837545c0-74e1-4daa-9ea1-b8286762c399@tru-server1-panyous.tap30.sbs:2560?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026host=---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn------------------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026sni=www.cloudflare.com\u0026sid=e41865e506628f44#%40tik7net_vpn%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D9%87%20%F0%9F%8C%B1%F0%9F%94%A5%F0%9F%A4%8D",
-    "Score": 70,
+    "URL": "ss://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?path=%2Fdb10240eb751d6ab\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=dabaius2.sylu.net\u0026fp=chrome\u0026type=ws\u0026sni=dabaius2.sylu.net#%40V2rayAlpha--All-13",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 143,
-      "Throughput": 16.146560716971884,
-      "DNSResolution": 9,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://837545c0-74e1-4daa-9ea1-b8286762c399@Ger-server3-panyous.tap30.sbs:2560?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026host=---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn------------------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026sni=cloudflare.com\u0026sid=e41865e506628f44#%40tik7net_vpn%20%7C%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%203%20%F0%9F%A4%8D%F0%9F%94%A5%F0%9F%8C%B1",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 115,
-      "Throughput": 21.68996994109072,
-      "DNSResolution": 7,
+      "Latency": 1,
+      "Throughput": 297.5630884891253,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://837545c0-74e1-4daa-9ea1-b8286762c399@tru-server1-panyous.tap30.sbs:2560?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026host=---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn------------------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026sni=www.cloudflare.com\u0026sid=e41865e506628f44#%40tik7net_vpn%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D9%87%20%F0%9F%8C%B1%F0%9F%94%A5%F0%9F%A4%8D",
+    "URL": "vless://a546c4de-2840-49b7-b914-98babd165bb1@cloudflare.182682.xyz:443?path=%2FXYXY0721\u0026security=tls\u0026encryption=none\u0026host=de.xiejiang.dpdns.org\u0026type=ws\u0026sni=de.xiejiang.dpdns.org#Join%20Telegram%20%F0%9F%86%94%EF%B8%8F%40ibahad%20%F0%9F%87%A9%F0%9F%87%AA",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 139,
-      "Throughput": 16.262577825811288,
-      "DNSResolution": 6,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://837545c0-74e1-4daa-9ea1-b8286762c399@Ger-server2-panyous.tap30.sbs:2560?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026host=---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn------------------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026sni=www.cloudflare.com\u0026sid=e41865e506628f44#%40tik7net_vpn%20%7C%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%202%20%F0%9F%8C%B1%F0%9F%94%A5%F0%9F%A4%8D",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 114,
-      "Throughput": 21.057525347838205,
-      "DNSResolution": 20,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=nareni.rtxiran.info#🇩🇪[Telegram:NetifyVpn]",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 1,
       "PacketLoss": 0
@@ -109,13 +61,61 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://837545c0-74e1-4daa-9ea1-b8286762c399@Ger-server3-panyous.tap30.sbs:2560?security=reality\u0026encryption=none\u0026pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U\u0026host=---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7net_vpn------------------telegram---------tik7net_vpn---------telegram---------tik7net_vpn---------telegram---------tik7ne#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "ss://a546c4de-2840-49b7-b914-98babd165bb1@cloudflare.182682.xyz:443?path=%2FXYXY0721\u0026security=tls\u0026encryption=none\u0026host=de.xiejiang.dpdns.org\u0026type=ws\u0026sni=de.xiejiang.dpdns.org#Join%20Telegram%20%F0%9F%86%94%EF%B8%8F%40ibahad%20%F0%9F%87%A9%F0%9F%87%AA",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 113,
-      "Throughput": 21.91184375527545,
-      "DNSResolution": 2,
+      "Latency": 14,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.127:443?security=tls\u0026sni=lg.kpcloud.eu.org\u0026type=ws\u0026host=lg.kpcloud.eu.org\u0026path=%2F%3Fed%3D2048#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.127:443?security=tls\u0026sni=lg.kpcloud.eu.org\u0026type=ws\u0026host=lg.kpcloud.eu.org\u0026path=%2F%3Fed%3D2048#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://af498306-22be-4f7e-9947-9b444dc25ab5@signetprxyynode01.su:443?security=reality\u0026type=tcp\u0026headerType=\u0026path=\u0026host=\u0026flow=xtls-rprx-vision\u0026sni=yahoo.com\u0026fp=\u0026pbk=aG4c_fm7Ylea93OdC1PhCNIDc3DeAsrcxdQMOCppXAU\u0026sid=#%F0%9F%87%B8%F0%9F%87%AA%20Sweden",
+    "Score": 55,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 98,
+      "Throughput": 0,
+      "DNSResolution": 95,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v8.vetrkot.com:8880?mode=gun\u0026security=none\u0026encryption=none\u0026type=grpc#%40V2rayAlpha--All-29",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 13,
+      "Throughput": 0,
+      "DNSResolution": 33,
       "PacketLoss": 0
     }
   }
