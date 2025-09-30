@@ -1,37 +1,25 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://d03e1748-b8f2-45c7-bf86-6b3964c3e093@Hetznear-de3.turkserver.ir:8443?security=reality\u0026encryption=none\u0026pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E\u0026host=---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com\u0026sid=b44cea83b91a143a#Tel%20%3A%20%40Telegram%3Atik7net_vpn%F0%9F%8C%B1%F0%9F%9A%80%F0%9F%92%A5%F0%9F%A4%8D",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 108,
-      "Throughput": 21.344464500029385,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
-    "URL": "vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@Hetznear-de1.turkserver.ir:8443?security=reality\u0026encryption=none\u0026pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E\u0026host=---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com\u0026sid=b44cea83b91a143a#Tel%20%3A%20%40Telegram%3Atik7net_vpn%F0%9F%8C%B1%F0%9F%9A%80%F0%9F%92%A5%F0%9F%A4%8D",
-    "Score": 70,
+    "URL": "vless://9dde40ad-29f2-4a6c-b1a5-0a149f583404@zula.ir:8443?mode=multi\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026authority=%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026fp=chrome\u0026type=grpc\u0026serviceName=ahwaz.infinitespd.com\u0026sni=ahwaz.infinitespd.com#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 115,
-      "Throughput": 15.820172729391912,
-      "DNSResolution": 8,
+      "Latency": 3,
+      "Throughput": 239.82855615834464,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://d03e1748-b8f2-45c7-bf86-6b3964c3e093@Hetznear-de3.turkserver.ir:8443?security=reality\u0026encryption=none\u0026pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E\u0026host=------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn---------------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com\u0026sid=b44cea83b91a143a#%F0%9F%A4%8D%E2%9C%8C%EF%B8%8F%20Telegram%3Atik7net_vpn",
-    "Score": 70,
+    "URL": "ss://9dde40ad-29f2-4a6c-b1a5-0a149f583404@zula.ir:8443?mode=multi\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026authority=%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026fp=chrome\u0026type=grpc\u0026serviceName=ahwaz.infinitespd.com\u0026sni=ahwaz.infinitespd.com#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 111,
-      "Throughput": 18.27762571567443,
-      "DNSResolution": 2,
+      "Latency": 2,
+      "Throughput": 169.0679886205409,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -42,32 +30,44 @@
     "Results": {
       "TLSOK": true,
       "Latency": 115,
-      "Throughput": 20.840125586139603,
+      "Throughput": 19.836563478830577,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://d03e1748-b8f2-45c7-bf86-6b3964c3e093@Hetznear-de2.turkserver.ir:8443?security=reality\u0026encryption=none\u0026pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E\u0026host=---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com\u0026sid=b44cea83b91a143a#Tel%20%3A%20%40Telegram%3Atik7net_vpn%F0%9F%8C%B1%F0%9F%9A%80%F0%9F%92%A5%F0%9F%A4%8D",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 119,
+      "Throughput": 18.751440095949807,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@Hetznear-de3.turkserver.ir:8443?security=reality\u0026encryption=none\u0026pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E\u0026host=---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com\u0026sid=b44cea83b91a143a#Tel%20%3A%20%40Telegram%3Atik7net_vpn%F0%9F%8C%B1%F0%9F%9A%80%F0%9F%92%A5%F0%9F%A4%8D",
+    "URL": "vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@Hetznear-de3.turkserver.ir:8443?security=reality\u0026encryption=none\u0026pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E\u0026host=------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn---------------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com\u0026sid=b44cea83b91a143a#%F0%9F%A4%8D%E2%9C%8C%EF%B8%8F%20Telegram%3Atik7net_vpn",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 123,
-      "Throughput": 7.702487277274624,
-      "DNSResolution": 5,
+      "Latency": 119,
+      "Throughput": 21.988087810506087,
+      "DNSResolution": 7,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@Hetznear-de2.turkserver.ir:8443?security=reality\u0026encryption=none\u0026pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E\u0026host=---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com\u0026sid=b44cea83b91a143a#Tel%20%3A%20%40Telegram%3Atik7net_vpn%F0%9F%8C%B1%F0%9F%9A%80%F0%9F%92%A5%F0%9F%A4%8D",
+    "Protocol": "shadowsocks",
+    "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=mooz.rtxiran.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 121,
-      "Throughput": 19.655705889137195,
-      "DNSResolution": 5,
+      "Latency": 3,
+      "Throughput": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -79,43 +79,43 @@
       "TLSOK": true,
       "Latency": 4,
       "Throughput": 0,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://44e16031-bde2-407a-b629-ae4b84e7e49f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=smits.feronix.org#🇩🇪[Telegram:NetifyVpn]",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@Hetznear-de3.turkserver.ir:8443?security=reality\u0026encryption=none\u0026pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E\u0026host=---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com\u0026sid=b44cea83b91a143a#Tel%20%3A%20%40Telegram%3Atik7net_vpn%F0%9F%8C%B1%F0%9F%9A%80%F0%9F%92%A5%F0%9F%A4%8D",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 110,
+      "Throughput": 21.690900070107432,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=mooz.rtxiran.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Protocol": "shadowsocks",
+    "URL": "ss://d03e1748-b8f2-45c7-bf86-6b3964c3e093@Hetznear-de1.turkserver.ir:8443?security=reality\u0026encryption=none\u0026pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E\u0026host=---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---tik7net_vpn---\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com\u0026sid=b44cea83b91a143a#Tel%20%3A%20%40Telegram%3Atik7net_vpn%F0%9F%8C%B1%F0%9F%9A%80%F0%9F%92%A5%F0%9F%A4%8D",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 47,
-      "Throughput": 0,
-      "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://44e16031-bde2-407a-b629-ae4b84e7e49f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=smits.feronix.org#🇩🇪[Telegram:NetifyVpn]",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 0,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@Hetznear-de1.turkserver.ir:8443?security=reality\u0026encryption=none\u0026pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E\u0026host=------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn---------------telegram------tik7net_vpn------telegram------tik7net_vpn------telegram------tik7net_vpn------\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=refersion.com\u0026sid=b44cea83b91a143a#%F0%9F%A4%8D%E2%9C%8C%EF%B8%8F%20Telegram%3Atik7net_vpn",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 113,
-      "Throughput": 11.970417954998485,
-      "DNSResolution": 2,
+      "Latency": 110,
+      "Throughput": 20.935382857070124,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
