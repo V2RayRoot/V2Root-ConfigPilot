@@ -1,23 +1,11 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---\u0026path=%2Fsnippets\u0026security=tls\u0026encryption=none\u0026host=sni.aizrf.com\u0026type=ws\u0026sni=sni.aizrf.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 5,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---\u0026path=%2Fsnippets\u0026security=tls\u0026encryption=none\u0026host=sni.aizrf.com\u0026type=ws\u0026sni=sni.aizrf.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 5,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -25,25 +13,37 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://33800b9d-be13-4156-82c2-b985a8bad6dd@ulta-tvl.danims.sbs:8081?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 15,
+    "URL": "vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---\u0026path=%2Fsnippets\u0026security=tls\u0026encryption=none\u0026host=sni.aizrf.com\u0026type=ws\u0026sni=sni.aizrf.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 257,
+      "Latency": 2,
       "Throughput": 0,
-      "DNSResolution": 15,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
     "URL": "ss://33800b9d-be13-4156-82c2-b985a8bad6dd@ulta-tvl.danims.sbs:8081?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 15,
+    "Score": 5,
     "Results": {
       "TLSOK": false,
-      "Latency": 257,
+      "Latency": 206,
       "Throughput": 0,
-      "DNSResolution": 14,
+      "DNSResolution": 169,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://33800b9d-be13-4156-82c2-b985a8bad6dd@ulta-tvl.danims.sbs:8081?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 206,
+      "Throughput": 0,
+      "DNSResolution": 163,
       "PacketLoss": 0
     }
   }
