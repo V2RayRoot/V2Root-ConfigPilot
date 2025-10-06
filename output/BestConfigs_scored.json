@@ -1,119 +1,35 @@
 [
   {
     "Protocol": "trojan",
-    "URL": "trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123\u0026security=tls\u0026alpn=http%2F1.1\u0026host=mooshali.arshiacomplus.dpdns.org\u0026fp=chrome\u0026type=ws\u0026sni=mooshali.arshiacomplus.dpdns.org#MCI-%40V2rayAlpha--4",
-    "Score": 90,
+    "URL": "trojan://NISHIKUITAN222@190.93.246.57:443?allowInsecure=0\u0026ws=1\u0026wspath=%2F#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
     "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 12.751154265565058,
+      "TLSOK": false,
+      "Latency": 17,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@188.225.81.91:443?encryption=none\u0026flow=xtls-rprx-vision\u0026security=reality\u0026sni=wa.sfasti.ru\u0026fp=chrome\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026sid=16895459a2c7768d\u0026type=tcp\u0026headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 154,
+      "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://9e728936-8015-41a1-a0ab-80997c084465@2margate.superip.ir:3041?security=reality\u0026encryption=none\u0026pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw\u0026host=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026headerType=none\u0026fp=chrome\u0026spx=%2FTELEGRAM--BYA--KANAL--JKVPN\u0026type=tcp\u0026sni=www.refersion.com\u0026sid=4c14#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
-    "Score": 70,
+    "URL": "ss://d4e4c02a-d969-47a6-ba0f-3d433fdac206@188.225.81.91:443?encryption=none\u0026flow=xtls-rprx-vision\u0026security=reality\u0026sni=wa.sfasti.ru\u0026fp=chrome\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026sid=16895459a2c7768d\u0026type=tcp\u0026headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
     "Results": {
-      "TLSOK": true,
-      "Latency": 213,
-      "Throughput": 11.870710559544875,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8aac9ea6-92cd-414c-a423-304f9ab1bdf4@axe.soyet2j.ir:2053?encryption=none\u0026security=tls\u0026sni=mojito.soyet2j.ir\u0026type=ws\u0026host=mojito.soyet2j.ir\u0026path=%2Fhomepage%3Fed%3D2560#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 101,
-      "Throughput": 66.9730606054127,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality\u0026encryption=none\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=wa.sfasti.ru\u0026sid=16895459a2c7768d#IR-%40V2rayAlpha--10",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 278,
-      "Throughput": 12.552017521863338,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality\u0026encryption=none\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=wa.sfasti.ru\u0026sid=16895459a2c7768d#IR-%40V2rayAlpha--10",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 273,
-      "Throughput": 12.183152727967572,
-      "DNSResolution": 153,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://8aac9ea6-92cd-414c-a423-304f9ab1bdf4@axe.soyet2j.ir:2053?encryption=none\u0026security=tls\u0026sni=mojito.soyet2j.ir\u0026type=ws\u0026host=mojito.soyet2j.ir\u0026path=%2Fhomepage%3Fed%3D2560#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 105,
-      "Throughput": 27.153964379857204,
-      "DNSResolution": 173,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://9e728936-8015-41a1-a0ab-80997c084465@2margate.superip.ir:3041?security=reality\u0026encryption=none\u0026pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw\u0026host=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026headerType=none\u0026fp=chrome\u0026spx=%2FTELEGRAM--BYA--KANAL--JKVPN\u0026type=tcp\u0026sni=www.refersion.com\u0026sid=4c14#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 225,
-      "Throughput": 10.249442291331292,
-      "DNSResolution": 173,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality\u0026encryption=none\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=wa.sfasti.ru\u0026sid=16895459a2c7768d#%DA%AF%D8%B1%D9%88%D9%87%20%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%88v_ng_gap%40%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 265,
-      "Throughput": 14.120572974443345,
-      "DNSResolution": 143,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality\u0026encryption=none\u0026pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8\u0026host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=wa.sfasti.ru\u0026sid=16895459a2c7768d#%DA%AF%D8%B1%D9%88%D9%87%20%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%88v_ng_gap%40%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 125,
-      "Throughput": 12.178450432295563,
-      "DNSResolution": 140,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5cbd735a-b9f4-44a9-9e7a-818853b05ab2@185.197.182.18:23590?mode=auto\u0026path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN\u0026security=reality\u0026encryption=none\u0026pbk=uTgCcEmxWXISjCBvsZLBRGASA6ZM0sckmnlTtgqzOgE\u0026fp=chrome\u0026spx=%2F\u0026type=xhttp\u0026sni=cloudflare.com\u0026sid=ea5b1f87#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 89,
+      "TLSOK": false,
+      "Latency": 149,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
