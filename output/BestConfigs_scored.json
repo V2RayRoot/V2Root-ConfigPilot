@@ -1,11 +1,23 @@
 [
   {
+    "Protocol": "vless",
+    "URL": "vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 82,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "shadowsocks",
     "URL": "ss://a546c4de-2840-49b7-b914-98babd165bb1@cloudflare.182682.xyz:443?path=%2FXYXY0721\u0026security=tls\u0026encryption=none\u0026host=de.xiejiang.dpdns.org\u0026type=ws\u0026sni=de.xiejiang.dpdns.org#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 16,
+      "Latency": 18,
       "Throughput": 0,
       "DNSResolution": 1,
       "PacketLoss": 0
@@ -13,23 +25,59 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://a546c4de-2840-49b7-b914-98babd165bb1@cloudflare.182682.xyz:443?path=%2FXYXY0721\u0026security=tls\u0026encryption=none\u0026host=de.xiejiang.dpdns.org\u0026type=ws\u0026sni=de.xiejiang.dpdns.org#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "vless://9e728936-8015-41a1-a0ab-80997c084465@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin%3F%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026security=none\u0026encryption=none\u0026host=Gn8656.io\u0026type=ws#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 15,
+      "Latency": 18,
+      "Throughput": 0,
+      "DNSResolution": 27,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 83,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6776d9f8-d671-4cd1-ae40-6639bbe98277@142.132.161.197:443?type=tcp\u0026encryption=none\u0026path=/%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM\u0026headerType=http\u0026security=tls\u0026fp=chrome\u0026alpn=http%2F1.1\u0026sni=followme.amin-1.ir\u0026ech=AFP%2BDQBPAAAgACBtMwA93WzNjtrI3IDMlTPYX%2FZEMw67DkaSoNOSqnTlbwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAAAAA%3D%3D#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 90,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://9e728936-8015-41a1-a0ab-80997c084465@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=none\u0026encryption=none\u0026host=Gn8656.io\u0026type=ws#%40MARAMBASHI%20%E2%99%A5",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 46,
       "Throughput": 0,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "trojan",
-    "URL": "trojan://NISHIKUITAN222@190.93.246.57:443?allowInsecure=0\u0026ws=1\u0026wspath=%2F#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
+    "Protocol": "shadowsocks",
+    "URL": "ss://6776d9f8-d671-4cd1-ae40-6639bbe98277@142.132.161.197:443?type=tcp\u0026encryption=none\u0026path=/%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM----------%40VPN_%52OOM--------%40VPN_%52OOM\u0026headerType=http\u0026security=tls\u0026fp=chrome\u0026alpn=http%2F1.1\u0026sni=followme.amin-1.ir\u0026ech=AFP%2BDQBPAAAgACBtMwA93WzNjtrI3IDMlTPYX%2FZEMw67DkaSoNOSqnTlbwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAAAAA%3D%3D#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
     "Results": {
-      "TLSOK": false,
-      "Latency": 14,
+      "TLSOK": true,
+      "Latency": 90,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -37,85 +85,37 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://01997b9d-a1f7-e188-981a-c665b723cfef@91.209.253.43:2096?path=%2Fsnippets\u0026security=tls\u0026encryption=none\u0026host=kejiland.freewarp.eu.org\u0026fp=chrome\u0026type=ws\u0026sni=kejiland.freewarp.eu.org#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
+    "URL": "ss://9e728936-8015-41a1-a0ab-80997c084465@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin%3F%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026security=none\u0026encryption=none\u0026host=Gn8656.io\u0026type=ws#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
+    "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 12,
+      "Latency": 20,
       "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e191ac99-e071-4e36-9a01-107eaf26a780@188.244.122.253:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=krill.xfan01.sbs\u0026type=ws\u0026sni=krill.xfan01.sbs#%5BTelegram%3Atik7net_vpn%5D%F0%9F%87%A9%F0%9F%87%AA",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 14,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://12345678-1234-1234-1234-123456789123@198.71.232.44:2096?path=%2Fsnippets\u0026security=tls\u0026encryption=none\u0026host=kejiland.freewarp.eu.org\u0026fp=chrome\u0026type=ws\u0026sni=kejiland.freewarp.eu.org#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 14,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://01997b9d-a1f7-e188-981a-c665b723cfef@91.209.253.43:2096?path=%2Fsnippets\u0026security=tls\u0026encryption=none\u0026host=kejiland.freewarp.eu.org\u0026fp=chrome\u0026type=ws\u0026sni=kejiland.freewarp.eu.org#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 12,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://9ea5a2f5-3a56-4282-919c-4dfee486372e@104.19.150.163:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=vless.keepfuck.me\u0026fp=chrome\u0026type=ws\u0026sni=vless.keepfuck.me#%5BTelegram%3Atik7net_vpn%5D%20%F0%9F%87%A8%F0%9F%87%A6",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 12,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://12345678-1234-1234-1234-123456789123@198.71.232.44:2096?path=%2Fsnippets\u0026security=tls\u0026encryption=none\u0026host=kejiland.freewarp.eu.org\u0026fp=chrome\u0026type=ws\u0026sni=kejiland.freewarp.eu.org#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
+    "URL": "ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026fp=chrome\u0026type=ws\u0026sni=mooz.rtxiran.info#%40MARAMBASHI%20%E2%99%A5",
+    "Score": 40,
     "Results": {
-      "TLSOK": false,
-      "Latency": 13,
+      "TLSOK": true,
+      "Latency": 179,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://9ea5a2f5-3a56-4282-919c-4dfee486372e@104.19.150.163:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=vless.keepfuck.me\u0026fp=chrome\u0026type=ws\u0026sni=vless.keepfuck.me#%5BTelegram%3Atik7net_vpn%5D%20%F0%9F%87%A8%F0%9F%87%A6",
-    "Score": 35,
+    "URL": "ss://cf77abe4-0f53-4771-ac7e-f323b68721f7@home.traumhaus.bio:25819?security=reality\u0026encryption=none\u0026pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=google-analytics.com#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "Score": 40,
     "Results": {
-      "TLSOK": false,
-      "Latency": 14,
+      "TLSOK": true,
+      "Latency": 267,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
