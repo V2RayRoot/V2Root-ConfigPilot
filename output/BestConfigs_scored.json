@@ -1,11 +1,11 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e424094c-d2bf-450c-8037-13814aa1d7f5@78.157.59.173:2082?security=none\u0026type=tcp\u0026host=Zulla.ir\u0026path=%2F\u0026headerType=http#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Protocol": "vless",
+    "URL": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun\u0026security=none\u0026encryption=none\u0026authority=\u0026type=grpc\u0026serviceName=#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 20,
     "Results": {
       "TLSOK": false,
-      "Latency": 0,
+      "Latency": 94,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -25,23 +25,23 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun\u0026security=none\u0026encryption=none\u0026authority=\u0026type=grpc\u0026serviceName=#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 5,
+    "URL": "ss://e424094c-d2bf-450c-8037-13814aa1d7f5@78.157.59.173:2082?security=none\u0026type=tcp\u0026host=Zulla.ir\u0026path=%2F\u0026headerType=http#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 20,
     "Results": {
       "TLSOK": false,
-      "Latency": 104,
+      "Latency": 0,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun\u0026security=none\u0026encryption=none\u0026authority=\u0026type=grpc\u0026serviceName=#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 5,
+    "Protocol": "shadowsocks",
+    "URL": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun\u0026security=none\u0026encryption=none\u0026authority=\u0026type=grpc\u0026serviceName=#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 20,
     "Results": {
       "TLSOK": false,
-      "Latency": 103,
+      "Latency": 96,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
