@@ -5,8 +5,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 167.30199599646323,
+      "Latency": 2,
+      "Throughput": 104.02012154829218,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,9 +17,21 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 141.81805966126225,
+      "Latency": 2,
+      "Throughput": 169.27442380255695,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://02TELEGRAM-IDconf0088@verymad.net.verymad.net:31525?mode=auto\u0026path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026fp=chrome\u0026type=xhttp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 75,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 94,
+      "Throughput": 24.51517052072318,
+      "DNSResolution": 147,
       "PacketLoss": 0
     }
   },
@@ -29,45 +41,21 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
+      "Latency": 22,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://02TELEGRAM-IDconf0088@verymad.net.verymad.net:31525?mode=auto\u0026path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026fp=chrome\u0026type=xhttp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Protocol": "trojan",
+    "URL": "trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls\u0026type=ws\u0026sni=bangladeshipatri.com\u0026path=/6b777a91\u0026host=bangladeshipatri.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 126,
-      "Throughput": 27.007313604155406,
-      "DNSResolution": 107,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f391c9f6-87af-47c9-b838-39c50c0992ca@russiasefid.vtuix.space:7033?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE\u0026fp=firefox\u0026type=grpc\u0026serviceName=7034vless\u0026sni=telewebion.com\u0026sid=16b6cda7ab793526#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 148,
+      "Latency": 1,
       "Throughput": 0,
-      "DNSResolution": 16,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://bef253ce-76ff-49dd-aeaf-e68ff02447e1@kiliyanmbappe10.vtuix.space:7033?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE\u0026fp=firefox\u0026type=grpc\u0026serviceName=7034vless\u0026sni=www.telewebion.com\u0026sid=16b6cda7ab793526#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 117,
-      "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -77,33 +65,9 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 502,
+      "Latency": 110,
       "Throughput": 0,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws\u0026encryption=none\u0026host=CuEg4R5u01.SoLeNtRaA.iNfO\u0026path=%2F\u0026security=tls\u0026sni=CuEg4R5u01.SoLeNtRaA.iNfO\u0026fp=chrome#%40networld_vpn",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 179,
-      "Throughput": 0,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://9f6e1427-deea-4773-9edb-4a3835c36c02@vip.hich-shop.ir:443?encryption=none\u0026security=reality\u0026sni=stackoverflow.com\u0026alpn=http%2F1.1\u0026fp=firefox\u0026pbk=4pcPgILldFkmCGeDdd0l-TZjXE6697Ma0uvhbB1H-iY\u0026sid=7e1fdc\u0026type=xhttp\u0026host=stackoverflow.com\u0026path=%2FfuUQUMfiarE01pqEe\u0026extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F138.0.0.0%20Mobile%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-c#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 273,
-      "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -113,9 +77,45 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 152,
+      "Latency": 169,
       "Throughput": 0,
-      "DNSResolution": 15,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://bef253ce-76ff-49dd-aeaf-e68ff02447e1@kiliyanmbappe10.vtuix.space:7033?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE\u0026fp=firefox\u0026type=grpc\u0026serviceName=7034vless\u0026sni=www.telewebion.com\u0026sid=16b6cda7ab793526#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 141,
+      "Throughput": 0,
+      "DNSResolution": 38,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws\u0026encryption=none\u0026host=CuEg4R5u01.SoLeNtRaA.iNfO\u0026path=%2F\u0026security=tls\u0026sni=CuEg4R5u01.SoLeNtRaA.iNfO\u0026fp=chrome#%40networld_vpn",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 172,
+      "Throughput": 0,
+      "DNSResolution": 26,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://f391c9f6-87af-47c9-b838-39c50c0992ca@russiasefid.vtuix.space:7033?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE\u0026fp=firefox\u0026type=grpc\u0026serviceName=7034vless\u0026sni=telewebion.com\u0026sid=16b6cda7ab793526#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 144,
+      "Throughput": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
