@@ -5,8 +5,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 148.05581067422432,
+      "Latency": 20,
+      "Throughput": 79.54317163383116,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,8 +17,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 127.5796871895976,
+      "Latency": 20,
+      "Throughput": 77.30758776776341,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -29,15 +29,15 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
+      "Latency": 22,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws\u0026encryption=none\u0026host=CuEg4R5u01.SoLeNtRaA.iNfO\u0026path=%2F\u0026security=tls\u0026sni=CuEg4R5u01.SoLeNtRaA.iNfO\u0026fp=chrome#%40networld_vpn",
+    "Protocol": "vless",
+    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws\u0026encryption=none\u0026host=CuEg4R5u01.SoLeNtRaA.iNfO\u0026path=%2F\u0026security=tls\u0026sni=CuEg4R5u01.SoLeNtRaA.iNfO\u0026fp=chrome#%40networld_vpn",
     "Score": 70,
     "Results": {
       "TLSOK": true,
@@ -53,21 +53,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 29,
+      "Latency": 21,
       "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443?path=%2Fsnippets%2Fip%3D\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=What.The.Fxxk.cloudns.org#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3Atik7net_vpn%5D",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 7,
       "PacketLoss": 0
     }
   },
@@ -77,7 +65,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
+      "Latency": 9,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -89,21 +77,33 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 180,
+      "Latency": 209,
       "Throughput": 0,
-      "DNSResolution": 20,
+      "DNSResolution": 5,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws\u0026encryption=none\u0026host=CuEg4R5u01.SoLeNtRaA.iNfO\u0026path=%2F\u0026security=tls\u0026sni=CuEg4R5u01.SoLeNtRaA.iNfO\u0026fp=chrome#%40networld_vpn",
+    "URL": "vless://bef253ce-76ff-49dd-aeaf-e68ff02447e1@kiliyanmbappe10.vtuix.space:7033?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE\u0026fp=firefox\u0026type=grpc\u0026serviceName=7034vless\u0026sni=www.telewebion.com\u0026sid=16b6cda7ab793526#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
     "Score": 40,
     "Results": {
       "TLSOK": true,
       "Latency": 166,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://bef253ce-76ff-49dd-aeaf-e68ff02447e1@kiliyanmbappe10.vtuix.space:7033?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE\u0026fp=firefox\u0026type=grpc\u0026serviceName=7034vless\u0026sni=www.telewebion.com\u0026sid=16b6cda7ab793526#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 175,
+      "Throughput": 0,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -113,9 +113,9 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 146,
+      "Latency": 209,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
