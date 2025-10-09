@@ -5,9 +5,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
+      "Latency": 4,
       "Throughput": 0,
-      "DNSResolution": 27,
+      "DNSResolution": 7,
       "PacketLoss": 0
     }
   },
@@ -17,7 +17,19 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
+      "Latency": 3,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://-HBD-@95.182.98.158:11228/?type=grpc\u0026encryption=none\u0026flow=\u0026serviceName=t.me/entryNET\u0026sni=yahoo.com\u0026fp=firefox\u0026security=reality\u0026pbk=Ha3eMi1-eOxjjGfUmWpCgAGeNKiaxcBL_wksz0Gbl1Y\u0026sid=622963e838929d#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 96,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -29,9 +41,33 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 120,
+      "Latency": 123,
       "Throughput": 0,
-      "DNSResolution": 5,
+      "DNSResolution": 11,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8c9a7ef4-b692-41ee-90ca-669b04990ac5@at.pixvpn.app:8443?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc\u0026fp=chrome\u0026type=grpc\u0026serviceName=grpc-jd\u0026sni=jd.com\u0026sid=41a4cee2c50c4fc3#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 137,
+      "Throughput": 0,
+      "DNSResolution": 25,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8c9a7ef4-b692-41ee-90ca-669b04990ac5@at.pixvpn.app:8443?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc\u0026fp=chrome\u0026type=grpc\u0026serviceName=grpc-jd\u0026sni=jd.com\u0026sid=41a4cee2c50c4fc3#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 137,
+      "Throughput": 0,
+      "DNSResolution": 26,
       "PacketLoss": 0
     }
   },
@@ -41,9 +77,21 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 111,
+      "Latency": 120,
       "Throughput": 0,
-      "DNSResolution": 96,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://f2496534-b176-401f-83cd-c34faa479752@turkey21gifoiopl.mongral.ir:4444?note=---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---\u0026security=reality\u0026encryption=none\u0026pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=store.steampowered.com\u0026sid=7cb7ad2e83f550a0#🇹🇷[Telegram:tik7net_vpn]",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 1196,
+      "Throughput": 0,
+      "DNSResolution": 6,
       "PacketLoss": 0
     }
   },
@@ -53,69 +101,21 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 1160,
+      "Latency": 1258,
       "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 7,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f2496534-b176-401f-83cd-c34faa479752@turkey21gifoiopl.mongral.ir:4444?security=reality\u0026encryption=none\u0026pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=store.steampowered.com\u0026sid=7cb7ad2e83f550a0#%F0%9F%87%B9%F0%9F%87%B7%5BTelegram%3Atik7net_vpn%5D",
+    "Protocol": "vless",
+    "URL": "vless://f2496534-b176-401f-83cd-c34faa479752@turkey21gifoiopl.mongral.ir:4444?security=reality\u0026encryption=none\u0026pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=store.steampowered.com\u0026sid=7cb7ad2e83f550a0#%F0%9F%87%B9%F0%9F%87%B7%5BTelegram%3Atik7net_vpn%5D",
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 138,
+      "Latency": 144,
       "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://01997b9d-a1f7-e188-981a-c665b723cfef@91.209.253.43:2096/?type=ws\u0026encryption=none\u0026flow=\u0026host=kejiland.freewarp.eu.org\u0026path=%2Fsnippets\u0026security=tls\u0026sni=kejiland.freewarp.eu.org\u0026fp=chrome#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://b65f4df7-f6af-42b2-877a-cef33f21675e@199.34.229.32:2096?path=%2Fsnippetsfp\u0026security=tls\u0026encryption=none\u0026host=kejiland.freewarp.eu.org\u0026type=ws\u0026sni=kejiland.freewarp.eu.org#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://auto@104.21.81.225:443?security=tls\u0026sni=b96ef9ae.trojanfree-76s.pages.dev\u0026type=ws\u0026host=b96ef9ae.trojanfree-76s.pages.dev\u0026path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443/?type=ws\u0026encryption=none\u0026host=D0dTpVg4Z3.sOlEnTrAa.InFo\u0026path=%2F\u0026security=tls\u0026sni=D0dTpVg4Z3.sOlEnTrAa.InFo\u0026alpn=h3%2Ch2\u0026fp=chrome#%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%86%0A%40networld_vpn",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 7,
       "PacketLoss": 0
     }
   }
