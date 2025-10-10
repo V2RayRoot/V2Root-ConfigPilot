@@ -6,7 +6,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 46.0985070237875,
+      "Throughput": 25.632248403349625,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,8 +17,8 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 132,
-      "Throughput": 9.484848026414165,
+      "Latency": 280,
+      "Throughput": 14.584761618278987,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -29,21 +29,33 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 303,
-      "Throughput": 9.332941351352067,
-      "DNSResolution": 307,
+      "Latency": 316,
+      "Throughput": 10.567457780856348,
+      "DNSResolution": 313,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://857b7905-8b11-4987-994d-09bcbf7979df@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin\u0026security=none\u0026encryption=none\u0026host=Gn8656.io\u0026type=ws#All-%40V2rayAlpha--19",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 29,
+      "Throughput": 0,
+      "DNSResolution": 5,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://cde05ba6-ef0e-4751-b387-bb767612605e@usa85.freednet.org:443?security=reality\u0026encryption=none\u0026pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.utexas.edu#MCI-%40V2rayAlpha--12",
+    "URL": "ss://857b7905-8b11-4987-994d-09bcbf7979df@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin\u0026security=none\u0026encryption=none\u0026host=Gn8656.io\u0026type=ws#All-%40V2rayAlpha--19",
     "Score": 45,
     "Results": {
-      "TLSOK": true,
-      "Latency": 98,
+      "TLSOK": false,
+      "Latency": 11,
       "Throughput": 0,
-      "DNSResolution": 166,
+      "DNSResolution": 34,
       "PacketLoss": 0
     }
   },
@@ -53,45 +65,9 @@
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 96,
+      "Latency": 99,
       "Throughput": 0,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@185.174.136.244:8080?security=reality\u0026encryption=none\u0026pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs\u0026host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=yandex.com\u0026sid=27cfa05000c23cc4#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://TELEGRAM-CONFiGLiNE-bya@test.fast.hosting-ip.com:80?mode=auto\u0026path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048\u0026security=none\u0026encryption=none\u0026host=vipconfiglines2.com\u0026type=xhttp#TeleProxyTele",
-    "Score": 45,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a83efd52-7d6b-453d-e22f-7303b759ffd0@ip.cloudflare.com.appcity-download.ir:2053?path=%2Fmahdi_383ir\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=vless-httpupgrade-tls-host-01-jplhzooymx0erhix4s9s.armin-website.com\u0026fp=chrome\u0026type=httpupgrade\u0026sni=vless-httpupgrade-tls-sni-01-1fxqo9sp9e4iogh7vfjx.armin-website.com#MCI-%40V2rayAlpha--15",
-    "Score": 45,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 21,
-      "Throughput": 0,
-      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -101,9 +77,21 @@
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 96,
+      "Latency": 99,
       "Throughput": 0,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a83efd52-7d6b-453d-e22f-7303b759ffd0@ip.cloudflare.com.appcity-download.ir:2053?path=%2Fmahdi_383ir\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=vless-httpupgrade-tls-host-01-jplhzooymx0erhix4s9s.armin-website.com\u0026fp=chrome\u0026type=httpupgrade\u0026sni=vless-httpupgrade-tls-sni-01-1fxqo9sp9e4iogh7vfjx.armin-website.com#MCI-%40V2rayAlpha--15",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 5,
+      "Throughput": 0,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -113,7 +101,19 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 7,
+      "Latency": 8,
+      "Throughput": 0,
+      "DNSResolution": 4,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://cde05ba6-ef0e-4751-b387-bb767612605e@usa85.freednet.org:443?security=reality\u0026encryption=none\u0026pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.utexas.edu#MCI-%40V2rayAlpha--12",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 270,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
