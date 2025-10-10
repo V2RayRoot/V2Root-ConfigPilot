@@ -1,11 +1,23 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun\u0026security=none\u0026encryption=none\u0026authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Protocol": "shadowsocks",
+    "URL": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 20,
     "Results": {
       "TLSOK": false,
-      "Latency": 87,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun\u0026security=none\u0026encryption=none\u0026authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 101,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -14,22 +26,10 @@
   {
     "Protocol": "shadowsocks",
     "URL": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun\u0026security=none\u0026encryption=none\u0026authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 20,
+    "Score": 5,
     "Results": {
       "TLSOK": false,
-      "Latency": 95,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
+      "Latency": 107,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
