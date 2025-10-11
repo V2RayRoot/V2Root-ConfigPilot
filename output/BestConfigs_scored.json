@@ -5,19 +5,7 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=smart.hegzaconf1.com#🇩🇪[Telegram:NetifyVpn]",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 8,
+      "Latency": 23,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
@@ -29,9 +17,21 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
+      "Latency": 3,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=smart.hegzaconf1.com#🇩🇪[Telegram:NetifyVpn]",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 21,
+      "Throughput": 0,
+      "DNSResolution": 179,
       "PacketLoss": 0
     }
   },
@@ -41,9 +41,9 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 29,
+      "Latency": 21,
       "Throughput": 0,
-      "DNSResolution": 12,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -53,9 +53,9 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 27,
+      "Latency": 32,
       "Throughput": 0,
-      "DNSResolution": 9,
+      "DNSResolution": 83,
       "PacketLoss": 0
     }
   },
@@ -65,9 +65,9 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 150,
+      "Latency": 164,
       "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 21,
       "PacketLoss": 0
     }
   },
@@ -77,9 +77,9 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 231,
+      "Latency": 140,
       "Throughput": 0,
-      "DNSResolution": 38,
+      "DNSResolution": 20,
       "PacketLoss": 0
     }
   },
@@ -89,21 +89,9 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 127,
+      "Latency": 174,
       "Throughput": 0,
-      "DNSResolution": 23,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a3185438-23cb-4fe3-95da-3e5f3fc43525@de.srv.oplcdn.link:8443?security=reality\u0026encryption=none\u0026pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ign.com\u0026note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%5B%F0%9F%87%A9%F0%9F%87%AA%5Dt.me%2FRaiv2mmr",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 125,
-      "Throughput": 0,
-      "DNSResolution": 71,
+      "DNSResolution": 26,
       "PacketLoss": 0
     }
   },
@@ -113,7 +101,19 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 170,
+      "Latency": 121,
+      "Throughput": 0,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a3185438-23cb-4fe3-95da-3e5f3fc43525@de.srv.oplcdn.link:8443?security=reality\u0026encryption=none\u0026pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ign.com\u0026note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%5B%F0%9F%87%A9%F0%9F%87%AA%5Dt.me%2FRaiv2mmr",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 107,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
