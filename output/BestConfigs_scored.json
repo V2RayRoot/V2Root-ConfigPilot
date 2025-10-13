@@ -1,23 +1,11 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://d71560c1-e82b-a2bf-8040-04e3c73dcffb@185.75.135.174:9954?security=reality\u0026encryption=none\u0026pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 129,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
     "URL": "vless://d71560c1-e82b-a2bf-8040-04e3c73dcffb@185.75.135.174:9954?security=reality\u0026encryption=none\u0026pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 30,
     "Results": {
       "TLSOK": true,
-      "Latency": 126,
+      "Latency": 153,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -25,11 +13,11 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun\u0026security=none\u0026encryption=none\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 5,
+    "URL": "ss://d71560c1-e82b-a2bf-8040-04e3c73dcffb@185.75.135.174:9954?security=reality\u0026encryption=none\u0026pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 30,
     "Results": {
-      "TLSOK": false,
-      "Latency": 117,
+      "TLSOK": true,
+      "Latency": 153,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -41,7 +29,19 @@
     "Score": 5,
     "Results": {
       "TLSOK": false,
-      "Latency": 107,
+      "Latency": 137,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun\u0026security=none\u0026encryption=none\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 129,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
