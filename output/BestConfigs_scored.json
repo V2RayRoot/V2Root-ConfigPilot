@@ -1,120 +1,48 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-RAIV2MMR-TELEGRAM-JOIN.up.railway.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026fp=firefox\u0026type=xhttp#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AFG",
-    "Score": 100,
+    "URL": "ss://d71560c1-e82b-a2bf-8040-04e3c73dcffb@185.75.135.174:9954?security=reality\u0026encryption=none\u0026pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 30,
     "Results": {
       "TLSOK": true,
-      "Latency": 47,
-      "Throughput": 54.862245359459834,
-      "DNSResolution": 25,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-RAIV2MMR-TELEGRAM-JOIN.up.railway.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026fp=firefox\u0026type=xhttp#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AFG",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 43,
-      "Throughput": 55.150627013338266,
-      "DNSResolution": 22,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 238.63494369065467,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 141.86052454099297,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026host=azadnet3-9do.pages.dev\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#All-%40V2rayAlpha--42",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 172.53339890752716,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?flow=\u0026type=ws\u0026host=\u0026path=/?ed\u0026security=tls\u0026sni=azadnet3-9do.pages.dev\u0026fp=chrome\u0026allowInsecure=0#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 237.00698806216542,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV\u0026fp=chrome\u0026type=ws\u0026sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV#All-%40V2rayAlpha--28",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 92.75538473414719,
+      "Latency": 129,
+      "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#%F0%9F%87%A9%F0%9F%87%AATelegram%3Atik7net_vpn",
-    "Score": 90,
+    "URL": "vless://d71560c1-e82b-a2bf-8040-04e3c73dcffb@185.75.135.174:9954?security=reality\u0026encryption=none\u0026pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 30,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 230.83943925291356,
+      "Latency": 126,
+      "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#%F0%9F%87%A9%F0%9F%87%AATelegram%3Atik7net_vpn",
-    "Score": 90,
+    "URL": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun\u0026security=none\u0026encryption=none\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
     "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 201.26370967508618,
+      "TLSOK": false,
+      "Latency": 117,
+      "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026host=azadnet3-9do.pages.dev\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#All-%40V2rayAlpha--42",
-    "Score": 90,
+    "URL": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun\u0026security=none\u0026encryption=none\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
     "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 302.21178987123585,
+      "TLSOK": false,
+      "Latency": 107,
+      "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
