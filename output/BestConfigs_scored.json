@@ -1,37 +1,49 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#%F0%9F%87%A9%F0%9F%87%AATelegram%3Atik7net_vpn",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 104.86873141750657,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#%F0%9F%87%A9%F0%9F%87%AATelegram%3Atik7net_vpn",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 176.75596333745483,
+      "Throughput": 187.6034193162015,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#%F0%9F%87%A9%F0%9F%87%AATelegram%3Atik7net_vpn",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 227.18342869547072,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a3185438-23cb-4fe3-95da-3e5f3fc43525@185.144.70.28:8443?security=reality\u0026encryption=none\u0026pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc\u0026host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ign.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 92,
+      "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://c80bbc09-837d-495f-bebc-3e8ac5dede41@kz01-vlr01.tcp-reset-club.net:443?security=reality\u0026encryption=none\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026sid=f79448a30d#%F0%9F%87%B0%F0%9F%87%BF%20Telegram%3Atik7net_vpn",
-    "Score": 40,
+    "URL": "ss://a3185438-23cb-4fe3-95da-3e5f3fc43525@185.144.70.28:8443?security=reality\u0026encryption=none\u0026pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc\u0026host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ign.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 235,
+      "Latency": 92,
       "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -41,9 +53,21 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 140,
+      "Latency": 172,
       "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 35,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c80bbc09-837d-495f-bebc-3e8ac5dede41@kz01-vlr01.tcp-reset-club.net:443?security=reality\u0026encryption=none\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026sid=f79448a30d#%F0%9F%87%B0%F0%9F%87%BF%20Telegram%3Atik7net_vpn",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 183,
+      "Throughput": 0,
+      "DNSResolution": 19,
       "PacketLoss": 0
     }
   },
@@ -53,21 +77,9 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 158,
+      "Latency": 164,
       "Throughput": 0,
-      "DNSResolution": 22,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@kz01-vlr01.tcp-reset-club.net:443?security=reality\u0026encryption=none\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026sid=f79448a30d#%F0%9F%87%B0%F0%9F%87%BF%20Telegram%3Atik7net_vpn",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 237,
-      "Throughput": 0,
-      "DNSResolution": 38,
+      "DNSResolution": 14,
       "PacketLoss": 0
     }
   },
@@ -85,11 +97,11 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@104.24.238.232:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=v3.ganglink.sbs\u0026type=ws\u0026sni=v3.ganglink.sbs#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.25.25.19:8880?encryption=none\u0026security=none\u0026type=ws\u0026host=hk.laoyoutiao.link\u0026path=telegram%F0%9F%87%A8%F0%9F%87%B3+@pgkj666+%2F%3Fed%3D2560#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 1,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -97,23 +109,11 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.25.25.19:8880?encryption=none\u0026security=none\u0026type=ws\u0026host=hk.laoyoutiao.link\u0026path=telegram%F0%9F%87%A8%F0%9F%87%B3+@pgkj666+%2F%3Fed%3D2560#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?path=%2Ffp%3Dchrome%3Fed%3D2048Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026security=tls\u0026encryption=none\u0026host=baomei.pages.dev\u0026type=ws\u0026sni=baomei.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@104.24.238.232:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026host=v3.ganglink.sbs\u0026type=ws\u0026sni=v3.ganglink.sbs#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
