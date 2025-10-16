@@ -1,12 +1,12 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=totoo.pages.dev\u0026fp=chrome\u0026type=ws\u0026sni=totoo.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "ss://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=medrd.vtpmng.top\u0026type=ws\u0026sni=medrd.vtpmng.top#%40mhmdreza_it",
     "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 18,
-      "Throughput": 69.85889751429904,
+      "Throughput": 22.35209753270702,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -17,21 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 47,
-      "Throughput": 19.97090937485911,
-      "DNSResolution": 21,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=totoo.pages.dev\u0026fp=chrome\u0026type=ws\u0026sni=totoo.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 27,
-      "Throughput": 40.05691246065497,
-      "DNSResolution": 11,
+      "Latency": 6,
+      "Throughput": 48.26958340290439,
+      "DNSResolution": 5,
       "PacketLoss": 0
     }
   },
@@ -41,21 +29,33 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 35,
-      "Throughput": 35.96928659951234,
-      "DNSResolution": 28,
+      "Latency": 6,
+      "Throughput": 48.254114563507365,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3FedJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 90,
+    "URL": "ss://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=totoo.pages.dev\u0026fp=chrome\u0026type=ws\u0026sni=totoo.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 149.82729314277375,
-      "DNSResolution": 0,
+      "Latency": 12,
+      "Throughput": 140.67691197859685,
+      "DNSResolution": 4,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=totoo.pages.dev\u0026fp=chrome\u0026type=ws\u0026sni=totoo.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 11,
+      "Throughput": 65.9012076643434,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -65,8 +65,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 143.27704181336296,
+      "Latency": 1,
+      "Throughput": 122.96459208440953,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F%3FedJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 131.63023553091656,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -77,8 +89,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 132.72873624258355,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
       "Latency": 9,
-      "Throughput": 131.76488322238401,
+      "Throughput": 149.21348267663174,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -90,32 +114,8 @@
     "Results": {
       "TLSOK": true,
       "Latency": 9,
-      "Throughput": 13.951407981935688,
-      "DNSResolution": 625,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=medrd.vtpmng.top\u0026type=ws\u0026sni=medrd.vtpmng.top#%40mhmdreza_it",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 274.4525563471682,
-      "DNSResolution": 678,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=azadnet3-9do.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%F0%9F%91%89%40JKVPN",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 155.15187021421937,
-      "DNSResolution": 0,
+      "Throughput": 20.459708002678983,
+      "DNSResolution": 411,
       "PacketLoss": 0
     }
   }
