@@ -1,6 +1,18 @@
 [
   {
     "Protocol": "shadowsocks",
+    "URL": "ss://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=smart.confappha.com#🇩🇪[Telegram:NetifyVpn]",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 0,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
     "URL": "ss://0894f638-777b-48d4-bf35-b965ea6d43cb@151.101.130.133:443?security=tls\u0026sni=live.989bull.com\u0026type=ws\u0026host=Golestanvpn.com\u0026path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048\u0026fp=firefox\u0026alpn=h2,http/1.1#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 60,
     "Results": {
@@ -29,9 +41,9 @@
     "Score": 50,
     "Results": {
       "TLSOK": true,
-      "Latency": 656,
-      "Throughput": 1.5014316852099394,
-      "DNSResolution": 11,
+      "Latency": 548,
+      "Throughput": 2.1073718285297987,
+      "DNSResolution": 20,
       "PacketLoss": 0
     }
   },
@@ -41,19 +53,55 @@
     "Score": 50,
     "Results": {
       "TLSOK": true,
-      "Latency": 544,
-      "Throughput": 1.7004375216390772,
-      "DNSResolution": 39,
+      "Latency": 640,
+      "Throughput": 2.606469530010198,
+      "DNSResolution": 22,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=smart.confappha.com#🇩🇪[Telegram:NetifyVpn]",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 169,
+      "Throughput": 0,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=vless10-9sc.pages.dev\u0026fp=chrome\u0026type=ws\u0026sni=vless10-9sc.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality\u0026encryption=none\u0026pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY\u0026host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026sni=pcmag.com\u0026sid=7650f522feeb047d#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 45,
+    "URL": "ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026encryption=none\u0026host=AeEye-52235.zephorium.uk\u0026fp=chrome\u0026type=ws\u0026sni=AeEye-52235.zephorium.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
     "Results": {
-      "TLSOK": true,
-      "Latency": 99,
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=vless10-9sc.pages.dev\u0026fp=chrome\u0026type=ws\u0026sni=vless10-9sc.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -66,54 +114,6 @@
     "Results": {
       "TLSOK": false,
       "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.12.229:8443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=azadnet-4nb.pages.dev\u0026fp=chrome\u0026type=ws\u0026sni=azadnet-4nb.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026encryption=none\u0026host=AeEye-52235.zephorium.uk\u0026fp=chrome\u0026type=ws\u0026sni=AeEye-52235.zephorium.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.12.229:8443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=azadnet-4nb.pages.dev\u0026fp=chrome\u0026type=ws\u0026sni=azadnet-4nb.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f4578658-5536-409b-a916-c28cd7039eba@212.134.84.110:443?security=reality\u0026encryption=none\u0026pbk=KrybS-rh1L3Edjk3MqOxN23oSzCrcOSG75QTM41YURY\u0026host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026sni=pcmag.com\u0026sid=7650f522feeb047d#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 100,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
