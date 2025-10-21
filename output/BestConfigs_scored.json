@@ -5,20 +5,8 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 340,
-      "Throughput": 22.16918128595545,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://fc859b7f-4a1e-4f59-be63-d77235d9b3a0@www.wodophonex.blog:55877?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net\u0026type=ws#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 122,
-      "Throughput": 11.112395518826496,
+      "Latency": 226,
+      "Throughput": 23.03063771781143,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -29,9 +17,21 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 124,
-      "Throughput": 17.843814881644363,
-      "DNSResolution": 1,
+      "Latency": 144,
+      "Throughput": 17.51169105668,
+      "DNSResolution": 10,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://fc859b7f-4a1e-4f59-be63-d77235d9b3a0@www.wodophonex.blog:55877?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net\u0026type=ws#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 147,
+      "Throughput": 12.51269731825697,
+      "DNSResolution": 21,
       "PacketLoss": 0
     }
   },
@@ -41,31 +41,31 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 308,
-      "Throughput": 10.035342481696215,
-      "DNSResolution": 188,
+      "Latency": 219,
+      "Throughput": 23.41659227605577,
+      "DNSResolution": 107,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@109.172.55.114:443?security=reality\u0026encryption=none\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026sid=175d#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Protocol": "shadowsocks",
+    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=smart.trevanda.info#🇬🇧[Telegram:NetifyVPN]",
     "Score": 45,
     "Results": {
-      "TLSOK": true,
-      "Latency": 98,
+      "TLSOK": false,
+      "Latency": 3,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026mode=gun\u0026security=none\u0026encryption=none\u0026authority=none\u0026type=grpc#🇺🇸[Telegram:NetifyVPN]",
+    "URL": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026security=tls\u0026alpn=h3\u0026encryption=none\u0026fp=random\u0026type=ws\u0026sni=vless.hubp.de#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 20,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -74,6 +74,18 @@
   {
     "Protocol": "shadowsocks",
     "URL": "ss://12345678-1234-1234-1234-123456789123@91.206.71.54:2096?path=%2Fsnippets%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=sni.aizrf.com\u0026type=ws\u0026sni=sni.aizrf.com#🌍",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://321cc007-bb85-41c9-b686-1f45cf5174e0@172.66.45.9:443?path=%2F-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-tik7net_vpn-\u0026security=tls\u0026encryption=none\u0026host=MiSTliNK-CL9.pAgEs.Dev\u0026fp=chrome\u0026type=ws\u0026sni=MiSTliNK-CL9.pAgEs.Dev#Telegram%3Atik7net_vpn",
     "Score": 35,
     "Results": {
       "TLSOK": false,
@@ -90,18 +102,6 @@
     "Results": {
       "TLSOK": false,
       "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=vless10-9sc.pages.dev\u0026fp=chrome\u0026type=ws\u0026sni=vless10-9sc.pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
