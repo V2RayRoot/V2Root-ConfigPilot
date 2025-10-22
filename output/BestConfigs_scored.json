@@ -29,7 +29,31 @@
     "Score": 5,
     "Results": {
       "TLSOK": false,
-      "Latency": 146,
+      "Latency": 108,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun\u0026security=none\u0026encryption=none\u0026authority=\u0026type=grpc\u0026serviceName=#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 100,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun\u0026security=none\u0026encryption=none\u0026authority=\u0026type=grpc\u0026serviceName=#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 5,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 100,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -41,7 +65,7 @@
     "Score": 5,
     "Results": {
       "TLSOK": false,
-      "Latency": 152,
+      "Latency": 102,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
