@@ -1,11 +1,35 @@
 [
   {
+    "Protocol": "vless",
+    "URL": "vless://17e9f875-ded1-4d30-946d-f17a8b98c8a3@104.17.147.22:443?path=%2F%3Fed%3D2560\u0026security=tls\u0026alpn=h3\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=q.qdio008.workers.dev#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "shadowsocks",
     "URL": "ss://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.1.5:443?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=ZYzzZoAO.putata.eU.Org#%F0%9F%87%A9%F0%9F%87%AATelegram%3A%40tik7net_vpn",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://17e9f875-ded1-4d30-946d-f17a8b98c8a3@104.17.147.22:443?path=%2F%3Fed%3D2560\u0026security=tls\u0026alpn=h3\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=q.qdio008.workers.dev#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -17,7 +41,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -29,21 +53,9 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 15,
+      "Latency": 7,
       "Throughput": 0,
-      "DNSResolution": 96,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?encryption=none\u0026security=reality\u0026sni=yahoo.com\u0026fp=chrome\u0026pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU\u0026sid=1aab45\u0026type=tcp\u0026headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 83,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 20,
       "PacketLoss": 0
     }
   },
@@ -53,7 +65,7 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 7,
+      "Latency": 3,
       "Throughput": 0,
       "DNSResolution": 1,
       "PacketLoss": 0
@@ -61,47 +73,35 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://97e4c41d-2a20-4638-9c3d-a918720e5c80@deadseectelegram.khasispc.ir:443?security=reality\u0026encryption=none\u0026pbk=U593zOEZ2sAAD_NXXxAwj9Ez-eIzfXbZPZglX1K6PzM\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.tgju.org\u0026sid=8be6aa26#%40HiByeVPNN%F0%9F%91%88%F0%9F%8C%BF%F0%9F%92%8E",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 282,
-      "Throughput": 0,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://97e4c41d-2a20-4638-9c3d-a918720e5c80@deadseectelegram.khasispc.ir:443?security=reality\u0026encryption=none\u0026pbk=U593zOEZ2sAAD_NXXxAwj9Ez-eIzfXbZPZglX1K6PzM\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.tgju.org\u0026sid=8be6aa26#%40HiByeVPNN%F0%9F%91%88%F0%9F%8C%BF%F0%9F%92%8E",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 187,
-      "Throughput": 0,
-      "DNSResolution": 97,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://0c07016f-6238-4a17-a414-ab0ecd8a8b5e@npmjs.com:80?path=%2F%3Fed%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN\u0026security=none\u0026encryption=none\u0026host=soft-wave-5d2a.kyng-ayaan.workers.dev\u0026type=ws#%40HiByeVPNN%F0%9F%91%88%F0%9F%8C%BF%F0%9F%92%8E",
+    "URL": "vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026mode=gun\u0026security=none\u0026encryption=none\u0026type=grpc#🇺🇸[Telegram:NetifyVPN]",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 5,
+      "Latency": 20,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560\u0026security=tls\u0026alpn=h3\u0026encryption=none\u0026fp=random\u0026type=ws\u0026sni=vless.hubp.de#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3A%40tik7net_vpn%5D",
+    "Protocol": "shadowsocks",
+    "URL": "ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.20:80?encryption=none\u0026security=none\u0026type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 5,
+      "Latency": 19,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026security=tls\u0026alpn=h3\u0026encryption=none\u0026fp=random\u0026type=ws\u0026sni=vless.hubp.de#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -113,7 +113,7 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 5,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
