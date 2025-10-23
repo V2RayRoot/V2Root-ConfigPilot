@@ -6,7 +6,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 6,
-      "Throughput": 56.77161256437253,
+      "Throughput": 59.31920461103007,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -18,42 +18,78 @@
     "Results": {
       "TLSOK": true,
       "Latency": 6,
-      "Throughput": 253.28675178895642,
+      "Throughput": 275.2003923256793,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://5c44b52f-361e-45c5-bd12-dc72f28397ce@auto.quattro-tech.ru:8443?security=reality\u0026encryption=none\u0026pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc\u0026host=-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-\u0026headerType=none\u0026spx=%2F%40skypro_vpn\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=auto.quattro-tech.ru\u0026sid=43dcff53849b81e6#%40%F0%9D%97%A6%F0%9D%97%9E%F0%9D%97%AC%F0%9D%97%A3%F0%9D%97%A5%F0%9D%97%A2_%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1",
-    "Score": 70,
+    "URL": "vless://cb39b7b1-b63b-44f6-837a-b918a2ccc30b@axe.soyet2j.ir:2053?path=%2Fhomepage%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026encryption=none\u0026host=mojito.soyet2j.ir\u0026type=ws\u0026sni=mojito.soyet2j.ir#%40MARAMBASHI%20%F0%9F%92%8B",
+    "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 258,
-      "Throughput": 18.804859637389605,
-      "DNSResolution": 1,
+      "Latency": 196,
+      "Throughput": 24.280594293161354,
+      "DNSResolution": 183,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
     "URL": "ss://5c44b52f-361e-45c5-bd12-dc72f28397ce@auto.quattro-tech.ru:8443?security=reality\u0026encryption=none\u0026pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc\u0026host=-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-\u0026headerType=none\u0026spx=%2F%40skypro_vpn\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=auto.quattro-tech.ru\u0026sid=43dcff53849b81e6#%40%F0%9D%97%A6%F0%9D%97%9E%F0%9D%97%AC%F0%9D%97%A3%F0%9D%97%A5%F0%9D%97%A2_%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1",
-    "Score": 50,
+    "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 227,
-      "Throughput": 3.9777609313193723,
-      "DNSResolution": 1,
+      "Latency": 228,
+      "Throughput": 17.706518601925076,
+      "DNSResolution": 141,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.200.195:443?encryption=none\u0026security=reality\u0026sni=store.steampowered.com\u0026fp=chrome\u0026pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U\u0026type=tcp\u0026headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "ss://cb39b7b1-b63b-44f6-837a-b918a2ccc30b@axe.soyet2j.ir:2053?path=%2Fhomepage%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026encryption=none\u0026host=mojito.soyet2j.ir\u0026type=ws\u0026sni=mojito.soyet2j.ir#%40MARAMBASHI%20%F0%9F%92%8B",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 102,
+      "Throughput": 27.8192156586353,
+      "DNSResolution": 102,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://5c44b52f-361e-45c5-bd12-dc72f28397ce@auto.quattro-tech.ru:8443?security=reality\u0026encryption=none\u0026pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc\u0026host=-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-\u0026headerType=none\u0026spx=%2F%40skypro_vpn\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=auto.quattro-tech.ru\u0026sid=43dcff53849b81e6#%40%F0%9D%97%A6%F0%9D%97%9E%F0%9D%97%AC%F0%9D%97%A3%F0%9D%97%A5%F0%9D%97%A2_%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 245,
+      "Throughput": 18.885874170894482,
+      "DNSResolution": 468,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026host=smart.trevanda.info\u0026fp=chrome\u0026type=ws\u0026sni=smart.trevanda.info#🇬🇧[Telegram:NetifyVPN]",
+    "Score": 45,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 7,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://4417a0bc-4cdf-4c98-a172-4011ce6ecc6c@91.107.168.153:2096?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=JaJSsa3aKBX0okFvB6B8w8uFO850L4jHFdKcqMIhzm4\u0026fp=chrome\u0026spx=%2F\u0026type=grpc\u0026sni=zula.ir#🇩🇪[Telegram:NetifyVpn]",
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 93,
+      "Latency": 91,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -72,48 +108,12 @@
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.200.195:443?encryption=none\u0026security=reality\u0026sni=store.steampowered.com\u0026fp=chrome\u0026pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U\u0026type=tcp\u0026headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 90,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://4417a0bc-4cdf-4c98-a172-4011ce6ecc6c@91.107.168.153:2096?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=JaJSsa3aKBX0okFvB6B8w8uFO850L4jHFdKcqMIhzm4\u0026fp=chrome\u0026spx=/\u0026type=grpc\u0026sni=zula.ir\u0026note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%5B%F0%9F%87%A9%F0%9F%87%AA%5Dt.me%2FRaiv2mmr",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 94,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
-    "URL": "ss://f5eccc79-f8d4-4082-b32c-4b47577784ca@45.61.157.123:46937?security=reality\u0026encryption=none\u0026pbk=e5rwrYQ3XwxplcdbCi92pEl-U9mEbs8v-yzuVn0FXSQ\u0026host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026sni=google.com\u0026sid=ac#%F0%9F%87%BA%F0%9F%87%B8%40v_ngfree%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
+    "URL": "ss://4417a0bc-4cdf-4c98-a172-4011ce6ecc6c@91.107.168.153:2096?mode=gun\u0026security=reality\u0026encryption=none\u0026authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026pbk=JaJSsa3aKBX0okFvB6B8w8uFO850L4jHFdKcqMIhzm4\u0026fp=chrome\u0026spx=%2F\u0026type=grpc\u0026sni=zula.ir#%40MARAMBASHI%20%F0%9F%92%8B",
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 61,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://4417a0bc-4cdf-4c98-a172-4011ce6ecc6c@91.107.168.153:2096?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=JaJSsa3aKBX0okFvB6B8w8uFO850L4jHFdKcqMIhzm4\u0026fp=chrome\u0026spx=/\u0026type=grpc\u0026sni=zula.ir\u0026note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%5B%F0%9F%87%A9%F0%9F%87%AA%5Dt.me%2FRaiv2mmr",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 91,
+      "Latency": 92,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
