@@ -1,36 +1,24 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ab8b492b-1dbe-4171-91e9-a94bc7294d15@axe.soyet2j.ir:2053?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fhomepage%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=mojito.soyet2j.ir#🇫🇮[Telegram:NetifyVPN]",
-    "Score": 100,
+    "Protocol": "vless",
+    "URL": "vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?path=%2Fws\u0026security=tls\u0026encryption=none\u0026host=nodegcf.azurka.org\u0026fp=chrome\u0026type=ws\u0026sni=nodegcf.azurka.org#%D8%B3%D8%B1%DA%86%20%DA%A9%D9%86%20%DA%AF%D8%A7%D9%85%D8%A7%20%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 23.609263919842725,
-      "DNSResolution": 1,
+      "Latency": 3,
+      "Throughput": 19.81196174877799,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
     "URL": "ss://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?path=%2Fws\u0026security=tls\u0026encryption=none\u0026host=nodegcf.azurka.org\u0026fp=chrome\u0026type=ws\u0026sni=nodegcf.azurka.org#%D8%B3%D8%B1%DA%86%20%DA%A9%D9%86%20%DA%AF%D8%A7%D9%85%D8%A7%20%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C",
-    "Score": 75,
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 93,
-      "Throughput": 26.35538010954719,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?path=%2Fws\u0026security=tls\u0026encryption=none\u0026host=nodegcf.azurka.org\u0026fp=chrome\u0026type=ws\u0026sni=nodegcf.azurka.org#%D8%B3%D8%B1%DA%86%20%DA%A9%D9%86%20%DA%AF%D8%A7%D9%85%D8%A7%20%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C",
-    "Score": 75,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 93,
-      "Throughput": 23.673360487881208,
+      "Latency": 3,
+      "Throughput": 215.70206411236958,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -38,24 +26,60 @@
   {
     "Protocol": "vless",
     "URL": "vless://dfb01e06-7538-424b-8e83-b24d9760ef55@de.crynasty.ru:443?security=reality\u0026encryption=none\u0026pbk=5lbdODafEyhN8fbNlp5OhDxy_-Hsm0eLTTi19tLYrBY\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=de.crynasty.ru\u0026sid=e0bdf7ffe49f87b5#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
-    "Score": 70,
+    "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 1169,
-      "Throughput": 22.787179055756837,
-      "DNSResolution": 27,
+      "Latency": 98,
+      "Throughput": 26.93424410671753,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://dfb01e06-7538-424b-8e83-b24d9760ef55@fi.crynasty.ru:443?security=reality\u0026encryption=none\u0026pbk=ai_1ENFq0NM-XYkfQjRp-6J8jytZpFrc9QZusUKVgTg\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fi.crynasty.ru\u0026sid=c92c#All-%40V2ray_Alpha--21",
+    "URL": "ss://dfb01e06-7538-424b-8e83-b24d9760ef55@fi.crynasty.ru:443?security=reality\u0026encryption=none\u0026pbk=ai_1ENFq0NM-XYkfQjRp-6J8jytZpFrc9QZusUKVgTg\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fi.crynasty.ru\u0026sid=c92c#All-%40V2ray_Alpha--24",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 132,
-      "Throughput": 12.873354826890381,
-      "DNSResolution": 2,
+      "Latency": 126,
+      "Throughput": 21.99789671510138,
+      "DNSResolution": 16,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://dfb01e06-7538-424b-8e83-b24d9760ef55@fi.crynasty.ru:443?security=reality\u0026encryption=none\u0026pbk=ai_1ENFq0NM-XYkfQjRp-6J8jytZpFrc9QZusUKVgTg\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fi.crynasty.ru\u0026sid=c92c#All-%40V2ray_Alpha--21",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 131,
+      "Throughput": 21.176982822078614,
+      "DNSResolution": 92,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=smrtwtsm.confappha.com\u0026type=ws\u0026sni=smrtwtsm.confappha.com#All-%40V2ray_Alpha--23",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 0,
+      "DNSResolution": 85,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://dfb01e06-7538-424b-8e83-b24d9760ef55@fi.crynasty.ru:443?security=reality\u0026encryption=none\u0026pbk=ai_1ENFq0NM-XYkfQjRp-6J8jytZpFrc9QZusUKVgTg\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fi.crynasty.ru\u0026sid=c92c#All-%40V2ray_Alpha--24",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 127,
+      "Throughput": 22.519894504090402,
+      "DNSResolution": 6,
       "PacketLoss": 0
     }
   },
@@ -65,21 +89,21 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 43,
+      "Latency": 7,
       "Throughput": 0,
-      "DNSResolution": 23,
+      "DNSResolution": 15,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://dfb01e06-7538-424b-8e83-b24d9760ef55@nl.crynasty.ru:443?security=reality\u0026encryption=none\u0026pbk=ug09ufbbBLb_G-0bSoUhFbH11O00sCp3j9xiVXh6wi4\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=nl.crynasty.ru\u0026sid=dc02e7f17f8a#nitru-%F0%9F%87%B3%F0%9F%87%B1%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
+    "Protocol": "shadowsocks",
+    "URL": "ss://dfb01e06-7538-424b-8e83-b24d9760ef55@fi.crynasty.ru:443?security=reality\u0026encryption=none\u0026pbk=ai_1ENFq0NM-XYkfQjRp-6J8jytZpFrc9QZusUKVgTg\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fi.crynasty.ru\u0026sid=c92c#All-%40V2ray_Alpha--21",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 150,
-      "Throughput": 20.22648960643754,
-      "DNSResolution": 2,
+      "Latency": 119,
+      "Throughput": 22.873339926611692,
+      "DNSResolution": 6,
       "PacketLoss": 0
     }
   },
@@ -90,32 +114,8 @@
     "Results": {
       "TLSOK": true,
       "Latency": 112,
-      "Throughput": 15.474207025953447,
-      "DNSResolution": 6,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://dfb01e06-7538-424b-8e83-b24d9760ef55@fi.crynasty.ru:443?security=reality\u0026encryption=none\u0026pbk=ai_1ENFq0NM-XYkfQjRp-6J8jytZpFrc9QZusUKVgTg\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fi.crynasty.ru\u0026sid=c92c#All-%40V2ray_Alpha--24",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 149,
-      "Throughput": 17.09833906456479,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://dfb01e06-7538-424b-8e83-b24d9760ef55@fi.crynasty.ru:443?security=reality\u0026encryption=none\u0026pbk=ai_1ENFq0NM-XYkfQjRp-6J8jytZpFrc9QZusUKVgTg\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fi.crynasty.ru\u0026sid=c92c#All-%40V2ray_Alpha--24",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 136,
-      "Throughput": 17.908274258003228,
-      "DNSResolution": 2,
+      "Throughput": 25.893569692858406,
+      "DNSResolution": 11,
       "PacketLoss": 0
     }
   }
