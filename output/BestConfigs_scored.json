@@ -1,37 +1,13 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F2IBbZjAugSH41qc5%3Fed\u0026security=tls\u0026encryption=none\u0026host=amir-ebr.pages.dev\u0026type=ws\u0026sni=amIR-ebR.pAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3A%40tik7net_vpn%5D",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 40.26332759804041,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
     "URL": "vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F2IBbZjAugSH41qc5%3Fed\u0026security=tls\u0026encryption=none\u0026host=amir-ebr.pages.dev\u0026type=ws\u0026sni=amIR-ebR.pAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3A%40tik7net_vpn%5D",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 19,
-      "Throughput": 27.03825822622868,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=DfVrMvWc2.SoLeRiOs.nEt#🇺🇸[Telegram:NetifyVPN]",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 19,
-      "Throughput": 30.87010417753351,
-      "DNSResolution": 1,
+      "Latency": 18,
+      "Throughput": 53.34895426280118,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -41,9 +17,45 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 44.97903982366597,
+      "Latency": 10,
+      "Throughput": 66.850678730763,
+      "DNSResolution": 14,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F2IBbZjAugSH41qc5%3Fed\u0026security=tls\u0026encryption=none\u0026host=amir-ebr.pages.dev\u0026type=ws\u0026sni=amIR-ebR.pAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3A%40tik7net_vpn%5D",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 19,
+      "Throughput": 25.46407067214143,
       "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=DfVrMvWc2.SoLeRiOs.nEt#🇺🇸[Telegram:NetifyVPN]",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 53.07721207723925,
+      "DNSResolution": 12,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=RcLZQ-4925.phoenixappdataf.uk\u0026fp=chrome\u0026type=ws\u0026sni=RcLZQ-4925.phoenixappdataf.uk#nitru-%F0%9F%87%A8%F0%9F%87%A6%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 167.27179678534134,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -53,32 +65,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 12.101185081610023,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=RcLZQ-4925.phoenixappdataf.uk\u0026fp=chrome\u0026type=ws\u0026sni=RcLZQ-4925.phoenixappdataf.uk#nitru-%F0%9F%87%A8%F0%9F%87%A6%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 37,
-      "Throughput": 63.79421975088023,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=TUEAF-58650.phoenixappdatag.uk\u0026fp=chrome\u0026type=ws\u0026sni=TUEAF-58650.phoenixappdatag.uk#nitru-%F0%9F%87%AC%F0%9F%87%A7%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 73.8179946660778,
+      "Latency": 11,
+      "Throughput": 11.018767883055679,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -89,8 +77,32 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 33.61142671540559,
+      "Latency": 9,
+      "Throughput": 33.243229913381896,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=RcLZQ-4925.phoenixappdataf.uk\u0026fp=chrome\u0026type=ws\u0026sni=RcLZQ-4925.phoenixappdataf.uk#nitru-%F0%9F%87%A8%F0%9F%87%A6%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 173.68215947712986,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=TUEAF-58650.phoenixappdatag.uk\u0026fp=chrome\u0026type=ws\u0026sni=TUEAF-58650.phoenixappdatag.uk#nitru-%F0%9F%87%AC%F0%9F%87%A7%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 153.84996459143065,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -101,20 +113,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 37,
-      "Throughput": 61.01610221801845,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=RcLZQ-4925.phoenixappdataf.uk\u0026fp=chrome\u0026type=ws\u0026sni=RcLZQ-4925.phoenixappdataf.uk#nitru-%F0%9F%87%A8%F0%9F%87%A6%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 55.740273790790184,
+      "Latency": 9,
+      "Throughput": 168.00615171325114,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
