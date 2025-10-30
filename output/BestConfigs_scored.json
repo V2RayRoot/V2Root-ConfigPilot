@@ -1,25 +1,25 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F2IBbZjAugSH41qc5%3Fed\u0026security=tls\u0026encryption=none\u0026host=amir-ebr.pages.dev\u0026type=ws\u0026sni=amIR-ebR.pAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3A%40tik7net_vpn%5D",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 25,
-      "Throughput": 46.860598237158186,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F2IBbZjAugSH41qc5%3Fed\u0026security=tls\u0026encryption=none\u0026host=amir-ebr.pages.dev\u0026type=ws\u0026sni=amIR-ebR.pAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3A%40tik7net_vpn%5D",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 123.42738659619003,
-      "DNSResolution": 8,
+      "Latency": 5,
+      "Throughput": 116.68485151458835,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F2IBbZjAugSH41qc5%3Fed\u0026security=tls\u0026encryption=none\u0026host=amir-ebr.pages.dev\u0026type=ws\u0026sni=amIR-ebR.pAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3A%40tik7net_vpn%5D",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 61.67823057677156,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -29,8 +29,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 17.004810150647312,
+      "Latency": 2,
+      "Throughput": 11.005590290963994,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -41,8 +41,32 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 49.707591983432955,
+      "Latency": 9,
+      "Throughput": 34.45458353351626,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026host=smrtwtsm.confappha.com\u0026fp=chrome\u0026type=ws\u0026sni=smrtwtsm.confappha.com#🇩🇪[Telegram:NetifyVpn]",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 0,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.84.179.114:443?security=tls\u0026sni=dv.ylks.xyz\u0026type=ws\u0026path=%2Fblue#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 49,
+      "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -53,7 +77,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 47,
+      "Latency": 49,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -61,59 +85,35 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.84.179.114:443?security=tls\u0026sni=dv.ylks.xyz\u0026type=ws\u0026path=%2Fblue#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
+    "URL": "vless://94b249c1-5fa5-4c38-bd27-13df65a61318@kolhozkey1.com:6033?security=reality\u0026encryption=none\u0026pbk=mDXYds1gITU7tWHpZPZ8-ufrqTV1TU7-c-hXtpLNaDo\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=amazon.it\u0026sid=59c1a41ef8721307#%F0%9F%87%A6%F0%9F%87%B9channel%20%40Ettehad_vpn",
+    "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 47,
+      "Latency": 217,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 22,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk\u0026sid=df8611c07d#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 45,
+    "URL": "ss://94b249c1-5fa5-4c38-bd27-13df65a61318@kolhozkey1.com:6033?security=reality\u0026encryption=none\u0026pbk=mDXYds1gITU7tWHpZPZ8-ufrqTV1TU7-c-hXtpLNaDo\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=amazon.it\u0026sid=59c1a41ef8721307#%F0%9F%87%A6%F0%9F%87%B9channel%20%40Ettehad_vpn",
+    "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 84,
+      "Latency": 189,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 26,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=reality\u0026encryption=none\u0026pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=yahoo.com\u0026sid=94f9#🇨🇭[Telegram:NetifyVPN]",
-    "Score": 45,
+    "URL": "ss://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?security=tls\u0026encryption=none\u0026host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026type=ws\u0026sni=vless.muzheng.top#%40MARAMBASHI%20%F0%9F%92%9C",
+    "Score": 35,
     "Results": {
-      "TLSOK": true,
-      "Latency": 97,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=reality\u0026encryption=none\u0026pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=yahoo.com\u0026sid=94f9#🇨🇭[Telegram:NetifyVPN]",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 96,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk\u0026sid=df8611c07d#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 84,
+      "TLSOK": false,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
