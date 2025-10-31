@@ -1,24 +1,12 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=DdLxDxZc3.VeLiNtO.OrG#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 23,
-      "Throughput": 26.797513117089572,
-      "DNSResolution": 7,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F2IBbZjAugSH41qc5%3Fed\u0026security=tls\u0026encryption=none\u0026host=amir-ebr.pages.dev\u0026type=ws\u0026sni=amIR-ebR.pAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3A%40tik7net_vpn%5D",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 58.515122875101945,
+      "Latency": 15,
+      "Throughput": 79.57601026395253,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
@@ -29,9 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 87.64254855109613,
-      "DNSResolution": 5,
+      "Latency": 38,
+      "Throughput": 202.0939969493911,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -41,8 +29,20 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 49.912157099113415,
+      "Latency": 5,
+      "Throughput": 78.27138583637007,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-RAIV2MMR-TELEGRAM-JOIN.up.railway.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026fp=firefox\u0026type=xhttp#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AFG",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 161.88821558006114,
       "DNSResolution": 4,
       "PacketLoss": 0
     }
@@ -53,9 +53,21 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 15.719783107707354,
+      "Latency": 9,
+      "Throughput": 10.97435366938455,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=DdLxDxZc3.VeLiNtO.OrG#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 17,
+      "Throughput": 20.380307596059335,
+      "DNSResolution": 117,
       "PacketLoss": 0
     }
   },
@@ -65,45 +77,21 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 20.540556162466228,
+      "Latency": 1,
+      "Throughput": 8.001258293881813,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=DdLxDxZc3.VeLiNtO.OrG#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 84,
-      "Throughput": 39.67415497496596,
-      "DNSResolution": 81,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-RAIV2MMR-TELEGRAM-JOIN.up.railway.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026fp=firefox\u0026type=xhttp#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AFG",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 50,
-      "Throughput": 70.17876039114974,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
     "URL": "ss://fa856c4c-b4c3-46e5-93ad-7b1bcf205fa3@gerpanel7.hipay.su:443?security=reality\u0026encryption=none\u0026pbk=BkLraNl-jKNmC6kV302GBsr81RB4vP_ZKoAlFpqYTys\u0026host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026headerType=none\u0026fp=random\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ger7.hipay.su\u0026sid=8eb16bc6b2f0589c#%40MARAMBASHI%20%F0%9F%A7%A1",
-    "Score": 75,
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 94,
-      "Throughput": 26.100990428509064,
-      "DNSResolution": 245,
+      "Latency": 345,
+      "Throughput": 16.789604452806255,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -113,9 +101,21 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 106,
-      "Throughput": 26.887212522721917,
-      "DNSResolution": 80,
+      "Latency": 160,
+      "Throughput": 11.226763411691199,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=DdLxDxZc3.VeLiNtO.OrG#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 180,
+      "Throughput": 47.87857858411049,
+      "DNSResolution": 110,
       "PacketLoss": 0
     }
   }
