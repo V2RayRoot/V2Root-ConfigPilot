@@ -1,24 +1,24 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-RAIV2MMR-TELEGRAM-JOIN.up.railway.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026fp=firefox\u0026type=xhttp#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AFG",
+    "Protocol": "shadowsocks",
+    "URL": "ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-RAIV2MMR-TELEGRAM-JOIN.up.railway.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026fp=firefox\u0026type=xhttp#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AFG",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 33.327972667796274,
-      "DNSResolution": 92,
+      "Latency": 29,
+      "Throughput": 25.561302723358065,
+      "DNSResolution": 8,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@gr-raiv2mmr-Telegram.koyeb.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026type=xhttp#JOIN%20BEDE%20RAIV2MMR%F0%9F%94%A5",
+    "Protocol": "shadowsocks",
+    "URL": "ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=TUEAF-58650.phoenixappdatag.uk\u0026fp=chrome\u0026type=ws\u0026sni=TUEAF-58650.phoenixappdatag.uk#nitru-%F0%9F%87%AC%F0%9F%87%A7%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 6,
-      "Throughput": 59.43346799917096,
+      "Throughput": 197.8609353212883,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -30,7 +30,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 5,
-      "Throughput": 75.21887187337715,
+      "Throughput": 67.70166489564753,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -42,7 +42,19 @@
     "Results": {
       "TLSOK": true,
       "Latency": 6,
-      "Throughput": 61.105113007757815,
+      "Throughput": 58.40088222708727,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=RcLZQ-4925.phoenixappdataf.uk\u0026fp=chrome\u0026type=ws\u0026sni=RcLZQ-4925.phoenixappdataf.uk#nitru-%F0%9F%87%A8%F0%9F%87%A6%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 171.59254894532677,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -54,19 +66,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 6,
-      "Throughput": 257.1204527685477,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=TUEAF-58650.phoenixappdatag.uk\u0026fp=chrome\u0026type=ws\u0026sni=TUEAF-58650.phoenixappdatag.uk#nitru-%F0%9F%87%AC%F0%9F%87%A7%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 212.06594805646063,
+      "Throughput": 203.46711007575743,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -77,8 +77,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 134.32866846808128,
+      "Latency": 6,
+      "Throughput": 223.31405425883906,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@gr-raiv2mmr-Telegram.koyeb.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026type=xhttp#JOIN%20BEDE%20RAIV2MMR%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 60.48340667223608,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -90,32 +102,20 @@
     "Results": {
       "TLSOK": true,
       "Latency": 5,
-      "Throughput": 94.21905336326924,
+      "Throughput": 74.93822350454428,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=RcLZQ-4925.phoenixappdataf.uk\u0026fp=chrome\u0026type=ws\u0026sni=RcLZQ-4925.phoenixappdataf.uk#nitru-%F0%9F%87%A8%F0%9F%87%A6%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruConfing",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 202.37947157758668,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-RAIV2MMR-TELEGRAM-JOIN.up.railway.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026fp=firefox\u0026type=xhttp#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AFG",
+    "Protocol": "vless",
+    "URL": "vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-RAIV2MMR-TELEGRAM-JOIN.up.railway.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026fp=firefox\u0026type=xhttp#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AFG",
     "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 61,
-      "Throughput": 30.519520521852062,
-      "DNSResolution": 56,
+      "Latency": 98,
+      "Throughput": 36.94554566929186,
+      "DNSResolution": 51,
       "PacketLoss": 0
     }
   }
