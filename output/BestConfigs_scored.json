@@ -1,37 +1,61 @@
 [
   {
+    "Protocol": "vless",
+    "URL": "vless://ddab5550-3938-4aba-943c-f23a08d07dc5@check-host.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=tls\u0026sni=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG\u0026allowInsecure=1\u0026fp=chrome\u0026type=ws\u0026path=/ws\u0026host=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG\u0026encryption=none#🇵🇱[Telegram:NetifyVPN]",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 12.945210401846143,
+      "DNSResolution": 25,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "shadowsocks",
     "URL": "ss://ddab5550-3938-4aba-943c-f23a08d07dc5@check-host.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=tls\u0026sni=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG\u0026allowInsecure=1\u0026fp=chrome\u0026type=ws\u0026path=/ws\u0026host=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG\u0026encryption=none#🇵🇱[Telegram:NetifyVPN]",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 12.918041195365323,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ddab5550-3938-4aba-943c-f23a08d07dc5@check-host.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=tls\u0026sni=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG\u0026allowInsecure=1\u0026fp=chrome\u0026type=ws\u0026path=/ws\u0026host=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG\u0026encryption=none#🇵🇱[Telegram:NetifyVPN]",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 40,
-      "Throughput": 16.10880164927066,
-      "DNSResolution": 124,
+      "Latency": 17,
+      "Throughput": 296.3042416396647,
+      "DNSResolution": 24,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
     "URL": "vless://c924d667-d2da-40fe-bbb5-52e3eeef6c48@s5.cloudconvert.top:443?security=reality\u0026encryption---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026pbk=X8bSZA_Q-ReshpPEd17oMU7YfZlHWoOEGB7HM8ZSmXk\u0026headerType---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=s5.cloudconvert.top\u0026sid=abc82912#%F0%9F%87%BA%F0%9F%87%B8channel%20%40Ettehad_vpn",
-    "Score": 75,
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 84,
-      "Throughput": 13.406344531434508,
-      "DNSResolution": 350,
+      "Latency": 23,
+      "Throughput": 113.63298692885434,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://83e57c25-1c8e-429f-974f-e3bde3fff12d@pl.nnvpn.io:443?security=reality\u0026encryption---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026pbk=GzBxNfzlhGMOR8qYpXMAHJBNL03fcbEPVN2MXc6iC2g\u0026headerType---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=pl.nnvpn.io\u0026sid=f3a8ef9e63946aaa#%F0%9F%87%B5%F0%9F%87%B1%20channel%20%40Ettehad_vpn",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 173,
+      "Throughput": 15.490156343522726,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4f8b80d1-667e-4ab5-9285-0fbd0e3dcab2@uk29.clearorbitllc.com:443?security=reality\u0026encryption=none\u0026pbk=ypGN6MzbIpHm_fdhVIIUS-vLCXlNkOZrxZ4VNMxcxWw\u0026host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=uk29.clearorbitllc.com\u0026sid=7286#nitru-%F0%9F%87%AC%F0%9F%87%A7%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruStore",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 141,
+      "Throughput": 5.789583758671738,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -41,21 +65,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 265,
-      "Throughput": 15.986119540153435,
-      "DNSResolution": 44,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@fr.monkeyisland.life:443?security=reality\u0026encryption=none\u0026pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fr.monkeyisland.life\u0026sid=f0b1e665ba4cb104#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 901,
-      "Throughput": 11.492635301656918,
-      "DNSResolution": 72,
+      "Latency": 165,
+      "Throughput": 15.490426466253336,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -65,57 +77,45 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 367,
-      "Throughput": 10.354125121952988,
-      "DNSResolution": 79,
+      "Latency": 241,
+      "Throughput": 10.134290060310857,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://6206bf1d-068d-4186-9eee-d534a01cb98e@kazakhstan22.clearorbitllc.com:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=reality\u0026encryption=none\u0026pbk=fHpH9g6a4LZOICjPOq7yFgqKWNG5a_idjfoDBGk_OwQ\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=kazakhstan22.clearorbitllc.com\u0026sid=aee3#🇰🇿[Telegram:NetifyVPN]",
-    "Score": 60,
+    "URL": "ss://83e57c25-1c8e-429f-974f-e3bde3fff12d@fi.nnvpn.io:443?security=reality\u0026encryption=none\u0026pbk=exGXRdYWKYHQ9nNUxmZRFzWUxKJgBsaytdpbH95nFQs\u0026headerType=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fi.nnvpn.io\u0026sid=2942353c0b9ace1f#nitru-%F0%9F%87%AB%F0%9F%87%AE%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruStore",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 320,
-      "Throughput": 11.312813900712847,
-      "DNSResolution": 136,
+      "Latency": 193,
+      "Throughput": 10.221497970033502,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://83e57c25-1c8e-429f-974f-e3bde3fff12d@fi.nnvpn.io:443?security=reality\u0026encryption---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026pbk=exGXRdYWKYHQ9nNUxmZRFzWUxKJgBsaytdpbH95nFQs\u0026headerType---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fi.nnvpn.io\u0026sid=2942353c0b9ace1f#%F0%9F%87%AB%F0%9F%87%AE%20channel%20%40Ettehad_vpn",
-    "Score": 60,
+    "URL": "vless://83e57c25-1c8e-429f-974f-e3bde3fff12d@pl.nnvpn.io:443?security=reality\u0026encryption=none\u0026pbk=GzBxNfzlhGMOR8qYpXMAHJBNL03fcbEPVN2MXc6iC2g\u0026headerType=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=pl.nnvpn.io\u0026sid=f3a8ef9e63946aaa#nitru-%F0%9F%87%AE%F0%9F%87%A9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruStore",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 207,
-      "Throughput": 13.39222748396516,
-      "DNSResolution": 122,
+      "Latency": 177,
+      "Throughput": 14.98362339596074,
+      "DNSResolution": 15,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://83e57c25-1c8e-429f-974f-e3bde3fff12d@fi.nnvpn.io:443?security=reality\u0026encryption---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026pbk=exGXRdYWKYHQ9nNUxmZRFzWUxKJgBsaytdpbH95nFQs\u0026headerType---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fi.nnvpn.io\u0026sid=2942353c0b9ace1f#%F0%9F%87%AB%F0%9F%87%AE%20channel%20%40Ettehad_vpn",
-    "Score": 60,
+    "URL": "ss://c924d667-d2da-40fe-bbb5-52e3eeef6c48@s5.cloudconvert.top:443?security=reality\u0026encryption=none\u0026pbk=X8bSZA_Q-ReshpPEd17oMU7YfZlHWoOEGB7HM8ZSmXk\u0026headerType=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=s5.cloudconvert.top\u0026sid=abc82912#nitru-%F0%9F%87%BA%F0%9F%87%B2%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruStore",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 172,
-      "Throughput": 16.462596898562396,
-      "DNSResolution": 115,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://c924d667-d2da-40fe-bbb5-52e3eeef6c48@s5.cloudconvert.top:443?security=reality\u0026encryption---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026pbk=X8bSZA_Q-ReshpPEd17oMU7YfZlHWoOEGB7HM8ZSmXk\u0026headerType---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=s5.cloudconvert.top\u0026sid=abc82912#%F0%9F%87%BA%F0%9F%87%B8channel%20%40Ettehad_vpn",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1034,
-      "Throughput": 13.374040233944397,
-      "DNSResolution": 345,
+      "Latency": 219,
+      "Throughput": 112.38942689161205,
+      "DNSResolution": 6,
       "PacketLoss": 0
     }
   }
