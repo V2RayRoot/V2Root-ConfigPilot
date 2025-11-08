@@ -1,13 +1,25 @@
 [
   {
     "Protocol": "vless",
+    "URL": "vless://f8f192d7-44df-477c-b1f5-76e77a42f511@news.zoom.us:2096?path=%2Fadmin%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=shalana.onhit.xyz\u0026fp=chrome\u0026type=ws\u0026sni=shalana.onhit.xyz#%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 175.68274542237194,
+      "DNSResolution": 9,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
     "URL": "vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=jnir-cdn.javidnaman.com\u0026type=ws\u0026sni=jnir-cdn.javidnaman.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 44.93827943584955,
-      "DNSResolution": 3,
+      "Latency": 26,
+      "Throughput": 34.4020286257044,
+      "DNSResolution": 10,
       "PacketLoss": 0
     }
   },
@@ -17,32 +29,8 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 148.8991929198434,
-      "DNSResolution": 12,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f8f192d7-44df-477c-b1f5-76e77a42f511@news.zoom.us:2096?path=%2Fadmin%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=shalana.onhit.xyz\u0026fp=chrome\u0026type=ws\u0026sni=shalana.onhit.xyz#%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 156.33520574055058,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=jnir-cdn.javidnaman.com\u0026type=ws\u0026sni=jnir-cdn.javidnaman.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 139.74896369592688,
+      "Latency": 15,
+      "Throughput": 107.87722751641702,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -53,33 +41,45 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 39.22318693992997,
-      "DNSResolution": 1,
+      "Latency": 6,
+      "Throughput": 101.67704077513694,
+      "DNSResolution": 20,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://3c4486a2-68af-4fa9-80f9-7f2e0387871d@necrolyte.fonixapp.org:37843?security=reality\u0026encryption=none\u0026pbk=_i2_awg5k15giouaYv4HqMGsbUC7OuY5YAU2CZVBpE8\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ilovepdf.com\u0026sid=5e#IR--%40V2ray_Alpha-15",
+    "URL": "ss://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=jnir-cdn.javidnaman.com\u0026type=ws\u0026sni=jnir-cdn.javidnaman.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 13,
+      "Throughput": 111.11422230933577,
+      "DNSResolution": 14,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0226ef52-e556-4f36-ab0f-6c9f5414942a@bonefletcher.fonixapp.org:22925?security=reality\u0026encryption=none\u0026pbk=Pzsb-3zlxbYLJwRE0ACSqzTL7h3ubqREGMEs17q_1z4\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ilovepdf.com\u0026sid=886d#IR--%40V2ray_Alpha-14",
     "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 99,
-      "Throughput": 21.92612777298573,
+      "Latency": 98,
+      "Throughput": 22.450424047538235,
       "DNSResolution": 9,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://31d35cbe-92d1-44cd-9991-e58d00499fb2@magnataur.fonixapp.org:10922?security=reality\u0026encryption=none\u0026pbk=BWGB4WcFMvsxbu7rfyGTqVSWVlxNUz0HbmotfvlXuxg\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ilovepdf.com\u0026sid=d2900d#MCI-%40V2ray_Alpha--9",
+    "URL": "vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@7ygb3r6bw.royalcontl5h1i.lat:2052?mode=gun\u0026security=reality\u0026encryption=none\u0026authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA\u0026fp=chrome\u0026type=grpc\u0026sni=web.eitaa.com\u0026sid=c745dcb0#%40MARAMBASHI%20%F0%9F%A7%A1",
     "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 98,
-      "Throughput": 23.013208641095083,
-      "DNSResolution": 8,
+      "Latency": 95,
+      "Throughput": 24.12520120568588,
+      "DNSResolution": 14,
       "PacketLoss": 0
     }
   },
@@ -89,20 +89,20 @@
     "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 91,
-      "Throughput": 6.332387362523247,
-      "DNSResolution": 8,
+      "Latency": 89,
+      "Throughput": 26.27999508301292,
+      "DNSResolution": 9,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://140ae345-e7b8-49f5-8920-85f82085344e@tidehunter.fonixapp.org:40745?security=reality\u0026encryption=none\u0026pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=deepl.com\u0026sid=3b#MCI-%40V2ray_Alpha--11",
-    "Score": 85,
+    "URL": "vless://7b6df8d0-100c-48e1-beec-30effe41c04e@earthshaker.fonixapp.org:43326?security=reality\u0026encryption=none\u0026pbk=e4jsuyfW6xyjfYOVsFI4AKnJihGp4MMqtRv5TaVurlw\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=stackoverflow.com\u0026sid=c3#IR--%40V2ray_Alpha-8",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 99,
-      "Throughput": 17.64811706172528,
+      "Latency": 108,
+      "Throughput": 9.88230272570845,
       "DNSResolution": 9,
       "PacketLoss": 0
     }
@@ -110,12 +110,12 @@
   {
     "Protocol": "vless",
     "URL": "vless://3c4486a2-68af-4fa9-80f9-7f2e0387871d@necrolyte.fonixapp.org:37843?security=reality\u0026encryption=none\u0026pbk=_i2_awg5k15giouaYv4HqMGsbUC7OuY5YAU2CZVBpE8\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ilovepdf.com\u0026sid=5e#IR--%40V2ray_Alpha-15",
-    "Score": 85,
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 93,
-      "Throughput": 21.53715615485995,
-      "DNSResolution": 2,
+      "Latency": 181,
+      "Throughput": 9.459308100942708,
+      "DNSResolution": 9,
       "PacketLoss": 0
     }
   }
