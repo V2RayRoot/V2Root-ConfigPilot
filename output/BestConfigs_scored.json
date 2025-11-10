@@ -5,9 +5,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 11,
-      "Throughput": 130.04284619185617,
-      "DNSResolution": 7,
+      "Latency": 3,
+      "Throughput": 130.56671388666277,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -17,9 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 13,
-      "Throughput": 201.92647957841788,
-      "DNSResolution": 4,
+      "Latency": 3,
+      "Throughput": 213.7522307049201,
+      "DNSResolution": 7,
       "PacketLoss": 0
     }
   },
@@ -30,7 +30,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 40.55639603616791,
+      "Throughput": 28.667538644800665,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -41,8 +41,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 31,
-      "Throughput": 15.206375289567163,
+      "Latency": 10,
+      "Throughput": 14.841526979853485,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=nkang2replace.airlineshoma.com\u0026type=ws\u0026sni=nkang2replace.airlineshoma.com#All-%40V2ray_Alpha--12",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 14.170024411887793,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -53,8 +65,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 34.174855691866,
+      "Latency": 1,
+      "Throughput": 29.73167158957491,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -62,60 +74,48 @@
   {
     "Protocol": "shadowsocks",
     "URL": "ss://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@london.fonixapp.org:11133?security=reality\u0026encryption=none\u0026pbk=y3umRzGnap4t5V4C_rlt870Rku-TG4F8ttsq-_5gKTY\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cloudtalk.io\u0026sid=d3e9#All-%40V2ray_Alpha--28",
-    "Score": 85,
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 89,
-      "Throughput": 17.08824473606393,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://866f919c-aa0d-4edb-b6a9-d5412c1c2ca3@drow-ranger.fonixapp.org:56765?security=reality\u0026encryption=none\u0026pbk=DHIEcMf3BTEwQ_XEFx1j02jzn0KkKKeyPWH7wnWwuG8\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=stackoverflow.com\u0026sid=f50f5a#%F0%9F%92%80N%CE%9ETISHI%CE%A3LD%F0%9F%94%A5%20%7C%20%40netishield%20%E2%9A%A1%EF%B8%8F%F0%9F%9B%A1%EF%B8%8F%F0%9F%91%BE%F0%9F%87%A9%F0%9F%87%AA",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 99,
-      "Throughput": 11.62482043484986,
+      "Latency": 154,
+      "Throughput": 14.044159753721614,
       "DNSResolution": 8,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@london.fonixapp.org:11133?security=reality\u0026encryption=none\u0026pbk=y3umRzGnap4t5V4C_rlt870Rku-TG4F8ttsq-_5gKTY\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cloudtalk.io\u0026sid=d3e9#All-%40V2ray_Alpha--28",
-    "Score": 85,
+    "URL": "vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-FREE-RAIV2MMR.up.railway.app:443?mode=packet-up\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026encryption=none\u0026type=xhttp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 94,
-      "Throughput": 8.60013617305114,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://866f919c-aa0d-4edb-b6a9-d5412c1c2ca3@drow-ranger.fonixapp.org:56765?security=reality\u0026encryption=none\u0026pbk=DHIEcMf3BTEwQ_XEFx1j02jzn0KkKKeyPWH7wnWwuG8\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=stackoverflow.com\u0026sid=f50f5a#All-%40V2ray_Alpha--31",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 98,
-      "Throughput": 14.72594678026635,
-      "DNSResolution": 94,
+      "Latency": 7,
+      "Throughput": 0,
+      "DNSResolution": 26,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-FREE-RAIV2MMR.up.railway.app:443?mode=packet-up\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026encryption=none\u0026type=xhttp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "URL": "ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-FREE-RAIV2MMR.up.railway.app:443?mode=packet-up\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026encryption=none\u0026type=xhttp#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AFG",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
+      "Latency": 7,
       "Throughput": 0,
-      "DNSResolution": 18,
+      "DNSResolution": 4,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ca72617f-337c-4b0e-84f0-d3c29f82d2b7@ipw.all-loc.org:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=smart.incascx.info#nitru-%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruStore",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
