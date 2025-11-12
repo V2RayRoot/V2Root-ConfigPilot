@@ -1,13 +1,37 @@
 [
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=fl-3-direct.djarbnet.ru#nitru-%F0%9F%87%AB%F0%9F%87%AE%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruStore",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 145,
+      "Throughput": 14.45717404643055,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
     "URL": "vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=fl-3-direct.djarbnet.ru#nitru-%F0%9F%87%AB%F0%9F%87%AE%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruStore",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 319,
-      "Throughput": 22.826642028502327,
-      "DNSResolution": 11,
+      "Latency": 127,
+      "Throughput": 22.696972269293223,
+      "DNSResolution": 13,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026encryption=none\u0026host=snippets.nneko.netlib.re\u0026fp=random\u0026type=ws\u0026sni=snippets.nneko.netlib.re#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -25,7 +49,19 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026encryption=none\u0026host=snippets.nneko.netlib.re\u0026fp=random\u0026type=ws\u0026sni=snippets.nneko.netlib.re#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=%2F%3Fed%3D2048---skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn---\u0026security=tls\u0026encryption=none\u0026host=snippets.nneko.netlib.re\u0026fp=random\u0026type=ws\u0026sni=snippets.nneko.netlib.re#%40Skypro_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%D9%85%D8%A7%20%F0%9F%A4%8D%F0%9F%AB%B6",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@8.35.211.250:2083?path=%2Fproxyip%3Dtw.soso.edu.kg%3A43%3Fed%3D2048telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----\u0026security=tls\u0026encryption=none\u0026host=stall3.sni2026.netlib.re\u0026fp=random\u0026type=ws\u0026sni=stall3.sni2026.netlib.re#%DA%AF%D8%B1%D9%88%D9%87%20%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%88v_ng_gap%40%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
     "Score": 60,
     "Results": {
       "TLSOK": true,
@@ -49,7 +85,7 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://6911bb2c-a220-45a6-94fb-1ea8d9a1e94e@8.35.211.250:2083?path=%2Fproxyip%3Dtw.soso.edu.kg%3A43%3Fed%3D2048telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----\u0026security=tls\u0026encryption=none\u0026host=stall3.sni2026.netlib.re\u0026fp=random\u0026type=ws\u0026sni=stall3.sni2026.netlib.re#%DA%AF%D8%B1%D9%88%D9%87%20%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%88v_ng_gap%40%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
+    "URL": "ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=%2F%3Fed%3D2048---skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn---\u0026security=tls\u0026encryption=none\u0026host=snippets.nneko.netlib.re\u0026fp=random\u0026type=ws\u0026sni=snippets.nneko.netlib.re#%40Skypro_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%D9%85%D8%A7%20%F0%9F%A4%8D%F0%9F%AB%B6",
     "Score": 60,
     "Results": {
       "TLSOK": true,
@@ -60,60 +96,24 @@
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://70162051-6706-4972-ae6f-202742f8e32c@eng30.digitunnel.org:443?security=reality\u0026encryption=none\u0026pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs\u0026host=%2F%3FPLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.abingdon.org.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Protocol": "shadowsocks",
+    "URL": "ss://70162051-6706-4972-ae6f-202742f8e32c@eng30.digitunnel.org:443?security=reality\u0026encryption=none\u0026pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs\u0026host=%2F%3FPLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.abingdon.org.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 55,
     "Results": {
       "TLSOK": true,
-      "Latency": 95,
+      "Latency": 92,
       "Throughput": 0,
-      "DNSResolution": 81,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=fl-3-direct.djarbnet.ru#nitru-%F0%9F%87%AB%F0%9F%87%AE%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%40nitruStore",
-    "Score": 50,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 248,
-      "Throughput": 3.176234304522053,
-      "DNSResolution": 13,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://4f020b1b-ecc1-4419-9aae-2caf388aae7e@140.82.52.229:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fpvdqxqws\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=638981351827444389.insight-amshd.com#🇫🇷[Telegram:NetifyVPN]",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 84,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://fd0c31ff-abf0-4a8c-b7ad-4bb91410b922@95.179.217.174:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fjjshwgws\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=638981351827252195.insight-amshd.com#🇫🇷[Telegram:NetifyVPN]",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 82,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 84,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://fd0c31ff-abf0-4a8c-b7ad-4bb91410b922@95.179.217.174:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fjjshwgws\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=638981351827252195.insight-amshd.com#🇫🇷[Telegram:NetifyVPN]",
+    "URL": "vless://4f020b1b-ecc1-4419-9aae-2caf388aae7e@140.82.52.229:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fpvdqxqws\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=638981351827444389.insight-amshd.com#🇫🇷[Telegram:NetifyVPN]",
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 82,
+      "Latency": 85,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
