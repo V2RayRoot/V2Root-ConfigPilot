@@ -1,13 +1,73 @@
 [
   {
     "Protocol": "shadowsocks",
+    "URL": "ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@nl-raiv2mmr-join.up.railway.app:443?mode=packet-up\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026type=xhttp#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AFG",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 13,
+      "Throughput": 47.365657702767265,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@nl-raiv2mmr-join.up.railway.app:443?mode=packet-up\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026type=xhttp#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AFG",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 20,
+      "Throughput": 59.35920961550339,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=fl-3-direct.djarbnet.ru#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 147,
+      "Throughput": 19.71063428830995,
+      "DNSResolution": 18,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
     "URL": "ss://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=fl-3-direct.djarbnet.ru#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 181,
-      "Throughput": 15.032425599687146,
+      "Latency": 144,
+      "Throughput": 17.88506443688024,
       "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026type=grpc\u0026sni=pqh27v5.hiddendom.shop#🇺🇸[Telegram:NetifyVPN]",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 11,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?path=%2F%3Fed%3D2048Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026security=tls\u0026encryption=none\u0026host=snippets.nneko.netlib.re\u0026fp=random\u0026type=ws\u0026sni=snippets.nneko.netlib.re#Telegram%3A%40Enzewa_network",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -17,57 +77,9 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026encryption=none\u0026host=snippets.nneko.netlib.re\u0026fp=random\u0026type=ws\u0026sni=snippets.nneko.netlib.re#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%B5%D9%84%DB%8C%D8%A7%20%D8%AA%D9%88%20%DA%86%D9%86%D9%84%D8%8C%20%D8%A7%DB%8C%D9%86%D8%A7%20%D8%A8%DA%86%D9%87%20%D8%A8%D8%A7%D8%B2%DB%8C%D9%87%20%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%AB%F0%9F%87%AE%20%40RayphoriaHub",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://282ef8a2-2718-41d2-a32e-fbfc8e11ac73@199.232.201.0:443?security=tls\u0026sni=Telegram-Daily-Configs.com\u0026type=ws\u0026host=Telegram-Daily-Configs.com\u0026path=%2FJoin%2FTelegram%3A%40Daily_Configs%3Fed%3D2560\u0026fp=randomized\u0026alpn=h2,http/1.1#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?path=%2F%3Fed%3D2048Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026security=tls\u0026encryption=none\u0026host=snippets.nneko.netlib.re\u0026fp=random\u0026type=ws\u0026sni=snippets.nneko.netlib.re#Telegram%3A%40Enzewa_network",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=fl-3-direct.djarbnet.ru#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 173,
-      "Throughput": 10.30947385852745,
-      "DNSResolution": 197,
       "PacketLoss": 0
     }
   },
@@ -77,19 +89,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://7daf6801-f3b9-4139-8394-2dd91723c26f@104.17.234.114:8443?security=tls\u0026sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com\u0026type=ws\u0026host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com\u0026path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080\u0026fp=chrome\u0026alpn=h3,h2,http/1.1#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -101,7 +101,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -109,11 +109,11 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026type=grpc\u0026sni=pqh27v5.hiddendom.shop#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20NormanV2raY%40%F0%9F%86%94%EF%B8%8F%F0%9F%94%94",
+    "URL": "vless://282ef8a2-2718-41d2-a32e-fbfc8e11ac73@199.232.201.0:443?security=tls\u0026sni=Telegram-Daily-Configs.com\u0026type=ws\u0026host=Telegram-Daily-Configs.com\u0026path=%2FJoin%2FTelegram%3A%40Daily_Configs%3Fed%3D2560\u0026fp=randomized\u0026alpn=h2,http/1.1#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
