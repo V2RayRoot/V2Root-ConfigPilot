@@ -1,11 +1,23 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=%2F%3Fed%3D2048J--_T\u0026security=tls\u0026encryption=none\u0026host=snippets.nneko.netlib.re\u0026fp=random\u0026type=ws\u0026sni=snippets.nneko.netlib.re#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Protocol": "shadowsocks",
+    "URL": "ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=----Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12\u0026security=tls\u0026encryption=none\u0026host=snippets.nneko.netlib.re\u0026fp=random\u0026type=ws\u0026sni=snippets.nneko.netlib.re#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 17,
+      "Latency": 5,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=----Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12\u0026security=tls\u0026encryption=none\u0026host=snippets.nneko.netlib.re\u0026fp=random\u0026type=ws\u0026sni=snippets.nneko.netlib.re#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -17,9 +29,69 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 17,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=%2F%3Fed%3D2048J--_T\u0026security=tls\u0026encryption=none\u0026host=snippets.nneko.netlib.re\u0026fp=random\u0026type=ws\u0026sni=snippets.nneko.netlib.re#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@nls.jykvpn.com:443?security=reality\u0026encryption=none\u0026pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw\u0026host=---skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn---\u0026headerType=none\u0026fp=chrome\u0026spx=%2F---skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn---\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cdnjs.com\u0026sid=4c02bbbfa833b3b6#%D9%87%D9%84%D9%86%D8%AF%20%D8%AA%D9%85%D8%A7%D9%85%DB%8C%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87%D8%A7%20%F0%9F%A9%B5%F0%9F%92%AB%20%7C%20%40SkyPro_Vpn",
+    "Score": 55,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 96,
+      "Throughput": 0,
+      "DNSResolution": 32,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6142e134-346a-4ffe-bf5b-c3fb7e3c9dfb@185.76.243.221:443?security=reality\u0026encryption=none\u0026pbk=5O_oPvLPDvqyDJF-6_8MTjsVGhloJ3G9WWfHlw6RPBA\u0026headerType=none\u0026fp=chrome\u0026spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.google.com\u0026sid=85225c27630d023f#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 93,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6142e134-346a-4ffe-bf5b-c3fb7e3c9dfb@185.76.243.221:443?security=reality\u0026encryption=none\u0026pbk=5O_oPvLPDvqyDJF-6_8MTjsVGhloJ3G9WWfHlw6RPBA\u0026headerType=none\u0026fp=chrome\u0026spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.google.com\u0026sid=85225c27630d023f#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 93,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@nls.jykvpn.com:443?security=reality\u0026encryption=none\u0026pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw\u0026host=---skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn---\u0026headerType=none\u0026fp=chrome\u0026spx=%2F---skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn---\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cdnjs.com\u0026sid=4c02bbbfa833b3b6#%D9%87%D9%84%D9%86%D8%AF%20%D8%AA%D9%85%D8%A7%D9%85%DB%8C%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87%D8%A7%20%F0%9F%A9%B5%F0%9F%92%AB%20%7C%20%40SkyPro_Vpn",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 177,
+      "Throughput": 0,
+      "DNSResolution": 15,
       "PacketLoss": 0
     }
   },
@@ -29,7 +101,7 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 17,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -41,79 +113,7 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 17,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://6142e134-346a-4ffe-bf5b-c3fb7e3c9dfb@185.76.243.221:443?security=reality\u0026encryption=none\u0026pbk=5O_oPvLPDvqyDJF-6_8MTjsVGhloJ3G9WWfHlw6RPBA\u0026headerType=none\u0026fp=chrome\u0026spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.google.com\u0026sid=85225c27630d023f#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 135,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://6142e134-346a-4ffe-bf5b-c3fb7e3c9dfb@185.76.243.221:443?security=reality\u0026encryption=none\u0026pbk=5O_oPvLPDvqyDJF-6_8MTjsVGhloJ3G9WWfHlw6RPBA\u0026headerType=none\u0026fp=chrome\u0026spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.google.com\u0026sid=85225c27630d023f#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 138,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://-4146XJHYAzJ4K8Ov6_LBQ@38.180.45.61:11000/?type=ws\u0026path=%2Ftw\u0026security=tls\u0026sni=noproblemvpn.ru#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 159,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://telegram-id-directvpn@35.181.249.180:22223?security=tls\u0026alpn=http/1.1\u0026headerType=none\u0026type=tcp\u0026sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://telegram-id-privatevpns@3.73.70.67:22222?security=tls\u0026alpn=http/1.1\u0026headerType=none\u0026type=tcp\u0026sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f7a204a7-e3f8-4349-a12d-7e6868a3b84e@213.156.152.223:28689?security=reality\u0026encryption=none\u0026pbk=8UJHCuXan_An_xsXNPCN7h_0Yj4EwRtTATjrPiqcC3M\u0026host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=smallpdf.com\u0026sid=687dcc8146#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
+      "Latency": 6,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
