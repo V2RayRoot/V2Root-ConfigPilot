@@ -61,18 +61,18 @@ jobs:
           go build -o configpilot .
           ./configpilot
 
-      - name: Post best configs to Telegram
-        env:
-          TELEGRAM_SESSION_STRING: ${{ secrets.TELEGRAM_SESSION_STRING }}
-          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
-          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
-        run: |
-          python3 PostBestConfigs.py
+      # - name: Post best configs to Telegram
+      #   env:
+      #     TELEGRAM_SESSION_STRING: ${{ secrets.TELEGRAM_SESSION_STRING }}
+      #     TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+      #     TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+      #   run: |
+      #     python3 PostBestConfigs.py
 
-      - name: Debug post_configs.log
-        run: |
-          cat Logs/post_configs.log || echo "No log file found"
-        if: failure() # Only run if previous steps fail
+      # - name: Debug post_configs.log
+      #   run: |
+      #     cat Logs/post_configs.log || echo "No log file found"
+      #   if: failure()
 
       - name: Commit and push results
         run: |
