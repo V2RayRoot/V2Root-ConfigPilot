@@ -1,25 +1,37 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://ab6ae524-eae1-47f6-966e-2cd6b777cef7@usa1.clear-vpn.org:443?security=reality\u0026encryption=none\u0026pbk=tCsa9mOLB6gCTdF4cx-s4BhckPBw846-cxggHOhmkyw\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=usa1.clear-vpn.org\u0026sid=fb228829c3da833b#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%BA%F0%9F%87%B8%7C%E2%80%A2usa%20%7C",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 43,
-      "Throughput": 57.2099807960397,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://56fe9ccf-4de1-4c49-a771-da2fb82f730f@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026host=zebra.zulair.site.\u0026fp=chrome\u0026type=ws\u0026sni=zebra.zulair.site.#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 38,
-      "Throughput": 49.78432249119157,
-      "DNSResolution": 3,
+      "Latency": 7,
+      "Throughput": 28.71386400145634,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://56fe9ccf-4de1-4c49-a771-da2fb82f730f@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026host=zebra.zulair.site.\u0026fp=chrome\u0026type=ws\u0026sni=zebra.zulair.site.#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 20,
+      "Throughput": 45.75237495860196,
+      "DNSResolution": 91,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://98f670fb-8a5a-4935-b4c8-9569ec19658a@cosmin.ns.cloudflare.com:443?path=%2Fufoxglws\u0026security=tls\u0026encryption=none\u0026host=638991681638525311.jetta-amsia.info\u0026type=ws\u0026sni=638991681638525311.jetta-amsia.info#All-%40V2ray_Alpha--21",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 10.450125382824995,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -29,8 +41,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 10.747036097752053,
+      "Latency": 6,
+      "Throughput": 11.171144469116662,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -41,68 +53,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 24,
-      "Throughput": 9.29979042608407,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://0a079dd2-86dc-4209-b2b2-0069c5d6f1de@norman.ns.cloudflare.com:443?path=%2Fkbsozzws\u0026security=tls\u0026encryption=none\u0026host=638990351278603478.civic-amshz.info\u0026type=ws\u0026sni=638990351278603478.civic-amshz.info#All-%40V2ray_Alpha--20",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 6.133334222462351,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fybkqtgws\u0026security=tls\u0026encryption=none\u0026host=638991523882288916.impreza-amsia.info\u0026type=ws\u0026sni=638991523882288916.impreza-amsia.info#🇫🇷[Telegram:NetifyVPN]",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 9.089679443205686,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://98f670fb-8a5a-4935-b4c8-9569ec19658a@cosmin.ns.cloudflare.com:443?path=%2Fufoxglws\u0026security=tls\u0026encryption=none\u0026host=638991681638525311.jetta-amsia.info\u0026type=ws\u0026sni=638991681638525311.jetta-amsia.info#All-%40V2ray_Alpha--21",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 24,
-      "Throughput": 9.689551599418492,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=%2Fybkqtgws\u0026security=tls\u0026encryption=none\u0026host=638991523882288916.impreza-amsia.info\u0026type=ws\u0026sni=638991523882288916.impreza-amsia.info#All-%40V2ray_Alpha--19",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 6.779579897552057,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fybkqtgws\u0026security=tls\u0026encryption=none\u0026host=638991523882288916.impreza-amsia.info\u0026type=ws\u0026sni=638991523882288916.impreza-amsia.info#🇫🇷[Telegram:NetifyVPN]",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 7.984615490396185,
+      "Latency": 6,
+      "Throughput": 11.914605940128364,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -113,8 +65,56 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 7.67363507453456,
+      "Latency": 6,
+      "Throughput": 9.184242125093569,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fybkqtgws\u0026security=tls\u0026encryption=none\u0026host=638991523882288916.impreza-amsia.info\u0026type=ws\u0026sni=638991523882288916.impreza-amsia.info#🇫🇷[Telegram:NetifyVPN]",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 11.002388972097588,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0a079dd2-86dc-4209-b2b2-0069c5d6f1de@norman.ns.cloudflare.com:443?path=%2Fkbsozzws\u0026security=tls\u0026encryption=none\u0026host=638990351278603478.civic-amshz.info\u0026type=ws\u0026sni=638990351278603478.civic-amshz.info#All-%40V2ray_Alpha--20",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 10.176763758874248,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=%2Fybkqtgws\u0026security=tls\u0026encryption=none\u0026host=638991523882288916.impreza-amsia.info\u0026type=ws\u0026sni=638991523882288916.impreza-amsia.info#All-%40V2ray_Alpha--19",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 10.930602593354328,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fybkqtgws\u0026security=tls\u0026encryption=none\u0026host=638991523882288916.impreza-amsia.info\u0026type=ws\u0026sni=638991523882288916.impreza-amsia.info#🇫🇷[Telegram:NetifyVPN]",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 12.657368528937546,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
