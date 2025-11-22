@@ -1,37 +1,25 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.147.22:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026host=GRouND-sloth.zulair.SIte.\u0026fp=chrome\u0026type=ws\u0026sni=GRouND-sloth.zulair.SIte.#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.147.22:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026host=GRouND-sloth.zulair.SIte.\u0026fp=chrome\u0026type=ws\u0026sni=GRouND-sloth.zulair.SIte.#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://83367474-3a42-4aa8-a74f-82e930370975@esp1.clear-vpn.org:443?security=reality\u0026encryption=none\u0026pbk=tCsa9mOLB6gCTdF4cx-s4BhckPBw846-cxggHOhmkyw\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=esp1.clear-vpn.org\u0026sid=fb228829c3da833b#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 55,
+    "Protocol": "vless",
+    "URL": "vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.147.22:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026host=GRouND-sloth.zulair.SIte.\u0026fp=chrome\u0026type=ws\u0026sni=GRouND-sloth.zulair.SIte.#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 75,
+      "Latency": 1,
       "Throughput": 0,
-      "DNSResolution": 97,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -41,7 +29,7 @@
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 88,
+      "Latency": 91,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -53,7 +41,19 @@
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 90,
+      "Latency": 89,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://07223716-e4fe-41e0-a5c2-66e9e1914c21@46.8.231.189:80?security=reality\u0026encryption=none\u0026pbk=auO272-_OexAycHNbiFJCPjdAiujfj2XgjqyAvL5ewo\u0026host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026sni=www.cloudflare.com\u0026sid=7ace7f5f#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 96,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -65,21 +65,9 @@
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 87,
+      "Latency": 91,
       "Throughput": 0,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d03e4b60-435d-4fc9-acd6-b63cff37b6eb@tunnyl.ru:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=google.com\u0026fp=random\u0026security=reality\u0026pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs\u0026sid=0f1d6a#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 75,
-      "Throughput": 0,
-      "DNSResolution": 121,
       "PacketLoss": 0
     }
   },
@@ -97,11 +85,11 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://7c63f43f-f526-49bb-b5c8-2be26e11ef00@83.136.211.252:443?mode=stream-one\u0026path=%2Fstatue\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%278%27%7D%7D\u0026host=statue.lnmarketplace.net\u0026fp=firefox\u0026type=xhttp\u0026sni=statue.lnmarketplace.net#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "ss://33948d80-d11f-461e-9379-1a2f155e3b5d@185.168.208.224:8443?security=reality\u0026encryption=none\u0026pbk=KzWuXQklAIVCPtjF7m25sGfSSvQYZP_zbY2ORib-VzE\u0026host=google.com%3A443\u0026headerType---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=google.com\u0026sid=62ec44ae23107c6f#%F0%9F%87%BA%F0%9F%87%B8Telegram%20%40Ettehad_vpn%20%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86",
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 90,
+      "Latency": 67,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -109,13 +97,25 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://83367474-3a42-4aa8-a74f-82e930370975@esp1.clear-vpn.org:443?security=reality\u0026encryption=none\u0026pbk=tCsa9mOLB6gCTdF4cx-s4BhckPBw846-cxggHOhmkyw\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=esp1.clear-vpn.org\u0026sid=fb228829c3da833b#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 40,
+    "URL": "vless://33948d80-d11f-461e-9379-1a2f155e3b5d@185.168.208.224:8443?security=reality\u0026encryption=none\u0026pbk=KzWuXQklAIVCPtjF7m25sGfSSvQYZP_zbY2ORib-VzE\u0026host=google.com%3A443\u0026headerType---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=google.com\u0026sid=62ec44ae23107c6f#%F0%9F%87%BA%F0%9F%87%B8Telegram%20%40Ettehad_vpn%20%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86",
+    "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 163,
+      "Latency": 67,
       "Throughput": 0,
-      "DNSResolution": 14,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://07223716-e4fe-41e0-a5c2-66e9e1914c21@46.8.231.189:80?security=reality\u0026encryption=none\u0026pbk=auO272-_OexAycHNbiFJCPjdAiujfj2XgjqyAvL5ewo\u0026host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore\u0026headerType=none\u0026fp=firefox\u0026spx=%2F\u0026type=tcp\u0026sni=www.cloudflare.com\u0026sid=7ace7f5f#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 91,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
