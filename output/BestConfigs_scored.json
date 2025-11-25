@@ -1,12 +1,12 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@west.ns.cloudflare.com:443?path=%2Fharman\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=xverb.ice-pierli.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "URL": "ss://64f8f5e3-00eb-4a2e-be91-daab6634ae89@brenna.ns.cloudflare.com:443?path=%2Ftssnuows\u0026security=tls\u0026encryption=none\u0026host=638991939314084689.sonata-amsib.info\u0026type=ws\u0026sni=638991939314084689.sonata-amsib.info#%40IRAN_V2RAY1%20%F0%9F%87%B2%F0%9F%87%BE",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 7.788543937231065,
+      "Latency": 2,
+      "Throughput": 12.445652267339984,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,8 +17,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 8.984463364039701,
+      "Latency": 1,
+      "Throughput": 15.005425765010413,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -29,8 +29,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 27,
-      "Throughput": 8.805733413025221,
+      "Latency": 2,
+      "Throughput": 13.010557555165313,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -41,8 +41,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 5.396634488738837,
+      "Latency": 1,
+      "Throughput": 10.537767777933775,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@west.ns.cloudflare.com:443?path=%2Fharman\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=xverb.ice-pierli.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 11.733498692748178,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -54,19 +66,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 9.008027925210857,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://64f8f5e3-00eb-4a2e-be91-daab6634ae89@brenna.ns.cloudflare.com:443?path=%2Ftssnuows\u0026security=tls\u0026encryption=none\u0026host=638991939314084689.sonata-amsib.info\u0026type=ws\u0026sni=638991939314084689.sonata-amsib.info#%40IRAN_V2RAY1%20%F0%9F%87%B2%F0%9F%87%BE",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 6.785383452833124,
+      "Throughput": 17.461285993505395,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -77,9 +77,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 112,
-      "Throughput": 21.08306437206922,
-      "DNSResolution": 8,
+      "Latency": 193,
+      "Throughput": 16.07256896683592,
+      "DNSResolution": 25,
       "PacketLoss": 0
     }
   },
@@ -89,7 +89,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -101,21 +101,21 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
+      "Latency": 1,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://da040e80-8704-4393-8720-5527637a8d6d@nls.jykvpn.com:443?security=reality\u0026encryption=none\u0026pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw\u0026host=Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cdnjs.com\u0026sid=4c02bbbfa833b3b6#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
-    "Score": 55,
+    "Protocol": "shadowsocks",
+    "URL": "ss://382057df-2f09-4d64-d9c3-f23364286fda@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto\u0026path=%2F%3Fed%3D2048telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----\u0026security=none\u0026encryption=none\u0026host=shop.slimshopboyss.ir\u0026type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40v_ngfree%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
+    "Score": 45,
     "Results": {
-      "TLSOK": true,
-      "Latency": 92,
+      "TLSOK": false,
+      "Latency": 2,
       "Throughput": 0,
-      "DNSResolution": 7,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
