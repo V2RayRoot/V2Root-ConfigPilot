@@ -1,12 +1,24 @@
 [
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@west.ns.cloudflare.com:443?path=%2Fharman\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=xverb.ice-pierli.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 7.788543937231065,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
     "URL": "vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@west.ns.cloudflare.com:443?path=%2Fharman\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=xverb.ice-pierli.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 5.7357592908886526,
+      "Latency": 2,
+      "Throughput": 8.984463364039701,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,8 +29,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 9.8939969044454,
+      "Latency": 27,
+      "Throughput": 8.805733413025221,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -29,8 +41,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 24,
-      "Throughput": 9.987352279241566,
+      "Latency": 3,
+      "Throughput": 5.396634488738837,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -41,20 +53,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 10.335118504141766,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@west.ns.cloudflare.com:443?path=%2Fharman\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=xverb.ice-pierli.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 6.462361890470946,
+      "Latency": 2,
+      "Throughput": 9.008027925210857,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -65,8 +65,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 10.715142801337628,
+      "Latency": 3,
+      "Throughput": 6.785383452833124,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -77,9 +77,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 230,
-      "Throughput": 16.145323345034427,
-      "DNSResolution": 2,
+      "Latency": 112,
+      "Throughput": 21.08306437206922,
+      "DNSResolution": 8,
       "PacketLoss": 0
     }
   },
@@ -89,7 +89,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -101,7 +101,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -109,13 +109,13 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://5b0ad7d2-df20-4d99-8ec8-ad0dfde3958f@HqV2Ray.fast.hosting-ip.com:80?mode=auto\u0026path=%2F%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG%3Fed%3D2056\u0026security=none\u0026encryption=none\u0026host=fefwefwfeifnekl.com\u0026type=xhttp#%D8%B3%D8%B1%DA%86%20%DA%A9%D9%86%20%DA%AF%D8%A7%D9%85%D8%A7%20%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C",
-    "Score": 45,
+    "URL": "vless://da040e80-8704-4393-8720-5527637a8d6d@nls.jykvpn.com:443?security=reality\u0026encryption=none\u0026pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw\u0026host=Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=cdnjs.com\u0026sid=4c02bbbfa833b3b6#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
+    "Score": 55,
     "Results": {
-      "TLSOK": false,
-      "Latency": 19,
+      "TLSOK": true,
+      "Latency": 92,
       "Throughput": 0,
-      "DNSResolution": 92,
+      "DNSResolution": 7,
       "PacketLoss": 0
     }
   }
