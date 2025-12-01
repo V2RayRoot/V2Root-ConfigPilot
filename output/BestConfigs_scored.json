@@ -5,32 +5,20 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 12,
-      "Throughput": 181.32692185514577,
-      "DNSResolution": 1,
+      "Latency": 40,
+      "Throughput": 23.041526086355752,
+      "DNSResolution": 27,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://17805789-e705-4b20-b487-e9372b06fe4c@www.speedtest.net:443?path=%2FeyJqdW5rIjoidTFKWmpMZmRod1Jqa2pPUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=001.electrocellco-cf-003.workers.dev\u0026type=ws\u0026sni=001.eLEcTRoceLLcO-Cf-003.WORkeRS.dEV#%40HiByeVPNN%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%E2%9A%A1%E2%98%98%EF%B8%8F",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 93.29565634899507,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://a27518e0-0593-4771-9e9c-f3b2134ded11@clyde.ns.cloudflare.com:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fmjfutiws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=639001485683144053.stinger-amsip.info#🇲🇪[Telegram:NetifyVPN]",
+    "Protocol": "shadowsocks",
+    "URL": "ss://ff153813-f7ba-4a70-9a9f-a33bbaeb9ec3@betty.ns.cloudflare.com:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fskoiykws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=639001517381359848.impreza-amsip.info#🇺🇸[Telegram:NetifyVPN]",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 12.63168751339847,
+      "Latency": 3,
+      "Throughput": 6.7158027592033465,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -42,19 +30,19 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 434.2009210487038,
+      "Throughput": 397.89188919267934,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ff153813-f7ba-4a70-9a9f-a33bbaeb9ec3@betty.ns.cloudflare.com:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fskoiykws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=639001517381359848.impreza-amsip.info#🇺🇸[Telegram:NetifyVPN]",
+    "Protocol": "vless",
+    "URL": "vless://a27518e0-0593-4771-9e9c-f3b2134ded11@clyde.ns.cloudflare.com:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=%2Fmjfutiws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=639001485683144053.stinger-amsip.info#🇲🇪[Telegram:NetifyVPN]",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 8.72935903773412,
+      "Latency": 2,
+      "Throughput": 6.828316725943811,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -66,7 +54,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 9.922393241560291,
+      "Throughput": 8.36820922253602,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -78,7 +66,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 13.900136947276735,
+      "Throughput": 10.687920822771,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -89,33 +77,45 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 9.386356864827134,
+      "Latency": 2,
+      "Throughput": 11.739670327546385,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://83e57c25-1c8e-429f-974f-e3bde3fff12d@pl.nnvpn.io:443?security=reality\u0026encryption=none\u0026pbk=GzBxNfzlhGMOR8qYpXMAHJBNL03fcbEPVN2MXc6iC2g\u0026headerType=\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=pl.nnvpn.io\u0026sid=f3a8ef9e63946aaa#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40Ettehad_vpn",
+    "URL": "vless://17805789-e705-4b20-b487-e9372b06fe4c@www.speedtest.net:443?path=%2FeyJqdW5rIjoidTFKWmpMZmRod1Jqa2pPUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=001.electrocellco-cf-003.workers.dev\u0026type=ws\u0026sni=001.eLEcTRoceLLcO-Cf-003.WORkeRS.dEV#%40HiByeVPNN%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%E2%9A%A1%E2%98%98%EF%B8%8F",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 52,
+      "Throughput": 32.30152804558773,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://2dfa740c-8069-4993-8b96-c3e5dc540593@nl5.ultima.foundation:22231?security=reality\u0026encryption=none\u0026pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng\u0026headerType=none\u0026fp=qq\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=nl.ultima.foundation#All-%23V2rayAlpha--5",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 312,
-      "Throughput": 12.720146562927916,
-      "DNSResolution": 19,
+      "Latency": 121,
+      "Throughput": 22.762641086192716,
+      "DNSResolution": 16,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://769b9fab-0f54-499d-bab2-95872693d3a5@masterserver1.huqpmfood.ir:1331?mode=auto\u0026path=%2F%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1\u0026security=reality\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D\u0026pbk=qSCPbuLS9FrLTRzIbKmD3vNOnsk_ZUxmjPywZXeM_Co\u0026fp=chrome\u0026spx=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN\u0026type=xhttp\u0026sni=stackoverflow.com\u0026sid=077dc29a23d311f2#%40HiByeVPNN%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%E2%9A%A1%E2%98%98%EF%B8%8F",
+    "URL": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@at.ultima.foundation:22231?security=reality\u0026encryption=none\u0026pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng\u0026headerType=none\u0026fp=edge\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=at.ultima.foundation\u0026sid=a9725715bf4c62ff#All-%23V2rayAlpha--4",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 322,
-      "Throughput": 12.106397559204975,
-      "DNSResolution": 5,
+      "Latency": 171,
+      "Throughput": 8.581232418000052,
+      "DNSResolution": 7,
       "PacketLoss": 0
     }
   }
