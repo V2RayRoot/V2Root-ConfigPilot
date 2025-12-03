@@ -1,48 +1,12 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://55d198a1-a5f5-4a96-9e4a-70950ea166a8@clyde.ns.cloudflare.com:443?path=%2Fpvoxsaws\u0026security=tls\u0026encryption=none\u0026host=639002442881637239.supra-amsir.info\u0026type=ws\u0026sni=639002442881637239.supra-amsir.info#All-%40V2rayAlpha-36",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 7.303349966840692,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?path=%2Flzummpws\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639003456258253450.mustang-amsit.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 11.50186636544199,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?path=%2Fdupbatws\u0026security=tls\u0026encryption=none\u0026host=639003456253079909.defender-amsis.info\u0026type=ws\u0026sni=639003456253079909.defender-amsis.info#All-%40V2rayAlpha-31",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 7.781627199605568,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=%2Fegakxows\u0026security=tls\u0026encryption=none\u0026host=639002592262919469.sentra-amsir.info\u0026type=ws\u0026sni=639002592262919469.sentra-amsir.info#All-%40V2rayAlpha-35",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 21,
-      "Throughput": 9.027686886524666,
+      "Latency": 17,
+      "Throughput": 13.75572492207803,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -53,8 +17,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 26,
-      "Throughput": 11.243715083011745,
+      "Latency": 18,
+      "Throughput": 17.355144941069945,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -65,8 +29,44 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 13.46069055775581,
+      "Latency": 18,
+      "Throughput": 17.290163506678923,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?path=%2Fdupbatws\u0026security=tls\u0026encryption=none\u0026host=639003456253079909.defender-amsis.info\u0026type=ws\u0026sni=639003456253079909.defender-amsis.info#All-%40V2rayAlpha-31",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 18,
+      "Throughput": 16.065993510374877,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?path=%2Flzummpws\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639003456258253450.mustang-amsit.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 18,
+      "Throughput": 15.627711377401106,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://55d198a1-a5f5-4a96-9e4a-70950ea166a8@clyde.ns.cloudflare.com:443?path=%2Fpvoxsaws\u0026security=tls\u0026encryption=none\u0026host=639002442881637239.supra-amsir.info\u0026type=ws\u0026sni=639002442881637239.supra-amsir.info#All-%40V2rayAlpha-36",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 17,
+      "Throughput": 16.12121246244445,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -77,8 +77,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 10.658676354408662,
+      "Latency": 18,
+      "Throughput": 17.267008463070226,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -90,31 +90,31 @@
     "Results": {
       "TLSOK": true,
       "Latency": 24,
-      "Throughput": 9.072357377830064,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://55d198a1-a5f5-4a96-9e4a-70950ea166a8@clyde.ns.cloudflare.com:443?path=%2Fpvoxsaws\u0026security=tls\u0026encryption=none\u0026host=639002442881637239.supra-amsir.info\u0026type=ws\u0026sni=639002442881637239.supra-amsir.info#All-%40V2rayAlpha-36",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 11.742340436473215,
+      "Throughput": 14.175214112578093,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?path=%2Flzummpws\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639003456258253450.mustang-amsit.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "URL": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws\u0026security=tls\u0026encryption=none\u0026host=639001966536690941.prius-amsiq.info\u0026type=ws\u0026sni=639001966536690941.prius-amsiq.info#All-%40V2rayAlpha-30",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 8.823012736787591,
+      "Latency": 17,
+      "Throughput": 18.704497160596542,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@cosmin.ns.cloudflare.com:443?path=%2Fcahttingws\u0026security=tls\u0026encryption=none\u0026host=639000411272217052.swift-amsin.info\u0026fp=chrome\u0026type=ws\u0026sni=639000411272217052.swift-amsin.info#All-%40V2rayAlpha-37",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 17,
+      "Throughput": 14.26298624260631,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
