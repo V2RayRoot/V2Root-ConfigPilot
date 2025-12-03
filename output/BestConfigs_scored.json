@@ -1,73 +1,25 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?path=%2Flzummpws\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639003456258253450.mustang-amsit.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 12.387291153967977,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
     "URL": "vless://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?path=%2Flzummpws\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639003456258253450.mustang-amsit.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 9,
-      "Throughput": 12.007198801973333,
+      "Throughput": 6.682246636537931,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto\u0026path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D\u0026fp=firefox\u0026type=xhttp\u0026sni=plb.tunnelguard.ru#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 70,
+    "URL": "ss://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?path=%2Flzummpws\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639003456258253450.mustang-amsit.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 214,
-      "Throughput": 7.746235291643294,
-      "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://953d937c-3b44-4be4-91c3-6cc27de2dc89@0wtadbshb4f3.zozodogg.com:2053?mode=gun\u0026security=reality\u0026encryption=none\u0026authority=Tel%3A%40VPN_KING_V2RAY\u0026pbk=_80k9z8fjFgVyF8jg79QuH6hc0gm0eztMq04rgBu8lw\u0026fp=firefox\u0026spx=%2F\u0026type=grpc\u0026serviceName=Tel%3A%40VPN_KING_V2RAY%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY\u0026sni=tgju.org\u0026sid=e1be54#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%20%22%20NormanV2ray%40%20%22%F0%9F%86%94%EF%B8%8F%20%D8%AA%D9%82%D8%AF%DB%8C%D9%85%20%D9%85%DB%8C%DA%A9%D9%86%D8%AF%F0%9F%A4%8D%F0%9F%8E%89",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 142,
-      "Throughput": 15.707449846137182,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e5603527-ac9b-4f69-906e-34bea11c5835@easygovpnkeys16.com:6093?security=reality\u0026encryption=none\u0026pbk=W91d6Qp8Avflj9K7rMYGGdhxV_W0Ds_FSu_c996zknk\u0026host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=eas1goauth.com\u0026sid=57e13c11bb421329#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 179,
-      "Throughput": 5.61606208413986,
-      "DNSResolution": 35,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto\u0026path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D\u0026fp=firefox\u0026type=xhttp\u0026sni=plb.tunnelguard.ru#%F0%9F%87%B5%F0%9F%87%B1%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 420,
-      "Throughput": 7.90389544455212,
-      "DNSResolution": 2,
+      "Latency": 9,
+      "Throughput": 6.702127348798962,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -77,9 +29,45 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 575,
-      "Throughput": 9.347759944696502,
-      "DNSResolution": 2,
+      "Latency": 915,
+      "Throughput": 6.707375714141104,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e5603527-ac9b-4f69-906e-34bea11c5835@easygovpnkeys16.com:6093?security=reality\u0026encryption=none\u0026pbk=W91d6Qp8Avflj9K7rMYGGdhxV_W0Ds_FSu_c996zknk\u0026host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=eas1goauth.com\u0026sid=57e13c11bb421329#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 238,
+      "Throughput": 5.252191464086173,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e5603527-ac9b-4f69-906e-34bea11c5835@easygovpnkeys16.com:6093?security=reality\u0026encryption=none\u0026pbk=W91d6Qp8Avflj9K7rMYGGdhxV_W0Ds_FSu_c996zknk\u0026host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=eas1goauth.com\u0026sid=57e13c11bb421329#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 170,
+      "Throughput": 5.0812910725759295,
+      "DNSResolution": 51,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://953d937c-3b44-4be4-91c3-6cc27de2dc89@0wtadbshb4f3.zozodogg.com:2053?mode=gun\u0026security=reality\u0026encryption=none\u0026authority=Tel%3A%40VPN_KING_V2RAY\u0026pbk=_80k9z8fjFgVyF8jg79QuH6hc0gm0eztMq04rgBu8lw\u0026fp=firefox\u0026spx=%2F\u0026type=grpc\u0026serviceName=Tel%3A%40VPN_KING_V2RAY%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY%20%40VPN_KING_V2RAY\u0026sni=tgju.org\u0026sid=e1be54#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%20%22%20NormanV2ray%40%20%22%F0%9F%86%94%EF%B8%8F%20%D8%AA%D9%82%D8%AF%DB%8C%D9%85%20%D9%85%DB%8C%DA%A9%D9%86%D8%AF%F0%9F%A4%8D%F0%9F%8E%89",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 143,
+      "Throughput": 16.59449802448309,
+      "DNSResolution": 46,
       "PacketLoss": 0
     }
   },
@@ -89,19 +77,19 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 206,
-      "Throughput": 16.267426040416936,
-      "DNSResolution": 46,
+      "Latency": 198,
+      "Throughput": 17.13802490535483,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls\u0026sni=pardazeshvpn-tg48.pages.dev\u0026type=ws\u0026host=pardazeshvpn-tg48.pages.dev\u0026path=%2F%3Fed%3D2048\u0026fp=random#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Protocol": "shadowsocks",
+    "URL": "ss://bf2778fe-c7b3-4b01-a771-16c65cf1b265@45.61.150.49:50858?security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore\u0026headerType=none\u0026type=tcp\u0026allowInsecure=1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%BA%F0%9F%87%B2",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
+      "Latency": 17,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -109,7 +97,19 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls\u0026sni=pardazeshvpn-tg48.pages.dev\u0026type=ws\u0026host=pardazeshvpn-tg48.pages.dev\u0026path=%2F%3Fed%3D2048\u0026fp=random#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "ss://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto\u0026path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D\u0026fp=firefox\u0026type=xhttp\u0026sni=plb.tunnelguard.ru#%F0%9F%87%B5%F0%9F%87%B1%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 226,
+      "Throughput": 12.151158596340263,
+      "DNSResolution": 183,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://f61d9aee-63b8-439e-bebf-afaa53c015fd@64.227.93.102:28899/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=s0.awsstatic.com\u0026fp=chrome\u0026security=reality\u0026pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY\u0026sid=#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 60,
     "Results": {
       "TLSOK": true,
