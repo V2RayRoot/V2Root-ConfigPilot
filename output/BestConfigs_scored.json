@@ -1,24 +1,72 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://d461c31d-a0c4-40bb-a7d8-3c6e56e69689@cosmin.ns.cloudflare.com:443?path=%2Fmyikqxws\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639004953105699480.highlander-amsit.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "URL": "ss://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws\u0026security=tls\u0026encryption=none\u0026host=639001966536690941.prius-amsiq.info\u0026type=ws\u0026sni=639001966536690941.prius-amsiq.info#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 30.774226964978535,
+      "Latency": 3,
+      "Throughput": 26.68341940681758,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws\u0026security=tls\u0026encryption=none\u0026host=639001966536690941.prius-amsiq.info\u0026type=ws\u0026sni=639001966536690941.prius-amsiq.info#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "URL": "vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=%2Fegakxows\u0026security=tls\u0026encryption=none\u0026host=639002592262919469.sentra-amsir.info\u0026type=ws\u0026sni=639002592262919469.sentra-amsir.info#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 1,
-      "Throughput": 24.67710950736016,
+      "Throughput": 30.72004773649658,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://d461c31d-a0c4-40bb-a7d8-3c6e56e69689@cosmin.ns.cloudflare.com:443?path=%2Fmyikqxws\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639004953105699480.highlander-amsit.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 24.47484882849576,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=%2Fegakxows\u0026security=tls\u0026encryption=none\u0026host=639002592262919469.sentra-amsir.info\u0026type=ws\u0026sni=639002592262919469.sentra-amsir.info#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 1,
+      "Throughput": 25.52067178881011,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?path=%2Fdupbatws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=639003456253079909.defender-amsis.info\u0026type=ws\u0026allowInsecure=0\u0026sni=639003456253079909.defender-amsis.info#%F0%9F%92%80N%CE%9ETISHI%CE%A3LD%F0%9F%94%A5%20%7C%20%40netishield%20%E2%9A%A1%EF%B8%8F%F0%9F%9B%A1%EF%B8%8F%F0%9F%91%BE%F0%9F%87%B3%F0%9F%87%B1",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 1,
+      "Throughput": 25.464478453104235,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?path=%2Fdupbatws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=639003456253079909.defender-amsis.info\u0026type=ws\u0026allowInsecure=0\u0026sni=639003456253079909.defender-amsis.info#%F0%9F%92%80N%CE%9ETISHI%CE%A3LD%F0%9F%94%A5%20%7C%20%40netishield%20%E2%9A%A1%EF%B8%8F%F0%9F%9B%A1%EF%B8%8F%F0%9F%91%BE%F0%9F%87%B3%F0%9F%87%B1",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 30.379376322416626,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -30,79 +78,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 31.330424219896717,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?path=%2Fdupbatws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=639003456253079909.defender-amsis.info\u0026type=ws\u0026allowInsecure=0\u0026sni=639003456253079909.defender-amsis.info#%F0%9F%92%80N%CE%9ETISHI%CE%A3LD%F0%9F%94%A5%20%7C%20%40netishield%20%E2%9A%A1%EF%B8%8F%F0%9F%9B%A1%EF%B8%8F%F0%9F%91%BE%F0%9F%87%B3%F0%9F%87%B1",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 28.53997802528717,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=%2Fegakxows\u0026security=tls\u0026encryption=none\u0026host=639002592262919469.sentra-amsir.info\u0026type=ws\u0026sni=639002592262919469.sentra-amsir.info#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 27.267878207353924,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d461c31d-a0c4-40bb-a7d8-3c6e56e69689@cosmin.ns.cloudflare.com:443?path=%2Fmyikqxws\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639004953105699480.highlander-amsit.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 22.86148947947832,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws\u0026security=tls\u0026encryption=none\u0026host=639001966536690941.prius-amsiq.info\u0026type=ws\u0026sni=639001966536690941.prius-amsiq.info#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 31.364471007851325,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?path=%2Fdupbatws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=639003456253079909.defender-amsis.info\u0026type=ws\u0026allowInsecure=0\u0026sni=639003456253079909.defender-amsis.info#%F0%9F%92%80N%CE%9ETISHI%CE%A3LD%F0%9F%94%A5%20%7C%20%40netishield%20%E2%9A%A1%EF%B8%8F%F0%9F%9B%A1%EF%B8%8F%F0%9F%91%BE%F0%9F%87%B3%F0%9F%87%B1",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 29.271211451067693,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=%2Fegakxows\u0026security=tls\u0026encryption=none\u0026host=639002592262919469.sentra-amsir.info\u0026type=ws\u0026sni=639002592262919469.sentra-amsir.info#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 25.313085290937924,
+      "Throughput": 31.1216693103228,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -113,8 +89,32 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
+      "Latency": 1,
+      "Throughput": 25.130234376911027,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://d461c31d-a0c4-40bb-a7d8-3c6e56e69689@cosmin.ns.cloudflare.com:443?path=%2Fmyikqxws\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639004953105699480.highlander-amsit.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
       "Latency": 2,
-      "Throughput": 21.868689584601398,
+      "Throughput": 20.704904798873617,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws\u0026security=tls\u0026encryption=none\u0026host=639001966536690941.prius-amsiq.info\u0026type=ws\u0026sni=639001966536690941.prius-amsiq.info#Telegram%20%3A%20%40GOLDllVPN%20%F0%9F%94%A5",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 1,
+      "Throughput": 22.907426490884465,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
