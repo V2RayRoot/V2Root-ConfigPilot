@@ -1,13 +1,25 @@
 [
   {
     "Protocol": "vless",
-    "URL": "vless://723c46be-ac60-4675-8f3f-a1529d41c338@mfa.gov.ua:443?path=%2Fproxyip%3Dkr.william.us.ci%3A443%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=a.azrf.me\u0026fp=random\u0026type=ws\u0026sni=a.azrf.me#All-%40V2rayAlpha--21",
+    "URL": "vless://723c46be-ac60-4675-8f3f-a1529d41c338@mfa.gov.ua:443?path=%2Fproxyip%3Dkr.william.us.ci%3A443%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=a.azrf.me\u0026fp=random\u0026type=ws\u0026sni=a.azrf.me#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
     "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 7,
-      "Throughput": 55.2515710041772,
-      "DNSResolution": 1,
+      "Throughput": 137.61234090959795,
+      "DNSResolution": 15,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://723c46be-ac60-4675-8f3f-a1529d41c338@mfa.gov.ua:443?path=%2Fproxyip%3Dkr.william.us.ci%3A443%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=a.azrf.me\u0026fp=random\u0026type=ws\u0026sni=a.azrf.me#All-%40V2rayAlpha--21",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 20,
+      "Throughput": 96.59492155339268,
+      "DNSResolution": 97,
       "PacketLoss": 0
     }
   },
@@ -17,9 +29,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 116.68047264050753,
-      "DNSResolution": 1,
+      "Latency": 13,
+      "Throughput": 52.43239277157857,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
@@ -29,92 +41,80 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 21,
-      "Throughput": 150.34626341894432,
-      "DNSResolution": 15,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://723c46be-ac60-4675-8f3f-a1529d41c338@mfa.gov.ua:443?path=%2Fproxyip%3Dkr.william.us.ci%3A443%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=a.azrf.me\u0026fp=random\u0026type=ws\u0026sni=a.azrf.me#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 139.38452914311844,
-      "DNSResolution": 1,
+      "Latency": 28,
+      "Throughput": 45.65849963761705,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://723c46be-ac60-4675-8f3f-a1529d41c338@mfa.gov.ua:443?path=%2Fproxyip%3Dkr.william.us.ci%3A443%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=a.azrf.me\u0026fp=random\u0026type=ws\u0026sni=a.azrf.me#%D8%B3%D8%B1%DA%86%20%DA%A9%D9%86%20%DA%AF%D8%A7%D9%85%D8%A7%20%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 51.230443178554424,
-      "DNSResolution": 96,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://55ac52fd-4937-4e15-a37b-7d6ed383d2a1@norman.ns.cloudflare.com:443?path=%2Femrqyfws\u0026security=tls\u0026encryption=none\u0026host=639005817910603942.renegade-amsit.info\u0026type=ws\u0026sni=639005817910603942.renegade-amsit.info#All-%40V2rayAlpha--13",
+    "URL": "vless://ed159d76-80be-4e34-aa56-a5f14c28bbfc@brenna.ns.cloudflare.com:443?path=%2Fmphirfws%3F%2FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639003543855624492.prius-amsit.info#All%F0%9F%87%A9%F0%9F%87%AA%40JKVPN%F0%9F%91%88%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 33.309989276473516,
+      "Latency": 5,
+      "Throughput": 22.415170452871482,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=%2Faymdlws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=picassoo.info\u0026type=ws\u0026allowInsecure=0\u0026sni=picassoo.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%AC%F0%9F%87%A7",
+    "Protocol": "shadowsocks",
+    "URL": "ss://d350b8d9-e7cb-4e81-a189-73b15ee487a3@delilah.ns.cloudflare.com:443?path=%2Foypliwws%3F%2FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN\u0026security=tls\u0026encryption=none\u0026host=639003456253078972.defender-amsis.info\u0026type=ws\u0026sni=639003456253078972.defender-amsis.info#All%F0%9F%87%A9%F0%9F%87%AA%40JKVPN%F0%9F%91%88%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 31,
-      "Throughput": 27.13540602202634,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ed159d76-80be-4e34-aa56-a5f14c28bbfc@brenna.ns.cloudflare.com:443?path=%2Fmphirfws%3F%2FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=639003543855624492.prius-amsit.info#All%F0%9F%87%A9%F0%9F%87%AA%40JKVPN%F0%9F%91%88%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 30,
-      "Throughput": 29.99431112897972,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?path=%2Ftixvuws\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=vangoghh.info\u0026type=ws\u0026allowInsecure=1\u0026sni=vangoghh.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 31.225371476144623,
+      "Throughput": 18.867734337979808,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=%2Fperform%3F%2FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=key-nimejam.info#All%F0%9F%87%A9%F0%9F%87%AA%40JKVPN%F0%9F%91%88%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
+    "URL": "vless://4f590914-6d75-4f1d-a361-2fddb3cdf669@cosmin.ns.cloudflare.com:443?path=%2Fccemutws\u0026security=tls\u0026encryption=none\u0026host=639003456256484486.giulia-amsis.info\u0026type=ws\u0026sni=639003456256484486.giulia-amsis.info#All-%40V2rayAlpha--12",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 6,
-      "Throughput": 14.96365787634316,
+      "Throughput": 13.400398172061067,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://b0e5da32-8bb4-4e65-94f1-99ddeefeaa5e@ium3uojslvj2shb1yh8zu7etc34vmyfb.z8f5hmu0ue.workers.dev:443?security=tls\u0026encryption=none\u0026insecure=0\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=PmlMyazd.pagEs.Dev#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 262.89951812818697,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=%2Fperform\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=key-nimejam.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%AC%F0%9F%87%B7",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 22.82423891262952,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://55ac52fd-4937-4e15-a37b-7d6ed383d2a1@norman.ns.cloudflare.com:443?path=%2Femrqyfws\u0026security=tls\u0026encryption=none\u0026host=639005817910603942.renegade-amsit.info\u0026type=ws\u0026sni=639005817910603942.renegade-amsit.info#All-%40V2rayAlpha--13",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 21.687811415284113,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
