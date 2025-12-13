@@ -2,10 +2,10 @@
   {
     "Protocol": "vless",
     "URL": "vless://4819860c-0e62-4804-9c59-967e5c2bed7a@77.110.119.225:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=st.ozone.ru\u0026fp=chrome\u0026security=reality\u0026pbk=hnec5SxCD6Os-u0FNi_YS5CML1a_oWb0niZJ1mGuFBo\u0026sid=07e904766d29b958#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 45,
+    "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 75,
+      "Latency": 14,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -14,10 +14,10 @@
   {
     "Protocol": "shadowsocks",
     "URL": "ss://4819860c-0e62-4804-9c59-967e5c2bed7a@77.110.119.225:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=st.ozone.ru\u0026fp=chrome\u0026security=reality\u0026pbk=hnec5SxCD6Os-u0FNi_YS5CML1a_oWb0niZJ1mGuFBo\u0026sid=07e904766d29b958#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 45,
+    "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 74,
+      "Latency": 14,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -25,13 +25,49 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://bf92bdef-ab8d-4481-8798-2d39023357b2@net2.intfreed.ru:443?security=reality\u0026encryption=none\u0026pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw\u0026headerType=none\u0026fp=qq\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=video.intfreed.ru\u0026sid=7755e972daf8eec8#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
+    "URL": "ss://7f674fcd-fb20-4cae-b444-29eeb716e78a@185.82.73.218:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026fp=chrome\u0026security=reality\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026sid=31#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 718,
+      "Latency": 85,
       "Throughput": 0,
-      "DNSResolution": 670,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://dd52e17b-72cd-4bf7-bb33-2a0118c553d3@77.110.100.60:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=st.ozone.ru\u0026fp=chrome\u0026security=reality\u0026pbk=q5iGwFTxEWDf4_CeX2n8RUFDWOxLotr2CUPgC9Q3cQM\u0026sid=4635c9696cecff0f#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 88,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://dd52e17b-72cd-4bf7-bb33-2a0118c553d3@77.110.100.60:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=st.ozone.ru\u0026fp=chrome\u0026security=reality\u0026pbk=q5iGwFTxEWDf4_CeX2n8RUFDWOxLotr2CUPgC9Q3cQM\u0026sid=4635c9696cecff0f#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 95,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://7f674fcd-fb20-4cae-b444-29eeb716e78a@185.82.73.218:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026fp=chrome\u0026security=reality\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026sid=31#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 88,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -41,57 +77,21 @@
     "Score": 30,
     "Results": {
       "TLSOK": true,
-      "Latency": 153,
+      "Latency": 234,
       "Throughput": 0,
-      "DNSResolution": 228,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://dd52e17b-72cd-4bf7-bb33-2a0118c553d3@77.110.100.60:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=st.ozone.ru\u0026fp=chrome\u0026security=reality\u0026pbk=q5iGwFTxEWDf4_CeX2n8RUFDWOxLotr2CUPgC9Q3cQM\u0026sid=4635c9696cecff0f#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 153,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.25.11:1488?security=reality\u0026type=tcp\u0026sni=ads.x5.ru\u0026fp=chrome\u0026flow=xtls-rprx-vision\u0026sid=6ba85179e30d4fc2\u0026pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc\u0026encryption=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 196,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://7f674fcd-fb20-4cae-b444-29eeb716e78a@185.82.73.218:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026fp=chrome\u0026security=reality\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026sid=31#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 143,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 151,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.25.11:1488?security=reality\u0026type=tcp\u0026sni=ads.x5.ru\u0026fp=chrome\u0026flow=xtls-rprx-vision\u0026sid=6ba85179e30d4fc2\u0026pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc\u0026encryption=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "ss://bf92bdef-ab8d-4481-8798-2d39023357b2@net2.intfreed.ru:443?security=reality\u0026encryption=none\u0026pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw\u0026headerType=none\u0026fp=qq\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=video.intfreed.ru\u0026sid=7755e972daf8eec8#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 30,
     "Results": {
       "TLSOK": true,
-      "Latency": 183,
+      "Latency": 101,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 140,
       "PacketLoss": 0
     }
   },
@@ -101,7 +101,7 @@
     "Score": 30,
     "Results": {
       "TLSOK": true,
-      "Latency": 173,
+      "Latency": 112,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -113,7 +113,7 @@
     "Score": 30,
     "Results": {
       "TLSOK": true,
-      "Latency": 172,
+      "Latency": 110,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
