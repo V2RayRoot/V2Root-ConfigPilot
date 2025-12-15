@@ -1,60 +1,12 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?path=%2Faafeuws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=redlabell.info\u0026type=ws\u0026allowInsecure=0\u0026sni=redlabell.info#%F0%9F%94%B8join%20Sho%3A%40iran_v2ray1%20%F0%9F%87%B3%F0%9F%87%B1",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 17.270135425753008,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
     "URL": "vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?path=%2Faafeuws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=redlabell.info\u0026type=ws\u0026allowInsecure=0\u0026sni=redlabell.info#%F0%9F%94%B8join%20Sho%3A%40iran_v2ray1%20%F0%9F%87%B3%F0%9F%87%B1",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 15.656170610066269,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%F0%9F%94%B8join%20Sho%3A%40iran_v2ray1%20%F0%9F%87%AC%F0%9F%87%A7",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 11.548535536993318,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%F0%9F%94%B8join%20Sho%3A%40iran_v2ray1%20%F0%9F%87%AC%F0%9F%87%A7",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 18.03155549258536,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://b0e5da32-8bb4-4e65-94f1-99ddeefeaa5e@ium3uojslvj2shb1yh8zu7etc34vmyfb.z8f5hmu0ue.workers.dev:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=PmlMyazd.pagEs.Dev#🇩🇪[Telegram:NetifyVpn]",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 121.76769554788385,
+      "Latency": 3,
+      "Throughput": 21.44466930997056,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -65,8 +17,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 16.65165987856548,
+      "Latency": 2,
+      "Throughput": 23.25716307177063,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%F0%9F%94%B8join%20Sho%3A%40iran_v2ray1%20%F0%9F%87%AC%F0%9F%87%A7",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 25.727473497751678,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -77,8 +41,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 16.801643686320023,
+      "Latency": 2,
+      "Throughput": 17.847453283532513,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -89,8 +53,44 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 122.71909496385533,
+      "Latency": 2,
+      "Throughput": 325.00404833167704,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?path=%2Faafeuws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=redlabell.info\u0026type=ws\u0026allowInsecure=0\u0026sni=redlabell.info#%F0%9F%94%B8join%20Sho%3A%40iran_v2ray1%20%F0%9F%87%B3%F0%9F%87%B1",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 19.95770144797415,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%F0%9F%94%B8join%20Sho%3A%40iran_v2ray1%20%F0%9F%87%AC%F0%9F%87%A7",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 26.018569088498495,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://b0e5da32-8bb4-4e65-94f1-99ddeefeaa5e@ium3uojslvj2shb1yh8zu7etc34vmyfb.z8f5hmu0ue.workers.dev:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=PmlMyazd.pagEs.Dev#🇩🇪[Telegram:NetifyVpn]",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 360.61371586154473,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -101,9 +101,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 19,
+      "Latency": 4,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -113,9 +113,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 37,
+      "Latency": 4,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 27,
       "PacketLoss": 0
     }
   }
