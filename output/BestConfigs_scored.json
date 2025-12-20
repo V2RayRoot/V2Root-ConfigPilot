@@ -5,9 +5,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 20.917036613873766,
-      "DNSResolution": 3,
+      "Latency": 3,
+      "Throughput": 22.075249137950482,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -17,33 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 116.68717468071507,
+      "Latency": 6,
+      "Throughput": 95.23013558592918,
       "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576?security=reality\u0026encryption=none\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fuck.rkn\u0026sid=01#All_32--%40V2rayAlpha",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576?security=reality\u0026encryption=none\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fuck.rkn\u0026sid=01#All_32--%40V2rayAlpha",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 0,
-      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -60,32 +36,44 @@
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto\u0026path=%2F\u0026security=none\u0026encryption=none\u0026host=blazeft123your-name.global.ssl.fastly.net\u0026type=xhttp#All_22--%40V2rayAlpha",
-    "Score": 45,
+    "Protocol": "shadowsocks",
+    "URL": "ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576?security=reality\u0026encryption=none\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fuck.rkn\u0026sid=01#All_32--%40V2rayAlpha",
+    "Score": 60,
     "Results": {
-      "TLSOK": false,
-      "Latency": 17,
+      "TLSOK": true,
+      "Latency": 16,
       "Throughput": 0,
-      "DNSResolution": 20,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576?security=reality\u0026encryption=none\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fuck.rkn\u0026sid=01#All_32--%40V2rayAlpha",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?mode=auto\u0026path=%2F%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=maxpl165.global.ssl.fastly.net\u0026type=xhttp#All_17--%40V2rayAlpha",
+    "URL": "ss://fff18175-a413-456b-92bc-90e5ec6d664e@cleanfastly.iraniandesinger.com:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=/?ed=2052\u0026security=none\u0026encryption=none\u0026host=norbert-team-free1.global.ssl.fastly.net\u0026type=ws#🇩🇪[Telegram:NetifyVpn]",
     "Score": 45,
     "Results": {
       "TLSOK": false,
       "Latency": 2,
       "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 72,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto\u0026path=%2F\u0026security=none\u0026encryption=none\u0026host=blazeus150your-name.global.ssl.fastly.net\u0026type=xhttp#All_36--%40V2rayAlpha",
+    "URL": "vless://9323f2c6-fb40-4ee3-890f-9c63b948cb29@trt.fastlynew.hosting-ip.com:80?mode=auto\u0026path=%2F%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=maxus112.global.ssl.fastly.net\u0026type=xhttp#All_35--%40V2rayAlpha",
     "Score": 45,
     "Results": {
       "TLSOK": false,
@@ -97,25 +85,37 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?mode=auto\u0026path=%2F%3Fed%3D2560\u0026security=none\u0026encryption=none\u0026host=maxpl165.global.ssl.fastly.net\u0026type=xhttp#All_17--%40V2rayAlpha",
+    "URL": "vless://fff18175-a413-456b-92bc-90e5ec6d664e@cleanfastly.iraniandesinger.com:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026path=/?ed=2052\u0026security=none\u0026encryption=none\u0026host=norbert-team-free1.global.ssl.fastly.net\u0026type=ws#🇩🇪[Telegram:NetifyVpn]",
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 33,
+      "Latency": 30,
       "Throughput": 0,
-      "DNSResolution": 19,
+      "DNSResolution": 75,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto\u0026path=%2F\u0026security=none\u0026encryption=none\u0026host=blazeus150your-name.global.ssl.fastly.net\u0026type=xhttp#All_36--%40V2rayAlpha",
+    "Protocol": "vless",
+    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026type=grpc\u0026sni=pqh27v5.hiddendom.shop#🇺🇸[Telegram:NetifyVPN]",
     "Score": 45,
     "Results": {
-      "TLSOK": false,
-      "Latency": 3,
+      "TLSOK": true,
+      "Latency": 74,
       "Throughput": 0,
-      "DNSResolution": 1,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://2198405b-f5e4-4a1c-bc06-0d5a4d8f4741@5.180.24.11:4443?security=reality\u0026encryption=none\u0026pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE\u0026host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=github.com\u0026sid=aa7e96542880027a#%DA%AF%D8%B1%D9%88%D9%87%20%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%88v_ng_gap%40%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 71,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
