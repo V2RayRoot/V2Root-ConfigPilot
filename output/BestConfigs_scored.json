@@ -1,13 +1,25 @@
 [
   {
     "Protocol": "shadowsocks",
+    "URL": "ss://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=i.arfilter2.blog\u0026fp=firefox\u0026type=ws\u0026sni=i.arfilter2.blog#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 18,
+      "Throughput": 40.752028146936816,
+      "DNSResolution": 19,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
     "URL": "ss://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=v.arfilter2.blog\u0026fp=firefox\u0026type=ws\u0026sni=v.arfilter2.blog#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 46,
-      "Throughput": 6.13468911946423,
-      "DNSResolution": 4,
+      "Latency": 37,
+      "Throughput": 79.6608899642932,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -17,8 +29,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 17.860538711667235,
+      "Latency": 9,
+      "Throughput": 19.55198493730722,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -29,32 +41,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 86.29016842395517,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%D9%85%D9%86%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D9%88%20%D9%87%D9%85%D9%87%20%D8%AC%D9%88%D8%B1%D9%87%20%D9%88%D8%B5%D9%84%D8%AA%20%D9%85%DB%8C%DA%A9%D9%86%D9%85%20%D8%AF%D8%B1%20%D9%87%D8%B1%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%DB%8C%20%F0%9F%87%BA%F0%9F%87%B2%20%40RayphoriaHub",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 16.033134299807863,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026host=azizoarjmand.info\u0026type=ws\u0026sni=azizoarjmand.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 15.449739721711099,
+      "Latency": 17,
+      "Throughput": 133.08197032581478,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -65,8 +53,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 126.93771210895012,
+      "Latency": 17,
+      "Throughput": 141.87898605686038,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%D9%85%D9%86%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D9%88%20%D9%87%D9%85%D9%87%20%D8%AC%D9%88%D8%B1%D9%87%20%D9%88%D8%B5%D9%84%D8%AA%20%D9%85%DB%8C%DA%A9%D9%86%D9%85%20%D8%AF%D8%B1%20%D9%87%D8%B1%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%DB%8C%20%F0%9F%87%BA%F0%9F%87%B2%20%40RayphoriaHub",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 20.374674992098445,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -77,8 +77,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 15.543685305080935,
+      "Latency": 9,
+      "Throughput": 19.60727447823799,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026host=azizoarjmand.info\u0026type=ws\u0026sni=azizoarjmand.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 22.25974696165862,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -96,24 +108,12 @@
     }
   },
   {
-    "Protocol": "trojan",
-    "URL": "trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls\u0026sni=diningtable.electricbanana.click\u0026type=tcp\u0026headerType=none#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 41,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
     "URL": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.168:23576/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=fuck.rkn\u0026fp=chrome\u0026security=reality\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026sid=01#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 34,
+      "Latency": 30,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
