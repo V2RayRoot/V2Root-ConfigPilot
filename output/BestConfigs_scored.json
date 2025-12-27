@@ -5,9 +5,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 73.4847333170136,
-      "DNSResolution": 2,
+      "Latency": 31,
+      "Throughput": 38.641671256532426,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -17,8 +17,32 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 169.45065263389327,
+      "Latency": 9,
+      "Throughput": 136.92989281915337,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=%2F46.232.122.240%3A8000\u0026security=tls\u0026host=ivory.qzz.io\u0026type=ws\u0026sni=ivory.qzz.io#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 196.84431981355692,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=%2F156.254.114.120%3A30011\u0026security=tls\u0026host=seashell.qzz.io\u0026type=ws\u0026sni=seashell.qzz.io#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 12,
+      "Throughput": 134.66747276371404,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -29,8 +53,8 @@
     "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 73,
-      "Throughput": 35.494582488495716,
+      "Latency": 92,
+      "Throughput": 35.115441090805696,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -41,45 +65,9 @@
     "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 72,
-      "Throughput": 36.43509585467986,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://23d94ce7-81fe-4a37-935d-0fa980485c51@nl1.jugploer.icu:443?security=reality\u0026encryption=none\u0026pbk=do5W1A_cUiSkYzmQK1xCcky0LZEU6UQh9eSnz-LyJ0o\u0026headerType=none\u0026spx=%2Fsinavm\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=nl1.jugploer.icu#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%B3%F0%9F%87%B1",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 165,
-      "Throughput": 16.149710660168843,
-      "DNSResolution": 12,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://23d94ce7-81fe-4a37-935d-0fa980485c51@nl1.jugploer.icu:443?security=reality\u0026encryption=none\u0026pbk=do5W1A_cUiSkYzmQK1xCcky0LZEU6UQh9eSnz-LyJ0o\u0026headerType=none\u0026spx=%2Fsinavm\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=nl1.jugploer.icu#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%B3%F0%9F%87%B1",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 165,
-      "Throughput": 16.353131784486386,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://23d94ce7-81fe-4a37-935d-0fa980485c51@jp.jugploer.icu:443?security=reality\u0026encryption=none\u0026pbk=agsQSpidbSZMSzm4t1Bhe57wSta_CTcUktkB7GQ9YBM\u0026headerType=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=jp.jugploer.icu#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%AF%F0%9F%87%B5",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 112,
-      "Throughput": 18.57999399842969,
-      "DNSResolution": 6,
+      "Latency": 88,
+      "Throughput": 33.034771673898966,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -89,33 +77,45 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 111,
-      "Throughput": 21.814699160955403,
+      "Latency": 152,
+      "Throughput": 17.839842908408894,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=reality\u0026encryption=none\u0026pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY\u0026headerType=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=vkru.outlinekeys.net#🇫🇮[Telegram:NetifyVPN]",
+    "URL": "ss://23d94ce7-81fe-4a37-935d-0fa980485c51@ru1.jugploer.icu:443?security=reality\u0026encryption=none\u0026pbk=6NsYMzJu1KzVtGHhxQQ_nF-bfWfjqRUim6bWihwD-gU\u0026headerType=none\u0026spx=%2Fsinavm\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ru1.jugploer.icu#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 334,
-      "Throughput": 5.82778455760379,
-      "DNSResolution": 1,
+      "Latency": 202,
+      "Throughput": 17.52531045315259,
+      "DNSResolution": 15,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=reality\u0026encryption=none\u0026pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY\u0026headerType=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=vkru.outlinekeys.net#🇫🇮[Telegram:NetifyVPN]",
-    "Score": 50,
+    "URL": "vless://23d94ce7-81fe-4a37-935d-0fa980485c51@ru1.jugploer.icu:443?security=reality\u0026encryption=none\u0026pbk=6NsYMzJu1KzVtGHhxQQ_nF-bfWfjqRUim6bWihwD-gU\u0026headerType=none\u0026spx=%2Fsinavm\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ru1.jugploer.icu#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 176,
-      "Throughput": 3.0309478231212923,
-      "DNSResolution": 1,
+      "Latency": 165,
+      "Throughput": 16.03666047939564,
+      "DNSResolution": 17,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://23d94ce7-81fe-4a37-935d-0fa980485c51@ru1.jugploer.icu:443?security=reality\u0026encryption=none\u0026pbk=6NsYMzJu1KzVtGHhxQQ_nF-bfWfjqRUim6bWihwD-gU\u0026headerType=none\u0026spx=%2Fsinavm\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ru1.jugploer.icu#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%B7%F0%9F%87%BA",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 206,
+      "Throughput": 16.288780532301057,
+      "DNSResolution": 45,
       "PacketLoss": 0
     }
   }
