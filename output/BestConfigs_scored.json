@@ -1,12 +1,36 @@
 [
   {
     "Protocol": "shadowsocks",
+    "URL": "ss://e91fef62-b99c-4211-9501-4ecc830ae349@nl.stepson.ir:2053?mode=auto\u0026path=%2Ftest%3Fed%3D%3F2096\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=sub.stepson.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=ham.stepson.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 250.21458246207834,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
     "URL": "ss://70b84e89-b42a-4c91-896b-1c3dbd98a203@purplelily.qzz.io:443?path=%2F23.95.56.195%3A443\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=purplelily.qzz.io\u0026type=ws\u0026allowInsecure=0\u0026sni=purplelily.qzz.io#%DA%AF%D8%B1%D9%88%D9%87%20%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%88v_ng_gap%40%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 309.2755606586023,
+      "Throughput": 312.27800205627256,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://70b84e89-b42a-4c91-896b-1c3dbd98a203@purplelily.qzz.io:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=purplelily.qzz.io\u0026path=%2F23.95.56.195%3A443\u0026security=tls\u0026sni=purplelily.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 419.17942902102845,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,8 +41,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 372.0672381309388,
+      "Latency": 3,
+      "Throughput": 348.9240142940212,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://70b84e89-b42a-4c91-896b-1c3dbd98a203@purplelily.qzz.io:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=purplelily.qzz.io\u0026path=%2F23.95.56.195%3A443\u0026security=tls\u0026sni=purplelily.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 1,
+      "Throughput": 440.9358444409206,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -26,96 +62,60 @@
   {
     "Protocol": "trojan",
     "URL": "trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@mfa.gov.ua:2096/?type=ws\u0026host=cm2-bpg.filegear-sg.me\u0026path=%2Fproxyip%3D210.61.97.241%3A81\u0026security=tls\u0026sni=cm2-bpg.filegear-sg.me\u0026allowInsecure=1#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 75,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 78,
+      "Throughput": 241.16612988110447,
+      "DNSResolution": 371,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8fb02ca4-4000-00e4-a89b-5f9878e7d9b1@rs.marketmust.ru:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=reality\u0026encryption=none\u0026pbk=hgPrLztdgoiNzP0XKNqP5UR3KZU8dzqu4gIbA2_TbFY\u0026headerType=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=rs.marketmust.ru\u0026sid=75f8575e5396a2fe#🇷🇺[Telegram:NetifyVPN]",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 293,
-      "Throughput": 253.76324548980242,
+      "Latency": 550,
+      "Throughput": 14.773208889829416,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 43,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://6e4caacc-d748-573c-a7a5-83b84bfcab6f@172.67.193.36:2052?security=none\u0026type=ws\u0026host=Rubika.ir.Join--ELiV2ry.com.fr2.vless.Sitespeedtest.net.\u0026path=/@ELiV2ry-@ELiV2ry-@ELiV2ry-@ELiV2ry%3Fed%3D2048#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://39a192ed-7e78-42f4-b956-2f0ea17f677f@172.64.34.99:443?path=%2Frbjisuws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=639018301854287215.camry-amsjk.info\u0026type=ws\u0026allowInsecure=0\u0026sni=639018301854287215.camry-amsjk.info#%DA%AF%D8%B1%D9%88%D9%87%20%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%88v_ng_gap%40%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
-    "URL": "vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=8j3f7HD37h.PaGES.dEV#🇩🇪[Telegram:NetifyVpn]",
-    "Score": 35,
+    "URL": "vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@bcjqb58lc.royalcontl5h1b.lat:2052?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA\u0026fp=chrome\u0026type=grpc\u0026sni=web.eitaa.com\u0026sid=0ee11e#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
+    "Score": 70,
     "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@172.64.34.99:443?path=%2Frbjisuws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=639018301854287215.camry-amsjk.info\u0026type=ws\u0026allowInsecure=0\u0026sni=639018301854287215.camry-amsjk.info#%DA%AF%D8%B1%D9%88%D9%87%20%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%88v_ng_gap%40%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88v_ngfree%40",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://6e4caacc-d748-573c-a7a5-83b84bfcab6f@172.67.193.36:2052?security=none\u0026type=ws\u0026host=Rubika.ir.Join--ELiV2ry.com.fr2.vless.Sitespeedtest.net.\u0026path=/@ELiV2ry-@ELiV2ry-@ELiV2ry-@ELiV2ry%3Fed%3D2048#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "TLSOK": true,
+      "Latency": 164,
+      "Throughput": 16.7949879674723,
+      "DNSResolution": 45,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=8j3f7HD37h.PaGES.dEV#🇩🇪[Telegram:NetifyVpn]",
-    "Score": 35,
+    "URL": "ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026mode=auto\u0026path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026type=xhttp\u0026allowInsecure=0\u0026sni=plb.tunnelguard.ru#🇵🇱[Telegram:NetifyVPN]",
+    "Score": 70,
     "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "TLSOK": true,
+      "Latency": 159,
+      "Throughput": 9.06794459335779,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://2f60be6f-be0c-48b4-9772-b56f42b51ba1@bcjqb58lc.royalcontl5h1b.lat:2052?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA\u0026fp=chrome\u0026type=grpc\u0026sni=web.eitaa.com\u0026sid=0ee11e#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 158,
+      "Throughput": 16.95938415320487,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
