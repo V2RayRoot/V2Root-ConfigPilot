@@ -1,24 +1,24 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://e91fef62-b99c-4211-9501-4ecc830ae349@nl.stepson.ir:2053?mode=auto\u0026path=%2Ftest%3Fed%3D%3F2096\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=sub.stepson.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=ham.stepson.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 56.41207935213603,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F57.128.183.35%3A443\u0026security=tls\u0026sni=purplelily.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 248.31148192292412,
+      "Latency": 2,
+      "Throughput": 448.09156123725694,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%F0%9F%94%A5ID%20Telegram%3AMrconfig_group%F0%9F%9F%A3",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 19.05606020171483,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -30,7 +30,79 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 240.32750149611383,
+      "Throughput": 325.3875854223758,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e91fef62-b99c-4211-9501-4ecc830ae349@nl.stepson.ir:2053?mode=auto\u0026path=%2Ftest%3Fed%3D%3F2096\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=sub.stepson.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=ham.stepson.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 50.21173188956193,
+      "DNSResolution": 121,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443?path=%2F57.128.183.35%3A443\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=purplelily.qzz.io#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%AB%F0%9F%87%B7",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 295.8532505747967,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443?path=%2F43.218.77.16%3D1443\u0026security=tls\u0026encryption=none\u0026host=tronblue.qzz.io\u0026type=ws\u0026sni=tronblue.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 136.80245901052047,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443?path=%2F57.128.183.35%3A443\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=purplelily.qzz.io#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%AB%F0%9F%87%B7",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 278.80932387170657,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e91fef62-b99c-4211-9501-4ecc830ae349@nl.stepson.ir:2053?mode=auto\u0026path=%2Ftest%3Fed%3D%3F2096\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=sub.stepson.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=ham.stepson.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 51.01218244884543,
+      "DNSResolution": 111,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443?path=%2F43.218.77.16%3D1443\u0026security=tls\u0026encryption=none\u0026host=tronblue.qzz.io\u0026type=ws\u0026sni=tronblue.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 334.513636824733,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -42,80 +114,8 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 23.08143385490892,
+      "Throughput": 13.807382710193092,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443?path=%2F43.218.77.16%3D1443\u0026security=tls\u0026encryption=none\u0026host=tronblue.qzz.io\u0026type=ws\u0026sni=tronblue.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 211.78280085401417,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443?path=%2F43.218.77.16%3D1443\u0026security=tls\u0026encryption=none\u0026host=tronblue.qzz.io\u0026type=ws\u0026sni=tronblue.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 318.42851705690214,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%F0%9F%94%A5ID%20Telegram%3AMrconfig_group%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 22.180663668192132,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://239ed41c-4af6-49ba-8156-ff2310ea5d78@pn7nlapp.farsiblockchain.com:443?security=reality\u0026encryption=none\u0026pbk=LshfUTu4rb73gmpxT53QfVgElQdDCtAr7kEwZsgkhHw\u0026host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026headerType=none\u0026fp=chrome\u0026spx=%2F7c\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=pn7nlapp.farsiblockchain.com\u0026sid=c7#%40MARAMBASHI%20%F0%9F%87%A6%F0%9F%87%B2",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 150,
-      "Throughput": 24.35689315223151,
-      "DNSResolution": 12,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://23d94ce7-81fe-4a37-935d-0fa980485c51@ru1.jugploer.icu:443?security=reality\u0026encryption=none\u0026pbk=6NsYMzJu1KzVtGHhxQQ_nF-bfWfjqRUim6bWihwD-gU\u0026host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore\u0026headerType=none\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ru1.jugploer.icu#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B7%F0%9F%87%BA",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 143,
-      "Throughput": 18.777359243219284,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN\u0026security=tls\u0026encryption=none\u0026host=hetzner-9.cfuk.name.ng\u0026type=ws\u0026sni=hetzner-9.cfuk.name.ng#%40HiByeVPNN%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%F0%9F%94%A5%F0%9F%92%A5%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 0,
-      "DNSResolution": 24,
       "PacketLoss": 0
     }
   }
