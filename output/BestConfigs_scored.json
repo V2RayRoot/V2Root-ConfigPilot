@@ -1,24 +1,12 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://e91fef62-b99c-4211-9501-4ecc830ae349@nl.stepson.ir:2053?mode=auto\u0026path=%2Ftest%3Fed%3D%3F2096\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=sub.stepson.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=ham.stepson.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 31.04985614465805,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
     "URL": "ss://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%F0%9F%94%A5ID%20Telegram%3AMrconfig_group%F0%9F%9F%A3",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 25.480373194718744,
+      "Throughput": 24.26768049998168,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -30,43 +18,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 476.2406798954818,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F57.128.183.35%3A443\u0026security=tls\u0026sni=purplelily.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 431.33274377336136,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F57.128.183.35%3A443\u0026security=tls\u0026sni=purplelily.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 270.91938763142593,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%F0%9F%94%A5ID%20Telegram%3AMrconfig_group%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 23.599458915145913,
+      "Throughput": 404.6901770413294,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -78,20 +30,56 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 580.568250043198,
+      "Throughput": 151.43323989902433,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F57.128.183.35%3A443\u0026security=tls\u0026sni=purplelily.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 324.6238117246817,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026type=grpc\u0026allowInsecure=0\u0026sni=pqh30v1.hiddendom.shop#🇺🇸[Telegram:NetifyVPN]",
-    "Score": 70,
+    "URL": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%F0%9F%94%A5ID%20Telegram%3AMrconfig_group%F0%9F%9F%A3",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 21.992577560054926,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F57.128.183.35%3A443\u0026security=tls\u0026sni=purplelily.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 3,
-      "Throughput": 0,
-      "DNSResolution": 89,
+      "Throughput": 315.68596191880243,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4685d838-99e1-4dc7-bc26-d8589d41f2a1@tr2.tunnely.ru:443?mode=packet-up\u0026path=%2Fxhttp%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D\u0026fp=chrome\u0026type=xhttp\u0026sni=tr2.tunnely.ru#%40HiByeVPNN%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%F0%9F%94%A5%F0%9F%92%A5%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 137,
+      "Throughput": 19.135488893694074,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -103,19 +91,31 @@
       "TLSOK": true,
       "Latency": 6,
       "Throughput": 0,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e91fef62-b99c-4211-9501-4ecc830ae349@nl.stepson.ir:2053?mode=auto\u0026path=%2Ftest%3Fed%3D%3F2096\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=sub.stepson.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=ham.stepson.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%B3%F0%9F%87%B1",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 117,
+      "Throughput": 185.18314902787526,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://4685d838-99e1-4dc7-bc26-d8589d41f2a1@ch1.tunnely.ru:443?security=reality\u0026encryption=none\u0026pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM\u0026headerType=none\u0026spx=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=ch1.tunnely.ru\u0026sid=2e40144ddc07e8e1#%40HiByeVPNN%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%F0%9F%94%A5%F0%9F%92%A5%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026type=grpc\u0026allowInsecure=0\u0026sni=pqh30v1.hiddendom.shop#🇺🇸[Telegram:NetifyVPN]",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 163,
-      "Throughput": 16.74378301976044,
-      "DNSResolution": 1,
+      "Latency": 33,
+      "Throughput": 0,
+      "DNSResolution": 33,
       "PacketLoss": 0
     }
   }
