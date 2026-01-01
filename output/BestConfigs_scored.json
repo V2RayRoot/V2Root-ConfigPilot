@@ -5,9 +5,45 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 52.71770059465632,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.perplexity.ai:2096?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=digikalaa.dpdns.org\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=DiGIkALaA.dpdns.ORG#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%A9%F0%9F%87%AA",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
       "Latency": 6,
-      "Throughput": 70.44837103508533,
-      "DNSResolution": 12,
+      "Throughput": 210.27188127965474,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.perplexity.ai:2096?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=digikalaa.dpdns.org\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=DiGIkALaA.dpdns.ORG#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%A9%F0%9F%87%AA",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 165.03447910652147,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://239ed41c-4af6-49ba-8156-ff2310ea5d78@phdde1.reachheadphones.com:443?encryption=none\u0026flow=xtls-rprx-vision\u0026type=tcp\u0026headerType=none\u0026security=reality\u0026fp=chrome\u0026sni=phdde1.reachheadphones.com\u0026pbk=tpi4L7x3YusiYEz75uSTWoXK1LybuTH2_5u1otIOMSg\u0026sid=42e35d#%F0%9F%94%A5ID:mrconfig_group%F0%9F%9F%A3",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 96,
+      "Throughput": 22.259119247441216,
+      "DNSResolution": 15,
       "PacketLoss": 0
     }
   },
@@ -17,67 +53,43 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 167,
-      "Throughput": 17.094283589515104,
-      "DNSResolution": 73,
+      "Latency": 136,
+      "Throughput": 28.317533164539125,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://239ed41c-4af6-49ba-8156-ff2310ea5d78@phdde1.reachheadphones.com:443?encryption=none\u0026flow=xtls-rprx-vision\u0026type=tcp\u0026headerType=none\u0026security=reality\u0026fp=chrome\u0026sni=phdde1.reachheadphones.com\u0026pbk=tpi4L7x3YusiYEz75uSTWoXK1LybuTH2_5u1otIOMSg\u0026sid=42e35d#%F0%9F%94%A5ID:mrconfig_group%F0%9F%9F%A3",
+    "Protocol": "vless",
+    "URL": "vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@stf8bnl5r1c0vm.sheraitonldayh.lat:2052?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA\u0026fp=chrome\u0026type=grpc\u0026sni=web.eitaa.com\u0026sid=830b34f52730#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 165,
-      "Throughput": 16.625150133937822,
-      "DNSResolution": 23,
+      "Latency": 138,
+      "Throughput": 20.435219182720076,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "trojan",
     "URL": "trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls\u0026sni=diningtable.electricbanana.click\u0026type=tcp\u0026headerType=none#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 24,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@45.8.144.198:443?security=reality\u0026encryption=none\u0026pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=mirror.yandex.ru\u0026sid=d94e8f45#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 60,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://669be00c-67b4-4b87-b08f-311c45abced2@third-legend.atlanta-internet.ru:443?encryption=none\u0026flow=xtls-rprx-vision\u0026security=reality\u0026sni=static.rutube.ru\u0026fp=chrome\u0026pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ\u0026sid=ffffffffff\u0026type=tcp\u0026headerType=none#I%201255%20%28%40Outline_Vpn%29%20free",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 189,
-      "Throughput": 0,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://03d25a8c-2d35-5e37-b689-95cc627ef40f@185.146.173.32:80?path=%2FJoinTelegram-%40ELiV2ry-%40ELiV2ry-%3Fed%3D2048\u0026security=none\u0026encryption=none\u0026host=www.crypto.com.joinTelegram.ELiV2ry.com.be2.vless.Sitespeedtest.net.\u0026type=ws#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://03d25a8c-2d35-5e37-b689-95cc627ef40f@185.146.173.32:80?path=%2FJoinTelegram-%40ELiV2ry-%40ELiV2ry-%3Fed%3D2048\u0026security=none\u0026encryption=none\u0026host=www.crypto.com.joinTelegram.ELiV2ry.com.be2.vless.Sitespeedtest.net.\u0026type=ws#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 1,
+      "Latency": 88,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -85,23 +97,11 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 3,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://348b44bd-b536-41fd-b6c6-26f0fc667390@194.87.219.24:17662/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=www.ozon.ru\u0026fp=chrome\u0026security=reality\u0026pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo\u0026sid=9d32c1#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
+    "URL": "ss://270404b2-f0b4-4886-9e0d-2ac31b29330d@202.71.14.253:8443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=ign.com\u0026fp=chrome\u0026security=reality\u0026pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc\u0026sid=6ba85179e30d4fc2#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 148,
+      "Latency": 92,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -109,11 +109,11 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://270404b2-f0b4-4886-9e0d-2ac31b29330d@202.71.14.253:8443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=ign.com\u0026fp=chrome\u0026security=reality\u0026pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc\u0026sid=6ba85179e30d4fc2#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
+    "URL": "vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.125.86:443?encryption=none\u0026flow=xtls-rprx-vision\u0026type=tcp\u0026headerType=none\u0026security=reality\u0026fp=chrome\u0026sni=google.com\u0026pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ\u0026sid=9f35da6c9412b832#%F0%9F%94%A5ID:mrconfig_group%F0%9F%9F%A3",
+    "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 149,
+      "Latency": 93,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
