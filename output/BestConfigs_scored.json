@@ -5,21 +5,33 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 90.67737106986988,
-      "DNSResolution": 10,
+      "Latency": 15,
+      "Throughput": 43.658425191160184,
+      "DNSResolution": 7,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://69547537-0e72-da37-001f-3fe5b5b02f25@convera.com:2053?path=%2Fproxyip%3Dsjc.o00o.ooo\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=ss.soos.us.ci\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=ss.soos.us.ci#All-%40V2rayAlpha--9",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 44,
+      "Throughput": 75.91957274058772,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://69547537-0e72-da37-001f-3fe5b5b02f25@convera.com:2053?path=%2Fproxyip%3Dsjc.o00o.ooo\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=ss.soos.us.ci\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=ss.soos.us.ci#All-%40V2rayAlpha--9",
+    "URL": "ss://907b3c2c-a315-4e30-9786-8d78f14e9459@usa99.unlockspace.org:8443?mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026authority=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN\u0026type=grpc\u0026serviceName=grpc-vless\u0026sni=usa99.unlockspace.org#%40HiByeVPNN%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%F0%9F%94%A5%F0%9F%92%AB%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 332.63596203891876,
-      "DNSResolution": 15,
+      "Latency": 21,
+      "Throughput": 106.78790653655449,
+      "DNSResolution": 25,
       "PacketLoss": 0
     }
   },
@@ -29,9 +41,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 12.372390679237832,
-      "DNSResolution": 23,
+      "Latency": 39,
+      "Throughput": 25.644245226697997,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -41,8 +53,8 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 24,
-      "Throughput": 5.98926558602717,
+      "Latency": 7,
+      "Throughput": 10.985587333736449,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -53,32 +65,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 22.649729448132376,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%9F%20TelegramID%20%E2%8C%B2TeleProxyTele",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 29.503878635205158,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%9F%20TelegramID%20%E2%8C%B2TeleProxyTele",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 31.087915381181364,
+      "Latency": 3,
+      "Throughput": 20.27806812943711,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -89,8 +77,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 446.95291803548326,
+      "Latency": 2,
+      "Throughput": 255.23421567801694,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -101,20 +89,32 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 427.4079630377593,
+      "Latency": 3,
+      "Throughput": 308.6667091340614,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%9F%20TelegramID%20%E2%8C%B2TeleProxyTele",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 30.514265770161607,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%9F%20TelegramID%20%E2%8C%B2TeleProxyTele",
+    "URL": "ss://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%9F%20TelegramID%20%E2%8C%B2TeleProxyTele",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 30.865814890037953,
+      "Latency": 2,
+      "Throughput": 26.61760394564455,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
