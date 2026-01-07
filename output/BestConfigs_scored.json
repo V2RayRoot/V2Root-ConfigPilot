@@ -1,13 +1,25 @@
 [
   {
+    "Protocol": "vless",
+    "URL": "vless://ddab5550-3938-4aba-943c-f23a08d07dc5@check-host.net:443?path=%2Fws\u0026security=tls\u0026encryption=none\u0026host=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40tik7net_vpn",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 12.100168333458049,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "shadowsocks",
     "URL": "ss://ddab5550-3938-4aba-943c-f23a08d07dc5@check-host.net:443?path=%2Fws\u0026security=tls\u0026encryption=none\u0026host=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40tik7net_vpn",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 219.62678874694927,
-      "DNSResolution": 2,
+      "Latency": 11,
+      "Throughput": 40.24823703917467,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -17,9 +29,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 45,
-      "Throughput": 53.43868413652956,
-      "DNSResolution": 25,
+      "Latency": 47,
+      "Throughput": 75.76496714670024,
+      "DNSResolution": 51,
       "PacketLoss": 0
     }
   },
@@ -29,21 +41,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 41,
-      "Throughput": 52.624668151309415,
-      "DNSResolution": 27,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?encryption=none\u0026security=tls\u0026sni=blueivy.qzz.io\u0026insecure=0\u0026allowInsecure=0\u0026type=ws\u0026host=blueivy.qzz.io\u0026path=%2F192.252.182.52%3A7602#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 285.18481972611994,
-      "DNSResolution": 0,
+      "Latency": 47,
+      "Throughput": 67.52550385526314,
+      "DNSResolution": 42,
       "PacketLoss": 0
     }
   },
@@ -53,8 +53,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 26.18526831468366,
+      "Latency": 9,
+      "Throughput": 16.099700486404554,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -65,8 +65,44 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 22.537653396938648,
+      "Latency": 9,
+      "Throughput": 16.210713073442424,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@german-raiv2mmr-Telegram.koyeb.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026encryption=none\u0026type=xhttp#%F0%9F%8C%8D%20%7C%20Alpha%20Group",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 115.54939882680962,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@german-raiv2mmr-Telegram.koyeb.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026encryption=none\u0026type=xhttp#%F0%9F%8C%8D%20%7C%20Alpha%20Group",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 94.8573716260211,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=blueivy.qzz.io\u0026type=ws\u0026allowInsecure=0\u0026sni=blueivy.qzz.io#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40TeleProxyTele",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 159.04238038094545,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -77,45 +113,9 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 268.0768491882415,
+      "Latency": 9,
+      "Throughput": 144.1433286305371,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ddab5550-3938-4aba-943c-f23a08d07dc5@check-host.net:443?path=%2Fws\u0026security=tls\u0026encryption=none\u0026host=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40tik7net_vpn",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 99,
-      "Throughput": 13.390673424415075,
-      "DNSResolution": 98,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://9daf8f3e-089b-4989-9502-dd3d727edb6c@usa32.clearorbitllc.com:443?security=reality\u0026encryption=none\u0026pbk=9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns\u0026host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN\u0026headerType=none\u0026fp=chrome\u0026spx=%2FTELEGRAM--JKVPN--JKVPN\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=usa32.clearorbitllc.com\u0026sid=c7f3cc#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40JKVPN",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 94,
-      "Throughput": 47.796954141487184,
-      "DNSResolution": 50,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://9daf8f3e-089b-4989-9502-dd3d727edb6c@usa32.clearorbitllc.com:443?security=reality\u0026encryption=none\u0026pbk=9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns\u0026host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN\u0026headerType=none\u0026fp=chrome\u0026spx=%2FTELEGRAM--JKVPN--JKVPN\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=usa32.clearorbitllc.com\u0026sid=c7f3cc#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40JKVPN",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 69,
-      "Throughput": 59.32550167498138,
-      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
