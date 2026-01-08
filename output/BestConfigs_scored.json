@@ -1,120 +1,120 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=nexovh16.sepiol.name.NG\u0026fp=firefox\u0026type=ws\u0026sni=nexovh16.sepiol.name.NG#%40HiByeVPNN%20%F0%9F%92%A5%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "Protocol": "vless",
+    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026type=grpc\u0026allowInsecure=0\u0026sni=pqh30v1.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%40TeleProxyTele",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 300.7207788397523,
+      "Latency": 12,
+      "Throughput": 38.30940444927722,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=nexovh21.sepiol.name.NG\u0026fp=firefox\u0026type=ws\u0026allowInsecure=0\u0026sni=nexovh21.sepiol.name.NG#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40TeleProxyTele%20%7C%20vip%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%92%AA%F0%9F%8F%BC%F0%9F%AB%80",
+    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026type=grpc\u0026allowInsecure=0\u0026sni=pqh30v1.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%40TeleProxyTele",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 94.90623187179753,
+      "Latency": 18,
+      "Throughput": 68.27237955373998,
+      "DNSResolution": 18,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026type=grpc\u0026allowInsecure=0\u0026sni=pqh30v4.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%40TeleProxyTele",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 13,
+      "Throughput": 66.05238717207818,
+      "DNSResolution": 19,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026type=grpc\u0026allowInsecure=0\u0026sni=pqh29v6.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%40TeleProxyTele",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 13,
+      "Throughput": 57.2016669938602,
+      "DNSResolution": 19,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026type=grpc\u0026allowInsecure=0\u0026sni=pqh29v6.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%40TeleProxyTele",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 19,
+      "Throughput": 60.61875839901313,
+      "DNSResolution": 15,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026type=grpc\u0026allowInsecure=0\u0026sni=pqh30v4.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%40TeleProxyTele",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 14,
+      "Throughput": 75.80395112176392,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?path=%2F\u0026security=tls\u0026encryption=none\u0026host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO\u0026fp=chrome\u0026type=ws\u0026sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO#%40HiByeVPNN%20%F0%9F%92%A5%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026type=grpc\u0026allowInsecure=0\u0026sni=pqh30v5.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%40TeleProxyTele",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 82.8147619590598,
-      "DNSResolution": 3,
+      "Latency": 20,
+      "Throughput": 34.53256484966397,
+      "DNSResolution": 23,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=nexovh21.sepiol.name.NG\u0026fp=firefox\u0026type=ws\u0026allowInsecure=0\u0026sni=nexovh21.sepiol.name.NG#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40TeleProxyTele%20%7C%20vip%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%92%AA%F0%9F%8F%BC%F0%9F%AB%80",
+    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026type=grpc\u0026allowInsecure=0\u0026sni=pqh30v5.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%40TeleProxyTele",
     "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 13,
+      "Throughput": 57.19614025002635,
+      "DNSResolution": 11,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.web3.name.ng:8443?path=%2F\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026insecure=0\u0026host=nexovh04.sepiol.name.ng\u0026fp=firefox\u0026type=ws\u0026allowInsecure=0\u0026sni=nexovh04.sepiol.name.ng#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%87%A9%F0%9F%87%AA",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 265.5591610375317,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=azizoarjmand.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=azizoarjmand.info#%F0%9F%87%AC%F0%9F%87%A7%40TeleProxyTele",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 354.9405618753462,
-      "DNSResolution": 10,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=hzr27.sepiol.name.NG\u0026fp=firefox\u0026type=ws\u0026sni=hzr27.sepiol.name.NG#%40HiByeVPNN%20%F0%9F%92%A5%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 206.05479125683763,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d8fac0a1-346a-496b-9dde-8e7b4d8f0257@blog.ghazatehran.ir:8443?path=%2Fvideo\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=blog.ghazatehran.ir\u0026fp=chrome\u0026type=ws\u0026sni=blog.ghazatehran.ir#%F0%9F%8C%8D%20%7C%20Alpha%20Group",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 41.3285376662558,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=nexovh16.sepiol.name.NG\u0026fp=firefox\u0026type=ws\u0026sni=nexovh16.sepiol.name.NG#%40HiByeVPNN%20%F0%9F%92%A5%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 191.5647663832953,
-      "DNSResolution": 203,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?path=%2Fhsdgsws\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=sunseet.info\u0026fp=chrome\u0026type=ws\u0026sni=sunseet.info#%40HiByeVPNN%20%F0%9F%92%A5%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 28.532072042654477,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://137d3561-ca4d-4fe6-8965-9d362095c817@axe.soyet2j.ir:2087?path=%2Findex.html%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=latte.gejeh683bm.ir\u0026type=ws\u0026sni=latte.gejeh683bm.ir.#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40i10VPN",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 77.43346246621493,
-      "DNSResolution": 228,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5c9b6087-f955-4506-9c1d-67a5aae44bc9@german-raiv2mmr-Telegram.koyeb.app:443?mode=auto\u0026path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr\u0026security=tls\u0026encryption=none\u0026type=xhttp#%F0%9F%8C%8D%20%7C%20Alpha%20Group",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 301.4704447043287,
+      "Throughput": 28.123423737028105,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
