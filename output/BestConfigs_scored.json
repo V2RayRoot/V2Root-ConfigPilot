@@ -1,121 +1,121 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://84ccd309-283a-49e8-b92c-8b9ecdae7f42@zzula.ir:443?allowInsecure=1\u0026encryption=none\u0026host=floralwhite.qzz.io\u0026path=%2F34.42.77.60%3D443\u0026security=tls\u0026sni=floralwhite.qzz.io\u0026type=ws#S3%20Google%20LLC%20USA",
+    "Protocol": "trojan",
+    "URL": "trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@zzula.ir:443?path=%2F34.42.77.60%3D443\u0026security=tls\u0026insecure=1\u0026host=gulfblue.qzz.io\u0026type=ws\u0026allowInsecure=1\u0026sni=gulfblue.qzz.io#%40V2rayAlpha--2",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 291.162359811238,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@zzula.ir:443?allowInsecure=1\u0026alpn=http%2F1.1\u0026ed=2560\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=usa.correctcosette.workers.dev\u0026path=%2FR8BFTroQ00j1\u0026security=tls\u0026sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV\u0026type=ws#D2-TLS",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 308.25528855295914,
-      "DNSResolution": 143,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://84ccd309-283a-49e8-b92c-8b9ecdae7f42@zzula.ir:443?allowInsecure=1\u0026encryption=none\u0026host=cornsilk.qzz.io\u0026path=%2F34.42.77.60%3D443\u0026security=tls\u0026sni=cornsilk.qzz.io\u0026type=ws#S2%20Google%20LLC%20USA",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 329.45363244867895,
-      "DNSResolution": 152,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://84ccd309-283a-49e8-b92c-8b9ecdae7f42@zzula.ir:443?allowInsecure=1\u0026encryption=none\u0026host=fuchsia.qzz.io\u0026path=%2F34.42.77.60%3D443\u0026security=tls\u0026sni=fuchsia.qzz.io\u0026type=ws#%20S4%20Google%20LLC%20USA",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 13,
-      "Throughput": 43.11627838868065,
-      "DNSResolution": 143,
+      "Latency": 11,
+      "Throughput": 320.20300870752055,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "trojan",
     "URL": "trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@zzula.ir:443?allowInsecure=1\u0026host=tly.qzz.io\u0026path=%2F34.42.77.60%3D443\u0026sni=tly.qzz.io\u0026type=ws#%20S16%20Google%20LLC%20USA",
-    "Score": 90,
+    "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 3,
-      "Throughput": 42.19520623743041,
-      "DNSResolution": 137,
+      "Throughput": 330.29707744888447,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@zzula.ir:443?path=%2F34.42.77.60%3D443\u0026security=tls\u0026insecure=1\u0026host=amerie.qzz.io\u0026type=ws\u0026allowInsecure=1\u0026sni=amerie.qzz.io#%40V2rayN5",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 207.27751886944415,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://84ccd309-283a-49e8-b92c-8b9ecdae7f42@zzula.ir:443?allowInsecure=1\u0026encryption=none\u0026host=cranberry.qzz.io\u0026path=%2F34.42.77.60%3D443\u0026security=tls\u0026sni=cranberry.qzz.io\u0026type=ws#%20S5%20Google%20LLC%20USA",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 195.641747483827,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4cf1a3a0-7360-41ff-84ae-b621001e8376@zzula.ir:443?allowInsecure=1\u0026alpn=http%2F1.1\u0026ed=2560\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=usa.correctcosette.workers.dev\u0026path=%2FR8BFTroQ00j1\u0026security=tls\u0026sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV\u0026type=ws#D2-TLS",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 305.76732597109316,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "trojan",
     "URL": "trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@zzula.ir:443?allowInsecure=1\u0026host=iceberg.qzz.io\u0026path=%2F34.42.77.60%3D443\u0026sni=iceberg.qzz.io\u0026type=ws#S9%20Google%20LLC%20USA",
-    "Score": 90,
+    "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 4,
-      "Throughput": 207.9437150428745,
-      "DNSResolution": 132,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@zzula.ir:443?allowInsecure=1\u0026host=amerie.qzz.io\u0026path=%2F34.42.77.60%3D443\u0026sni=amerie.qzz.io\u0026type=ws#S11%20Google%20LLC%20USA",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 40.76264773880294,
-      "DNSResolution": 133,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@zzula.ir:443?allowInsecure=1\u0026host=gulfblue.qzz.io\u0026path=%2F34.42.77.60%3D443\u0026sni=gulfblue.qzz.io\u0026type=ws#S7%20Google%20LLC%20USA%20",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 241.1427368470804,
-      "DNSResolution": 137,
+      "Throughput": 341.4836954341069,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "trojan",
     "URL": "trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@zzula.ir:443?allowInsecure=1\u0026host=blossomtech.dpdns.org\u0026path=%2F34.42.77.60%3D443\u0026sni=blossomtech.dpdns.org\u0026type=ws#S12%20Google%20LLC%20USA",
-    "Score": 90,
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 194.1363776505834,
-      "DNSResolution": 143,
+      "Latency": 3,
+      "Throughput": 234.83626291082072,
+      "DNSResolution": 4,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://84ccd309-283a-49e8-b92c-8b9ecdae7f42@zzula.ir:443?allowInsecure=1\u0026encryption=none\u0026host=cornsilk.qzz.io\u0026path=%2F34.42.77.60%3D443\u0026security=tls\u0026sni=cornsilk.qzz.io\u0026type=ws#S2%20Google%20LLC%20USA",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 208.07089849409468,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://7e056fe0-bda1-4eb3-b0b2-4eca253c9d75@ip.ali.lat:2053?path=%2Fws123\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=iran.ali.lat\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=iran.ali.lat#%40V2rayAlpha--17",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 86.09928636068379,
+      "DNSResolution": 27,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "trojan",
-    "URL": "trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@zzula.ir:443?allowInsecure=1\u0026host=heavenlyblue.qzz.io\u0026path=%2F34.42.77.60%3D443\u0026sni=heavenlyblue.qzz.io\u0026type=ws#S8%20Google%20LLC%20USA%20",
-    "Score": 90,
+    "URL": "trojan://df371b78-abfe-43b0-865a-a0e640e0ca0c@zzula.ir:443?allowInsecure=1\u0026host=amerie.qzz.io\u0026path=%2F34.42.77.60%3D443\u0026sni=amerie.qzz.io\u0026type=ws#S11%20Google%20LLC%20USA",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 326.81470092594367,
-      "DNSResolution": 160,
+      "Latency": 4,
+      "Throughput": 234.5464594171151,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
