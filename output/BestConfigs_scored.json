@@ -5,8 +5,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 258.06517377899127,
+      "Latency": 6,
+      "Throughput": 296.5293683798429,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,33 +17,33 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 445.37381588324394,
+      "Latency": 5,
+      "Throughput": 250.3638020760229,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e719bf78-4ea9-41f4-a709-fb672375dc8a@tr.sephost.de:7022?security=reality\u0026encryption=none\u0026pbk=TmD2tgPqVKs9s4FiP6qgaRR1vE03_l30_PKlljwkJiQ\u0026host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=stackoverflow.com\u0026sid=7fec3adb0c3aee58#%40MARAMBASHI%20%F0%9F%92%99",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 179,
-      "Throughput": 14.575993955976651,
-      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
     "URL": "ss://e719bf78-4ea9-41f4-a709-fb672375dc8a@tr.sephost.de:7022?security=reality\u0026encryption=none\u0026pbk=TmD2tgPqVKs9s4FiP6qgaRR1vE03_l30_PKlljwkJiQ\u0026host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=stackoverflow.com\u0026sid=7fec3adb0c3aee58#%40MARAMBASHI%20%F0%9F%92%99",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 215,
+      "Throughput": 16.509486858815794,
+      "DNSResolution": 27,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e719bf78-4ea9-41f4-a709-fb672375dc8a@tr.sephost.de:7022?security=reality\u0026encryption=none\u0026pbk=TmD2tgPqVKs9s4FiP6qgaRR1vE03_l30_PKlljwkJiQ\u0026host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026headerType=none\u0026fp=firefox\u0026type=tcp\u0026sni=stackoverflow.com\u0026sid=7fec3adb0c3aee58#%40MARAMBASHI%20%F0%9F%92%99",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 268,
-      "Throughput": 17.0112409046583,
-      "DNSResolution": 258,
+      "Latency": 217,
+      "Throughput": 16.788949469807704,
+      "DNSResolution": 108,
       "PacketLoss": 0
     }
   },
@@ -53,9 +53,21 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 48,
+      "Latency": 45,
       "Throughput": 0,
-      "DNSResolution": 51,
+      "DNSResolution": 90,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.180:443?security=tls\u0026allowInsecure=0\u0026encryption=none\u0026type=xhttp\u0026path=/statue\u0026sni=statue.lnmarketplace.net\u0026fp=firefox\u0026mode=stream-one\u0026alpn=h2#TeleProxyTele",
+    "Score": 45,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 98,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -65,33 +77,9 @@
     "Score": 45,
     "Results": {
       "TLSOK": false,
-      "Latency": 3,
+      "Latency": 44,
       "Throughput": 0,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e0813ce0-3cb8-4fe2-bd7b-e90ddbbb0022@de.hexogate.com:5051?security=reality\u0026encryption=none\u0026pbk=Zrk7y7YzcSb_s5H2qkcwPqj-CY6POtrcq-JFPuTTA1A\u0026headerType=none\u0026fp=ios\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=digg.com\u0026sid=335a995332bad133#TeleProxyTele",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 149,
-      "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://fc204a34-2e5a-451c-863b-a65bb11a7585@partners.dissertationhelpspecialist.com:443?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=ZcgOydOxZfr51VUnsTqCGVGJYME6a_cOZ3L4fPvgkTo\u0026fp=firefox\u0026spx=%2F\u0026type=grpc\u0026serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice\u0026sni=tgju.org\u0026sid=611f53cf893b#https%3A%2F%2Ft.me%2FTeleProxyTele",
-    "Score": 40,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 143,
-      "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 38,
       "PacketLoss": 0
     }
   },
@@ -101,21 +89,33 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 165,
+      "Latency": 113,
       "Throughput": 0,
-      "DNSResolution": 22,
+      "DNSResolution": 44,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@192.0.54.158:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.de5.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.de5.net#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%94%A5",
-    "Score": 35,
+    "URL": "vless://e0813ce0-3cb8-4fe2-bd7b-e90ddbbb0022@de.hexogate.com:5051?security=reality\u0026encryption=none\u0026pbk=Zrk7y7YzcSb_s5H2qkcwPqj-CY6POtrcq-JFPuTTA1A\u0026headerType=none\u0026fp=ios\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=digg.com\u0026sid=335a995332bad133#TeleProxyTele",
+    "Score": 40,
     "Results": {
-      "TLSOK": false,
-      "Latency": 2,
+      "TLSOK": true,
+      "Latency": 184,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 35,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://fc204a34-2e5a-451c-863b-a65bb11a7585@partners.dissertationhelpspecialist.com:443?mode=gun\u0026security=reality\u0026encryption=none\u0026pbk=ZcgOydOxZfr51VUnsTqCGVGJYME6a_cOZ3L4fPvgkTo\u0026fp=firefox\u0026spx=%2F\u0026type=grpc\u0026serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice\u0026sni=tgju.org\u0026sid=611f53cf893b#https%3A%2F%2Ft.me%2FTeleProxyTele",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 113,
+      "Throughput": 0,
+      "DNSResolution": 9,
       "PacketLoss": 0
     }
   }
