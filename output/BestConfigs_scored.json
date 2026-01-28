@@ -1,49 +1,61 @@
 [
   {
+    "Protocol": "vless",
+    "URL": "vless://484cc45b-f5bb-44dd-93c8-f75a1b571739@ping.smartpanel.com.tr:2083/?path=%2Fshop\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026type=ws\u0026allowInsecure=1\u0026sni=nl-shop.rocketset.fun#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40TeleProxyTele",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 25.81440344843257,
+      "DNSResolution": 14,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://79df85dd-cb40-4b32-828e-f38d918d85e3@www.vidboxco.ir:2053?path=%2F%3Fed%3D2048\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=test2.iranvatanam.com#%40numb_frozen%20%5Btel%5D",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 86.76068589614603,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292\u0026security=tls\u0026encryption=none\u0026host=delta090.qzz.io\u0026type=ws\u0026sni=delta090.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 20,
+      "Throughput": 108.63353032575611,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292\u0026security=tls\u0026encryption=none\u0026host=delta090.qzz.io\u0026type=ws\u0026sni=delta090.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 12,
+      "Throughput": 75.80474698422185,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "shadowsocks",
     "URL": "ss://484cc45b-f5bb-44dd-93c8-f75a1b571739@ping.smartpanel.com.tr:2083/?path=%2Fshop\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026type=ws\u0026allowInsecure=1\u0026sni=nl-shop.rocketset.fun#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40TeleProxyTele",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 35.347389750132706,
-      "DNSResolution": 13,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://484cc45b-f5bb-44dd-93c8-f75a1b571739@ping.smartpanel.com.tr:2083/?path=%2Fshop\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026type=ws\u0026allowInsecure=1\u0026sni=nl-shop.rocketset.fun#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40TeleProxyTele",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
       "Latency": 3,
-      "Throughput": 26.193790773029615,
-      "DNSResolution": 147,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?encryption=none\u0026security=tls\u0026sni=exclavevirtualvless.alirexaxulst.workers.dev\u0026fp=chrome\u0026type=ws\u0026host=exclavevirtualvless.alirexaxulst.workers.dev\u0026path=%2Fws#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40TeleProxyTele",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 389.4461647146976,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://0fb80493-c5e6-4ce1-ad46-b715521bc8d3@chatgpt.com:443?path=%2F213.35.100.31%3D47112\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=afsbconfessout.qzz.io\u0026type=ws\u0026allowInsecure=1\u0026sni=afsbconfessout.qzz.io#@TeleProxyTele",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 229.82583769291398,
-      "DNSResolution": 0,
+      "Throughput": 108.97782181450471,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -54,7 +66,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 482.9936428980464,
+      "Throughput": 392.78884844964034,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -66,56 +78,44 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 347.59889329726354,
+      "Throughput": 363.19968205499833,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292\u0026security=tls\u0026encryption=none\u0026host=delta090.qzz.io\u0026type=ws\u0026sni=delta090.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 70,
+    "URL": "ss://0fb80493-c5e6-4ce1-ad46-b715521bc8d3@chatgpt.com:443?path=%2F213.35.100.31%3D47112\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=afsbconfessout.qzz.io\u0026type=ws\u0026allowInsecure=1\u0026sni=afsbconfessout.qzz.io#@TeleProxyTele",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292\u0026security=tls\u0026encryption=none\u0026host=delta090.qzz.io\u0026type=ws\u0026sni=delta090.qzz.io#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 0,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.17.162.123:8443?encryption=none\u0026security=tls\u0026sni=r4fnviw9jl4i4rx.zjde5.de5.net\u0026fp=chrome\u0026type=ws\u0026host=r4fnviw9jl4i4rx.zjde5.de5.net\u0026path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40TeleProxyTele",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 0,
+      "Latency": 2,
+      "Throughput": 402.5050303066163,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://a940d7c5-8d3c-40e8-814e-0a2728acd731@104.17.162.123:443?path=a940d7c5\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=today.stari.dpdns.org\u0026type=ws\u0026allowInsecure=0\u0026sni=today.stari.dpdns.org#@TeleProxyTele",
-    "Score": 60,
+    "URL": "vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?encryption=none\u0026security=tls\u0026sni=exclavevirtualvless.alirexaxulst.workers.dev\u0026fp=chrome\u0026type=ws\u0026host=exclavevirtualvless.alirexaxulst.workers.dev\u0026path=%2Fws#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40TeleProxyTele",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 0,
+      "Latency": 2,
+      "Throughput": 406.1609333497017,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://79df85dd-cb40-4b32-828e-f38d918d85e3@www.systemgamingirani.ir:2053?path=%2F%3Fed%3D2048\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=test2.iranvatanam.com#%40numb_frozen%20%5Btel%5D",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 26.64990964764539,
+      "DNSResolution": 154,
       "PacketLoss": 0
     }
   }
