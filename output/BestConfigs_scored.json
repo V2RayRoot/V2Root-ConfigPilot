@@ -1,12 +1,24 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://4ac793c2-34d6-4774-946d-88680601f5b4@ip.ali.lat:2096?path=%2F\u0026security=tls\u0026serviseName=@icv2ray\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=temporary.ali.lat\u0026type=ws\u0026allowInsecure=0\u0026sni=temporary.ali.lat#%E2%9A%A1%EF%B8%8F%F0%9F%94%A5%40FreeConfigV2ray_1%F0%9F%94%A5%E2%9A%A1%EF%B8%8F",
+    "Protocol": "vless",
+    "URL": "vless://4ac793c2-34d6-4774-946d-88680601f5b4@ip.ali.lat:2096?path=%2F\u0026security=tls\u0026serviseName=@icv2ray\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=temporary.ali.lat\u0026type=ws\u0026allowInsecure=0\u0026sni=temporary.ali.lat#%E2%9A%A1%EF%B8%8F%F0%9F%94%A5%40FreeConfigV2ray_1%F0%9F%94%A5%E2%9A%A1%EF%B8%8F",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 19,
-      "Throughput": 64.5663319588372,
+      "Latency": 24,
+      "Throughput": 40.022102406164315,
+      "DNSResolution": 46,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://4ac793c2-34d6-4774-946d-88680601f5b4@ip.ali.lat:2096?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=temporary.ali.lat\u0026type=ws\u0026allowInsecure=0\u0026sni=temporary.ali.lat#%40TeleProxyTele",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 20,
+      "Throughput": 54.44769655242426,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -17,45 +29,21 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 68.8922313485866,
-      "DNSResolution": 1,
+      "Latency": 7,
+      "Throughput": 82.96739354469291,
+      "DNSResolution": 8,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://4ac793c2-34d6-4774-946d-88680601f5b4@ip.ali.lat:2096?path=%2F\u0026security=tls\u0026serviseName=@icv2ray\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=temporary.ali.lat\u0026type=ws\u0026allowInsecure=0\u0026sni=temporary.ali.lat#%E2%9A%A1%EF%B8%8F%F0%9F%94%A5%40FreeConfigV2ray_1%F0%9F%94%A5%E2%9A%A1%EF%B8%8F",
+    "URL": "vless://4ac793c2-34d6-4774-946d-88680601f5b4@ip.ali.lat:2096?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=temporary.ali.lat\u0026type=ws\u0026allowInsecure=0\u0026sni=temporary.ali.lat#%E2%9A%A1%EF%B8%8F%F0%9F%94%A5%40FreeConfigV2ray_1%F0%9F%94%A5%E2%9A%A1%EF%B8%8F",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 59.22798732067978,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://b1a9c885-e53b-4b19-b4c7-b259cba543e7@ipo.mastermarly.ir:443?path=%2Fpath\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=nur-xn.mastermarly.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=nur-xn.mastermarly.ir#%E2%9A%A1%EF%B8%8F%F0%9F%94%A5%40FreeConfigV2ray_1%F0%9F%94%A5%E2%9A%A1%EF%B8%8F",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 85.51418557412033,
-      "DNSResolution": 21,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://0f4dacd7-8f8f-4326-a849-1b1593e8e711@ip.ali.lat:2083?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=temp3.ali.lat\u0026type=ws\u0026allowInsecure=0\u0026sni=temp3.ali.lat#%E2%9A%A1%EF%B8%8F%F0%9F%94%A5%40FreeConfigV2ray_1%F0%9F%94%A5%E2%9A%A1%EF%B8%8F",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 19,
-      "Throughput": 50.97298086035293,
-      "DNSResolution": 1,
+      "Latency": 6,
+      "Throughput": 66.44136731217942,
+      "DNSResolution": 7,
       "PacketLoss": 0
     }
   },
@@ -65,20 +53,8 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 63.457498796826,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://eb6463a9-dc37-435b-a4ca-ebfeb9d9cdae@cf.xuiprospeed.ir:2053?path=%2Flove\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=heritage.xuiprospeed.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=heritage.xuiprospeed.ir#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40TeleProxyTele",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 19,
-      "Throughput": 53.51867600093922,
+      "Latency": 7,
+      "Throughput": 66.8767370866726,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -89,9 +65,21 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 62.89772442401428,
-      "DNSResolution": 1,
+      "Latency": 45,
+      "Throughput": 55.64636385199962,
+      "DNSResolution": 14,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4ac793c2-34d6-4774-946d-88680601f5b4@ip.ali.lat:2096?path=%2F\u0026security=tls\u0026serviseName=@icv2ray\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=temporary.ali.lat\u0026type=ws\u0026allowInsecure=0\u0026sni=temporary.ali.lat#%E2%9A%A1%EF%B8%8F%F0%9F%94%A5%40FreeConfigV2ray_1%F0%9F%94%A5%E2%9A%A1%EF%B8%8F",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 54.09146414923911,
+      "DNSResolution": 31,
       "PacketLoss": 0
     }
   },
@@ -101,21 +89,33 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 19,
-      "Throughput": 64.08220516544388,
-      "DNSResolution": 2,
+      "Latency": 6,
+      "Throughput": 61.287864887837465,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://4ac793c2-34d6-4774-946d-88680601f5b4@ip.ali.lat:2096?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=temporary.ali.lat\u0026type=ws\u0026allowInsecure=0\u0026sni=temporary.ali.lat#%E2%9A%A1%EF%B8%8F%F0%9F%94%A5%40FreeConfigV2ray_1%F0%9F%94%A5%E2%9A%A1%EF%B8%8F",
+    "URL": "vless://0f4dacd7-8f8f-4326-a849-1b1593e8e711@ip.ali.lat:2083?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=temp3.ali.lat\u0026type=ws\u0026allowInsecure=0\u0026sni=temp3.ali.lat#%E2%9A%A1%EF%B8%8F%F0%9F%94%A5%40FreeConfigV2ray_1%F0%9F%94%A5%E2%9A%A1%EF%B8%8F",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 59.07665070629718,
-      "DNSResolution": 1,
+      "Latency": 6,
+      "Throughput": 43.84579058377886,
+      "DNSResolution": 16,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://1d48559c-10fc-427d-94e1-c8b7552964a7@ip.ali.lat:2053?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=temp.ali.lat\u0026type=ws\u0026allowInsecure=0\u0026sni=temp.ali.lat#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40nitruStore%20%7C%20%F0%9F%9B%B8",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 25,
+      "Throughput": 52.5504593616295,
+      "DNSResolution": 142,
       "PacketLoss": 0
     }
   }
