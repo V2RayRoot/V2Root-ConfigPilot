@@ -1,121 +1,121 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ipbaz.ping-box.com:8443?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40JKVPN%F0%9F%91%88%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
+    "URL": "ss://73130c36-8b0a-4f5a-865c-bf92c182c1a7@nsop.mastermarly.ir:2096?path=%2Fpath\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=francoo.mastermarly.ir\u0026fp=safari\u0026type=ws\u0026allowInsecure=0\u0026sni=francoo.mastermarly.ir#Irancell-%40V2rayAlpha--2",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 49.76038941883634,
+      "Latency": 10,
+      "Throughput": 147.59867926487814,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@nsop.mastermarly.ir:2096?path=%2Fpath\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=francoo.mastermarly.ir\u0026fp=safari\u0026type=ws\u0026allowInsecure=0\u0026sni=francoo.mastermarly.ir#Irancell-%40V2rayAlpha--2",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 24,
+      "Throughput": 136.56439922137125,
+      "DNSResolution": 13,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e6913fad-3b6a-469e-8e2e-750616ba9928@aafc2.lizard2shop.com:2083?security=tls\u0026allowInsecure=0\u0026encryption=none\u0026type=ws\u0026host=at0.lizardshop.org\u0026path=/?ed\u0026sni=at0.lizardshop.org\u0026fp=360#@TeleProxyTele",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 24,
+      "Throughput": 49.48404165017353,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ipbaz.ping-box.com:8443?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40JKVPN%F0%9F%91%88%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
+    "URL": "vless://e6913fad-3b6a-469e-8e2e-750616ba9928@aafc2.lizard2shop.com:2083?security=tls\u0026allowInsecure=0\u0026encryption=none\u0026type=ws\u0026host=at0.lizardshop.org\u0026path=/?ed\u0026sni=at0.lizardshop.org\u0026fp=360#@TeleProxyTele",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 51.35728542542575,
+      "Latency": 23,
+      "Throughput": 52.361698143017904,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://2ecc87a9-52bd-4e24-86d1-c0be4908e237@kj.v-sub.site:8443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=backup.f-sub.cfd\u0026fp=chrome\u0026type=ws\u0026sni=backup.f-sub.cfd#%F0%9F%AA%B7",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 14,
+      "Throughput": 41.31089657983834,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://2ecc87a9-52bd-4e24-86d1-c0be4908e237@kj.v-sub.site:8443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=backup.f-sub.cfd\u0026fp=chrome\u0026type=ws\u0026sni=backup.f-sub.cfd#%F0%9F%AA%B7",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 11,
+      "Throughput": 30.045866367073327,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://f85f60b1-2b96-49e9-8bde-b656d1516df0@ipbaz.ping-box.com:8443?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net\u0026fp=chrome\u0026type=ws\u0026sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
-    "Score": 100,
+    "URL": "ss://396c904b-4b62-4334-b793-ee25fc0c61cc@chat.openai.com:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev\u0026type=ws\u0026allowInsecure=0\u0026sni=pages.dev#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 50.36968547323601,
-      "DNSResolution": 6,
+      "Latency": 12,
+      "Throughput": 74.05620527172985,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ipbaz.ping-box.com:8443?path=%2F%3FTELEGRAM--vpnserverrr--vpnserverrr--vpnserverrr--vpnserverrr--vpnsetverrr--vpnserverrr--vpnserverrr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net\u0026fp=chrome\u0026type=ws\u0026sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
-    "Score": 100,
+    "URL": "ss://96863176-edbb-47dd-9b56-1d4582a6f9c0@v2.dabache.top:8443?path=%2FhshsHhdsgj54645sgsSdc\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=ir.irannet.shop\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=ir.irannet.shop#Irancell-%40V2rayAlpha--7",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 32,
-      "Throughput": 42.96957974510263,
-      "DNSResolution": 1,
+      "Latency": 10,
+      "Throughput": 36.978402643756105,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://396c904b-4b62-4334-b793-ee25fc0c61cc@chat.openai.com:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev\u0026type=ws\u0026allowInsecure=0\u0026sni=pages.dev#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 12,
+      "Throughput": 61.65869456998004,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://f85f60b1-2b96-49e9-8bde-b656d1516df0@ipbaz.ping-box.com:8443?path=%2F%40OnNetVpn\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40JKVPN%F0%9F%91%88%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
-    "Score": 100,
+    "URL": "ss://nasnet@tgju.org:2053?path=%2FNASNET%2Fcdn%3Fed%3D2560\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=nasnet-571299667.rahavard365.co\u0026fp=randomized\u0026type=httpupgrade\u0026allowInsecure=0\u0026sni=nasnet-571299667.rahavard365.co#MCI-%40V2rayAlpha-8",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 39.91303329219447,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ipbaz.ping-box.com:8443?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net\u0026fp=chrome\u0026type=ws\u0026sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 44.39849989012481,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ipbaz.ping-box.com:8443?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net\u0026fp=chrome\u0026type=ws\u0026sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 34,
-      "Throughput": 44.793126333508866,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ipbaz.ping-box.com:8443?path=%2F%3FTELEGRAM--vpnserverrr--vpnserverrr--vpnserverrr--vpnserverrr--vpnsetverrr--vpnserverrr--vpnserverrr%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net\u0026fp=chrome\u0026type=ws\u0026sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 47.607158581319766,
-      "DNSResolution": 85,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@ipbaz.ping-box.com:8443?path=%2F%40OnNetVpn\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40JKVPN%F0%9F%91%88%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 30.627071916629678,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://83f03646-fb28-44cc-9d2c-8853f6c09285@cf.narton.ir:8443?path=%2F%3Fed\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=r4fnviw9jl4i4rx.zjde5.de5.net\u0026fp=random\u0026type=ws\u0026allowInsecure=0\u0026sni=r4fnviw9jl4i4rx.zjde5.de5.net#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40JKVPN%F0%9F%91%88%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 16.754768685715984,
-      "DNSResolution": 2,
+      "Latency": 12,
+      "Throughput": 10.716536698898476,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
