@@ -5,43 +5,31 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 39,
-      "Throughput": 74.3718513921374,
-      "DNSResolution": 2,
+      "Latency": 20,
+      "Throughput": 94.21475254165493,
+      "DNSResolution": 15,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
     "URL": "ss://4e5c6735-d657-4f9c-931d-52504f31aae8@fox3.wizard2shop.org:2083?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=finii.wizard2shop.com\u0026fp=360\u0026type=ws\u0026sni=finii.wizard2shop.com#%F0%9F%AA%B7",
-    "Score": 100,
+    "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 11,
-      "Throughput": 108.20738985055802,
-      "DNSResolution": 24,
+      "Latency": 51,
+      "Throughput": 163.02844575343607,
+      "DNSResolution": 56,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://5b6a3649-9d62-4b42-9a05-4a5037803cbc@104.18.32.47:2087/?type=ws\u0026encryption=none\u0026path=Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs\u0026host=Ka.MangoTs.Cfd\u0026security=tls\u0026fp=chrome\u0026alpn=\u0026sni=Ka.MangoTs.Cfd#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs",
+    "URL": "ss://396c904b-4b62-4334-b793-ee25fc0c61cc@162.159.152.4:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev\u0026type=ws\u0026sni=pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 9,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026host=singbox.lu567890.us.kg\u0026fp=chrome\u0026type=ws\u0026sni=singbox.lu567890.us.kg#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 8,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -53,7 +41,19 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 8,
+      "Latency": 5,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026insecure=0\u0026host=singbox.lu567890.us.kg\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=singbox.lu567890.us.kg#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -65,31 +65,19 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 8,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.236.167:443?encryption=none\u0026security=tls\u0026sni=zdyj.kpcloud.eu.org\u0026type=ws\u0026host=zdyj.kpcloud.eu.org\u0026path=TG%40juzibaipiao-juzi#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Protocol": "vless",
+    "URL": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=dev.twistsparrow.xyz\u0026type=ws\u0026sni=dev.twistsparrow.xyz#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 8,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://396c904b-4b62-4334-b793-ee25fc0c61cc@162.159.152.4:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev\u0026type=ws\u0026sni=pages.dev#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 9,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -101,19 +89,31 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 9,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality\u0026encryption=none\u0026pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8\u0026headerType=none\u0026fp=random\u0026type=tcp\u0026sni=analytics.google.com\u0026sid=eab26c4a32#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 30,
+    "Protocol": "vless",
+    "URL": "vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@172.64.152.23:443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=l.ayovo.netlib.re\u0026type=ws\u0026allowInsecure=1\u0026sni=l.ayovo.netlib.re#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
     "Results": {
-      "TLSOK": true,
-      "Latency": 200,
+      "TLSOK": false,
+      "Latency": 5,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026host=singbox.lu567890.us.kg\u0026fp=chrome\u0026type=ws\u0026sni=singbox.lu567890.us.kg#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
