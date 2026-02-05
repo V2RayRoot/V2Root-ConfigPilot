@@ -5,33 +5,81 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 67.55936572362405,
-      "DNSResolution": 34,
+      "Latency": 14,
+      "Throughput": 57.1541536613283,
+      "DNSResolution": 39,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://cc66c132-72a2-4622-9f41-d6d8f04125ca@f3.springpaatogh8.store:2087?mode=auto\u0026path=%2F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D\u0026insecure=0\u0026host=chess.sorza.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=chess.sorza.ir#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none\u0026security=tls\u0026sni=mitivpndozd.global.ssl.fastly.net\u0026fp=chrome\u0026alpn=http%2F1.1\u0026insecure=0\u0026allowInsecure=0\u0026type=ws\u0026host=mitivpndozd.global.ssl.fastly.net\u0026path=%2Fcontainers%2Ffi#Cloudflare🌐2",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 24,
-      "Throughput": 50.2229251255413,
-      "DNSResolution": 36,
+      "Latency": 4,
+      "Throughput": 594.4112267637222,
+      "DNSResolution": 11,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@chatgpt.com:2083/?type=ws\u0026encryption=none\u0026flow=\u0026host=ds1-mx-fn154-protection.iranlease.com\u0026path=%2F\u0026security=tls\u0026sni=ds1-mx-fn154-protection.iranlease.com\u0026alpn=http%2F1.1\u0026allowInsecure=1#Iran🇮🇷1",
-    "Score": 90,
+    "URL": "vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?encryption=none\u0026security=tls\u0026sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev\u0026fp=chrome\u0026alpn=http%2F1.1\u0026insecure=0\u0026allowInsecure=0\u0026type=ws\u0026host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev\u0026path=%2FeyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#hope%20of%20freedom%20-%20%40TeleProxyTele",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 165.05077487934633,
-      "DNSResolution": 0,
+      "Latency": 31,
+      "Throughput": 125.81587862126997,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none\u0026security=tls\u0026sni=mitivpndozd.global.ssl.fastly.net\u0026fp=chrome\u0026alpn=http%2F1.1\u0026insecure=0\u0026allowInsecure=0\u0026type=ws\u0026host=mitivpndozd.global.ssl.fastly.net\u0026path=%2Fcontainers%2Ffi#Cloudflare🌐1",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 591.6558917500464,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none\u0026security=tls\u0026sni=mitivpndozd.global.ssl.fastly.net\u0026fp=chrome\u0026alpn=http%2F1.1\u0026insecure=0\u0026allowInsecure=0\u0026type=ws\u0026host=mitivpndozd.global.ssl.fastly.net\u0026path=%2Fcontainers%2Ffi#Cloudflare🌐2",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 685.387395091821,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none\u0026security=tls\u0026sni=mitivpndozd.global.ssl.fastly.net\u0026fp=chrome\u0026alpn=http%2F1.1\u0026insecure=0\u0026allowInsecure=0\u0026type=ws\u0026host=mitivpndozd.global.ssl.fastly.net\u0026path=%2Fcontainers%2Ffi#Cloudflare🌐1",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 35.592684736945166,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?encryption=none\u0026security=tls\u0026sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev\u0026fp=chrome\u0026alpn=http%2F1.1\u0026insecure=0\u0026allowInsecure=0\u0026type=ws\u0026host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev\u0026path=%2FeyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#hope%20of%20freedom%20-%20%40TeleProxyTele",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 29,
+      "Throughput": 41.48230418312015,
+      "DNSResolution": 23,
       "PacketLoss": 0
     }
   },
@@ -41,80 +89,32 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 209.568642244061,
+      "Latency": 2,
+      "Throughput": 226.9989935715871,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://43eb19e4-ca14-46c3-bcfe-ad9118b17046@188.114.98.0:443?encryption=none\u0026security=tls\u0026sni=more.wordperessweb.ir\u0026alpn=h2%2Chttp%2F1.1\u0026fp=chrome\u0026type=ws\u0026path=%2F#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
+    "Protocol": "trojan",
+    "URL": "trojan://humanity@www.gossipglove.com:443?security=tls\u0026sni=www.gossipglove.com\u0026fp=chrome\u0026insecure=0\u0026allowInsecure=0\u0026type=ws\u0026path=%2Fassignment#hope%20of%20freedom%20-%20%40TeleProxyTele",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade\u0026encryption=none\u0026flow=\u0026security=tls\u0026sni=ru.cheburnetnastalgia1998.com\u0026allowInsecure=1#Russia🇷🇺2",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 279,
-      "Throughput": 23.224445559037196,
-      "DNSResolution": 141,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dev.twistsparrow.xyz#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 0,
+      "Latency": 3,
+      "Throughput": 21.193616479537322,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade\u0026encryption=none\u0026flow=\u0026security=tls\u0026sni=ru.cheburnetnastalgia1998.com\u0026allowInsecure=1#Russia🇷🇺2",
-    "Score": 60,
+    "URL": "vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?encryption=none\u0026security=tls\u0026sni=DiprOX.pages.DEV\u0026insecure=0\u0026allowInsecure=0\u0026type=ws\u0026host=diprox.pages.dev\u0026path=%2Fassets#hope%20of%20freedom%20-%20%40TeleProxyTele",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 247,
-      "Throughput": 15.641085053586956,
-      "DNSResolution": 208,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F\u0026security=tls\u0026encryption=none\u0026type=ws\u0026sni=dev.twistsparrow.xyz#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://43eb19e4-ca14-46c3-bcfe-ad9118b17046@188.114.98.0:443?encryption=none\u0026security=tls\u0026sni=more.wordperessweb.ir\u0026alpn=h2%2Chttp%2F1.1\u0026fp=chrome\u0026type=ws\u0026path=%2F#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 0,
+      "Latency": 3,
+      "Throughput": 425.31398672159105,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
