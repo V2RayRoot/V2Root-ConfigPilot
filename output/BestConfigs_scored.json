@@ -1,109 +1,61 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?encryption=none\u0026flow=\u0026type=ws\u0026path=/site\u0026security=tls\u0026fp=chrome\u0026sni=dariush-kharabkar.global.ssl.fastly.net\u0026alpn=http/1.1\u0026allowInsecure=false#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%86%94TAHA_NET%F0%9F%9B%A1%EF%B8%8F",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 769.9551934199629,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@strong.zdshop.ir:2053?security=tls\u0026encryption=none\u0026insecure=0\u0026host=frns-2.certhost.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026type=ws\u0026allowInsecure=0\u0026sni=frns-2.certhost.ir#%40MARAMBASHI%20%F0%9F%90%BA",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 41.87449458139329,
-      "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://44c8ceaf-0da3-435a-9c64-f08c7f733fbc@sv55.v2bit.com:2087?security=tls\u0026encryption=none\u0026insecure=1\u0026host=sadjkg32jhgjhasd.chgfa.site\u0026type=ws\u0026allowInsecure=1\u0026sni=sadjkg32jhgjhasd.chgfa.site#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 95.76161601270202,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
     "URL": "vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?encryption=none\u0026flow=\u0026type=ws\u0026path=/site\u0026security=tls\u0026fp=chrome\u0026sni=dariush-kharabkar.global.ssl.fastly.net\u0026alpn=http/1.1\u0026allowInsecure=false#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%86%94TAHA_NET%F0%9F%9B%A1%EF%B8%8F",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 24.788648573820428,
+      "Latency": 5,
+      "Throughput": 604.804902790464,
       "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls\u0026encryption=none\u0026insecure=0\u0026host=sens-2.certhost.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026type=ws\u0026allowInsecure=0\u0026sni=sens-2.certhost.ir#%40MARAMBASHI%20%F0%9F%90%BA",
+    "URL": "vless://a29a5cb2-572a-43a1-b0a5-8bd68932d864@dojman.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=dojman.global.ssl.fastly.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=dojman.global.ssl.fastly.net#%40V2rayePro%20%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%87",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 31.957556274699996,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://44c8ceaf-0da3-435a-9c64-f08c7f733fbc@sv55.v2bit.com:2087?security=tls\u0026encryption=none\u0026insecure=1\u0026host=sadjkg32jhgjhasd.chgfa.site\u0026type=ws\u0026allowInsecure=1\u0026sni=sadjkg32jhgjhasd.chgfa.site#IR-%40V2rayAlpha--22",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 109.5711629846259,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://0f7794ff-c024-4968-a6c7-6e44c7d188c7@hallllbadi.global.ssl.fastly.net:443?encryption=none\u0026flow=\u0026type=ws\u0026path=/site\u0026security=tls\u0026fp=chrome\u0026sni=hallllbadi.global.ssl.fastly.net\u0026alpn=http/1.1\u0026allowInsecure=false#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%86%94TAHA_NET%F0%9F%9B%A1%EF%B8%8F",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 717.5965896222078,
-      "DNSResolution": 2,
+      "Latency": 12,
+      "Throughput": 553.4900766493814,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@khavar-narenji.global.ssl.fastly.net:443?encryption=none\u0026flow=\u0026type=ws\u0026path=/site\u0026security=tls\u0026sni=khavar-narenji.global.ssl.fastly.net\u0026allowInsecure=false#%20%F0%9F%87%BA%F0%9F%87%B8%F0%9F%86%94TAHA_NET%F0%9F%9B%A1%EF%B8%8F",
+    "URL": "vless://44c8ceaf-0da3-435a-9c64-f08c7f733fbc@sv55.v2bit.com:2087?security=tls\u0026encryption=none\u0026insecure=1\u0026host=sadjkg32jhgjhasd.chgfa.site\u0026type=ws\u0026allowInsecure=1\u0026sni=sadjkg32jhgjhasd.chgfa.site#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 40.51866032707655,
-      "DNSResolution": 2,
+      "Latency": 3,
+      "Throughput": 45.25731177553333,
+      "DNSResolution": 8,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls\u0026encryption=none\u0026insecure=0\u0026host=sens-2.certhost.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=sens-2.certhost.ir#%F0%9F%92%AB%20SE5%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20%40laxtm%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7",
+    "URL": "ss://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=mitivpndozd.global.ssl.fastly.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=mitivpndozd.global.ssl.fastly.net#%40V2rayePro%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%A8%D8%A7%D8%B4",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 341.06391648640727,
-      "DNSResolution": 1,
+      "Latency": 2,
+      "Throughput": 520.2798246995172,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=dev.nestandneighbours.com\u0026type=ws\u0026allowInsecure=1\u0026sni=dev.nestandneighbours.com#IR-%40V2rayAlpha--26",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 71.14893198605004,
+      "DNSResolution": 12,
       "PacketLoss": 0
     }
   },
@@ -113,9 +65,57 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 833.4494953567486,
+      "Latency": 10,
+      "Throughput": 96.99791219268847,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0f7794ff-c024-4968-a6c7-6e44c7d188c7@hallllbadi.global.ssl.fastly.net:443?encryption=none\u0026flow=\u0026type=ws\u0026path=/site\u0026security=tls\u0026fp=chrome\u0026sni=hallllbadi.global.ssl.fastly.net\u0026alpn=http/1.1\u0026allowInsecure=false#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%86%94TAHA_NET%F0%9F%9B%A1%EF%B8%8F",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 19.885513382372583,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026encryption=none\u0026security=tls\u0026type=ws\u0026path=site\u0026sni=dariush-kharabkar.global.ssl.fastly.net\u0026fp=chrome#🇩🇪[Telegram:NetifyVpn]",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 15,
+      "Throughput": 40.418277640272834,
+      "DNSResolution": 4,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a29a5cb2-572a-43a1-b0a5-8bd68932d864@dojman.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=dojman.global.ssl.fastly.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=dojman.global.ssl.fastly.net#%40V2rayePro%20%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%87",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 11,
+      "Throughput": 586.1315559089278,
       "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://36213657-e751-478b-a5d7-547eef892af9@kirinet.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=kirinet.global.ssl.fastly.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=kirinet.global.ssl.fastly.net#%40V2rayePro%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%A8%D8%A7%D8%B4",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 615.2903339734404,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   }
