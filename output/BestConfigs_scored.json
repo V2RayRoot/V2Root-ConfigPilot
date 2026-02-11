@@ -1,37 +1,13 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?encryption=none\u0026flow=\u0026type=ws\u0026path=/site\u0026security=tls\u0026fp=chrome\u0026sni=dariush-kharabkar.global.ssl.fastly.net\u0026alpn=http/1.1\u0026allowInsecure=false#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%86%94TAHA_NET%F0%9F%9B%A1%EF%B8%8F",
+    "Protocol": "shadowsocks",
+    "URL": "ss://a8a78fb8-719e-4992-b36e-fbef11d890f7@ai.mashti.my:2096?mode=auto\u0026security=tls\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D\u0026insecure=0\u0026host=9b7f336ccbf66338.loatboos.asia\u0026type=xhttp\u0026allowInsecure=0\u0026sni=9b7f336ccbf66338.loatboos.asia#4",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 604.804902790464,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://a29a5cb2-572a-43a1-b0a5-8bd68932d864@dojman.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=dojman.global.ssl.fastly.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=dojman.global.ssl.fastly.net#%40V2rayePro%20%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%87",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 12,
-      "Throughput": 553.4900766493814,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://44c8ceaf-0da3-435a-9c64-f08c7f733fbc@sv55.v2bit.com:2087?security=tls\u0026encryption=none\u0026insecure=1\u0026host=sadjkg32jhgjhasd.chgfa.site\u0026type=ws\u0026allowInsecure=1\u0026sni=sadjkg32jhgjhasd.chgfa.site#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 45.25731177553333,
-      "DNSResolution": 8,
+      "Latency": 4,
+      "Throughput": 35.679352601714974,
+      "DNSResolution": 9,
       "PacketLoss": 0
     }
   },
@@ -41,56 +17,20 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 520.2798246995172,
-      "DNSResolution": 3,
+      "Latency": 21,
+      "Throughput": 194.96894814861753,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=dev.nestandneighbours.com\u0026type=ws\u0026allowInsecure=1\u0026sni=dev.nestandneighbours.com#IR-%40V2rayAlpha--26",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 71.14893198605004,
-      "DNSResolution": 12,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://0f7794ff-c024-4968-a6c7-6e44c7d188c7@khavar-narenji.global.ssl.fastly.net:443?encryption=none\u0026flow=\u0026type=ws\u0026path=/site\u0026security=tls\u0026sni=khavar-narenji.global.ssl.fastly.net\u0026allowInsecure=false#%20%F0%9F%87%BA%F0%9F%87%B8%F0%9F%86%94TAHA_NET%F0%9F%9B%A1%EF%B8%8F",
+    "URL": "vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=mitivpndozd.global.ssl.fastly.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=mitivpndozd.global.ssl.fastly.net#%40V2rayePro%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%A8%D8%A7%D8%B4",
     "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 10,
-      "Throughput": 96.99791219268847,
-      "DNSResolution": 6,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://0f7794ff-c024-4968-a6c7-6e44c7d188c7@hallllbadi.global.ssl.fastly.net:443?encryption=none\u0026flow=\u0026type=ws\u0026path=/site\u0026security=tls\u0026fp=chrome\u0026sni=hallllbadi.global.ssl.fastly.net\u0026alpn=http/1.1\u0026allowInsecure=false#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%86%94TAHA_NET%F0%9F%9B%A1%EF%B8%8F",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 19.885513382372583,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026encryption=none\u0026security=tls\u0026type=ws\u0026path=site\u0026sni=dariush-kharabkar.global.ssl.fastly.net\u0026fp=chrome#🇩🇪[Telegram:NetifyVpn]",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 40.418277640272834,
+      "Throughput": 126.57284159446847,
       "DNSResolution": 4,
       "PacketLoss": 0
     }
@@ -101,9 +41,69 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 11,
-      "Throughput": 586.1315559089278,
-      "DNSResolution": 2,
+      "Latency": 10,
+      "Throughput": 553.4798906572802,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026encryption=none\u0026security=tls\u0026type=ws\u0026path=site\u0026sni=dariush-kharabkar.global.ssl.fastly.net\u0026fp=chrome#🇩🇪[Telegram:NetifyVpn]",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 70.52994001684273,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a29a5cb2-572a-43a1-b0a5-8bd68932d864@dojman.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=dojman.global.ssl.fastly.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=dojman.global.ssl.fastly.net#%40V2rayePro%20%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%87",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 489.83677475302886,
+      "DNSResolution": 9,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://36213657-e751-478b-a5d7-547eef892af9@kirinet.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=kirinet.global.ssl.fastly.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=kirinet.global.ssl.fastly.net#%40V2rayePro%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%A8%D8%A7%D8%B4",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 584.6171587036085,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---\u0026encryption=none\u0026security=tls\u0026type=ws\u0026path=site\u0026sni=dariush-kharabkar.global.ssl.fastly.net\u0026fp=chrome#🇩🇪[Telegram:NetifyVpn]",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 474.7559220460271,
+      "DNSResolution": 4,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a8a78fb8-719e-4992-b36e-fbef11d890f7@ai.mashti.my:2096?mode=auto\u0026security=tls\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D\u0026insecure=0\u0026host=f1a7e417e3a4fa6b.sezarbook.ir\u0026type=xhttp\u0026allowInsecure=0\u0026sni=f1a7e417e3a4fa6b.sezarbook.ir#3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 56.62412274546985,
+      "DNSResolution": 52,
       "PacketLoss": 0
     }
   },
@@ -113,8 +113,8 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 615.2903339734404,
+      "Latency": 10,
+      "Throughput": 225.4787491634034,
       "DNSResolution": 3,
       "PacketLoss": 0
     }
