@@ -1,12 +1,24 @@
 [
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=backup.f-sub.cfd\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=backup.f-sub.cfd#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 21,
+      "Throughput": 63.74699277545769,
+      "DNSResolution": 10,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
-    "URL": "vless://bbafc769-441b-4f06-9aae-9cc04ede1980@afrcloud22.mmv.kr:443?path=%2F198.98.61.220%3D443\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026allowInsecure=0\u0026sni=afrcloud22.mmv.kr#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=dev.nestandneighbours.com\u0026type=ws\u0026allowInsecure=0\u0026sni=dev.nestandneighbours.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%99%83",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 416.75123243758213,
+      "Latency": 9,
+      "Throughput": 29.44077111738763,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,20 +29,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 388.4824472218673,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://c4359d70-4f58-459b-8bd5-9c310c2f2d6f@afrcloud22.mmv.kr:443?path=%2F152.67.248.2%3D53300\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026allowInsecure=0\u0026sni=afrcloud22.mmv.kr#%40RM_SPEED_VPN",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 370.0689526350135,
+      "Latency": 9,
+      "Throughput": 224.10322642815734,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -41,44 +41,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 44.14800676660914,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=hetz.x-smm.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=hetz.x-smm.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 34.40429828380394,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026allowInsecure=0\u0026sni=afrcloud22.mmv.kr#%40RM_SPEED_VPN",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 373.7514715296218,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026allowInsecure=0\u0026sni=afrcloud22.mmv.kr#%40RM_SPEED_VPN",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 402.7129969176347,
+      "Latency": 9,
+      "Throughput": 21.10184919883163,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -89,33 +53,69 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 228.22735301402463,
+      "Latency": 9,
+      "Throughput": 191.40794154899126,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=backup.f-sub.cfd\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=backup.f-sub.cfd#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 85,
+    "URL": "ss://ac5ad8ba-479f-4d7a-a027-18849cee6395@kaenat2.a1min.ir:443?security=tls\u0026encryption=none\u0026type=ws\u0026path=%2F\u0026fp=chrome\u0026sni=lopqwz2.wordperessweb.ir#king",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 92,
-      "Throughput": 83.51776055810912,
-      "DNSResolution": 96,
+      "Latency": 11,
+      "Throughput": 41.4016553178778,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=backup.f-sub.cfd\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=backup.f-sub.cfd#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 75,
+    "URL": "vless://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026allowInsecure=0\u0026sni=afrcloud22.mmv.kr#%40RM_SPEED_VPN",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 90,
-      "Throughput": 22.07337599088661,
-      "DNSResolution": 356,
+      "Latency": 9,
+      "Throughput": 218.06556544646443,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026allowInsecure=0\u0026sni=afrcloud22.mmv.kr#%40RM_SPEED_VPN",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 193.18285242353804,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=dev.nestandneighbours.com\u0026type=ws\u0026allowInsecure=0\u0026sni=dev.nestandneighbours.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%99%83",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 11,
+      "Throughput": 43.98679797840195,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://bbafc769-441b-4f06-9aae-9cc04ede1980@afrcloud22.mmv.kr:443?path=%2F198.98.61.220%3D443\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026allowInsecure=0\u0026sni=afrcloud22.mmv.kr#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 208.186946465065,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
