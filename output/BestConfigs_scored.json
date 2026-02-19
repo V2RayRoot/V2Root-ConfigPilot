@@ -1,13 +1,25 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=takken.sorza.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=digikala.sorza.ir#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4",
+    "Protocol": "shadowsocks",
+    "URL": "ss://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=ipv4.yasharteam.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=ipv4.yasharteam.com#%40SPARTAN_YT%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D9%85%DB%8C%D8%B2%D8%A7%D8%B1%D9%85",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 22,
-      "Throughput": 65.57315775901766,
-      "DNSResolution": 15,
+      "Latency": 5,
+      "Throughput": 69.23138665491463,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---\u0026type=ws\u0026security=tls\u0026sni=digikala.sorza.ir\u0026host=takken.sorza.ir\u0026path=%2F%3Fed%3D2560\u0026allowInsecure=0\u0026encryption=none#🇫🇮[Telegram:NetifyVPN]",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 33,
+      "Throughput": 36.04399867489646,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -17,45 +29,21 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 95.64761505660844,
-      "DNSResolution": 7,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://53ca0d0b-a9dd-448f-a0c8-4fcbe95b8745@F1.HaMrAhCoNf.Ir:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0.hamrahconfig.ir\u0026fp=chrome\u0026type=ws\u0026sni=xn----01-zf5fn54ga326efyestii8z9y2c.hamrahconfig.ir#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F%20%D8%A7%DA%AF%D9%87%20%D9%82%D8%B7%D8%B9%20%D8%A8%D9%88%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B4%D8%AF",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 24.701281383294482,
+      "Latency": 6,
+      "Throughput": 59.232976929251556,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=takken.sorza.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=digikala.sorza.ir#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4",
+    "URL": "ss://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=takken.sorza.ir\u0026type=ws\u0026sni=digikala.sorza.ir#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 86.22249000053533,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=chess.sorza.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=digikala.sorza.ir#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 65.25500620501697,
-      "DNSResolution": 1,
+      "Latency": 9,
+      "Throughput": 54.09066466257148,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -66,20 +54,56 @@
     "Results": {
       "TLSOK": true,
       "Latency": 4,
-      "Throughput": 78.06610278479744,
-      "DNSResolution": 19,
+      "Throughput": 40.685105441248375,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---\u0026type=ws\u0026security=tls\u0026sni=digikala.sorza.ir\u0026host=takken.sorza.ir\u0026path=%2F%3Fed%3D2560\u0026allowInsecure=0\u0026encryption=none#🇫🇮[Telegram:NetifyVPN]",
+    "URL": "vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=chess.sorza.ir\u0026type=ws\u0026sni=digikala.sorza.ir#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 50.585293982442984,
-      "DNSResolution": 18,
+      "Latency": 4,
+      "Throughput": 55.19731729998458,
+      "DNSResolution": 7,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=takken.sorza.ir\u0026type=ws\u0026sni=digikala.sorza.ir#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 11,
+      "Throughput": 57.76641339127131,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=takken.sorza.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=digikala.sorza.ir#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AF%D8%A7%D8%AE%D9%84%20%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 13,
+      "Throughput": 30.304484229535042,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=chess.sorza.ir\u0026type=ws\u0026sni=digikala.sorza.ir#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 35.79698329783011,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -90,32 +114,8 @@
     "Results": {
       "TLSOK": true,
       "Latency": 3,
-      "Throughput": 84.64508796037154,
+      "Throughput": 56.67493431162582,
       "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=hetz.x-smm.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=hetz.x-smm.com#%40VpnMaan%2021",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 26.170044107679303,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=hetz.x-smm.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=hetz.x-smm.com#%40VpnMaan%2016",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 21.78005154134852,
-      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
