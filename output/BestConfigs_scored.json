@@ -1,23 +1,11 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?path=%2F57ba2ab1\u0026security=tls\u0026encryption=none\u0026host=ovhwuxian.pai50288.uk\u0026type=ws\u0026sni=ovhwuxian.pai50288.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "ss://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto\u0026path=%2F\u0026security=none\u0026encryption=none\u0026host=barcodevpn.global.ssl.fastly.net\u0026type=xhttp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 12,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?path=%2F57ba2ab1\u0026security=tls\u0026encryption=none\u0026host=ovhwuxian.pai50288.uk\u0026type=ws\u0026sni=ovhwuxian.pai50288.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 15,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -29,7 +17,19 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 13,
+      "Latency": 5,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?path=%2F57ba2ab1\u0026security=tls\u0026encryption=none\u0026host=ovhwuxian.pai50288.uk\u0026type=ws\u0026sni=ovhwuxian.pai50288.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 5,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -37,11 +37,11 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto\u0026path=%2F\u0026security=none\u0026encryption=none\u0026host=barcodevpn.global.ssl.fastly.net\u0026type=xhttp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "URL": "ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?path=%2F57ba2ab1\u0026security=tls\u0026encryption=none\u0026host=ovhwuxian.pai50288.uk\u0026type=ws\u0026sni=ovhwuxian.pai50288.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 9,
+      "Latency": 6,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -53,7 +53,7 @@
     "Score": 30,
     "Results": {
       "TLSOK": true,
-      "Latency": 125,
+      "Latency": 108,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -65,7 +65,43 @@
     "Score": 30,
     "Results": {
       "TLSOK": true,
-      "Latency": 126,
+      "Latency": 108,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c43f0850-9ef2-4af9-c903-871e31788758@18.199.164.74:58366?encryption=none\u0026security=none\u0026type=tcp\u0026headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 20,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0768110d-4f0d-4607-8ee5-a51caedf087b@95.38.38.233:42245?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 20,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c21ba381-5808-4098-b94d-86c468a683d9@3.70.224.129:443?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
+    "Score": 20,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -74,42 +110,6 @@
   {
     "Protocol": "shadowsocks",
     "URL": "ss://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2Fdownload#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiAiMTA0LjE5LjM3LjEwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5hc25ldC01NzEyOTk2NjcucmFoYXZhcmQzNjUuY28iLCAiaWQiOiAibmFzbmV0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9OQVNORVQvY2RuIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRmZTNcdWQ4M2RcdWRkMjUrQ2hhbm5lbCtTZXJ2ZXIrRnJlZStARmFyYWhfVlBOIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiAiODIuMTUyLjk4Ljg4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZhc3QuY29tIiwgImlkIjogIjhhYThkOTkwLWRlYTgtNDMxZi1iNjJkLWNjNzBmM2JhNGRlOCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA4NSIsICJwcyI6ICJcdWQ4M2RcdWRmZTNcdWQ4M2RcdWRkMjUrQ2hhbm5lbCtTZXJ2ZXIrRnJlZStARmFyYWhfVlBOIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.76.212.185:443?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3",
     "Score": 20,
     "Results": {
       "TLSOK": false,
