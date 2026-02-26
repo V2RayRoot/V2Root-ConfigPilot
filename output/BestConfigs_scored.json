@@ -1,13 +1,13 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026host=sni.111000.indevs.in\u0026fp=chrome\u0026type=ws\u0026sni=sni.111000.indevs.in#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
+    "Protocol": "trojan",
+    "URL": "trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls\u0026type=ws\u0026sni=sweden.vmaxpanel.com\u0026path=/amd\u0026host=sweden.vmaxpanel.com#🇸🇪",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 41,
-      "Throughput": 36.132800163154045,
-      "DNSResolution": 81,
+      "Latency": 2,
+      "Throughput": 26.584332596026837,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -17,32 +17,32 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 78.2723576501969,
-      "DNSResolution": 6,
+      "Latency": 11,
+      "Throughput": 49.1741934889815,
+      "DNSResolution": 15,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
     "URL": "ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?path=%2F138.2.5.136%3D443\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=afrcloud22.mmv.kr\u0026fp=chrome\u0026type=ws\u0026sni=afrcloud22.mmv.kr#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
-    "Score": 90,
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 200.7596494184432,
-      "DNSResolution": 0,
+      "Latency": 2,
+      "Throughput": 116.86228731867136,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://01036a14-7758-4795-b453-2625aa8ee2b5@afrcloud22.mmv.kr:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026sni=afrcloud22.mmv.kr#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
+    "Protocol": "shadowsocks",
+    "URL": "ss://9e308743-bc58-4109-b8a8-c2c686959c65@zxsdr5.988988.shop:443?encryption=none\u0026security=tls\u0026sni=zxsdr5.988988.shop\u0026type=ws\u0026host=zxsdr5.988988.shop\u0026path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO#🇺🇸",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 403.9163323669972,
+      "Throughput": 34.90312645976873,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -54,7 +54,7 @@
     "Results": {
       "TLSOK": true,
       "Latency": 3,
-      "Throughput": 491.22807879347505,
+      "Throughput": 437.51902865962927,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -66,32 +66,8 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 109.51098826411805,
+      "Throughput": 216.6483007583205,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?path=%2F131.186.26.129\u0026security=tls\u0026encryption=none\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026sni=afrcloud22.mmv.kr#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 412.860522710322,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://2eb21886-4218-44fb-b156-d1daffb77769@IP.xQNetWork.iR:2053?mode=auto\u0026security=tls\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D\u0026insecure=0\u0026host=SedaYehaG.Sav-Savteam.Ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=SedaYehaG.Sav-Savteam.Ir#%F0%9F%9F%A8%20%40dranetfree",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 43.565724981722134,
-      "DNSResolution": 179,
       "PacketLoss": 0
     }
   },
@@ -102,20 +78,44 @@
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 530.1261057353747,
+      "Throughput": 327.1467698182242,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?path=%2F131.186.26.129\u0026security=tls\u0026encryption=none\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026sni=afrcloud22.mmv.kr#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 427.68014315309756,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://2eb21886-4218-44fb-b156-d1daffb77769@H2.FASTSPEEDS.IR:2087?mode=multi\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026fp=chrome\u0026type=grpc\u0026serviceName=vless\u0026allowInsecure=0\u0026sni=REDULF2F.liTuKa.Ir#%E2%9A%AB%20%40dranetfree",
-    "Score": 75,
+    "URL": "ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?path=%2F138.2.5.136%3D443\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026allowInsecure=1\u0026sni=afrcloud22.mmv.kr#🇨🇦",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 95,
-      "Throughput": 41.43031041406317,
-      "DNSResolution": 162,
+      "Latency": 2,
+      "Throughput": 256.29009578457897,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026host=sni.111000.indevs.in\u0026fp=chrome\u0026type=ws\u0026sni=sni.111000.indevs.in#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 12,
+      "Throughput": 55.31433473542957,
+      "DNSResolution": 116,
       "PacketLoss": 0
     }
   }
