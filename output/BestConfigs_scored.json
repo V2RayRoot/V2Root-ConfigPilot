@@ -1,61 +1,25 @@
 [
   {
     "Protocol": "shadowsocks",
+    "URL": "ss://e7623987-2e5f-245c-0975-249864348b56@cf2.bntabriz.ir:443?mode=packet-up\u0026path=%2Fmitivpn\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026extra=%7B%22headers%22%3A%7B%7D%7D\u0026insecure=0\u0026host=de2.www.hitgram.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=de2.www.hitgram.ir#",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 382.8406421520085,
+      "DNSResolution": 99,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
     "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.indevs.in\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.indevs.in#🇸🇬",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 13,
-      "Throughput": 50.96781574838993,
-      "DNSResolution": 14,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.indevs.in\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.indevs.in#🇸🇬",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 26,
-      "Throughput": 40.183124544329644,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e7623987-2e5f-245c-0975-249864348b56@cf2.bntabriz.ir:443?mode=packet-up\u0026path=%2Fmitivpn\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026extra=%7B%22headers%22%3A%7B%7D%7D\u0026insecure=0\u0026host=de2.www.hitgram.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=de2.www.hitgram.ir#%E2%9A%A1Telegram%20%3D%20%40V2GaMa",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 173.8976459758248,
-      "DNSResolution": 27,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ff7989a4-572c-637e-c0d8-c4da07397f1c@cf2.bntabriz.ir:443?mode=packet-up\u0026path=%2Fmitivpn\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026extra=%7B%27headers%27%3A%20%7B%7D%7D\u0026insecure=0\u0026host=us.www.hitgram.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=us.www.hitgram.ir#",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 13,
-      "Throughput": 161.60610612511383,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=gamepc.sorza.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=digikala.sorza.ir#",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 28,
-      "Throughput": 60.94164732905672,
-      "DNSResolution": 2,
+      "Latency": 12,
+      "Throughput": 63.34685390106832,
+      "DNSResolution": 81,
       "PacketLoss": 0
     }
   },
@@ -65,44 +29,44 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 25,
-      "Throughput": 60.480902251680554,
-      "DNSResolution": 14,
+      "Latency": 48,
+      "Throughput": 69.0635452039162,
+      "DNSResolution": 56,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://e7623987-2e5f-245c-0975-249864348b56@cf2.bntabriz.ir:443?mode=packet-up\u0026path=%2Fmitivpn\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026extra=%7B%22headers%22%3A%7B%7D%7D\u0026insecure=0\u0026host=de2.www.hitgram.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=de2.www.hitgram.ir#%E2%9A%A1Telegram%20%3D%20%40V2GaMa",
+    "Protocol": "shadowsocks",
+    "URL": "ss://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=gamepc.sorza.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=digikala.sorza.ir#",
     "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 176.55363335239377,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e7623987-2e5f-245c-0975-249864348b56@cf2.bntabriz.ir:443?mode=packet-up\u0026path=%2Fmitivpn\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026extra=%7B%22headers%22%3A%7B%7D%7D\u0026insecure=0\u0026host=de2.www.hitgram.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=de2.www.hitgram.ir#",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 13,
-      "Throughput": 29.080554615758867,
-      "DNSResolution": 9,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.indevs.in\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.indevs.in#🇸🇬",
-    "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 12,
-      "Throughput": 139.9888537374933,
+      "Throughput": 53.41376877163474,
+      "DNSResolution": 54,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.indevs.in\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.indevs.in#🇨🇦",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 187.7821647081965,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.indevs.in\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.indevs.in#🇨🇦",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 204.66782846359493,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -113,9 +77,45 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 12,
-      "Throughput": 23.8355449888612,
+      "Latency": 2,
+      "Throughput": 32.97164863551613,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=hetz.x-smm.com\u0026type=ws\u0026allowInsecure=0\u0026sni=hetz.x-smm.com#%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 21.798920312011326,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.indevs.in\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.indevs.in#🇸🇬",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 52,
+      "Throughput": 46.107126600469854,
+      "DNSResolution": 81,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://012a039a-6d69-4c74-83f3-10f29fb53a29@usa130.luckerusa.org:443?security=tls\u0026encryption=none\u0026insecure=0\u0026headerType=\u0026type=tcp\u0026allowInsecure=0\u0026flow=xtls-rprx-vision\u0026sni=usa130.luckerusa.org#%F0%9F%92%80N%CE%9ETISHI%CE%A3LD%F0%9F%94%A5%20%7C%20%40netishield%20%E2%9A%A1%EF%B8%8F%F0%9F%9B%A1%EF%B8%8F%F0%9F%91%BE%F0%9F%87%BA%F0%9F%87%B8",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 93,
+      "Throughput": 8.248708177803211,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
