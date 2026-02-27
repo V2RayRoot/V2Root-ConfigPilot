@@ -5,21 +5,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 27,
-      "Throughput": 41.29191501000751,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.indevs.in\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.indevs.in#🇸🇬",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 33.178613853502114,
-      "DNSResolution": 45,
+      "Latency": 3,
+      "Throughput": 89.5789142701909,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
@@ -29,56 +17,20 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 94.32338411456735,
+      "Latency": 5,
+      "Throughput": 178.45797232215,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=80bab3a2.gon-7ye.pages.dev\u0026type=ws\u0026allowInsecure=1\u0026sni=80bab3a2.gon-7ye.pages.dev#🇸🇬",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 29.527784146346665,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?encryption=none\u0026security=tls\u0026sni=afrcloud22.mmv.kr\u0026type=ws\u0026host=afrcloud22.mmv.kr\u0026path=%2F47.130.35.116%3D8888#🇸🇬",
+    "URL": "ss://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@kli.988988.shop:443?security=tls\u0026encryption=none\u0026sni=kli.988988.shop\u0026type=ws\u0026host=kli.988988.shop\u0026path=/UzlFfVDyqJL3rI4BWzwNzcYz\u0026allow_insecure=0#🇺🇸",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 11.449381366167321,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ca7709bd-7ff1-4edc-9f1d-679d17bcd150@afrcloud22.mmv.kr:443?encryption=none\u0026security=tls\u0026sni=afrcloud22.mmv.kr\u0026type=ws\u0026host=afrcloud22.mmv.kr\u0026path=%2F45.77.25.6%3D48828#🇸🇬",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 135.32613929427384,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?encryption=none\u0026security=tls\u0026sni=afrcloud22.mmv.kr\u0026type=ws\u0026host=afrcloud22.mmv.kr\u0026path=%2F47.130.35.116%3D8888#🇨🇦",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 11,
-      "Throughput": 100.91928002924136,
+      "Latency": 2,
+      "Throughput": 32.47103364619282,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -89,32 +41,80 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 148.45007360525776,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://humanity@www.multiplydose.com:443?security=tls\u0026sni=www.multiplydose.com\u0026allowInsecure=1\u0026type=ws\u0026host=www.multiplydose.com\u0026path=%2Fassignment#🇳🇱",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 20.211873490346747,
+      "Latency": 2,
+      "Throughput": 283.0443185486902,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://9e308743-bc58-4109-b8a8-c2c686959c65@zxsdr5.988988.shop:443?encryption=none\u0026security=tls\u0026sni=zxsdr5.988988.shop\u0026type=ws\u0026host=zxsdr5.988988.shop\u0026path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO#🇺🇸",
+    "URL": "vless://4a942a11-2178-4b10-af73-15b1cfee99df@afrcloud22.mmv.kr:443?path=/185.186.245.205=81\u0026security=tls\u0026encryption=none\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026sni=afrcloud22.mmv.kr#🇸🇬",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 18.345736209085274,
+      "Latency": 1,
+      "Throughput": 271.226885663391,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4a942a11-2178-4b10-af73-15b1cfee99df@afrcloud22.mmv.kr:443?path=/185.186.245.205=81\u0026security=tls\u0026encryption=none\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026sni=afrcloud22.mmv.kr#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 548.9442840764713,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://b7039fbe-0359-4d91-977d-a926203b1936@afrcloud22.mmv.kr:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026allowInsecure=1\u0026sni=afrcloud22.mmv.kr#🇨🇦",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 319.4128042771291,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?encryption=none\u0026security=tls\u0026sni=afrcloud22.mmv.kr\u0026insecure=0\u0026allowInsecure=0\u0026type=ws\u0026host=afrcloud22.mmv.kr\u0026path=%2F130.185.164.213%3D8443#🇨🇦",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 324.0733820423728,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://b7039fbe-0359-4d91-977d-a926203b1936@afrcloud22.mmv.kr:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026allowInsecure=1\u0026sni=afrcloud22.mmv.kr#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 305.44430807204543,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://b7039fbe-0359-4d91-977d-a926203b1936@afrcloud22.mmv.kr:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=afrcloud22.mmv.kr\u0026type=ws\u0026allowInsecure=1\u0026sni=afrcloud22.mmv.kr#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 323.5729703966325,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
