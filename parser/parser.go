@@ -4,7 +4,6 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"regexp"
-	"strings"
 )
 
 var patterns = map[string]*regexp.Regexp{
@@ -131,3 +130,4 @@ func ExtractServerAddress(protocol, configURL string) (string, string) {
 
 	return "", ""
 }
+
