@@ -55,16 +55,12 @@ func ValidateURL(protocol, configURL string) bool {
 			return false
 		}
 		encoded := parts[1]
-		data, err := base64.URLEncoding.DecodeString(encoded)
+		_, err := base64.URLEncoding.DecodeString(encoded)
 		if err != nil {
-			data, err = base64.StdEncoding.DecodeString(encoded)
+			_, err = base64.StdEncoding.DecodeString(encoded)
 			if err != nil {
 				return false
 			}
-		}
-		creds := strings.SplitN(string(data), ":", 2)
-		if len(creds) != 2 {
-			return false
 		}
 		if parts[2] == "" || parts[3] == "" {
 			return false
@@ -112,9 +108,9 @@ func ExtractServerAddress(protocol, configURL string) (string, string) {
 			return "", ""
 		}
 		encoded := matches[1]
-		data, err := base64.URLEncoding.DecodeString(encoded)
+		_, err := base64.URLEncoding.DecodeString(encoded)
 		if err != nil {
-			data, err = base64.StdEncoding.DecodeString(encoded)
+			_, err = base64.StdEncoding.DecodeString(encoded)
 			if err != nil {
 				return "", ""
 			}
