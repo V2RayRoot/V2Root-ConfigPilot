@@ -1,121 +1,121 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5a229998-c9db-4a4d-8e6e-b3d67fee5e1d@F1.HaMrAhCoNf.Ir:8443?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=app-core-01.secoxi.site\u0026sni=uiuyoyw.secoxi.site\u0026fp=\u0026allowInsecure=1#@GamingConfigs",
+    "Protocol": "vless",
+    "URL": "vless://cee4ee46-7856-4d3e-a579-f08269b26f77@poe.com:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=jop-6z6.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=jop-6z6.pages.dev#🇨🇦",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 22.414741879859793,
-      "DNSResolution": 2,
+      "Latency": 4,
+      "Throughput": 24.421139771346944,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://5a229998-c9db-4a4d-8e6e-b3d67fee5e1d@F3.HaMrAhCoNf.Ir:8443?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=app-core-04.secoxi.site\u0026sni=uiuyoyw.secoxi.site\u0026fp=\u0026allowInsecure=1#@GamingConfigs",
+    "URL": "vless://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@cdn123.global.ssl.fastly.net:443?path=/site\u0026security=tls\u0026alpn=http/1.1\u0026encryption=none\u0026insecure=0\u0026host=cdn123.global.ssl.fastly.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=cdn123.global.ssl.fastly.net#🇳🇱",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 36.70333423043929,
-      "DNSResolution": 13,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1\u0026encryption=none\u0026host=terazhediii.info\u0026path=/sghiyws\u0026security=tls\u0026sni=terazhediii.info\u0026type=ws#🇩🇪",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 31,
-      "Throughput": 19.13283697684014,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5a229998-c9db-4a4d-8e6e-b3d67fee5e1d@F2.HaMrAhCoNf.Ir:8443?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=app-core-05.secoxi.site\u0026sni=uiuyoyw.secoxi.site\u0026fp=\u0026allowInsecure=1#@GamingConfigs",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 19,
-      "Throughput": 43.10364660837394,
-      "DNSResolution": 175,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://94daa8ad-75ed-4dbf-a6de-d05036d98df5@norman.ns.cloudflare.com:443?allowInsecure=1\u0026encryption=none\u0026host=vangoghhh.info\u0026path=/tixvuws\u0026security=tls\u0026sni=vangoghhh.info\u0026type=ws#🇩🇪",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
       "Latency": 6,
-      "Throughput": 17.86984476673588,
+      "Throughput": 18.97506387000569,
+      "DNSResolution": 4,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://5f1fc730-c184-415c-932b-37c8812c8736@poe.com:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=yor.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=yor.pages.dev#🇸🇬",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 37,
+      "Throughput": 21.73885574543691,
+      "DNSResolution": 23,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://cee4ee46-7856-4d3e-a579-f08269b26f77@poe.com:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=jop-6z6.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=jop-6z6.pages.dev#🇨🇦",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 29.002431951802365,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@cdn123.global.ssl.fastly.net:443?path=/site\u0026security=tls\u0026alpn=http/1.1\u0026encryption=none\u0026insecure=0\u0026host=cdn123.global.ssl.fastly.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=cdn123.global.ssl.fastly.net#🇳🇱",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 23,
+      "Throughput": 524.7754010481208,
+      "DNSResolution": 4,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vmess",
+    "URL": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJ6ZHFiay5jbXZ2Yi5vbmxpbmUiLCJwb3J0IjoiODQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIzZDc0Yzk1OS0yYTRjLTRkZjgtODg3YS00Zjk3MzZhNzdiNmYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ6ZHFiay5jbXZ2Yi5vbmxpbmUiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 18.275125698770275,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://5a229998-c9db-4a4d-8e6e-b3d67fee5e1d@F3.HaMrAhCoNf.Ir:8443?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=app-core-04.secoxi.site\u0026sni=uiuyoyw.secoxi.site\u0026fp=\u0026allowInsecure=1#@GamingConfigs",
+    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.indevs.in\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.indevs.in#🇨🇦",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 22,
-      "Throughput": 22.198123815685005,
-      "DNSResolution": 207,
+      "Latency": 2,
+      "Throughput": 484.09080938470544,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "trojan",
-    "URL": "trojan://humanity@www.calmlunch.com:443?allowInsecure=1\u0026sni=www.calmlunch.com\u0026type=ws\u0026path=%2Fassignment#🇫🇷",
+    "Protocol": "vmess",
+    "URL": "vmess://eyJhZGQiOiJkY3ZiZ2h5Ny4xMmkuY2N3dS5jYyIsImFpZCI6IjAiLCJob3N0IjoiZGN2YmdoeTcuMTJpLmNjd3UuY2MiLCJpZCI6ImFlNzJmOTU4LWMxZjYtNGZjMi1hMzEwLTFmMDA3YWYzZDExZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9XY0NzMngyWXdhd0ZhNkNzZmswdUZERiIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6ImRjdmJnaHk3LjEyaS5jY3d1LmNjIiwidGVzdF9uYW1lIjoiVVNcdTdmOGVcdTU2ZmQ1IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 12,
-      "Throughput": 31.076549516478604,
+      "Latency": 4,
+      "Throughput": 42.00875136810688,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@norman.ns.cloudflare.com:443?allowInsecure=1\u0026encryption=none\u0026host=vangoghhh.info\u0026path=/tixvuws\u0026security=tls\u0026sni=vangoghhh.info\u0026type=ws#🇩🇪",
+    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.indevs.in\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.indevs.in#🇨🇦",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 21.084919470999612,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1\u0026encryption=none\u0026host=terazhediii.info\u0026path=/sghiyws\u0026security=tls\u0026sni=terazhediii.info\u0026type=ws#🇩🇪",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 18.082133884553922,
+      "Latency": 2,
+      "Throughput": 548.315581387921,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://5a229998-c9db-4a4d-8e6e-b3d67fee5e1d@F1.HaMrAhCoNf.Ir:8443?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=app-core-05.secoxi.site\u0026sni=uiuyoyw.secoxi.site\u0026fp=\u0026allowInsecure=1#@GamingConfigs",
+    "URL": "ss://2ad80cff-5ef8-416a-a663-22c147264faa@chatgpt.com:443?path=/eyJqdW5rIjoiRnpna0hyZFRQRmNqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560\u0026security=tls\u0026alpn=http/1.1\u0026encryption=none\u0026insecure=0\u0026host=sonya-3nl.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=sonya-3nl.pages.dev#🇸🇬",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 25.22671397634152,
-      "DNSResolution": 184,
+      "Latency": 3,
+      "Throughput": 472.3902094294755,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
