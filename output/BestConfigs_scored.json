@@ -1,49 +1,85 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://5a229998-c9db-4a4d-8e6e-b3d67fee5e1d@F1.HaMrAhCoNf.Ir:8443?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=app-core-01.secoxi.site\u0026sni=uiuyoyw.secoxi.site\u0026fp=\u0026allowInsecure=1#@GamingConfigs",
+    "URL": "ss://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=Ws2.beepn.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=Ws2.beepn.info#%E2%9A%A1Telegram%20%3D%20%40@DrovOne",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 57.216878618726184,
+      "Latency": 7,
+      "Throughput": 208.18104672909843,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=Ws2.beepn.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=Ws2.beepn.info#%E2%9A%A1Telegram%20%3D%20%40@DrovOne",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 185.7450474159509,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://5fdc186d-f881-4fc4-9346-1f3d8fae9339@F3.HaMrAhCoNf.Ir:8443?security=tls\u0026allowInsecure=0\u0026encryption=none\u0026type=ws\u0026host=p2-core-09.secoxi.site\u0026path=/\u0026sni=uktkq.secoxi.site\u0026fp=chrome",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 14,
+      "Throughput": 45.261518451072995,
+      "DNSResolution": 20,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://191f912f-7afa-496a-af23-f48eebe7f3bb@top.imlast2.com:2053?mode=auto\u0026path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=platform.darkspacex.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=platform.darkspacex.ir#Skyportall",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 40,
+      "Throughput": 100.99734626947743,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=80bab3a2.gon-7ye.pages.dev\u0026type=ws\u0026allowInsecure=1\u0026sni=80bab3a2.gon-7ye.pages.dev#🇸🇬",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 35.44448357121603,
+      "DNSResolution": 77,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=Ws2.beepn.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=Ws2.beepn.info#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 17,
+      "Throughput": 139.99726865328856,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f1.hamrahconf.ir:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=app-core-01.secoxi.site\u0026type=ws\u0026allowInsecure=1\u0026sni=uiuyoyw.secoxi.site#Skyportall",
+    "URL": "ss://a0d9fda7-3694-4c6f-8486-b06f292b06a2@cf1.redforever.top:2087?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F%2Fws%3Fed%3D2560\u0026host=cdn.harchihast.com\u0026sni=cdn.harchihast.com\u0026fp=#%F0%9F%87%AE%F0%9F%87%B7%20CDN%20%7C%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 72.73934216793863,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f2.hamrahconf.ir:8443?security=tls\u0026allowInsecure=0\u0026encryption=none\u0026type=ws\u0026host=app-core-02.secoxi.site\u0026path=/\u0026sni=uiuyoyw.secoxi.site\u0026fp=chrome#",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 50.86024445289883,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5a229998-c9db-4a4d-8e6e-b3d67fee5e1d@F1.HaMrAhCoNf.Ir:2087?security=tls\u0026type=xhttp\u0026headerType=\u0026path=%2Fhamrah%3Fed%3D2087\u0026host=app-core-05.secoxi.site\u0026mode=auto\u0026extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D\u0026sni=app-core-05.secoxi.site\u0026fp=#@GamingConfigs",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 49.57462431637058,
-      "DNSResolution": 5,
+      "Latency": 7,
+      "Throughput": 27.741171087087622,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -53,69 +89,33 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 20.573266193199178,
-      "DNSResolution": 2,
+      "Latency": 7,
+      "Throughput": 30.345932785078926,
+      "DNSResolution": 35,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath\u0026security=tls\u0026encryption=none\u0026alpn=h2,http/1.1\u0026host=Ws2.beepn.info\u0026fp=chrome\u0026type=ws\u0026sni=Ws2.beepn.info#%E2%9A%A1Telegram+%3D+%40configraygan",
+    "URL": "ss://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f2.hamrahconf.ir:8443?encryption=none\u0026type=ws\u0026host=app-core-02.secoxi.site\u0026path=/\u0026security=tls\u0026sni=uiuyoyw.secoxi.site#@DrovOne%20%7C%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D8%B4%D9%88",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 251.41900888615345,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f2.hamrahconf.ir:8443?security=tls\u0026allowInsecure=0\u0026encryption=none\u0026type=ws\u0026host=app-core-02.secoxi.site\u0026path=/\u0026sni=uiuyoyw.secoxi.site\u0026fp=chrome#",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 45.574518821666715,
+      "Latency": 7,
+      "Throughput": 45.54367183261325,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://5a229998-c9db-4a4d-8e6e-b3d67fee5e1d@F1.HaMrAhCoNf.Ir:8443?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=app-core-01.secoxi.site\u0026sni=uiuyoyw.secoxi.site\u0026fp=\u0026allowInsecure=1#@GamingConfigs",
+    "URL": "vless://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f1.hamrahconf.ir:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=app-core-01.secoxi.site\u0026type=ws\u0026allowInsecure=1\u0026sni=uiuyoyw.secoxi.site#Skyportall",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 32,
-      "Throughput": 58.85427514475154,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f1.hamrahconf.ir:8443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=app-core-01.secoxi.site\u0026type=ws\u0026allowInsecure=1\u0026sni=uiuyoyw.secoxi.site#%40SPARTAN_YT",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 25.086132451831723,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=Ws2.beepn.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=Ws2.beepn.info#%E2%9A%A1Telegram%20%3D%20%40@DrovOne",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 190.67819586488116,
-      "DNSResolution": 1,
+      "Latency": 15,
+      "Throughput": 19.699990227819846,
+      "DNSResolution": 98,
       "PacketLoss": 0
     }
   }
