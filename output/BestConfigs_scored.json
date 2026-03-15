@@ -1,96 +1,84 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://cee4ee46-7856-4d3e-a579-f08269b26f77@poe.com:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=jop-6z6.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=jop-6z6.pages.dev#🇸🇬",
+    "Protocol": "vless",
+    "URL": "vless://d439b735-272e-4d86-b9b8-5be8cc2ddd60@F1.HaMrAhCoNf.Ir:2087?mode=auto\u0026path=%2Fhamrah%3Fed%3D2087\u0026security=tls\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D\u0026insecure=0\u0026host=p2-core-04.secoxi.site\u0026type=xhttp\u0026allowInsecure=0\u0026sni=p2-core-04.secoxi.site#%E2%9C%85%20%D9%85%D8%AA%D8%B5%D9%84%20%7C%20%D8%AA%D8%B3%D8%AA%20100%D9%85%DA%AF%20%D8%B1%D8%A8%D8%A7%D8%AA%20%20%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF%20%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%A8%D8%AF%DB%8C%D8%AFredapk1%40",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 25.56602663663596,
+      "Latency": 9,
+      "Throughput": 71.0969940919642,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://d439b735-272e-4d86-b9b8-5be8cc2ddd60@F1.HaMrAhCoNf.Ir:2087?mode=auto\u0026path=%2Fhamrah%3Fed%3D2087\u0026security=tls\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D\u0026insecure=0\u0026host=p2-core-04.secoxi.site\u0026type=xhttp\u0026allowInsecure=0\u0026sni=p2-core-04.secoxi.site#%E2%9C%85%20%D9%85%D8%AA%D8%B5%D9%84%20%7C%20%D8%AA%D8%B3%D8%AA%20100%D9%85%DA%AF%20%D8%B1%D8%A8%D8%A7%D8%AA%20%20%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF%20%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%A8%D8%AF%DB%8C%D8%AFredapk1%40",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 36.702877220668015,
+      "DNSResolution": 27,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@cf.877774.xyz:443?path=%2F%252F\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026host=snll667.pages.dev\u0026type=ws\u0026sni=snll667.pages.dev#%5B22035%5D+-+Telegram+%3A+%40configraygan",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 20.26150316576616,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=Ws2.beepn.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=Ws2.beepn.info#[🇨🇦]t.me/saministamm",
+    "Protocol": "vless",
+    "URL": "vless://a0d9fda7-3694-4c6f-8486-b06f292b06a2@cf1.redforever.top:2087?path=%2F%2Fws\u0026security=tls\u0026encryption=none\u0026host=cdn.harchihast.com\u0026type=ws\u0026sni=cdn.harchihast.com#%5B22039%5D+-+Telegram+%3A+%40configraygan",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 116.04538674329994,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://cee4ee46-7856-4d3e-a579-f08269b26f77@poe.com:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=jop-6z6.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=jop-6z6.pages.dev#🇨🇦",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 30,
-      "Throughput": 27.438311747018986,
-      "DNSResolution": 36,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJ6ZHFiay5jbXZ2Yi5vbmxpbmUiLCJwb3J0IjoiODQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIzZDc0Yzk1OS0yYTRjLTRkZjgtODg3YS00Zjk3MzZhNzdiNmYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ6ZHFiay5jbXZ2Yi5vbmxpbmUiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 13.98393612467999,
-      "DNSResolution": 0,
+      "Latency": 4,
+      "Throughput": 287.4928499629799,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://d5604db8-1f31-403d-a315-d8bafc70f7d2@njkkl.5nn.ccwu.cc:443?\u0026security=tls\u0026fp=chrome\u0026sni=njkkl.5nn.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=njkkl.5nn.ccwu.cc\u0026path=/1Aeip9N4V6m20grcpQ8L96b#🇺🇸",
+    "URL": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1\u0026encryption=none\u0026host=terazhediii.info\u0026path=/sghiyws\u0026security=tls\u0026sni=terazhediii.info\u0026type=ws#🇩🇪",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 10.973828109937243,
+      "Latency": 21,
+      "Throughput": 33.461324992763466,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.indevs.in\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.indevs.in#🇨🇦",
+    "URL": "ss://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1\u0026encryption=none\u0026host=terazhediii.info\u0026path=/sghiyws\u0026security=tls\u0026sni=terazhediii.info\u0026type=ws#🇩🇪",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 231.20103649736672,
+      "Latency": 2,
+      "Throughput": 19.504753107189455,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://94daa8ad-75ed-4dbf-a6de-d05036d98df5@norman.ns.cloudflare.com:443?allowInsecure=1\u0026encryption=none\u0026host=vangoghhh.info\u0026path=/tixvuws\u0026security=tls\u0026sni=vangoghhh.info\u0026type=ws#🇩🇪",
+    "URL": "ss://9e13716d-c43d-48b3-8cab-65e02d938ab5@chatgpt.com:443?path=%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=snapp.athenashoppp.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=snaPP.athenashOppp.ir#%40filembad",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 18.03373364517596,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@norman.ns.cloudflare.com:443?allowInsecure=1\u0026encryption=none\u0026host=vangoghhh.info\u0026path=/tixvuws\u0026security=tls\u0026sni=vangoghhh.info\u0026type=ws#🇩🇪",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 16.8571944395558,
+      "Latency": 3,
+      "Throughput": 255.95922671902053,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -101,8 +89,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 147.22676759306964,
+      "Latency": 2,
+      "Throughput": 322.98741394757354,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -113,9 +101,21 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 26.029009637081394,
+      "Latency": 3,
+      "Throughput": 30.196175189391166,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=Ws2.beepn.info\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=Ws2.beepn.info#[🇨🇦]t.me/saministamm",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 310.6430583119734,
+      "DNSResolution": 189,
       "PacketLoss": 0
     }
   }
