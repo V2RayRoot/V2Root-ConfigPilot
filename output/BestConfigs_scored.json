@@ -1,96 +1,84 @@
 [
   {
     "Protocol": "vless",
-    "URL": "vless://cee4ee46-7856-4d3e-a579-f08269b26f77@poe.com:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=jop-6z6.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=jop-6z6.pages.dev#🇨🇦",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 42,
-      "Throughput": 38.152586701741356,
-      "DNSResolution": 14,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
     "URL": "vless://26524cce-d514-4014-a426-365fb266a14d@notion.site:2053?\u0026security=tls\u0026fp=chrome\u0026sni=_acme-challenge.443888.xyz\u0026type=ws\u0026headerType=none\u0026host=_acme-challenge.443888.xyz\u0026path=%2Fdanfeng%3Fed%3D2560#🇸🇬",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 37,
-      "Throughput": 14.446485482036017,
-      "DNSResolution": 15,
+      "Latency": 14,
+      "Throughput": 24.714538201979966,
+      "DNSResolution": 12,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://5f1fc730-c184-415c-932b-37c8812c8736@poe.com:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=yor.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=yor.pages.dev#🇸🇬",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 20,
+      "Throughput": 21.997830964371794,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://cee4ee46-7856-4d3e-a579-f08269b26f77@poe.com:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=jop-6z6.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=jop-6z6.pages.dev#🇨🇦",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 30.196232405514085,
+      "DNSResolution": 12,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=broad-sky-9360.k7uztejf9ief.workers.dev\u0026fp=safari\u0026type=ws\u0026allowInsecure=0\u0026sni=broad-sky-9360.k7uztejf9ief.workers.dev#zero_proxy1",
-    "Score": 90,
+    "URL": "vless://5f1fc730-c184-415c-932b-37c8812c8736@poe.com:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=yor.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=yor.pages.dev#🇸🇬",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 281.07687860191237,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=broad-sky-9360.k7uztejf9ief.workers.dev\u0026fp=safari\u0026type=ws\u0026allowInsecure=0\u0026sni=broad-sky-9360.k7uztejf9ief.workers.dev#%40filembad",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 271.36171274829513,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiJkMmZvZzRmbGNmZ2I4Yy5jbG91ZGZyb250Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDcwZTU2Ny03OTk2LTQ1YTktOTAxNi0wMTQzNDIwOTQ2ZWYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvODUzNmNiMTkyNmMyNGJiYzk5ZDdiZDkzMzUwZWM1NjQiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 22.35073285175364,
-      "DNSResolution": 0,
+      "Latency": 32,
+      "Throughput": 35.341444206559224,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=broad-sky-9360.k7uztejf9ief.workers.dev\u0026fp=safari\u0026type=ws\u0026allowInsecure=0\u0026sni=broad-sky-9360.k7uztejf9ief.workers.dev#%40filembad",
+    "URL": "vless://cee4ee46-7856-4d3e-a579-f08269b26f77@poe.com:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=jop-6z6.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=jop-6z6.pages.dev#🇨🇦",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 14,
+      "Throughput": 24.22255506771565,
+      "DNSResolution": 20,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@norman.ns.cloudflare.com:443?allowInsecure=1\u0026encryption=none\u0026host=vangoghhh.info\u0026path=/tixvuws\u0026security=tls\u0026sni=vangoghhh.info\u0026type=ws#🇩🇪",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 238.27262355373728,
+      "Latency": 2,
+      "Throughput": 25.995537534539093,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=broad-sky-9360.k7uztejf9ief.workers.dev\u0026fp=safari\u0026type=ws\u0026allowInsecure=0\u0026sni=broad-sky-9360.k7uztejf9ief.workers.dev#zero_proxy1",
+    "URL": "ss://94daa8ad-75ed-4dbf-a6de-d05036d98df5@norman.ns.cloudflare.com:443?allowInsecure=1\u0026encryption=none\u0026host=vangoghhh.info\u0026path=/tixvuws\u0026security=tls\u0026sni=vangoghhh.info\u0026type=ws#🇩🇪",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 244.62247932588406,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@chatgpt.com:443?mode=gun\u0026security=tls\u0026encryption=none\u0026authority=\u0026fp=chrome\u0026type=grpc\u0026serviceName=\u0026sni=pqh30v4.carwashipdir.shop#🇺🇸",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 229.246704213265,
+      "Latency": 2,
+      "Throughput": 31.085085969088613,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -101,8 +89,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 205.56155524069808,
+      "Latency": 2,
+      "Throughput": 742.3056309820555,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=broad-sky-9360.k7uztejf9ief.workers.dev\u0026fp=safari\u0026type=ws\u0026allowInsecure=0\u0026sni=broad-sky-9360.k7uztejf9ief.workers.dev#zero_proxy1",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 528.2823204114156,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -113,8 +113,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 32.802268568811726,
+      "Latency": 1,
+      "Throughput": 26.78540592470746,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
