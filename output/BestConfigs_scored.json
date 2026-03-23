@@ -1,73 +1,85 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=/?ed=2560\u0026Telegram🇨🇳+@WangCai2\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=sni.jpmj.dev\u0026type=ws\u0026allowInsecure=1\u0026sni=sni.jpmj.dev#🇸🇬",
-    "Score": 35,
+    "Protocol": "trojan",
+    "URL": "trojan://humanity@www.gossipglove.com:443?path=%2Fassignment\u0026security=tls\u0026insecure=1\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=www.gossipglove.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%99%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+    "Score": 90,
     "Results": {
-      "TLSOK": false,
+      "TLSOK": true,
       "Latency": 2,
-      "Throughput": 0,
+      "Throughput": 30.86214576969173,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?host=tt.andishehparenting.com\u0026path=/XIXVPN?ed=2560\u0026security=none\u0026type=ws#%40filembad",
-    "Score": 35,
+    "URL": "ss://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=cpcalendars.digital-ping.ir\u0026fp=chrome\u0026type=ws\u0026sni=cpcalendars.digital-ping.ir#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
+    "Score": 70,
     "Results": {
-      "TLSOK": false,
-      "Latency": 2,
+      "TLSOK": true,
+      "Latency": 18,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.20:443?\u0026security=tls\u0026fp=chrome\u0026sni=sni.111000.dynv6.net\u0026type=ws\u0026headerType=none\u0026host=sni.111000.dynv6.net\u0026path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇨🇦",
-    "Score": 35,
+    "URL": "ss://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=cpcalendars.digital-ping.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=cpcalendars.digital-ping.ir#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%99%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+    "Score": 70,
     "Results": {
-      "TLSOK": false,
-      "Latency": 1,
+      "TLSOK": true,
+      "Latency": 21,
       "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?path=/XIXVPN?ed=2560\u0026security=tls\u0026encryption=none\u0026host=sni.111000.indevs.in\u0026fp=chrome\u0026type=ws\u0026sni=sni.111000.indevs.in#%40filembad",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?host=tt.andishehparenting.com\u0026path=/XIXVPN?ed=2560\u0026security=none\u0026type=ws#%40filembad",
-    "Score": 35,
+    "URL": "vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?type=ws\u0026path=%2F%3Fed%3D2048\u0026host=cpcalendars.digital-ping.ir\u0026security=tls\u0026fp=chrome\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026sni=cpcalendars.digital-ping.ir#@Thehadese",
+    "Score": 40,
     "Results": {
-      "TLSOK": false,
-      "Latency": 1,
+      "TLSOK": true,
+      "Latency": 125,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=/?ed=2560\u0026Telegram🇨🇳+@WangCai2\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=sni.jpmj.dev\u0026type=ws\u0026allowInsecure=1\u0026sni=sni.jpmj.dev#🇸🇬",
-    "Score": 35,
+    "URL": "ss://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?type=ws\u0026path=%2F%3Fed%3D2048\u0026host=cpcalendars.digital-ping.ir\u0026security=tls\u0026fp=chrome\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026sni=cpcalendars.digital-ping.ir#@Thehadese",
+    "Score": 40,
     "Results": {
-      "TLSOK": false,
-      "Latency": 2,
+      "TLSOK": true,
+      "Latency": 215,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=cpcalendars.digital-ping.ir\u0026fp=chrome\u0026type=ws\u0026sni=cpcalendars.digital-ping.ir#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 125,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=cpcalendars.digital-ping.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=cpcalendars.digital-ping.ir#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%99%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 125,
+      "Throughput": 0,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -89,7 +101,7 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 1,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -97,25 +109,13 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://82990c58-26b7-4a75-81fe-66e63489e5e9@vip-meli3.nightgemshop.com:443?security=\u0026encryption=none\u0026headerType=\u0026type=tcp#",
-    "Score": 30,
+    "URL": "ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%99%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+    "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 0,
+      "Latency": 19,
       "Throughput": 0,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://82990c58-26b7-4a75-81fe-66e63489e5e9@vip-meli3.nightgemshop.com:443?security=\u0026encryption=none\u0026headerType=\u0026type=tcp#@Thehadese",
-    "Score": 30,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 40,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
