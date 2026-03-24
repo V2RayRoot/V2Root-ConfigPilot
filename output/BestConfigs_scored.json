@@ -1,12 +1,36 @@
 [
   {
     "Protocol": "vless",
+    "URL": "vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=%2FXIXVPN%3Fed\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#%40filembad",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 11,
+      "Throughput": 34.78818599813259,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=%2FXIXVPN%3Fed\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#%40filembad",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 26,
+      "Throughput": 40.305320460499175,
+      "DNSResolution": 12,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
     "URL": "vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2FXIXVPN%3Fed\u0026security=tls\u0026encryption=none\u0026host=rAyAn-007.mAxImA.DpDnS.OrG\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-007.mAxImA.DpDnS.OrG#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 198.49917749384568,
+      "Latency": 13,
+      "Throughput": 129.66492670382064,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -17,33 +41,33 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 401.0885543364692,
+      "Latency": 10,
+      "Throughput": 131.39715465045984,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=cpcalendars.digital-ping.ir\u0026fp=chrome\u0026type=ws\u0026sni=cpcalendars.digital-ping.ir#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 0,
-      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
     "URL": "ss://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=cpcalendars.digital-ping.ir\u0026fp=chrome\u0026type=ws\u0026sni=cpcalendars.digital-ping.ir#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-    "Score": 55,
+    "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 96,
+      "Latency": 239,
       "Throughput": 0,
-      "DNSResolution": 95,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://d2d0f796-edb0-427a-af32-ae360679f9e7@172.66.1.143:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=rayan-007.foton.dpdns.org\u0026type=ws\u0026allowInsecure=1\u0026sni=rAyAn-007.fOtOn.dPdNs.oRg#%40filembad",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 15,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
@@ -53,7 +77,31 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 2,
+      "Latency": 14,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%40filembad",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 34,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=%2Fdownloader.php\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=windy.adaspoloandco.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=windy.adaspoloandco.com#",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 9,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -65,57 +113,9 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 2,
+      "Latency": 11,
       "Throughput": 0,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiJtZWwuaWRiZWRlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2NmRmNTE5OC02MGY3LTQyNmEtODc1MC05ZGMwZWVjOGQ3OWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkB2cHNfc3RvcjQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
-    "Score": 30,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 37,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://898f08d1-f64a-4cc1-8e70-5e9b3a2494dc@tun2.wopeq.com:921?encryption=none\u0026type=tcp\u0026headerType=none#%40filembad",
-    "Score": 30,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 47,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://0eb91122-ae4e-4944-809b-8f21ca9a3450@aparatrat1.info:2083?type=tcp\u0026security=none#client_0eb9112",
-    "Score": 30,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 10,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://0eb91122-ae4e-4944-809b-8f21ca9a3450@aparatrat1.info:2083?type=tcp\u0026security=none#%40filembad",
-    "Score": 30,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 10,
       "PacketLoss": 0
     }
   }
