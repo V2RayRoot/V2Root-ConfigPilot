@@ -1,37 +1,37 @@
 [
   {
+    "Protocol": "vless",
+    "URL": "vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2FXIXVPN%3Fed\u0026security=tls\u0026encryption=none\u0026host=rAyAn-007.mAxImA.DpDnS.OrG\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-007.mAxImA.DpDnS.OrG#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 276.1656798001168,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2FXIXVPN%3Fed\u0026security=tls\u0026encryption=none\u0026host=rAyAn-007.mAxImA.DpDnS.OrG\u0026fp=chrome\u0026type=ws\u0026sni=rAyAn-007.mAxImA.DpDnS.OrG#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 497.6775875377551,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "shadowsocks",
     "URL": "ss://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=cpcalendars.digital-ping.ir\u0026fp=chrome\u0026type=ws\u0026sni=cpcalendars.digital-ping.ir#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-    "Score": 40,
+    "Score": 55,
     "Results": {
       "TLSOK": true,
-      "Latency": 171,
+      "Latency": 83,
       "Throughput": 0,
-      "DNSResolution": 92,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiJtZWwuZGlnaXRhbGxkbnMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA1ZTVmOTc0LTE0MmUtNDdkMi1iMDFiLTg2ZjljNDQxYjVlMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoic2luYV92aXBfdGVzdPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-    "Score": 30,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 42,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=cpcalendars.digital-ping.ir\u0026fp=chrome\u0026type=ws\u0026sni=cpcalendars.digital-ping.ir#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-    "Score": 30,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 183,
-      "Throughput": 0,
-      "DNSResolution": 161,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -43,49 +43,25 @@
       "TLSOK": false,
       "Latency": 0,
       "Throughput": 0,
-      "DNSResolution": 85,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://0eb91122-ae4e-4944-809b-8f21ca9a3450@aparatrat1.info:2083?type=tcp\u0026security=none#%40filembad",
-    "Score": 30,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://898f08d1-f64a-4cc1-8e70-5e9b3a2494dc@tun2.wopeq.com:921?encryption=none\u0026type=tcp\u0026headerType=none#%40filembad",
+    "URL": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.254.79:22224?path=%2Ftelegram-channel-vlessconfig\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=trojan.burgerip.co.uk#%40white_configs%20%D9%84%D8%B7%D9%81%D8%A7%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF",
     "Score": 30,
     "Results": {
-      "TLSOK": false,
-      "Latency": 0,
+      "TLSOK": true,
+      "Latency": 152,
       "Throughput": 0,
-      "DNSResolution": 83,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiJtZWwuaWRiZWRlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YWEzZGMwZS1iNDkwLTRkZTItODBmMy1iMjIyMTAzNTQ4ZWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6IlNpbmFfdGVzdPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-    "Score": 30,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 85,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://898f08d1-f64a-4cc1-8e70-5e9b3a2494dc@tun2.wopeq.com:921?encryption=none\u0026type=tcp\u0026headerType=none#%40filembad",
+    "URL": "ss://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none\u0026encryption=none\u0026host=telewebion.com\u0026headerType=http\u0026type=tcp#%40filembad",
     "Score": 30,
     "Results": {
       "TLSOK": false,
@@ -97,25 +73,49 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://0eb91122-ae4e-4944-809b-8f21ca9a3450@aparatrat1.info:2083?type=tcp\u0026security=none#client_0eb9112",
+    "URL": "vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026host=cpcalendars.digital-ping.ir\u0026fp=chrome\u0026type=ws\u0026sni=cpcalendars.digital-ping.ir#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
     "Score": 30,
     "Results": {
-      "TLSOK": false,
-      "Latency": 0,
+      "TLSOK": true,
+      "Latency": 312,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 236,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://4b8fe684-b384-4e80-9775-58bd37f13116@178.104.75.172:443?type=tcp\u0026encryption=none\u0026security=reality\u0026pbk=Wc37eiyne2uFE6WkeWO4k80QZOVQs-bikxHhk6kPvy0\u0026fp=chrome\u0026sni=web.bale.ai\u0026sid=0ca0\u0026spx=%2F#%40filembad",
-    "Score": 20,
+    "Protocol": "shadowsocks",
+    "URL": "ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.254.79:22224?path=%2Ftelegram-channel-vlessconfig\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=trojan.burgerip.co.uk#%40white_configs%20%D9%84%D8%B7%D9%81%D8%A7%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF",
+    "Score": 30,
     "Results": {
-      "TLSOK": false,
-      "Latency": 0,
+      "TLSOK": true,
+      "Latency": 152,
       "Throughput": 0,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0eb91122-ae4e-4944-809b-8f21ca9a3450@aparatrat1.info:2083?type=tcp\u0026security=none#%40filembad",
+    "Score": 30,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://0eb91122-ae4e-4944-809b-8f21ca9a3450@aparatrat1.info:2083?type=tcp\u0026security=none#client_0eb9112",
+    "Score": 30,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
