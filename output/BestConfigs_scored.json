@@ -5,8 +5,8 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 73.98717545143992,
+      "Latency": 20,
+      "Throughput": 53.40839955101428,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
@@ -17,9 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 73.9978980342079,
-      "DNSResolution": 2,
+      "Latency": 30,
+      "Throughput": 44.36306213219313,
+      "DNSResolution": 20,
       "PacketLoss": 0
     }
   },
@@ -29,8 +29,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 361.9087265286923,
+      "Latency": 9,
+      "Throughput": 185.61844958291996,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -41,8 +41,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 370.9438736416789,
+      "Latency": 9,
+      "Throughput": 176.03240474919588,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -53,19 +53,19 @@
     "Score": 55,
     "Results": {
       "TLSOK": true,
-      "Latency": 73,
+      "Latency": 75,
       "Throughput": 0,
-      "DNSResolution": 10,
+      "DNSResolution": 11,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?encryption=none\u0026type=ws\u0026host=cpcalendars.digital-ping.ir\u0026path=/?ed%3D2048\u0026security=tls\u0026fp=chrome\u0026sni=cpcalendars.digital-ping.ir\u0026alpn=h3,h2,http/1.1#V2rayng_Fast",
+    "Protocol": "shadowsocks",
+    "URL": "ss://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?encryption=none\u0026type=ws\u0026host=cpcalendars.digital-ping.ir\u0026path=/?ed%3D2048\u0026security=tls\u0026fp=chrome\u0026sni=cpcalendars.digital-ping.ir\u0026alpn=h3,h2,http/1.1#%40filembad",
     "Score": 55,
     "Results": {
       "TLSOK": true,
-      "Latency": 74,
+      "Latency": 62,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
@@ -73,25 +73,13 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?encryption=none\u0026type=ws\u0026host=cpcalendars.digital-ping.ir\u0026path=/?ed%3D2048\u0026security=tls\u0026fp=chrome\u0026sni=cpcalendars.digital-ping.ir\u0026alpn=h3,h2,http/1.1#%40filembad",
+    "URL": "vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?encryption=none\u0026type=ws\u0026host=cpcalendars.digital-ping.ir\u0026path=/?ed%3D2048\u0026security=tls\u0026fp=chrome\u0026sni=cpcalendars.digital-ping.ir\u0026alpn=h3,h2,http/1.1#V2rayng_Fast",
     "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 82,
+      "Latency": 57,
       "Throughput": 0,
-      "DNSResolution": 280,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?encryption=none\u0026type=ws\u0026host=cpcalendars.digital-ping.ir\u0026path=/?ed%3D2048\u0026security=tls\u0026fp=chrome\u0026sni=cpcalendars.digital-ping.ir\u0026alpn=h3,h2,http/1.1#%40filembad",
-    "Score": 45,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 73,
-      "Throughput": 0,
-      "DNSResolution": 255,
+      "DNSResolution": 153,
       "PacketLoss": 0
     }
   },
@@ -101,7 +89,7 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 231,
+      "Latency": 285,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
@@ -113,9 +101,21 @@
     "Score": 40,
     "Results": {
       "TLSOK": true,
-      "Latency": 318,
+      "Latency": 199,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?encryption=none\u0026type=ws\u0026host=cpcalendars.digital-ping.ir\u0026path=/?ed%3D2048\u0026security=tls\u0026fp=chrome\u0026sni=cpcalendars.digital-ping.ir\u0026alpn=h3,h2,http/1.1#%40filembad",
+    "Score": 40,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 199,
+      "Throughput": 0,
+      "DNSResolution": 5,
       "PacketLoss": 0
     }
   }
