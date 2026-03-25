@@ -2,10 +2,10 @@
   {
     "Protocol": "vless",
     "URL": "vless://17f100d3-4b31-47f9-b8df-94d1a723d43e@140.248.155.104:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=efixshop.global.ssl.fastly.net\u0026type=ws\u0026allowInsecure=0\u0026sni=default.ssl.fastly.net#%40white_configs%20%D9%84%D8%B7%D9%81%D8%A7%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF",
-    "Score": 60,
+    "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
+      "Latency": 0,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -14,10 +14,10 @@
   {
     "Protocol": "shadowsocks",
     "URL": "ss://17f100d3-4b31-47f9-b8df-94d1a723d43e@140.248.155.104:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=efixshop.global.ssl.fastly.net\u0026type=ws\u0026allowInsecure=0\u0026sni=default.ssl.fastly.net#%40white_configs%20%D9%84%D8%B7%D9%81%D8%A7%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF",
-    "Score": 60,
+    "Score": 45,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
+      "Latency": 0,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -25,25 +25,13 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://9f762e59-3579-44c0-ac9d-cd4b88b28352@hamrahiran.sorenashoping.xyz:45571?path=%2F\u0026security=none\u0026encryption=none\u0026type=ws#%40duckvp_n",
+    "URL": "vless://b62ffdfa-e1e5-ce44-a7a3-e8874ce1efa1@cloud3.vpsino.com:6344?security=none\u0026type=tcp\u0026headerType=none\u0026path=%2F#%40filembad",
     "Score": 30,
     "Results": {
       "TLSOK": false,
       "Latency": 0,
       "Throughput": 0,
-      "DNSResolution": 6,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://46063237-3655-482f-947e-7f79dc5de2a5@hamrahiran.sorenashoping.xyz:45571?path=%2F\u0026security=none\u0026encryption=none\u0026type=ws#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86%20%7RezZonez%40",
-    "Score": 30,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 6,
+      "DNSResolution": 33,
       "PacketLoss": 0
     }
   },
@@ -55,13 +43,73 @@
       "TLSOK": false,
       "Latency": 0,
       "Throughput": 0,
-      "DNSResolution": 6,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://46063237-3655-482f-947e-7f79dc5de2a5@hamrahiran.sorenashoping.xyz:45571?path=%2F\u0026security=none\u0026encryption=none\u0026type=ws#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86%20%7RezZonez%40",
+    "URL": "ss://fef80d21-a40a-481a-bd9e-1ee0698b845c@138.113.238.124:443?path=%2Fhey\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=cdn.mecolen.com\u0026type=ws\u0026allowInsecure=1\u0026sni=cdn.mecolen.com#test-9qi7ahj4",
+    "Score": 30,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 192,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://46063237-3655-482f-947e-7f79dc5de2a5@hamrahiran.sorenashoping.xyz:45571?path=%2F\u0026security=none\u0026encryption=none\u0026type=ws#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86%20%7RezZonez%40",
+    "Score": 30,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 29,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://351ab55e-22ea-4e7c-a4df-4bd0273225f9@onlazh2.khakimilad.online:443?security=reality\u0026encryption=none\u0026pbk=AAZAKzA6b6g4dvXrZwyEM5WdrKcwisfUyWoXbVDlmVA\u0026headerType=none\u0026fp=chrome\u0026spx=%2F\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.aparat.com\u0026sid=d2537da1d2#%40Blank_Vpn%20%D9%84%D8%B7%D9%81%D8%A7%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF",
+    "Score": 30,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://9f762e59-3579-44c0-ac9d-cd4b88b28352@hamrahiran.sorenashoping.xyz:45571?path=%2F\u0026security=none\u0026encryption=none\u0026type=ws#%40duckvp_n",
+    "Score": 30,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 29,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality\u0026encryption=none\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=fuck.rkn\u0026sid=01#@Thehadese",
+    "Score": 30,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 156,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://b62ffdfa-e1e5-ce44-a7a3-e8874ce1efa1@cloud3.vpsino.com:6344?security=none\u0026type=tcp\u0026headerType=none\u0026path=%2F#%40filembad",
     "Score": 30,
     "Results": {
       "TLSOK": false,
