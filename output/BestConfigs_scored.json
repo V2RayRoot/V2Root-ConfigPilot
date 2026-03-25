@@ -5,7 +5,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
+      "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -17,30 +17,6 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=%2F139.99.124.165\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=afrcloud1.c01.kr\u0026type=ws\u0026allowInsecure=1\u0026sni=afrcloud1.c01.kr#%40VpnConnects",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 2,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=%2F139.99.124.165\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=afrcloud1.c01.kr\u0026type=ws\u0026allowInsecure=1\u0026sni=afrcloud1.c01.kr#%40VpnConnects",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
       "Latency": 2,
       "Throughput": 0,
       "DNSResolution": 0,
@@ -55,7 +31,19 @@
       "TLSOK": false,
       "Latency": 0,
       "Throughput": 0,
-      "DNSResolution": 8,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://46063237-3655-482f-947e-7f79dc5de2a5@hamrahiran.sorenashoping.xyz:45571?path=%2F\u0026security=none\u0026encryption=none\u0026type=ws#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86%20%7RezZonez%40",
+    "Score": 30,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 6,
       "PacketLoss": 0
     }
   },
@@ -67,31 +55,19 @@
       "TLSOK": false,
       "Latency": 0,
       "Throughput": 0,
-      "DNSResolution": 8,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.237.255:22224?path=%2Ftelegram-channel-vlessconfig\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=trojan.burgerip.co.uk#%40VpnPinks",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 6,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.237.255:22224?path=%2Ftelegram-channel-vlessconfig\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0\u0026sni=trojan.burgerip.co.uk#%40VpnPinks",
-    "Score": 20,
+    "URL": "ss://46063237-3655-482f-947e-7f79dc5de2a5@hamrahiran.sorenashoping.xyz:45571?path=%2F\u0026security=none\u0026encryption=none\u0026type=ws#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86%20%7RezZonez%40",
+    "Score": 30,
     "Results": {
       "TLSOK": false,
       "Latency": 0,
       "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 6,
       "PacketLoss": 0
     }
   }
