@@ -1,109 +1,73 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=80bab3a2.gon-7ye.pages.dev\u0026type=ws\u0026sni=80bab3a2.gon-7ye.pages.dev#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-    "Score": 100,
+    "Protocol": "shadowsocks",
+    "URL": "ss://26524cce-d514-4014-a426-365fb266a14d@notability.com:2053?\u0026security=tls\u0026fp=chrome\u0026sni=qt2cte0z61.gfw.hidns.co\u0026type=ws\u0026headerType=none\u0026host=qt2cte0z61.gfw.hidns.co\u0026path=%2Fdanfeng%3Fed%3D2560#🏳️",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 38.68713804313647,
-      "DNSResolution": 54,
+      "Latency": 2,
+      "Throughput": 432.890477356446,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=80bab3a2.gon-7ye.pages.dev\u0026type=ws\u0026sni=80bab3a2.gon-7ye.pages.dev#%40filembad",
-    "Score": 100,
+    "URL": "vless://26524cce-d514-4014-a426-365fb266a14d@www.caritas.org.hk:443?\u0026security=tls\u0026fp=chrome\u0026sni=sp18nyrj9.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=sp18nyrj9.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🇸🇬",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 28.822798683880393,
-      "DNSResolution": 7,
+      "Latency": 2,
+      "Throughput": 411.3874937996191,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=80bab3a2.gon-7ye.pages.dev\u0026type=ws\u0026sni=80bab3a2.gon-7ye.pages.dev#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 31.56554260388462,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://humanity@www.multiplydose.com:443?path=/assignment\u0026security=tls\u0026insecure=0\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=www.multiplydose.com#🇳🇱",
+    "URL": "ss://26524cce-d514-4014-a426-365fb266a14d@www.caritas.org.hk:443?\u0026security=tls\u0026fp=chrome\u0026sni=sp18nyrj9.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=sp18nyrj9.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🇸🇬",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 38.26320573356154,
+      "Latency": 2,
+      "Throughput": 399.43464021024636,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiJ6ZHFiay5jbXZ2Yi5vbmxpbmUiLCJhaWQiOiIwIiwiaG9zdCI6InpkcWJrLmNtdnZiLm9ubGluZSIsImlkIjoiZWY0NmI3NGMtYjNlZi00NjMzLTk4MTgtMGFmNjIyNmM0MDYwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJcdWQ4M2NcdWRmZjNcdWZlMGYgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGZmM1x1ZmUwZiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+    "Protocol": "vless",
+    "URL": "vless://26524cce-d514-4014-a426-365fb266a14d@notability.com:2053?\u0026security=tls\u0026fp=chrome\u0026sni=qt2cte0z61.gfw.hidns.co\u0026type=ws\u0026headerType=none\u0026host=qt2cte0z61.gfw.hidns.co\u0026path=%2Fdanfeng%3Fed%3D2560#🏳️",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 17.46028679049227,
+      "Latency": 2,
+      "Throughput": 405.5293521638185,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "trojan",
-    "URL": "trojan://WF42809561@nearby-muskrat.rooster465.autos:443?allowInsecure=0\u0026sni=nearby-muskrat.rooster465.autos#🏳️",
+    "Protocol": "shadowsocks",
+    "URL": "ss://4d0e0ed6-188a-43cd-a1ee-57c987a02e4b@snapp.ir:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=kharidfollower.ir\u0026fp=chrome\u0026type=ws\u0026sni=kharidfollower.ir#Telegram%3A%20%20%40Zero_Tunnel",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 246,
-      "Throughput": 11.233715066017764,
-      "DNSResolution": 29,
+      "Latency": 105,
+      "Throughput": 25.475006493419933,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "trojan",
-    "URL": "trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls\u0026sni=outgoing-ladybird.rooster465.autos#🏳️",
+    "Protocol": "shadowsocks",
+    "URL": "ss://19666df6-009d-4426-8f05-7e19b7dc9da9@snapp.ir:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=my.simin123.shop\u0026fp=chrome\u0026type=ws\u0026sni=my.simin123.shop#%40filembad",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 152,
-      "Throughput": 20.36715690447281,
-      "DNSResolution": 6,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls\u0026sni=steady-lemming.rooster465.autos#🏳️",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 191,
-      "Throughput": 11.344821026308638,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls\u0026sni=fluent-stingray.crayfish192.xyz#🏳️",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 147,
-      "Throughput": 20.773863011096918,
-      "DNSResolution": 29,
+      "Latency": 106,
+      "Throughput": 24.83814008678719,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
@@ -113,9 +77,45 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 266,
-      "Throughput": 14.787370413767539,
-      "DNSResolution": 96,
+      "Latency": 130,
+      "Throughput": 21.16805575064712,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://WF42809561@nearby-muskrat.rooster465.autos:443?allowInsecure=0\u0026sni=nearby-muskrat.rooster465.autos#🏳️",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 245,
+      "Throughput": 11.303498188816466,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls\u0026sni=evolving-kangaroo.rooster465.autos#🏳️",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 366,
+      "Throughput": 10.456117940022795,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls\u0026sni=fluent-stingray.crayfish192.xyz#🏳️",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 153,
+      "Throughput": 19.896341255837562,
+      "DNSResolution": 51,
       "PacketLoss": 0
     }
   }
