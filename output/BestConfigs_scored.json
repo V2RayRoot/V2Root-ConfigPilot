@@ -1,25 +1,49 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://73a4456a-0442-4550-8b4f-c719871a4eeb@chatgpt.com:443?security=tls\u0026type=ws\u0026host=011.electrocellco-cf-011.workers.dev\u0026path=/eyJqdW5rIjoibWRiMjNWaUwxNHVWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0=?ed=2560\u0026sni=011.electrOCELlCO-CF-011.WorKERS.dEV\u0026fp=chrome#🏳️",
-    "Score": 90,
+    "URL": "ss://1c61a6c0-9bc7-4cb8-9188-6d86d5989388@nltw4.lckdwn.ru:8443?encryption=none\u0026fp=chrome\u0026pbk=XEWgLksY3vnV9riMEO7AZ7HR0Ecv3HxXLFglZtcmx00\u0026security=reality\u0026sid=d5\u0026sni=nltw4.lckdwn.ru\u0026type=tcp#🏳️",
+    "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 352.63621356160417,
-      "DNSResolution": 0,
+      "Latency": 84,
+      "Throughput": 31.521977532521383,
+      "DNSResolution": 22,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://12eac926-c4ec-4040-8fb8-f316e9fc0fd6@fra01.jumperservice.com:19001?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4\u0026security=reality\u0026sni=www.speedtest.net\u0026type=tcp#🇩🇪",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 97,
+      "Throughput": 26.183947355681354,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://1c61a6c0-9bc7-4cb8-9188-6d86d5989388@nltw4.lckdwn.ru:8443?encryption=none\u0026fp=chrome\u0026pbk=XEWgLksY3vnV9riMEO7AZ7HR0Ecv3HxXLFglZtcmx00\u0026security=reality\u0026sid=d5\u0026sni=nltw4.lckdwn.ru\u0026type=tcp#🇳🇱",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 102,
+      "Throughput": 28.57999940703646,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://73a4456a-0442-4550-8b4f-c719871a4eeb@chatgpt.com:443?security=tls\u0026type=ws\u0026host=011.electrocellco-cf-011.workers.dev\u0026path=/eyJqdW5rIjoibWRiMjNWaUwxNHVWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0=?ed=2560\u0026sni=011.electrOCELlCO-CF-011.WorKERS.dEV\u0026fp=chrome#🏳️",
-    "Score": 90,
+    "URL": "vless://12eac926-c4ec-4040-8fb8-f316e9fc0fd6@fra01.jumperservice.com:19001?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4\u0026security=reality\u0026sni=www.speedtest.net\u0026type=tcp#🏳️",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 571.4197144229978,
-      "DNSResolution": 0,
+      "Latency": 125,
+      "Throughput": 26.541595062143262,
+      "DNSResolution": 82,
       "PacketLoss": 0
     }
   },
@@ -31,67 +55,43 @@
       "TLSOK": true,
       "Latency": 3,
       "Throughput": 0,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8c53daee-2173-4889-a483-4f698b4b0432@tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir:443?path=%2Fvless\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir\u0026type=ws\u0026allowInsecure=1\u0026sni=tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir#%40filembad",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 0,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026host=powered-by-surena.user68f797c2f3e1b.workers.dev\u0026fp=chrome\u0026type=ws\u0026sni=powered-by-surena.user68f797c2f3e1b.workers.dev#🇺🇸",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 11,
-      "Throughput": 0,
-      "DNSResolution": 6,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=%2Fmovie\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir\u0026fp=chrome\u0026type=ws\u0026sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#@AarazV2ray",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 37,
-      "Throughput": 0,
       "DNSResolution": 15,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026host=powered-by-surena.user68f797c2f3e1b.workers.dev\u0026fp=chrome\u0026type=ws\u0026sni=powered-by-surena.user68f797c2f3e1b.workers.dev#🇺🇸",
+    "Protocol": "vless",
+    "URL": "vless://1c61a6c0-9bc7-4cb8-9188-6d86d5989388@nltw4.lckdwn.ru:8443?encryption=none\u0026fp=chrome\u0026pbk=XEWgLksY3vnV9riMEO7AZ7HR0Ecv3HxXLFglZtcmx00\u0026security=reality\u0026sid=d5\u0026sni=nltw4.lckdwn.ru\u0026type=tcp#🇳🇱",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 0,
-      "DNSResolution": 3,
+      "Latency": 100,
+      "Throughput": 28.142062015529344,
+      "DNSResolution": 14,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://1c61a6c0-9bc7-4cb8-9188-6d86d5989388@nltw4.lckdwn.ru:8443?encryption=none\u0026fp=chrome\u0026pbk=XEWgLksY3vnV9riMEO7AZ7HR0Ecv3HxXLFglZtcmx00\u0026security=reality\u0026sid=d5\u0026sni=nltw4.lckdwn.ru\u0026type=tcp#🏳️",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 103,
+      "Throughput": 29.101531573228325,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed\u0026security=tls\u0026encryption=none\u0026host=powered-by-surena.configfarsi695fce27aa549.workers.dev\u0026fp=chrome\u0026type=ws\u0026sni=powered-by-surena.configfarsi695fce27aa549.workers.dev#🇺🇸",
+    "URL": "ss://8c53daee-2173-4889-a483-4f698b4b0432@tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir:443?path=%2Fvless\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir\u0026type=ws\u0026allowInsecure=1\u0026sni=tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir#%40Anti_Mellii",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 19,
+      "Latency": 3,
       "Throughput": 0,
-      "DNSResolution": 8,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -101,19 +101,19 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
+      "Latency": 33,
       "Throughput": 0,
-      "DNSResolution": 81,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed\u0026security=tls\u0026encryption=none\u0026host=powered-by-surena.configfarsi695fce27aa549.workers.dev\u0026fp=chrome\u0026type=ws\u0026sni=powered-by-surena.configfarsi695fce27aa549.workers.dev#🇺🇸",
+    "Protocol": "shadowsocks",
+    "URL": "ss://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=%2Fmovie\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#%F0%9F%94%B5%E2%9A%AA%EF%B8%8F%40confihub",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
+      "Latency": 35,
       "Throughput": 0,
       "DNSResolution": 2,
       "PacketLoss": 0
