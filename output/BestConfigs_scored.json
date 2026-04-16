@@ -1,121 +1,121 @@
 [
   {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiaWQiOiI0YjgwYWE4Ni00MzU0LTQwYmItZDJhMy00NzEyNmNmZjBiZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXNhdm0iLCJwb3J0IjoiMjA1MyIsInBzIjoiXHVkODNjXHVkZmYzXHVmZTBmIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRmZjNcdWZlMGYiLCJzY3kiOiJhdXRvIiwic25pIjoidXNhYXBwMS5qaXN1eXVuLnRvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "Score": 100,
+    "Protocol": "trojan",
+    "URL": "trojan://humanity@www.calmlunch.com:443?allowInsecure=1\u0026sni=www.calmlunch.com\u0026type=ws\u0026path=%2Fassignment#🏳️",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 38,
-      "Throughput": 102.18066438097888,
-      "DNSResolution": 50,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzXHVmZTBmIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRmZjNcdWZlMGYiLCJhZGQiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImNodW5jaGVvbjAzLnpnam9rLmNvbSIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 200,
-      "Throughput": 16.720893814208377,
-      "DNSResolution": 37,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?mode=auto\u0026path=%2F%40SheriffNet\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=cdnde.sheriffbus.com\u0026fp=firefox\u0026type=xhttp\u0026allowInsecure=0\u0026sni=cdnde.sheriffbus.com#%40digigozar💡",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 0,
+      "Latency": 2,
+      "Throughput": 31.872162413910253,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2096?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.jpmj.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.jpmj.dev#@UnNurmal",
-    "Score": 60,
+    "Protocol": "vmess",
+    "URL": "vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwiaWQiOiIyOTBjYzY5MS0zYWM2LTQzODctOThhMS0yNWM4ZWI4Y2EyZWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZmYzXHVmZTBmIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRmZjNcdWZlMGYiLCJzY3kiOiJhdXRvIiwic25pIjoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 11,
-      "Throughput": 0,
+      "Latency": 3,
+      "Throughput": 118.40496202042438,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=kamalnet.pages.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=kamalnet.pages.dev#@digigozar🚀",
-    "Score": 60,
+    "URL": "ss://26524cce-d514-4014-a426-365fb266a14d@www.caritas.org.hk:443?\u0026security=tls\u0026fp=chrome\u0026sni=sp18nyrj9.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=sp18nyrj9.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🇸🇬",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 11,
-      "Throughput": 0,
+      "Latency": 3,
+      "Throughput": 515.8211369574755,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://73a4456a-0442-4550-8b4f-c719871a4eeb@chatgpt.com:443?security=tls\u0026type=ws\u0026host=011.electrocellco-cf-011.workers.dev\u0026path=/eyJqdW5rIjoibWRiMjNWaUwxNHVWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0=?ed=2560\u0026sni=011.electrOCELlCO-CF-011.WorKERS.dEV\u0026fp=chrome#🏳️",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 304.6405939760445,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "trojan",
-    "URL": "trojan://humanity@8.6.112.6:443?allowInsecure=1\u0026host=www.creationlong.org\u0026path=%2Fassignment\u0026sni=www.creationlong.org\u0026type=ws#Masyakata",
-    "Score": 60,
+    "URL": "trojan://humanity@www.calmlunch.com:443?allowInsecure=1\u0026sni=www.calmlunch.com\u0026type=ws\u0026path=%2Fassignment#🇫🇷",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 0,
+      "Latency": 2,
+      "Throughput": 32.93413484259056,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://5238a315-4427-4915-a1de-4978e3029a1c@104.17.148.22:2096?allowInsecure=1\u0026encryption=none\u0026host=long-mode-2783.sepna114.workers.dev\u0026path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0\u0026security=tls\u0026sni=loNg-modE-2783.SEpna114.WOrkERs.dEV\u0026type=ws#🏳️",
-    "Score": 60,
+    "URL": "vless://26524cce-d514-4014-a426-365fb266a14d@www.caritas.org.hk:443?\u0026security=tls\u0026fp=chrome\u0026sni=sp18nyrj9.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=sp18nyrj9.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🇸🇬",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 0,
+      "Latency": 3,
+      "Throughput": 245.09129620147093,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://6fb65356-788e-4118-8280-148ec6eca18a@104.17.106.12:443?allowInsecure=1\u0026encryption=none\u0026host=xn--cz8h.pages.dev\u0026path=pyip%3Dproxyip.cmliussss.net\u0026security=tls\u0026sni=xn--cz8h.pages.dev\u0026type=ws#🏳️",
-    "Score": 60,
+    "URL": "vless://73a4456a-0442-4550-8b4f-c719871a4eeb@chatgpt.com:443?security=tls\u0026type=ws\u0026host=011.electrocellco-cf-011.workers.dev\u0026path=/eyJqdW5rIjoibWRiMjNWaUwxNHVWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0=?ed=2560\u0026sni=011.electrOCELlCO-CF-011.WorKERS.dEV\u0026fp=chrome#🏳️",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 13,
-      "Throughput": 0,
+      "Latency": 3,
+      "Throughput": 635.5780546655918,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2096?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.jpmj.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.jpmj.dev#@UnNurmal",
-    "Score": 60,
+    "URL": "ss://8e0473ad-2516-47bf-80d1-b550af609dd8@verso.nahidapp.com:443?path=%2Fvl%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=verso.nahidapp.com\u0026type=ws\u0026allowInsecure=0\u0026sni=verso.nahidapp.com#t.me%2#@PlantOrg",
+    "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "Latency": 99,
+      "Throughput": 15.219108400253084,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=hio-awx.pages.dev\u0026type=ws\u0026sni=hio-awx.pages.dev#%40V2rayNG_Cafe",
-    "Score": 60,
+    "Protocol": "shadowsocks",
+    "URL": "ss://ca936cf4-3221-4373-af24-771b22ec4467@verso.nahidapp.com:443?path=%2Fvl%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=verso.nahidapp.com\u0026type=ws\u0026allowInsecure=0\u0026sni=verso.nahidapp.com#t.me%2#@PlantOrg",
+    "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "Latency": 97,
+      "Throughput": 15.22236027571036,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://2b54293b-a8c3-4fea-97a3-7e73376af6f5@verso.nahidapp.com:443?path=%2Fvl%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=verso.nahidapp.com\u0026type=ws\u0026allowInsecure=0\u0026sni=verso.nahidapp.com#t.me%2#@PlantOrg%20%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C%20%DA%86%D9%86%D9%84",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 97,
+      "Throughput": 15.350393600881418,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   }
