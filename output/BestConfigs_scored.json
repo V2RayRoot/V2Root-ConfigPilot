@@ -1,121 +1,121 @@
 [
   {
     "Protocol": "vless",
-    "URL": "vless://26524cce-d514-4014-a426-365fb266a14d@www.investec.com:443?\u0026security=tls\u0026fp=chrome\u0026sni=ksgyus8a.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=ksgyus8a.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🏳️",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 29,
-      "Throughput": 101.03095522798066,
-      "DNSResolution": 17,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://26524cce-d514-4014-a426-365fb266a14d@convera.com:2053?\u0026security=tls\u0026fp=chrome\u0026sni=o2m0zjhz0slm.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=o2m0zjhz0slm.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🏳️",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 34,
-      "Throughput": 122.8024558096514,
-      "DNSResolution": 26,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://26524cce-d514-4014-a426-365fb266a14d@convera.com:2053?\u0026security=tls\u0026fp=chrome\u0026sni=o2m0zjhz0slm.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=o2m0zjhz0slm.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🏳️",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 37.29209632988529,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://26524cce-d514-4014-a426-365fb266a14d@www.investec.com:443?\u0026security=tls\u0026fp=chrome\u0026sni=ksgyus8a.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=ksgyus8a.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🏳️",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 30,
-      "Throughput": 71.3697353657495,
-      "DNSResolution": 17,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://26524cce-d514-4014-a426-365fb266a14d@newsroom.paypal-corp.com:443?\u0026security=tls\u0026fp=chrome\u0026sni=sp18nyrj9.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=sp18nyrj9.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🇺🇸",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 29.807668737421558,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cmcc.090227.xyz:443?security=tls\u0026sni=cm22-bgphhh.pages.dev\u0026type=ws\u0026host=cm22-bgphhh.pages.dev\u0026path=%2F#🇨🇦",
+    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none\u0026security=tls\u0026sni=pqh42v8.carwashipdir.shop\u0026alpn=h2\u0026insecure=1\u0026allowInsecure=1\u0026type=grpc#🏳️",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 66.29319181681481,
+      "Latency": 12,
+      "Throughput": 115.33739193120655,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://26524cce-d514-4014-a426-365fb266a14d@newsroom.paypal-corp.com:443?\u0026security=tls\u0026fp=chrome\u0026sni=sp18nyrj9.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=sp18nyrj9.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🇺🇸",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 44.28911881400383,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cmcc.090227.xyz:443?security=tls\u0026sni=cm22-bgphhh.pages.dev\u0026type=ws\u0026host=cm22-bgphhh.pages.dev\u0026path=%2F#🏳️",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 13,
-      "Throughput": 59.056817301586385,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://humanity@www.ignitelimit.com:443?security=tls\u0026sni=www.ignitelimit.com\u0026fp=chrome\u0026type=ws\u0026path=/assignment#🇫🇷",
+    "Protocol": "shadowsocks",
+    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none\u0026security=tls\u0026sni=pqh42v8.carwashipdir.shop\u0026alpn=h2\u0026insecure=1\u0026allowInsecure=1\u0026type=grpc#🇺🇸",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 15,
-      "Throughput": 16.602169555330377,
+      "Throughput": 133.74098253514958,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://26524cce-d514-4014-a426-365fb266a14d@cfxr.eu.org:2053?\u0026security=tls\u0026fp=chrome\u0026sni=qt2cte0z61.gfw.hidns.co\u0026type=ws\u0026headerType=none\u0026host=qt2cte0z61.gfw.hidns.co\u0026path=%2Fdanfeng%3Fed%3D2560#🇨🇦",
+    "URL": "ss://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none\u0026security=tls\u0026sni=pqh42v8.carwashipdir.shop\u0026alpn=h2\u0026insecure=1\u0026allowInsecure=1\u0026type=grpc#🏳️",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 30,
-      "Throughput": 24.93354936383841,
-      "DNSResolution": 123,
+      "Latency": 14,
+      "Throughput": 102.63322472514437,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none\u0026security=tls\u0026sni=pqh42v8.carwashipdir.shop\u0026alpn=h2\u0026insecure=1\u0026allowInsecure=1\u0026type=grpc#🇺🇸",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 14,
+      "Throughput": 121.04764497343072,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://98033e67-a689-48ca-8163-528854c6dfb3@snapp.ir:443?path=%2F\u0026security=tls\u0026encryption=none\u0026host=kilo.v9n.ir\u0026fp=chrome\u0026type=ws\u0026sni=kilo.v9n.ir#%40V2rayNG_Cafe",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 116,
+      "Throughput": 23.27415554417805,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@ge.pink-world.ru:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=_wJJxZfV51dD72qGexYZIyqeKDFXWDGClp5D-gF1lVk\u0026security=reality\u0026sid=5bb4c3a77963e3fa\u0026sni=ge.pink-world.ru\u0026type=tcp#🏳️",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 313,
+      "Throughput": 12.916671832662656,
+      "DNSResolution": 50,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c5bbdac7-6ff5-4762-87bf-870f55a03581@nld.pink-world.ru:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0\u0026security=reality\u0026sid=f27d8b541b5f48bf\u0026sni=nld.pink-world.ru\u0026type=tcp#🇳🇱",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 272,
+      "Throughput": 15.124136454345091,
+      "DNSResolution": 66,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@nld.pink-world.ru:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0\u0026security=reality\u0026sid=f27d8b541b5f48bf\u0026sni=nld.pink-world.ru\u0026type=tcp#🏳️",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 321,
+      "Throughput": 21.933918532107597,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@ge.pink-world.ru:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=_wJJxZfV51dD72qGexYZIyqeKDFXWDGClp5D-gF1lVk\u0026security=reality\u0026sid=5bb4c3a77963e3fa\u0026sni=ge.pink-world.ru\u0026type=tcp#🇩🇪",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 316,
+      "Throughput": 15.267447676896667,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c5bbdac7-6ff5-4762-87bf-870f55a03581@ge.pink-world.ru:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=_wJJxZfV51dD72qGexYZIyqeKDFXWDGClp5D-gF1lVk\u0026security=reality\u0026sid=5bb4c3a77963e3fa\u0026sni=ge.pink-world.ru\u0026type=tcp#🇩🇪",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 137,
+      "Throughput": 20.119876690003938,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
