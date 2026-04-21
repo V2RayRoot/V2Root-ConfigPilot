@@ -1,49 +1,37 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://c5bbdac7-6ff5-4762-87bf-870f55a03581@nld.pink-world.ru:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0\u0026security=reality\u0026sid=f27d8b541b5f48bf\u0026sni=nld.pink-world.ru\u0026type=tcp#🏳️",
+    "URL": "ss://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp\u0026security=reality\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4\u0026sid=9c2378562188c3cb\u0026sni=austria.denditop.site\u0026spx=/#🇦🇹",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 332,
-      "Throughput": 18.508726887863535,
-      "DNSResolution": 2,
+      "Latency": 181,
+      "Throughput": 17.6188633823687,
+      "DNSResolution": 30,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://65ea4681-21ad-47a3-9589-de4864135ee1@shop.shadowroute.site:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0#@Eternal_Connect",
+    "URL": "ss://c5bbdac7-6ff5-4762-87bf-870f55a03581@nld.pink-world.ru:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0\u0026security=reality\u0026sid=f27d8b541b5f48bf\u0026sni=nld.pink-world.ru\u0026type=tcp#🏳️",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 447,
-      "Throughput": 11.200879674526295,
-      "DNSResolution": 2,
+      "Latency": 173,
+      "Throughput": 20.101140294471453,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjciLCJhZGQiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImNodW5jaGVvbjAzLnpnam9rLmNvbSIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+    "Protocol": "vless",
+    "URL": "vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@nld.pink-world.ru:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0\u0026security=reality\u0026sid=f27d8b541b5f48bf\u0026sni=nld.pink-world.ru\u0026type=tcp#🏳️",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 166,
-      "Throughput": 15.29708297534574,
-      "DNSResolution": 24,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiJuMTc2MTI5Njg4OS40dTltYS5pY3UiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im4xNzYxMjk2ODg5LjR1OW1hLmljdSIsImlkIjoiNWZkYzZhYjEtODM0Ny00MTFjLTliYmYtZmJjM2VhODUzZDJmIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 377,
-      "Throughput": 11.12859397768625,
-      "DNSResolution": 2,
+      "Latency": 321,
+      "Throughput": 18.147486313523103,
+      "DNSResolution": 48,
       "PacketLoss": 0
     }
   },
@@ -53,43 +41,31 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 326,
-      "Throughput": 17.556957023556084,
+      "Latency": 109,
+      "Throughput": 19.411093765708202,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGZmM1x1ZmUwZiBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZmYzXHVmZTBmIiwic2N5Ijoibm9uZSIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5Ijoibm9uZSIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "vless",
-    "URL": "vless://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?mode=auto\u0026path=%2F%40SheriffNet\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=cdnde.sheriffbus.com\u0026fp=firefox\u0026type=xhttp\u0026allowInsecure=0\u0026sni=cdnde.sheriffbus.com#@Eternal_Connect",
+    "URL": "vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp\u0026security=reality\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4\u0026sid=9c2378562188c3cb\u0026sni=austria.denditop.site\u0026spx=/#🇦🇹",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 187,
+      "Throughput": 18.583303182698224,
+      "DNSResolution": 25,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?mode=auto\u0026path=%2F%40SheriffNet\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=cdnde.sheriffbus.com\u0026fp=firefox\u0026type=xhttp\u0026allowInsecure=0\u0026sni=cdnde.sheriffbus.com#",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
+      "Latency": 15,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -97,25 +73,49 @@
   },
   {
     "Protocol": "vless",
-    "URL": "vless://65ea4681-21ad-47a3-9589-de4864135ee1@shop.shadowroute.site:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0#@Eternal_Connect",
+    "URL": "vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?security=tls\u0026allowInsecure=0\u0026encryption=none\u0026type=ws\u0026host=2026.hhhhh.eu.org\u0026path=/222.167.202.31:7443\u0026sni=2026.hhhhh.eu.org\u0026fp=chrome#",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 132,
-      "Throughput": 8.20027985484574,
-      "DNSResolution": 238,
+      "Latency": 15,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@nld.pink-world.ru:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0\u0026security=reality\u0026sid=f27d8b541b5f48bf\u0026sni=nld.pink-world.ru\u0026type=tcp#🇳🇱",
+    "URL": "vless://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?mode=auto\u0026path=%2F%40SheriffNet\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=cdnde.sheriffbus.com\u0026fp=firefox\u0026type=xhttp\u0026allowInsecure=0\u0026sni=cdnde.sheriffbus.com#",
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 140,
-      "Throughput": 18.53471738956818,
-      "DNSResolution": 277,
+      "Latency": 14,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?security=tls\u0026allowInsecure=0\u0026encryption=none\u0026type=ws\u0026host=2026.hhhhh.eu.org\u0026path=/222.167.202.31:7443\u0026sni=2026.hhhhh.eu.org\u0026fp=chrome#",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 12,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?encryption=none\u0026security=reality\u0026sni=yahoo.com\u0026fp=firefox\u0026pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM\u0026sid=1a24af87\u0026type=tcp\u0026headerType=none#🏳️",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 26,
+      "Throughput": 0,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
