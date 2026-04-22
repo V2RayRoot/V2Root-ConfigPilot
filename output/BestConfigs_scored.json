@@ -1,12 +1,12 @@
 [
   {
     "Protocol": "vless",
-    "URL": "vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir\u0026type=ws\u0026allowInsecure=0#%40DrovOne%20%7C%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86",
+    "URL": "vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless\u0026security=tls\u0026encryption=none\u0026host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir\u0026type=ws#%40NormanV2ray",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 38,
-      "Throughput": 5.256083044435412,
+      "Latency": 17,
+      "Throughput": 8.939586265957624,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
@@ -17,9 +17,33 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 39,
-      "Throughput": 6.844032272486658,
+      "Latency": 17,
+      "Throughput": 11.427232369157792,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless\u0026security=tls\u0026encryption=none\u0026host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir\u0026type=ws#%40V2rayNG_Cafe",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 17,
+      "Throughput": 20.091437538638974,
       "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir\u0026type=ws\u0026allowInsecure=0#Napsternet_01",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 17,
+      "Throughput": 7.8044792132432494,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
@@ -29,93 +53,69 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 16.65304520426031,
+      "Latency": 3,
+      "Throughput": 6.439132934079564,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/\u0026security=tls\u0026alpn=h2,http/1.1\u0026encryption=none\u0026insecure=0\u0026host=all-fm2.netsnap.ir.\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=all-fm2.netsnap.ir.#%40Vpn_jet7",
+    "URL": "ss://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?security=tls\u0026sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV\u0026allowInsecure=1\u0026fp=chrome\u0026type=ws\u0026path=/?ed%3D2560\u0026host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV\u0026encryption=none#🏳️",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 107.20358941202142,
+      "Latency": 3,
+      "Throughput": 50.86037249806225,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/\u0026security=tls\u0026alpn=h2,http/1.1\u0026encryption=none\u0026insecure=0\u0026host=all-fm2.netsnap.ir.\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=all-fm2.netsnap.ir.#%40Vpn_jet7",
+    "URL": "vless://26524cce-d514-4014-a426-365fb266a14d@newsroom.paypal-corp.com:443?\u0026security=tls\u0026fp=chrome\u0026sni=sp18nyrj9.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=sp18nyrj9.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🇺🇸",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 104.66017893044337,
+      "Latency": 3,
+      "Throughput": 108.15122975721604,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir\u0026type=ws\u0026allowInsecure=0#https://",
-    "Score": 85,
+    "URL": "vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?security=tls\u0026sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV\u0026allowInsecure=1\u0026fp=chrome\u0026type=ws\u0026path=/?ed%3D2560\u0026host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV\u0026encryption=none#🏳️",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 77,
-      "Throughput": 6.405054612898315,
-      "DNSResolution": 2,
+      "Latency": 3,
+      "Throughput": 57.67971770738638,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir\u0026type=ws\u0026allowInsecure=0#%40DrovOne%20%7C%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86",
-    "Score": 80,
+    "Protocol": "vmess",
+    "URL": "vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwiaWQiOiIyOTBjYzY5MS0zYWM2LTQzODctOThhMS0yNWM4ZWI4Y2EyZWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZmYzXHVmZTBmIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRmZjNcdWZlMGYiLCJzY3kiOiJhdXRvIiwic25pIjoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 40,
-      "Throughput": 1.610273940648177,
-      "DNSResolution": 2,
+      "Latency": 3,
+      "Throughput": 147.04582457039783,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir\u0026type=ws\u0026allowInsecure=0#Psiphon--%40V2rayAlpha--43",
-    "Score": 80,
+    "Protocol": "vmess",
+    "URL": "vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwiaWQiOiIyOTBjYzY5MS0zYWM2LTQzODctOThhMS0yNWM4ZWI4Y2EyZWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 40,
-      "Throughput": 3.883179184913068,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless\u0026security=tls\u0026encryption=none\u0026host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir\u0026type=ws#%40V2rayNG_Cafe",
-    "Score": 80,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 39,
-      "Throughput": 2.1558689859812072,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5b77fb18-cece-4759-9a81-571f1be53e0c@gbr1.frostbot.ru:6443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc\u0026security=reality\u0026sid=b9605803fb4b\u0026sni=gbr1.frostbot.ru\u0026type=tcp#🏳️",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 647,
-      "Throughput": 20.683241727083363,
-      "DNSResolution": 2,
+      "Latency": 2,
+      "Throughput": 131.84777804850523,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
