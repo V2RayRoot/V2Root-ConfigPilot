@@ -1,60 +1,48 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://26524cce-d514-4014-a426-365fb266a14d@newsroom.paypal-corp.com:443?\u0026security=tls\u0026fp=chrome\u0026sni=sp18nyrj9.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=sp18nyrj9.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🇨🇦",
-    "Score": 100,
+    "Protocol": "trojan",
+    "URL": "trojan://humanity@www.ignitelimit.com:443?security=tls\u0026sni=www.ignitelimit.com\u0026fp=chrome\u0026type=ws\u0026path=/assignment#🇫🇷",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 43.48396861309752,
+      "Latency": 14,
+      "Throughput": 17.565312481123467,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://87892959-27c8-4492-8f31-da14be631839@trex.nahidapp.com:443?path=%2Fvless-ws\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=trex.nahidapp.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=trex.nahidapp.com#Psiphon-%40V2rayAlpha--32",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 124,
+      "Throughput": 12.39582934326436,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://26524cce-d514-4014-a426-365fb266a14d@newsroom.paypal-corp.com:443?\u0026security=tls\u0026fp=chrome\u0026sni=sp18nyrj9.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=sp18nyrj9.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🇨🇦",
-    "Score": 90,
+    "Protocol": "shadowsocks",
+    "URL": "ss://d19b31c4-b574-41a7-9ee4-5cbec97b72fc@trex.nahidapp.com:443?path=%2Fvless-ws\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=trex.nahidapp.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=trex.nahidapp.com#Psiphon-%40V2rayAlpha--27",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 174.3928018673458,
-      "DNSResolution": 0,
+      "Latency": 123,
+      "Throughput": 10.68911000660953,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://26524cce-d514-4014-a426-365fb266a14d@www.caritas.org.hk:443?\u0026security=tls\u0026fp=chrome\u0026sni=sp18nyrj9.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=sp18nyrj9.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🇸🇬",
-    "Score": 90,
+    "URL": "ss://e09ee53a-15f6-416f-a022-cd1076ccecc7@trex.nahidapp.com:443?path=%2Fvless-ws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=trex.nahidapp.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=trex.nahidapp.com#Psiphon-%40V2rayAlpha--29",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 383.76957860469247,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://26524cce-d514-4014-a426-365fb266a14d@www.caritas.org.hk:443?\u0026security=tls\u0026fp=chrome\u0026sni=sp18nyrj9.chinav.indevs.in\u0026type=ws\u0026headerType=none\u0026host=sp18nyrj9.chinav.indevs.in\u0026path=%2Fdanfeng%3Fed%3D2560#🇸🇬",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 392.49662244390873,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir\u0026type=ws\u0026allowInsecure=0#%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%40v2ra_config",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 61,
-      "Throughput": 5.862670155555356,
+      "Latency": 128,
+      "Throughput": 5.753331156445424,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
@@ -65,21 +53,57 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 187,
-      "Throughput": 15.59500422772767,
-      "DNSResolution": 2,
+      "Latency": 202,
+      "Throughput": 19.030889355279953,
+      "DNSResolution": 45,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://5c3ece4a-7d1b-44bc-8f6e-0914d91c6604@trex.nahidapp.com:443?path=%2Fvless-ws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=trex.nahidapp.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=trex.nahidapp.com#Psiphon-%40V2ray_Raha--30",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 129,
+      "Throughput": 5.712567500474138,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://3c458a8c-d2d5-48b1-8af6-5d7f1cb9f0f8@trex.nahidapp.com:443?path=%2Fvless-ws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=trex.nahidapp.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=trex.nahidapp.com#Psiphon-%40V2rayAlpha--1",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 123,
+      "Throughput": 22.532925349933656,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://26524cce-d514-4014-a426-365fb266a14d@cfxr.eu.org:2053?\u0026security=tls\u0026fp=chrome\u0026sni=qt2cte0z61.gfw.hidns.co\u0026type=ws\u0026headerType=none\u0026host=qt2cte0z61.gfw.hidns.co\u0026path=%2Fdanfeng%3Fed%3D2560#🇨🇦",
+    "URL": "vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?security=reality\u0026encryption=none\u0026pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4\u0026headerType=none\u0026fp=chrome\u0026spx=/\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fr.denditop.site\u0026sid=9c2378562188c3cb#🇫🇷",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 324,
-      "Throughput": 177.72756776513336,
-      "DNSResolution": 5,
+      "Latency": 128,
+      "Throughput": 21.308016398319147,
+      "DNSResolution": 31,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://87892959-27c8-4492-8f31-da14be631839@trex.nahidapp.com:443?path=%2Fvless-ws\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=trex.nahidapp.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=trex.nahidapp.com#Psiphon-%40V2rayAlpha--32",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 123,
+      "Throughput": 5.742675257011116,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -89,33 +113,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 157,
-      "Throughput": 14.928545199517385,
-      "DNSResolution": 12,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://3c458a8c-d2d5-48b1-8af6-5d7f1cb9f0f8@trex.nahidapp.com:443?path=%2Fvless-ws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=trex.nahidapp.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=trex.nahidapp.com#Psiphon-%40V2ray_Raha--1",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 163,
-      "Throughput": 7.755800658806016,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://87892959-27c8-4492-8f31-da14be631839@trex.nahidapp.com:443?path=%2Fvless-ws\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=trex.nahidapp.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=trex.nahidapp.com#Psiphon-%40V2rayAlpha--32",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 168,
-      "Throughput": 6.3194378398090585,
-      "DNSResolution": 1,
+      "Latency": 171,
+      "Throughput": 18.529102710853355,
+      "DNSResolution": 76,
       "PacketLoss": 0
     }
   }
