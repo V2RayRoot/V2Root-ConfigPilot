@@ -5,19 +5,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://d37a75db-76b6-4db8-b213-0d5b044d138d@104.19.174.68:2053?allowInsecure=1\u0026encryption=none\u0026host=hio-awx.pages.dev\u0026path=%2Ffast\u0026security=tls\u0026sni=hio-awx.pages.dev\u0026type=ws#🇺🇸",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 24,
+      "Latency": 14,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -29,7 +17,19 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
+      "Latency": 12,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://d37a75db-76b6-4db8-b213-0d5b044d138d@104.19.174.68:2053?allowInsecure=1\u0026encryption=none\u0026host=hio-awx.pages.dev\u0026path=%2Ffast\u0026security=tls\u0026sni=hio-awx.pages.dev\u0026type=ws#🇺🇸",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 14,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -41,55 +41,7 @@
     "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🇺🇸",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 19,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none\u0026host=vip.yaml7.ggff.net\u0026path=%2F\u0026security=none\u0026type=ws#🇸🇬",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 9,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none\u0026host=vip.yaml7.ggff.net\u0026path=%2F\u0026security=none\u0026type=ws#🇸🇬",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 8,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?encryption=none\u0026security=tls\u0026sni=sni.111000.indevs.in\u0026alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-\u0026insecure=1\u0026allowInsecure=1\u0026type=ws\u0026host=sni.111000.indevs.in\u0026path=/#🇨🇦",
-    "Score": 35,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 9,
+      "Latency": 12,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -101,7 +53,7 @@
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 8,
+      "Latency": 9,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
@@ -109,11 +61,59 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.163:2096?allowInsecure=1\u0026encryption=none\u0026host=sni.111000.indevs.in\u0026path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D\u0026security=tls\u0026sni=sni.111000.indevs.in\u0026type=ws#🇨🇦",
+    "URL": "ss://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none\u0026host=vip.yaml7.ggff.net\u0026path=%2F\u0026security=none\u0026type=ws#🇸🇬",
     "Score": 35,
     "Results": {
       "TLSOK": false,
-      "Latency": 10,
+      "Latency": 14,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?encryption=none\u0026security=tls\u0026sni=sni.111000.indevs.in\u0026alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-\u0026insecure=1\u0026allowInsecure=1\u0026type=ws\u0026host=sni.111000.indevs.in\u0026path=/#🇨🇦",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 14,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://f5549415-75d3-48dc-a7cb-6208c5f33811@185.143.235.253:80?path=%2F\u0026security=none\u0026encryption=none\u0026host=ss.oppobot.ir\u0026type=ws#Proxy%20king",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 23,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?encryption=none\u0026security=tls\u0026sni=sni.111000.indevs.in\u0026alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-\u0026insecure=1\u0026allowInsecure=1\u0026type=ws\u0026host=sni.111000.indevs.in\u0026path=/#🇨🇦",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 12,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?allowInsecure=1\u0026encryption=none\u0026host=sni.jpmj.dev\u0026path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D\u0026security=tls\u0026sni=sni.jpmj.dev\u0026type=ws#🇸🇬",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 14,
       "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
