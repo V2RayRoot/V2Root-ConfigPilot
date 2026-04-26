@@ -1,12 +1,36 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ce63db4c-b3c4-4da8-90bf-b9cbb76861a0@vercel.com:443?mode=packet-up\u0026path=%2F\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026host=grand-short-auto-shahriar.vercel.app\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#Psiphon--%40V2rayAlpha-16",
+    "Protocol": "vless",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up\u0026path=%2F\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026host=grand-short-auto-shahriar.vercel.app\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#Psiphon--%40V2rayAlpha-15",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 72.810790012999,
+      "Latency": 3,
+      "Throughput": 141.69698613167316,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up\u0026path=%2F\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026host=grand-short-auto-shahriar.vercel.app\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#https://t.me/Nevadaa777",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 108.12874316366158,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up\u0026path=%2F\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026host=grand-short-auto-shahriar.vercel.app\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 99.71263069116384,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
@@ -17,21 +41,57 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 88.3839142690173,
+      "Latency": 4,
+      "Throughput": 135.8133415387227,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up\u0026path=%2F\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026host=grand-short-auto-shahriar.vercel.app\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#Psiphon--%40V2rayAlpha-15",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up\u0026path=%2F\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026host=grand-short-auto-shahriar.vercel.app\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#https://t.me/Nevadaa777",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 40.9825196388106,
+      "Latency": 4,
+      "Throughput": 68.66092789476532,
       "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ce63db4c-b3c4-4da8-90bf-b9cbb76861a0@vercel.com:443?type=xhttp\u0026security=tls\u0026sni=vercel.com\u0026alpn=h2\u0026fp=chrome\u0026host=grand-short-auto-shahriar.vercel.app\u0026path=/\u0026mode=packet-up",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 107.81890574862102,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ce63db4c-b3c4-4da8-90bf-b9cbb76861a0@vercel.com:443?mode=packet-up\u0026path=%2F\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026host=grand-short-auto-shahriar.vercel.app\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 84.53992411654141,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ce63db4c-b3c4-4da8-90bf-b9cbb76861a0@vercel.com:443?mode=packet-up\u0026path=%2F\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026host=grand-short-auto-shahriar.vercel.app\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 117.07716163514881,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
@@ -41,80 +101,20 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 87.2268538773018,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ba961848-80bc-4e66-972f-6cf72b63aa39@snapp.ir:443?path=%2Fws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=vip2.tu5pars.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=vip2.tu5pars.ir#Psiphon--%40V2ray_Raha-5",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 82,
-      "Throughput": 12.30002000936505,
-      "DNSResolution": 7,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://9a6adfe5-3924-4b82-a195-d710ca34f483@vipsenter2.phynanc.ir:8443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026type=ws\u0026allowInsecure=1\u0026sni=vipsenter2.phynanc.ir#Psiphon--%40V2rayAlpha-5",
-    "Score": 75,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 92,
-      "Throughput": 10.67578475478507,
-      "DNSResolution": 107,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ba961848-80bc-4e66-972f-6cf72b63aa39@snapp.ir:443?path=%2Fws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=vip2.tu5pars.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=vip2.tu5pars.ir#Psiphon--%40V2ray_Raha-5",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1290,
-      "Throughput": 29.013700574054923,
+      "Latency": 4,
+      "Throughput": 87.01976524525645,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://ba961848-80bc-4e66-972f-6cf72b63aa39@snapp.ir:443?path=%2Fws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=vip2.tu5pars.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=vip2.tu5pars.ir#Psiphon--%40V2rayAlpha-21",
-    "Score": 70,
+    "URL": "vless://ce63db4c-b3c4-4da8-90bf-b9cbb76861a0@vercel.com:443?type=xhttp\u0026security=tls\u0026sni=vercel.com\u0026alpn=h2\u0026fp=chrome\u0026host=grand-short-auto-shahriar.vercel.app\u0026path=/\u0026mode=packet-up",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 1115,
-      "Throughput": 28.78219803782042,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://dc4fa7a3-beab-4298-a20d-38c69aa54a93@haikino.nahidapp.com:443?path=%2Fh1%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=haikino.nahidapp.com\u0026type=ws\u0026allowInsecure=0#Psiphon--%40V2rayAlpha-29",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1163,
-      "Throughput": 9.402469645625267,
-      "DNSResolution": 31,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://dc4fa7a3-beab-4298-a20d-38c69aa54a93@haikino.nahidapp.com:443?path=%2Fh1%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=haikino.nahidapp.com\u0026type=ws\u0026allowInsecure=0#Psiphon--%40V2rayAlpha-29",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 121,
-      "Throughput": 14.118331108575541,
+      "Latency": 5,
+      "Throughput": 143.65072074235243,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
