@@ -1,96 +1,12 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com#https://t.me/DrovOne",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 79.90334252461481,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up\u0026path=%2F\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026host=grand-short-auto-shahriar.vercel.app\u0026fp=chrome\u0026type=xhttp\u0026sni=vercel.com#%40svscoonfig",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 11,
-      "Throughput": 48.71482319362909,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
-    "URL": "ss://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com#%40Net2ray",
+    "URL": "ss://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 136.28255134291803,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443/?type=tcp\u0026encryption=none\u0026flow=\u0026security=tls\u0026sni=vercel.com\u0026alpn=h2\u0026fp=chrome#https://t.me/vipconfingg",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 107.8919567786979,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 124.5017188318234,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com#%40V2x_channel",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 97.65284550138242,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443?mode=auto\u0026path=%2Ftt\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=heydari.vercel.app\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#t.me%2Fveyrohit",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 104.21226631783347,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443?mode=auto\u0026path=%2Ftt\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=heydari.vercel.app\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#vpnhayper",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 132.58403246412846,
+      "Latency": 9,
+      "Throughput": 78.051725893422,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
@@ -101,8 +17,20 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 107.66857153454806,
+      "Latency": 9,
+      "Throughput": 69.70191436133538,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.comhttps://t.me/oliver",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 74.55484721927148,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
@@ -113,8 +41,80 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 97.15087215920376,
+      "Latency": 8,
+      "Throughput": 58.800885450193505,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com#https://t.me/DrovOne",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 65.64984951946649,
+      "DNSResolution": 7,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up\u0026path=%2F\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026host=grand-short-auto-shahriar.vercel.app\u0026fp=chrome\u0026type=xhttp\u0026sni=vercel.com#%40svscoonfig",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 70.39947008910875,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com#%40vpnhayper",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 54.94329872175652,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com#%40Net2ray",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 10,
+      "Throughput": 54.976635548379086,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 68.71588782275617,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026allowInsecure=0\u0026encryption=none\u0026type=tcp\u0026sni=vercel.com\u0026fp=chrome\u0026headerType=none\u0026alpn=h2#@ange1vpn",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 15,
+      "Throughput": 62.34570995429062,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
