@@ -1,37 +1,73 @@
 [
   {
     "Protocol": "vless",
-    "URL": "vless://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443?mode=auto\u0026path=%2Ftt\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=heydari.vercel.app\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#vpnhayper",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com#https://t.me/DrovOne",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 25,
-      "Throughput": 47.44547006130939,
-      "DNSResolution": 20,
+      "Latency": 6,
+      "Throughput": 79.90334252461481,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443?mode=auto\u0026path=%2Ftt\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=heydari.vercel.app\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#t.me%2Fveyrohit",
+    "Protocol": "vless",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up\u0026path=%2F\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026host=grand-short-auto-shahriar.vercel.app\u0026fp=chrome\u0026type=xhttp\u0026sni=vercel.com#%40svscoonfig",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 25,
-      "Throughput": 46.430829625135125,
+      "Latency": 11,
+      "Throughput": 48.71482319362909,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443?mode=auto\u0026path=%2Ftt\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=heydari.vercel.app\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#vpnhayper",
+    "URL": "ss://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com#%40Net2ray",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 26,
-      "Throughput": 44.93370332568436,
+      "Latency": 4,
+      "Throughput": 136.28255134291803,
       "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443/?type=tcp\u0026encryption=none\u0026flow=\u0026security=tls\u0026sni=vercel.com\u0026alpn=h2\u0026fp=chrome#https://t.me/vipconfingg",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 107.8919567786979,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 124.5017188318234,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026allowInsecure=0\u0026sni=vercel.com#%40V2x_channel",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 97.65284550138242,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -41,81 +77,45 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 26,
-      "Throughput": 43.08074662574226,
-      "DNSResolution": 18,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@freeyx.cloudflare88.eu.org:443?fp=chrome\u0026host=sni.111000.dynv6.net\u0026path=%2F%3Fed%3D2560%26proxyip%3Dip.111000.de5.net%3A443\u0026security=tls\u0026sni=sni.111000.dynv6.net\u0026type=ws#🇨🇦",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 21,
-      "Throughput": 0,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none\u0026security=tls\u0026sni=dongjing4.zqjsqapi.com\u0026type=ws\u0026path=%2Fproxy#🇯🇵",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 122,
-      "Throughput": 16.08851605504792,
+      "Latency": 5,
+      "Throughput": 104.21226631783347,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJhZGQiOiJoay5haWN2aWRlby5pbmZvIiwicG9ydCI6Ijg4MTAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzcwNzViODMtMmQ4Zi00Yjc2LWI2ZmQtY2M4MjlhZTZkNzVhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9kZ3MiLCJob3N0Ijoid3d3LmJpbmcuY29tIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
-    "Score": 70,
+    "Protocol": "vless",
+    "URL": "vless://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443?mode=auto\u0026path=%2Ftt\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=heydari.vercel.app\u0026type=xhttp\u0026allowInsecure=0\u0026sni=vercel.com#vpnhayper",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 171,
-      "Throughput": 13.715702593388878,
-      "DNSResolution": 46,
+      "Latency": 3,
+      "Throughput": 132.58403246412846,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://8007e155-622e-4c9d-8a6e-67f49b4678f4@132.145.97.225:4443?\u0026security=tls\u0026sni=edt2-lgy.pages.dev\u0026type=ws\u0026headerType=none\u0026host=edt2-lgy.pages.dev\u0026path=%2F#🇨🇦",
-    "Score": 60,
+    "URL": "ss://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls\u0026allowInsecure=0\u0026encryption=none\u0026type=tcp\u0026sni=vercel.com\u0026fp=chrome\u0026headerType=none\u0026alpn=h2#@ange1vpn",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 41,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "Latency": 6,
+      "Throughput": 107.66857153454806,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@132.145.97.225:4443?\u0026security=tls\u0026sni=edt2-lgy.pages.dev\u0026type=ws\u0026headerType=none\u0026host=edt2-lgy.pages.dev\u0026path=%2F#🇨🇦",
-    "Score": 60,
+    "Protocol": "shadowsocks",
+    "URL": "ss://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443/?type=tcp\u0026encryption=none\u0026flow=\u0026security=tls\u0026sni=vercel.com\u0026alpn=h2\u0026fp=chrome#https://t.me/vipconfingg",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 35,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?encryption=none\u0026security=tls\u0026sni=sni.111000.indevs.in\u0026fp=chrome\u0026insecure=1\u0026allowInsecure=1\u0026type=ws\u0026host=sni.111000.indevs.in\u0026path=/?ed=2560#🇺🇸",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "Latency": 4,
+      "Throughput": 97.15087215920376,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
