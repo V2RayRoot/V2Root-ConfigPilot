@@ -1,13 +1,37 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026allowInsecure=0\u0026sni=nextjs.org#%40FIIN_VPN",
+    "URL": "ss://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026allowInsecure=1\u0026sni=nextjs.org#https%3A%2F%2Ft.me%2FDrovOne",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 120.80044063168724,
+      "Latency": 14,
+      "Throughput": 90.03665617364469,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026allowInsecure=1\u0026sni=nextjs.org#proxy%20king",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 14,
+      "Throughput": 91.93218539605293,
       "DNSResolution": 14,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026allowInsecure=1\u0026sni=nextjs.org#%40@saministamm",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 14,
+      "Throughput": 91.16460457649049,
+      "DNSResolution": 17,
       "PacketLoss": 0
     }
   },
@@ -17,104 +41,80 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 332.1023544437931,
-      "DNSResolution": 5,
+      "Latency": 46,
+      "Throughput": 84.23779719423905,
+      "DNSResolution": 17,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026allowInsecure=1\u0026sni=nextjs.org#https%3A%2F%2Ft.me%2FDrovOne",
+    "URL": "ss://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026sni=nextjs.org#%40V2rayNG_Cafe",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 388.6906188838924,
+      "Latency": 14,
+      "Throughput": 97.348398760604,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026allowInsecure=1\u0026sni=nextjs.org#%40v2x_channel",
+    "URL": "vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026sni=nextjs.org#%40V2rayNG_Cafe",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 309.51871812513366,
-      "DNSResolution": 2,
+      "Latency": 28,
+      "Throughput": 91.21037432270168,
+      "DNSResolution": 16,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026allowInsecure=0\u0026sni=nextjs.org#%40FIIN_VPN",
+    "URL": "vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026allowInsecure=1\u0026sni=nextjs.org#proxy%20king",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 230.98306334011787,
-      "DNSResolution": 4,
+      "Latency": 31,
+      "Throughput": 103.92796389074859,
+      "DNSResolution": 18,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026allowInsecure=1\u0026sni=nextjs.org#%40v2x_channel",
+    "URL": "ss://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto\u0026path=%2Fzyphervpnsalle\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=vercel-xhttp-beta-flame.vercel.app\u0026type=xhttp\u0026allowInsecure=1\u0026sni=nextjs.org#%40@saministamm",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 227.21801420771519,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@helm.sh:443?mode=auto\u0026path=%2Fmambo\u0026security=tls\u0026encryption=none\u0026host=69f18d8defe5a8b0745a3379--magenta-banoffee-fb08a6.netlify.app\u0026type=xhttp\u0026sni=helm.sh#%40svscoonfig",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 418.29763529026565,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292\u0026amp;security=tls\u0026amp;encryption=none\u0026amp;host=hetz.x-smm.com\u0026amp;type=ws\u0026amp;sni=hetz.x-smm.com#@UnNurmal",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 15.226899406524932,
-      "DNSResolution": 0,
+      "Latency": 29,
+      "Throughput": 54.25681102364928,
+      "DNSResolution": 46,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@helm.sh:443?mode=auto\u0026path=%2Fmambo\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=69f18d8defe5a8b0745a3379--magenta-banoffee-fb08a6.netlify.app\u0026type=xhttp\u0026allowInsecure=1\u0026sni=helm.sh#Channel%3A%40v2psiiphon",
+    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇸🇬",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 172.58286852272497,
+      "Latency": 15,
+      "Throughput": 132.64885199216855,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@helm.sh:443?mode=auto\u0026path=%2Fmambo\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=69f18d8defe5a8b0745a3379--magenta-banoffee-fb08a6.netlify.app\u0026type=xhttp\u0026allowInsecure=1\u0026sni=helm.sh#@Configir98",
+    "URL": "ss://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.090227.xyz:443?security=tls\u0026type=ws\u0026ech=cloudflare-ech.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:75.57ms",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 549.7571825604102,
+      "Latency": 15,
+      "Throughput": 70.22295982858715,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
