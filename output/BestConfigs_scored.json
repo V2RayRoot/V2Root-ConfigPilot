@@ -5,33 +5,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 151.39844567921233,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://72d1d3a4-5467-41da-9a12-505907577044@api.vercel.com:443?encryption=none\u0026type=xhttp\u0026security=tls\u0026path=%2Fv1%2Fmusic\u0026host=azzro.digielipan.store\u0026mode=auto\u0026sni=api.vercel.com\u0026alpn=h2%2Chttp%2F1.1\u0026allowInsecure=1#%40NetFreeSup%E2%9C%A8",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 81.8209924622513,
-      "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://72d1d3a4-5467-41da-9a12-505907577044@api.vercel.com:443?mode=auto\u0026path=%2Fv1%2Fmusic\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=azzro.digielipan.store\u0026type=xhttp\u0026allowInsecure=1\u0026sni=api.vercel.com#%40ariamehr_javidshah",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 162.62031743689238,
-      "DNSResolution": 1,
+      "Latency": 11,
+      "Throughput": 21.116865694577623,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -41,21 +17,93 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 139.7390676843467,
-      "DNSResolution": 1,
+      "Latency": 11,
+      "Throughput": 29.461474336656586,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://72d1d3a4-5467-41da-9a12-505907577044@api.vercel.com:443?mode=auto\u0026path=%2Fv1%2Fmusic\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=azzro.digielipan.store\u0026type=xhttp\u0026allowInsecure=1\u0026sni=api.vercel.com#%40ariamehr_javidshah",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 25,
+      "Throughput": 29.753433777776866,
+      "DNSResolution": 16,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://b45b8e80-d36c-486e-b47d-f2d4882e0d65@snapp.ir:8443?path=%2Fweb\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026host=m1.fardaamoz.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=m1.fardaamoz.ir#%F0%9F%8C%BBPsiphon-%40V2rayAlpha-10",
+    "URL": "ss://72d1d3a4-5467-41da-9a12-505907577044@api.vercel.com:443?encryption=none\u0026type=xhttp\u0026security=tls\u0026path=%2Fv1%2Fmusic\u0026host=azzro.digielipan.store\u0026mode=auto\u0026sni=api.vercel.com\u0026alpn=h2%2Chttp%2F1.1\u0026allowInsecure=1#%40NetFreeSup%E2%9C%A8",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 17,
+      "Throughput": 31.74112862335745,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a01daac7-1e65-4645-854d-b47d226f6b08@auth.vercel.com:443?path=/\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=y6-3cj.pages.dev\u0026type=ws\u0026allowInsecure=0\u0026sni=y6-3cj.pages.dev#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 56.247780190143516,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a01daac7-1e65-4645-854d-b47d226f6b08@auth.vercel.com:443?path=/\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=y6-3cj.pages.dev\u0026type=ws\u0026allowInsecure=0\u0026sni=y6-3cj.pages.dev#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 15,
+      "Throughput": 25.682280685401647,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vmess",
+    "URL": "vmess://eyJhZGQiOiJjZi5zY3BuYi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6InNlZ21lbnQtc2VsZi11bml0ZWQtdmFyaWF0aW9uLnRyeWNsb3VkZmxhcmUuY29tIiwiaWQiOiI3NDBhMGIxZS1mODk0LTRjZTctOTllZC0zNzJkNzk2MTkzN2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNzQwYTBiMWUtZjg5NC00Y2U3LTk5ZWQtMzcyZDc5NjE5MzdjLXZtIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJzY3kiOiJhdXRvIiwic25pIjoic2VnbWVudC1zZWxmLXVuaXRlZC12YXJpYXRpb24udHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 69,
+      "Throughput": 61.14894370779586,
+      "DNSResolution": 59,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@freeyx.cloudflare88.eu.org:443?fp=chrome\u0026host=sni.111000.dynv6.net\u0026path=%2F%3Fed%3D2560%26proxyip%3Dip.111000.de5.net%3A443\u0026security=tls\u0026sni=sni.111000.dynv6.net\u0026type=ws#🇨🇦",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 145,
-      "Throughput": 5.127567170102813,
-      "DNSResolution": 1,
+      "Latency": 14,
+      "Throughput": 0,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://b45b8e80-d36c-486e-b47d-f2d4882e0d65@snapp.ir:8443?path=%2Fweb\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026host=m1.fardaamoz.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=m1.fardaamoz.ir#%F0%9F%8C%BBPsiphon-%40V2rayAlpha-10",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 114,
+      "Throughput": 23.36344684015208,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -65,57 +113,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 149,
-      "Throughput": 5.500268907459352,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://b45b8e80-d36c-486e-b47d-f2d4882e0d65@snapp.ir:8443?path=%2Fweb\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026insecure=0\u0026host=m1.fardaamoz.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=m1.fardaamoz.ir#%40ariamehr_javidshah",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 164,
-      "Throughput": 17.08284936375461,
+      "Latency": 118,
+      "Throughput": 16.40048542156751,
       "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp\u0026security=reality\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc\u0026sid=a120\u0026sni=cdn.cdnjst.org\u0026spx=/#🇦🇱",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 171,
-      "Throughput": 13.549339615349153,
-      "DNSResolution": 62,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.54.107.227:443?sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev\u0026type=ws\u0026host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev\u0026path=/fp=chrome\u0026security=tls#🇹🇼",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 152,
-      "Throughput": 17.40436764999277,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp\u0026security=reality\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc\u0026sid=a120\u0026sni=cdn.cdnjst.org\u0026spx=/#🇦🇱",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 237,
-      "Throughput": 14.194333901534884,
-      "DNSResolution": 837,
       "PacketLoss": 0
     }
   }
