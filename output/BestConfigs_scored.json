@@ -1,5 +1,77 @@
 [
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://5b64b4cc-b4d9-4bb6-b36e-464f8876ce6c@snapp.ir:2083?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=like.abkeyping.click\u0026fp=chrome\u0026type=ws\u0026sni=like.abkeyping.click#%40v2ray_phoenix",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 105,
+      "Throughput": 25.2401320927169,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://5b64b4cc-b4d9-4bb6-b36e-464f8876ce6c@snapp.ir:2083?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=like.abkeyping.click\u0026fp=chrome\u0026type=ws\u0026sni=like.abkeyping.click#%40v2ray_phoenix",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 109,
+      "Throughput": 10.659120932836698,
+      "DNSResolution": 116,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.v6.navy\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.v6.navy#%40V%E2%80%8Bi%E2%80%8Br%E2%80%8Bo%E2%80%8Bu%E2%80%8Bs%E2%80%8BC%E2%80%8Bo%E2%80%8Bn%E2%80%8Bf%E2%80%8Bi%E2%80%8Bg",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 2,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.v6.navy\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.v6.navy#%40V%E2%80%8Bi%E2%80%8Br%E2%80%8Bo%E2%80%8Bu%E2%80%8Bs%E2%80%8BC%E2%80%8Bo%E2%80%8Bn%E2%80%8Bf%E2%80%8Bi%E2%80%8Bg",
+    "Score": 35,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 1,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c7fedda2-4cc4-4295-b872-3eb10a227a05@ov-germany2.09vpn.com:8443?path=/vless/\u0026security=tls\u0026encryption=none\u0026type=ws#u2999851584",
+    "Score": 30,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 46,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://c7fedda2-4cc4-4295-b872-3eb10a227a05@ov-germany2.09vpn.com:8443?path=/vless/\u0026security=tls\u0026encryption=none\u0026type=ws#u2999851584",
+    "Score": 30,
+    "Results": {
+      "TLSOK": false,
+      "Latency": 0,
+      "Throughput": 0,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
     "URL": "vless://7d0120c5-c8a4-4653-8015-94660e50b864@packetnet.mashhad-gsm.ir:42726?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#@canfigiop",
     "Score": 30,
@@ -7,13 +79,13 @@
       "TLSOK": false,
       "Latency": 0,
       "Throughput": 0,
-      "DNSResolution": 2,
+      "DNSResolution": 25,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://7d0120c5-c8a4-4653-8015-94660e50b864@packetnet.mashhad-gsm.ir:42726?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#@canfigiop",
+    "Protocol": "vless",
+    "URL": "vless://c12c0508-40e1-44c3-8134-4a2f2dfa9d56@namstar.hi-phonee.ir:54065?path=%2F\u0026security=none\u0026encryption=none\u0026type=ws#%E2%9D%A4%EF%B8%8F%20channel%20%F0%9F%8C%9F%40Needvpnfree%F0%9F%94%A5",
     "Score": 30,
     "Results": {
       "TLSOK": false,
@@ -25,85 +97,13 @@
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://9692c29e-f714-44a5-abef-430d1169635a@45.90.75.168:2015?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#KurdConfing",
+    "URL": "ss://c12c0508-40e1-44c3-8134-4a2f2dfa9d56@namstar.hi-phonee.ir:54065?path=%2F\u0026security=none\u0026encryption=none\u0026type=ws#%E2%9D%A4%EF%B8%8F%20channel%20%F0%9F%8C%9F%40Needvpnfree%F0%9F%94%A5",
     "Score": 20,
     "Results": {
       "TLSOK": false,
       "Latency": 0,
       "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://9692c29e-f714-44a5-abef-430d1169635a@45.90.75.168:2015?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#v2ray_confiiig",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://9692c29e-f714-44a5-abef-430d1169635a@45.90.75.168:2015?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#KurdConfing",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IvCfh6vwn4euQHZqZXR2aXAg4pyFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://9692c29e-f714-44a5-abef-430d1169635a@45.90.75.168:2015?security=none\u0026encryption=none\u0026headerType=none\u0026type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40vjetvip%20%E2%9C%85",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://9692c29e-f714-44a5-abef-430d1169635a@45.90.75.168:2015?encryption=none\u0026type=tcp\u0026headerType=none#@canfigiop",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IkBhcHBzb29uZXIg2qnYp9mG2KfZhCDYqtmE2q/Ysdin2YUg8J+Viu+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
-    "Score": 20,
-    "Results": {
-      "TLSOK": false,
-      "Latency": 0,
-      "Throughput": 0,
-      "DNSResolution": 0,
+      "DNSResolution": 123,
       "PacketLoss": 0
     }
   },
