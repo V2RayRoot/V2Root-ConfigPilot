@@ -1,121 +1,121 @@
 [
   {
+    "Protocol": "vmess",
+    "URL": "vmess://eyJhZGQiOiJjZi5zY3BuYi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImJvYXRpbmctbG9va2luZy11cGdyYWRlcy1pbGxpbm9pcy50cnljbG91ZGZsYXJlLmNvbSIsImlkIjoiZTM4MGFmOTMtZDllMC00MTZhLThiMzUtNDQ1ODgzMzQ0NzUwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2UzODBhZjkzLWQ5ZTAtNDE2YS04YjM1LTQ0NTg4MzM0NDc1MC12bSIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6ImJvYXRpbmctbG9va2luZy11cGdyYWRlcy1pbGxpbm9pcy50cnljbG91ZGZsYXJlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 31,
+      "Throughput": 101.061858207459,
+      "DNSResolution": 13,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "vless",
-    "URL": "vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none\u0026security=tls\u0026type=ws\u0026path=/ray#🇨🇳",
+    "URL": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2083?allowInsecure=1\u0026encryption=none\u0026host=cIAllO-EGB.pAGES.dev\u0026path=%2F%25252F\u0026security=tls\u0026sni=cIAllO-EGB.pAGES.dev\u0026type=ws#🇸🇬",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 6.177872842267287,
+      "Latency": 12,
+      "Throughput": 116.43820254172078,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2083?allowInsecure=1\u0026encryption=none\u0026host=cIAllO-EGB.pAGES.dev\u0026path=%2F%25252F\u0026security=tls\u0026sni=cIAllO-EGB.pAGES.dev\u0026type=ws#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 14,
+      "Throughput": 139.6484601383246,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls\u0026sni=rAyAn-007.mAxImA.DpDnS.OrG\u0026allowInsecure=1\u0026fp=chrome\u0026type=ws\u0026path=/?ed%3D2560\u0026host=rAyAn-007.mAxImA.DpDnS.OrG\u0026encryption=none#🇨🇦",
-    "Score": 90,
+    "URL": "vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none\u0026security=tls\u0026type=ws\u0026path=%2Fvless%2F#🇲🇽",
+    "Score": 75,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 613.9959454777741,
+      "Latency": 59,
+      "Throughput": 34.49239404123025,
+      "DNSResolution": 128,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=camp.nahidapp.com\u0026type=ws\u0026allowInsecure=0#%E2%9E%95%20Psiphon--%40V2ray_Raha-2",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 116,
+      "Throughput": 15.57511637016337,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality\u0026encryption=none\u0026pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=www.cloudflare.com#🇺🇸",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 41,
+      "Throughput": 0,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=camp.nahidapp.com\u0026type=ws\u0026allowInsecure=0#%E2%9E%95%20Psiphon--%40V2ray_Raha-2",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 242,
+      "Throughput": 7.890725057321926,
+      "DNSResolution": 4508,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://humanity@188.114.96.3:443?encryption=none\u0026security=tls\u0026sni=www.creationlong.org\u0026insecure=1\u0026type=ws\u0026host=www.creationlong.org\u0026path=%2Fassignment#🇵🇱",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 14,
+      "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "trojan",
-    "URL": "trojan://humanity@www.multiplydose.com:443?security=tls\u0026sni=www.multiplydose.com\u0026allowInsecure=1\u0026type=ws\u0026host=www.multiplydose.com\u0026path=%2Fassignment#🇳🇱",
-    "Score": 90,
+    "URL": "trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?path=%2Ftr\u0026security=tls\u0026insecure=0\u0026host=Koma-YT.PAGeS.Dev\u0026type=ws\u0026allowInsecure=0\u0026sni=Koma-YT.PAGeS.Dev#%F0%9F%94%AEPsiphon--%40V2rayAlpha-4",
+    "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 21.23042301891207,
+      "Latency": 15,
+      "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@sub.danfeng.eu.org:443?allowInsecure=1\u0026ed=2560\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026fp=firefox\u0026host=vless.lrdxw.club\u0026path=%2F\u0026security=tls\u0026sni=vless.lrdxw.club\u0026type=ws#🇸🇬",
-    "Score": 90,
+    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=sni.111000.indevs.in\u0026type=ws\u0026allowInsecure=0\u0026sni=sni.111000.indevs.in#🇸🇬",
+    "Score": 60,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 298.486490669331,
+      "Latency": 14,
+      "Throughput": 0,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none\u0026security=tls\u0026type=ws\u0026path=/ray#🇨🇳",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 428.91983402518105,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls\u0026sni=rAyAn-007.mAxImA.DpDnS.OrG\u0026allowInsecure=1\u0026fp=chrome\u0026type=ws\u0026path=/?ed%3D2560\u0026host=rAyAn-007.mAxImA.DpDnS.OrG\u0026encryption=none#🇨🇦",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 418.0853259889678,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@sub.danfeng.eu.org:443?allowInsecure=1\u0026ed=2560\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026fp=firefox\u0026host=vless.lrdxw.club\u0026path=%2F\u0026security=tls\u0026sni=vless.lrdxw.club\u0026type=ws#🇸🇬",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 276.84618076678294,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?security=reality\u0026encryption=none\u0026pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4\u0026headerType=none\u0026fp=chrome\u0026spx=/\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fr.denditop.site\u0026sid=9c2378562188c3cb#🇫🇷",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 187,
-      "Throughput": 15.591803314936273,
-      "DNSResolution": 12,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none\u0026security=tls\u0026sni=dongjing4.zqjsqapi.com\u0026type=ws\u0026path=/proxy#🇯🇵",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 136,
-      "Throughput": 19.807957151030934,
-      "DNSResolution": 24,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none\u0026security=tls\u0026sni=dongjing4.zqjsqapi.com\u0026type=ws\u0026path=/proxy#🇯🇵",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 115,
-      "Throughput": 22.830082816582017,
-      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
