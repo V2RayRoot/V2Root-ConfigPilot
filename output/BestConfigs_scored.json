@@ -1,121 +1,121 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=p1.thisiswe.uno\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=p1.thisiswe.uno#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:81.38ms",
+    "URL": "ss://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cdns.doon.eu.org:443?allowInsecure=1\u0026ed=2560\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026fp=chrome\u0026host=vless.lrdxw.club\u0026path=/\u0026security=tls\u0026sni=vless.lrdxw.club\u0026type=ws#🇺🇸",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 243.32346271429876,
-      "DNSResolution": 16,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=p1.thisiswe.uno\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=p1.thisiswe.uno#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:81.38ms",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 245.94285745204243,
-      "DNSResolution": 20,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@sub.danfeng.eu.org:443?allowInsecure=1\u0026ed=2560\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026fp=firefox\u0026host=vless.lrdxw.club\u0026path=%2F\u0026security=tls\u0026sni=vless.lrdxw.club\u0026type=ws#🇸🇬",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 401.4583979953175,
-      "DNSResolution": 0,
+      "Latency": 15,
+      "Throughput": 62.223948314548466,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls\u0026sni=rAyAn-007.mAxImA.DpDnS.OrG\u0026allowInsecure=1\u0026fp=chrome\u0026type=ws\u0026path=/?ed%3D2560\u0026host=rAyAn-007.mAxImA.DpDnS.OrG\u0026encryption=none#🇨🇦",
-    "Score": 90,
+    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@vip3.kaixincloud.top:8443?type=ws\u0026encryption=none\u0026host=sni.111000.dynv6.net\u0026path=/?Telegram🇨🇳+@WangCai2\u0026headerType=none\u0026quicSecurity=none\u0026serviceName=\u0026security=tls\u0026fp=chrome\u0026insecure=1\u0026sni=sni.111000.dynv6.net#🇨🇦",
+    "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 656.7740081686267,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@sub.danfeng.eu.org:443?allowInsecure=1\u0026ed=2560\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026fp=firefox\u0026host=vless.lrdxw.club\u0026path=%2F\u0026security=tls\u0026sni=vless.lrdxw.club\u0026type=ws#🇸🇬",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 355.5710900614014,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://humanity@www.multiplydose.com:443?security=tls\u0026sni=www.multiplydose.com\u0026allowInsecure=1\u0026type=ws\u0026host=www.multiplydose.com\u0026path=%2Fassignment#🇳🇱",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 22.727162190620252,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls\u0026sni=rAyAn-007.mAxImA.DpDnS.OrG\u0026allowInsecure=1\u0026fp=chrome\u0026type=ws\u0026path=/?ed%3D2560\u0026host=rAyAn-007.mAxImA.DpDnS.OrG\u0026encryption=none#🇨🇦",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 643.2338711518936,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?security=reality\u0026encryption=none\u0026pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4\u0026headerType=none\u0026fp=chrome\u0026spx=/\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=fr.denditop.site\u0026sid=9c2378562188c3cb#🇫🇷",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 156,
-      "Throughput": 16.765038007001284,
-      "DNSResolution": 13,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=camp.nahidapp.com\u0026type=ws\u0026allowInsecure=0#%E2%9E%95%20Psiphon--%40V2rayAlpha-2",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 141,
-      "Throughput": 13.095445507997416,
+      "Latency": 99,
+      "Throughput": 23.189278856646578,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none\u0026security=tls\u0026sni=dongjing4.zqjsqapi.com\u0026type=ws\u0026path=/proxy#🇯🇵",
+    "URL": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=p1.thisiswe.uno\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=p1.thisiswe.uno#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:81.38ms",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 61,
+      "Throughput": 82.20211323343153,
+      "DNSResolution": 21,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=camp.nahidapp.com\u0026type=ws\u0026allowInsecure=0#%E2%9E%95%20Psiphon--%40V2rayAlpha-2",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 82,
+      "Throughput": 5.978801842684963,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=camp.nahidapp.com\u0026type=ws\u0026allowInsecure=0#%F0%9F%94%AEPsiphon--%40V2rayAlpha-2",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 82,
+      "Throughput": 18.881466102037823,
+      "DNSResolution": 83,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://14693131-2e75-4dae-bc2c-441a1b8b04bd@camp.nahidapp.com:443?path=%2FIF_VPN_Bot\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=camp.nahidapp.com\u0026type=ws\u0026allowInsecure=0#%40musiclovers85",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 82,
+      "Throughput": 5.6535101610350855,
+      "DNSResolution": 91,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=p1.thisiswe.uno\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=p1.thisiswe.uno#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:81.38ms",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 66,
+      "Throughput": 85.92819013373594,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=camp.nahidapp.com\u0026type=ws\u0026allowInsecure=0#%F0%9F%94%AEPsiphon--%40V2rayAlpha-2",
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 121,
-      "Throughput": 23.692466454614156,
-      "DNSResolution": 3,
+      "Latency": 250,
+      "Throughput": 9.061094824881753,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=camp.nahidapp.com\u0026type=ws\u0026allowInsecure=0#%E2%9E%95%20Psiphon--%40V2rayAlpha-2",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 1253,
+      "Throughput": 5.39139673526936,
+      "DNSResolution": 83,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@vip3.kaixincloud.top:8443?type=ws\u0026encryption=none\u0026host=sni.111000.dynv6.net\u0026path=/?Telegram🇨🇳+@WangCai2\u0026headerType=none\u0026quicSecurity=none\u0026serviceName=\u0026security=tls\u0026fp=chrome\u0026insecure=1\u0026sni=sni.111000.dynv6.net#🇨🇦",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 107,
+      "Throughput": 26.911805767163646,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
