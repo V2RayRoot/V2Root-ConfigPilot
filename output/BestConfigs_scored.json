@@ -1,24 +1,12 @@
 [
   {
     "Protocol": "vless",
-    "URL": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@sub.danfeng.eu.org:443?allowInsecure=1\u0026ed=2560\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026fp=firefox\u0026host=vless.lrdxw.club\u0026path=%2F\u0026security=tls\u0026sni=vless.lrdxw.club\u0026type=ws#🇸🇬",
+    "URL": "vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none\u0026security=tls\u0026type=ws\u0026path=/ray#🇨🇳",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 311.11357582199514,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none\u0026security=tls\u0026sni=pqh42v8.carwashipdir.shop\u0026alpn=h2\u0026insecure=1\u0026allowInsecure=1\u0026type=grpc#🇺🇸",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 331.8049705131144,
+      "Throughput": 401.9374591342649,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -29,8 +17,32 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 228.4008457683319,
+      "Latency": 2,
+      "Throughput": 304.13921303370347,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@sub.danfeng.eu.org:443?allowInsecure=1\u0026ed=2560\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026fp=firefox\u0026host=vless.lrdxw.club\u0026path=%2F\u0026security=tls\u0026sni=vless.lrdxw.club\u0026type=ws#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 315.1545368150136,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none\u0026security=tls\u0026sni=pqh42v8.carwashipdir.shop\u0026alpn=h2\u0026insecure=1\u0026allowInsecure=1\u0026type=grpc#🇺🇸",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 250.95973275799977,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -41,21 +53,21 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 196.92497225019446,
+      "Latency": 2,
+      "Throughput": 361.0386739663271,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none\u0026security=tls\u0026type=ws\u0026path=/ray#🇨🇳",
-    "Score": 90,
+    "URL": "vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none\u0026security=tls\u0026type=ws\u0026path=%2Fvless%2F#🇲🇽",
+    "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 297.79871286184823,
-      "DNSResolution": 0,
+      "Latency": 72,
+      "Throughput": 39.995925615057594,
+      "DNSResolution": 23,
       "PacketLoss": 0
     }
   },
@@ -65,33 +77,9 @@
     "Score": 85,
     "Results": {
       "TLSOK": true,
-      "Latency": 90,
-      "Throughput": 26.058374224025588,
-      "DNSResolution": 7,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?security=tls\u0026sni=HL-FREEDOM-1.UNDEF.NETWORK#🇳🇱",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 102,
-      "Throughput": 24.76724631981552,
-      "DNSResolution": 27,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none\u0026security=tls\u0026type=ws\u0026path=/ray#🇨🇳",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 2.3776738680205374,
-      "DNSResolution": 0,
+      "Latency": 91,
+      "Throughput": 44.95276658289999,
+      "DNSResolution": 14,
       "PacketLoss": 0
     }
   },
@@ -101,9 +89,9 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 127,
-      "Throughput": 23.87988796046107,
-      "DNSResolution": 2,
+      "Latency": 157,
+      "Throughput": 17.910689421839365,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -113,9 +101,21 @@
     "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 130,
-      "Throughput": 22.819331355483,
-      "DNSResolution": 3,
+      "Latency": 159,
+      "Throughput": 16.60252933183903,
+      "DNSResolution": 13,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://5633e54f-2cfe-4b90-841a-b8ef3c2f9346@snapp.ir:2053?encryption=none\u0026type=ws\u0026security=tls\u0026path=%2F\u0026sni=eg1-c21-cdn.fasrgobar.ir\u0026alpn=h2%2Chttp%2F1.1\u0026fp=chrome\u0026allowInsecure=1#%40NetFreeSup",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 1184,
+      "Throughput": 16.942000720848245,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
