@@ -1,120 +1,120 @@
 [
   {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8c4604ef-749c-4b56-adf1-7da405002a21@www.bigcommerce.com:2053?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇸🇬",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 22,
+      "Throughput": 54.7654044831412,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.bigcommerce.com:2053?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇸🇬",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 19,
+      "Throughput": 45.3176234051567,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 494.52933109097245,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:443?allowInsecure=1\u0026encryption=none\u0026host=CiaLLO-egb.PAGeS.dEV\u0026security=tls\u0026sni=CiaLLO-egb.PAGeS.dEV\u0026type=ws#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 286.59524880247073,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?encryption=none\u0026host=sni.111000.indevs.in\u0026path=%2F%3Fed\u0026security=tls\u0026sni=sni.111000.indevs.in\u0026type=ws#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 359.06233384951537,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?encryption=none\u0026host=sni.111000.indevs.in\u0026path=%2F%3Fed\u0026security=tls\u0026sni=sni.111000.indevs.in\u0026type=ws#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 472.77750103878077,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
     "Protocol": "trojan",
     "URL": "trojan://humanity@sourceforge.net:443?path=%2Fassignment\u0026security=tls\u0026alpn=http%2F1.1\u0026host=www.calmloud.com\u0026fp=chrome\u0026type=ws\u0026sni=www.calmloud.com#telegram%3A%20%40xforceTFV",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 39.113198956287754,
+      "Throughput": 44.728017841156486,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "trojan",
-    "URL": "trojan://humanity@www.multiplydose.com:443?path=/assignment\u0026security=tls\u0026insecure=1\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=www.multiplydose.com#🇳🇱",
+    "URL": "trojan://humanity@sourceforge.net:443?path=%2Fassignment\u0026security=tls\u0026alpn=http%2F1.1\u0026host=www.calmloud.com\u0026fp=chrome\u0026type=ws\u0026sni=www.calmloud.com#https%3A%2F%2Ft.me%2Fdarnet0",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 40.71390012093504,
+      "Throughput": 42.69163432824284,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:443?allowInsecure=1\u0026encryption=none\u0026host=CiaLLO-egb.PAGeS.dEV\u0026security=tls\u0026sni=CiaLLO-egb.PAGeS.dEV\u0026type=ws#🇸🇬",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 280.25135603997546,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none\u0026security=tls\u0026type=ws\u0026path=%2Fvless%2F#🇲🇽",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 68,
-      "Throughput": 40.54035509580811,
-      "DNSResolution": 9,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://4db2a63f-1587-4e14-9fd3-a03ea91c43fb@pohoenix2.premiumzz.shop:8443?type=ws\u0026encryption=none\u0026path=%2Fapi%2Fupdate\u0026host=pohoenix2.premiumzz.shop\u0026security=tls\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026sni=pohoenix2.premiumzz.shop#%F0%9F%8C%90%20tel%20%3A%20%40v2ray_unit",
-    "Score": 75,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 0,
-      "Throughput": 8.152525086384614,
-      "DNSResolution": 10002,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=pro.halotwo.shop#%40Skyportall",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5173,
-      "Throughput": 9.329681770525804,
-      "DNSResolution": 91,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none\u0026security=tls\u0026type=ws\u0026path=%2Fvless%2F#🇲🇽",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 139,
-      "Throughput": 26.295204566880134,
-      "DNSResolution": 34,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=pro.halotwo.shop#%40filembad",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 173,
-      "Throughput": 12.322008529038623,
-      "DNSResolution": 90,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://4db2a63f-1587-4e14-9fd3-a03ea91c43fb@pohoenix2.premiumzz.shop:8443?type=ws\u0026encryption=none\u0026path=%2Fapi%2Fupdate\u0026host=pohoenix2.premiumzz.shop\u0026security=tls\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026sni=pohoenix2.premiumzz.shop#%F0%9F%8C%90%20tel%20%3A%20%40v2ray_unit",
-    "Score": 65,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 86,
-      "Throughput": 1.4449534875902388,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@8.6.112.0:2053?allowInsecure=1\u0026encryption=none\u0026fp=chrome\u0026host=qyi.fqjd663.ggff.net\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇸🇬",
-    "Score": 60,
+    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇸🇬",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 1,
-      "Throughput": 0,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.146.191:2096?host=sni.my111000.tech\u0026path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F\u0026security=tls\u0026sni=sni.my111000.tech\u0026type=ws#🇺🇸",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 1,
-      "Throughput": 0,
+      "Throughput": 474.2325450264536,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
