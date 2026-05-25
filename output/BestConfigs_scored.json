@@ -1,25 +1,13 @@
 [
   {
     "Protocol": "vless",
-    "URL": "vless://72c319bb-577f-481c-8fc7-0364d72a395d@ip2.bv24.org:2083?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=fi2.bv24.org\u0026path=/\u0026security=tls\u0026sni=fi2.bv24.org\u0026type=ws#🇫🇮",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 29,
-      "Throughput": 105.67336940079909,
-      "DNSResolution": 29,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
     "URL": "vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?path=%2F\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=nobitex.sylu.net\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=nobitex.sylu.net#%F0%9F%A7%9A%20Psiphon--%40V2ray_Raha--7",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 12,
-      "Throughput": 87.70442695988478,
-      "DNSResolution": 2,
+      "Latency": 4,
+      "Throughput": 172.1474246444015,
+      "DNSResolution": 5,
       "PacketLoss": 0
     }
   },
@@ -29,21 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 69.98373289364653,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://72c319bb-577f-481c-8fc7-0364d72a395d@ip2.bv24.org:2083?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=fi2.bv24.org\u0026path=/\u0026security=tls\u0026sni=fi2.bv24.org\u0026type=ws#🇫🇮",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 90.57711138586671,
-      "DNSResolution": 28,
+      "Latency": 13,
+      "Throughput": 99.3796029526475,
+      "DNSResolution": 72,
       "PacketLoss": 0
     }
   },
@@ -53,69 +29,93 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 16,
-      "Throughput": 39.77299720934754,
+      "Latency": 3,
+      "Throughput": 52.867110969797324,
       "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://humanity@www.calmloud.com:443?path=%2Fassignment\u0026security=tls\u0026alpn=http%2F1.1\u0026insecure=0\u0026fp=ios\u0026type=ws\u0026allowInsecure=0\u0026sni=www.calmloud.com#%40vpnhayper%20_%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 15,
-      "Throughput": 29.908757875751707,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://72c319bb-577f-481c-8fc7-0364d72a395d@ip.bv24.net:2083?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=fn.bv24.net\u0026path=/\u0026security=tls\u0026sni=fn.bv24.net\u0026type=ws#🇫🇮",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 73,
-      "Throughput": 66.29790830845138,
-      "DNSResolution": 18,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://0c9c3d36-c93c-4d1b-bdff-8038c3ed78a2@fl-7-direct.djarbnet.ru:443?encryption=none\u0026host=fl-7-direct.djarbnet.ru\u0026path=/getupdates\u0026security=tls\u0026sni=fl-7-direct.djarbnet.ru\u0026type=ws#🇫🇮",
-    "Score": 70,
+    "URL": "vless://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?encryption=none\u0026path=/\u0026security=tls\u0026type=ws#🇨🇦",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 151,
-      "Throughput": 16.950408775952102,
-      "DNSResolution": 52,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://0c9c3d36-c93c-4d1b-bdff-8038c3ed78a2@fl-7-direct.djarbnet.ru:443?encryption=none\u0026host=fl-7-direct.djarbnet.ru\u0026path=/getupdates\u0026security=tls\u0026sni=fl-7-direct.djarbnet.ru\u0026type=ws#🇫🇮",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 236,
-      "Throughput": 7.3468906608732025,
-      "DNSResolution": 98,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?allowInsecure=1\u0026encryption=none\u0026host=sni.jpmj.dev\u0026path=%2F\u0026security=tls\u0026sni=sni.jpmj.dev\u0026type=ws#🇸🇬",
-    "Score": 60,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 0,
+      "Latency": 3,
+      "Throughput": 269.0542541177072,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?encryption=none\u0026path=/\u0026security=tls\u0026type=ws#🇨🇦",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 136.90063767119148,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none\u0026security=tls\u0026type=ws\u0026path=/vless/#🇲🇽",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 51,
+      "Throughput": 18.06017461452736,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none\u0026security=tls\u0026sni=dongjing4.zqjsqapi.com\u0026type=ws\u0026path=/proxy#🇯🇵",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 209,
+      "Throughput": 15.454181162616155,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://3d7d9306-49a2-43f1-818b-5f4008220d05@snapp.ir:443?path=%2F\u0026security=tls\u0026alpn=h3\u0026encryption=none\u0026insecure=0\u0026host=kalbas5.pbvsrk.carnagesv.top\u0026fp=random\u0026type=ws\u0026allowInsecure=0\u0026sni=kalbas5.pbvsrk.carnagesv.top#@sogoandfuckyourlove",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 107,
+      "Throughput": 25.694008168215124,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://3d7d9306-49a2-43f1-818b-5f4008220d05@snapp.ir:443?path=%2F\u0026security=tls\u0026alpn=h3\u0026encryption=none\u0026insecure=0\u0026host=kalbas5.pbvsrk.carnagesv.top\u0026fp=random\u0026type=ws\u0026allowInsecure=0\u0026sni=kalbas5.pbvsrk.carnagesv.top#%40PersianGulf_Proxy",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 104,
+      "Throughput": 5.9564183891531055,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none\u0026security=tls\u0026sni=dongjing4.zqjsqapi.com\u0026type=ws\u0026path=/proxy#🇯🇵",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 209,
+      "Throughput": 15.243867960230052,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
