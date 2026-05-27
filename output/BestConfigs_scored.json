@@ -5,8 +5,8 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 69.72808522110793,
+      "Latency": 24,
+      "Throughput": 41.19633943128587,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
@@ -17,57 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 77.0156860639625,
-      "DNSResolution": 13,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?encryption=none\u0026host=sni.111000.indevs.in\u0026path=%2F%3Fed\u0026security=tls\u0026sni=sni.111000.indevs.in\u0026type=ws#🇺🇸",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 592.2041505368145,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://8b5acf77-2c2e-4eed-9ad1-be81851b99ea@e1-f55.pages.dev:443?allowInsecure=1\u0026encryption=none\u0026host=e1-f55.pages.dev\u0026path=%2F\u0026security=tls\u0026sni=e1-f55.pages.dev\u0026type=ws#🇨🇦",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 296.94687390292046,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?encryption=none\u0026path=/\u0026security=tls\u0026type=ws#🇨🇦",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 277.211477081853,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://%6d%69%74%69%76%70%6e@www.iranpoems.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=http%2F1.1\u0026insecure=1\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=www.iranpoems.ir#🇩🇪All¹⁰",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 447.32144200105665,
-      "DNSResolution": 0,
+      "Latency": 16,
+      "Throughput": 45.243580550949744,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -77,32 +29,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 586.9640852817729,
+      "Latency": 6,
+      "Throughput": 232.38106381320537,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8b5acf77-2c2e-4eed-9ad1-be81851b99ea@e1-f55.pages.dev:443?allowInsecure=1\u0026encryption=none\u0026host=e1-f55.pages.dev\u0026path=%2F\u0026security=tls\u0026sni=e1-f55.pages.dev\u0026type=ws#🇨🇦",
+    "Protocol": "trojan",
+    "URL": "trojan://mitivpn@www.iranpoems.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=http%2F1.1\u0026insecure=0\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=www.iranpoems.ir#%40Spartan_YT",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 306.33996989520534,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8f8a9baf-16c2-4d59-a267-09e65b0a55e4@chatgpt.com:443?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F%3Fed%3D80\u0026host=sss.napsternetx.ir\u0026sni=sss.napsternetx.ir\u0026fp=chrome\u0026alpn=h3\u0026allowInsecure=1#@Amoo_SadraA-30GB",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 547.1709959975809,
+      "Latency": 6,
+      "Throughput": 252.89599901775193,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -113,9 +53,69 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 579.1791887017199,
+      "Latency": 6,
+      "Throughput": 271.4391367122552,
       "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://%6d%69%74%69%76%70%6e@www.iranpoems.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=http%2F1.1\u0026insecure=1\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=www.iranpoems.ir#🇩🇪All¹⁰",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 223.21916863359957,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://humanity@www.calmlunch.com:443?security=tls\u0026sni=www.calmlunch.com\u0026fp=chrome\u0026allowInsecure=0\u0026type=ws\u0026path=/assignment#@v2ryng_proxy",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 29.93513116945841,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://6878a81b-39b0-4a09-bb8b-b0d0a197769d@snapp.ir:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=asia.devops-grid-project.org\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=asia.devops-grid-project.org#%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%20%3A%20%40Nikotniha%F0%9F%93%8A",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 82,
+      "Throughput": 30.363160286534868,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://48608391-3169-445d-a143-f4613b2725d8@de.save-node.com:443?security=reality\u0026encryption=none\u0026pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk\u0026headerType=none\u0026fp=qq\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=de.save-node.com\u0026sid=a9c4f17e3b62d8#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 92,
+      "Throughput": 26.735008745706445,
+      "DNSResolution": 11,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://2a8eae54-fdc4-4231-bad7-67a7132b3aa1@de.save-node.com:443?security=reality\u0026encryption=none\u0026pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk\u0026headerType=none\u0026fp=qq\u0026type=tcp\u0026flow=xtls-rprx-vision\u0026sni=de.save-node.com\u0026sid=c31f9a0e7d4b52#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
+    "Score": 85,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 99,
+      "Throughput": 27.034830777065046,
+      "DNSResolution": 44,
       "PacketLoss": 0
     }
   }
