@@ -1,61 +1,37 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://ea86388f-0ddd-4d3f-8bb1-f46031b3e084@www.render.com:2053?encryption=none\u0026type=xhttp\u0026security=tls\u0026path=%2FTelegram-id-mDaltoon%3Fed%3D2056\u0026host=best1.daltoon-server.ir\u0026mode=auto\u0026sni=best1.daltoon-server.ir\u0026alpn=h2%2Chttp%2F1.1\u0026fp=chrome\u0026allowInsecure=0#Telegram%3A%40filterboro%20%F0%9F%94%A6",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 23,
-      "Throughput": 182.46851203611342,
-      "DNSResolution": 7,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://940928c3-069c-41f7-b475-b22cb5cf6790@a3.hamrahnode.ir:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=op7.easy-upload.org#TEL%3A%E2%AB%B7%40proxy_Config12",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 38.2656962836858,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
-    "URL": "ss://940928c3-069c-41f7-b475-b22cb5cf6790@a2.hamrahnode.ir:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=op6.easy-upload.org#TEL%3A%E2%AB%B7%40proxy_Config12",
+    "URL": "ss://ea86388f-0ddd-4d3f-8bb1-f46031b3e084@www.render.com:2053?encryption=none\u0026type=xhttp\u0026security=tls\u0026path=%2FTelegram-id-mDaltoon%3Fed%3D2056\u0026host=best1.daltoon-server.ir\u0026mode=auto\u0026sni=best1.daltoon-server.ir\u0026alpn=h2%2Chttp%2F1.1\u0026fp=chrome\u0026allowInsecure=0#Telegram%3A%40filterboro%20%F0%9F%94%A6",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 58.47560600554707,
+      "Latency": 26,
+      "Throughput": 113.84414861283467,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://940928c3-069c-41f7-b475-b22cb5cf6790@a1.hamrahnode.ir:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=op5.easy-upload.org#TEL%3A%E2%AB%B7%40proxy_Config12",
+    "Protocol": "vless",
+    "URL": "vless://be017fc7-6a68-7699-3faf-332a2e77442e@server2.nekagsm.com:2053?security=tls\u0026type=ws\u0026path=%2F\u0026sni=trcdn1.nekagsm.com#%28onvpn%29%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20TLS",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 11,
-      "Throughput": 29.887963474517598,
-      "DNSResolution": 12,
+      "Latency": 26,
+      "Throughput": 36.84962886642946,
+      "DNSResolution": 42,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://03951375-af0b-4cb7-b684-b5922de0e155@ww.vidboxco.ir:2053?path=%2F%3Fed\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=de-fd-npx.iranvatanam.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=de-fd-npx.iranvatanam.com#@v2ryng_proxy",
+    "Protocol": "shadowsocks",
+    "URL": "ss://be017fc7-6a68-7699-3faf-332a2e77442e@server2.nekagsm.com:2053?security=tls\u0026type=ws\u0026path=%2F\u0026sni=trcdn1.nekagsm.com#%28onvpn%29%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20TLS",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 29.419578524306367,
-      "DNSResolution": 2,
+      "Latency": 14,
+      "Throughput": 45.49491961076139,
+      "DNSResolution": 44,
       "PacketLoss": 0
     }
   },
@@ -65,21 +41,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 9,
-      "Throughput": 53.28931706795942,
-      "DNSResolution": 95,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://940928c3-069c-41f7-b475-b22cb5cf6790@a2.hamrahnode.ir:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=op6.easy-upload.org#TEL%3A%E2%AB%B7%40proxy_Config12",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 17,
-      "Throughput": 98.91237069943077,
-      "DNSResolution": 3,
+      "Latency": 26,
+      "Throughput": 68.0531254682374,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -89,9 +53,57 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 22.420507006415445,
+      "Latency": 14,
+      "Throughput": 60.658276353223215,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://940928c3-069c-41f7-b475-b22cb5cf6790@a1.hamrahnode.ir:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=op5.easy-upload.org#TEL%3A%E2%AB%B7%40proxy_Config12",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 13,
+      "Throughput": 51.20276609631116,
       "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ea86388f-0ddd-4d3f-8bb1-f46031b3e084@www.render.com:2053?encryption=none\u0026type=xhttp\u0026security=tls\u0026path=%2FTelegram-id-mDaltoon%3Fed%3D2056\u0026host=best1.daltoon-server.ir\u0026mode=auto\u0026sni=best1.daltoon-server.ir\u0026alpn=h2%2Chttp%2F1.1\u0026fp=chrome\u0026allowInsecure=0#Telegram%3A%40filterboro%20%F0%9F%94%A6",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 33,
+      "Throughput": 121.83192265926802,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://940928c3-069c-41f7-b475-b22cb5cf6790@a3.hamrahnode.ir:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=op7.easy-upload.org#TEL%3A%E2%AB%B7%40proxy_Config12",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 27,
+      "Throughput": 47.110037682730265,
+      "DNSResolution": 19,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://940928c3-069c-41f7-b475-b22cb5cf6790@a3.hamrahnode.ir:2053?path=%2F\u0026security=tls\u0026encryption=none\u0026fp=chrome\u0026type=ws\u0026sni=op3.easy-upload.org#TEL%3A%E2%AB%B7%40proxy_Config12",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 12,
+      "Throughput": 18.447494894528962,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
@@ -101,20 +113,8 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 48.20495880795885,
-      "DNSResolution": 8,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://a05f8278-d521-4652-bfb9-2b8dbe6b3102@a2.hamrahnode.ir:2053?encryption=none\u0026type=ws\u0026security=tls\u0026path=%2F\u0026sni=op2.x-upload.org\u0026fp=chrome\u0026allowInsecure=1#v2ray_confiiig",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 29.01324001437446,
+      "Latency": 27,
+      "Throughput": 59.13376077383859,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
