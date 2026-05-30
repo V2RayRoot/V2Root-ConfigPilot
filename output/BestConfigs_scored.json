@@ -1,13 +1,25 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://88e43fc6-3d53-433c-adf4-d7bfb1f33e5f@solar.appleseraj.ir:2083?path=%3Fed%3D2048\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=nurenbccc.appleseraj.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=nurenbccc.appleseraj.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40configNG",
+    "Protocol": "shadowsocks",
+    "URL": "ss://bafacd98-136a-4530-838d-4e5c51838dac@cf3.danfeng.eu.org:8443?encryption=none\u0026security=tls\u0026sni=juzi8186.qea.ccwu.cc\u0026fp=firefox\u0026insecure=0\u0026allowInsecure=0\u0026ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query\u0026type=ws\u0026host=juzi8186.qea.ccwu.cc\u0026path=%2Fshop%2Fjuzibaipiao%3Fed%3D2560#🇸🇬",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 93.5630449550315,
-      "DNSResolution": 2,
+      "Latency": 33,
+      "Throughput": 53.37227801715689,
+      "DNSResolution": 17,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://bafacd98-136a-4530-838d-4e5c51838dac@cf3.danfeng.eu.org:8443?encryption=none\u0026security=tls\u0026sni=juzi8186.qea.ccwu.cc\u0026fp=firefox\u0026insecure=0\u0026allowInsecure=0\u0026ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query\u0026type=ws\u0026host=juzi8186.qea.ccwu.cc\u0026path=%2Fshop%2Fjuzibaipiao%3Fed%3D2560#🇸🇬",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 53.99298579821144,
+      "DNSResolution": 18,
       "PacketLoss": 0
     }
   },
@@ -17,45 +29,33 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 264.0325024010456,
-      "DNSResolution": 5,
+      "Latency": 26,
+      "Throughput": 87.66303818393743,
+      "DNSResolution": 18,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://e7344606-2a4b-4375-975a-0eac96192b16@solar.appleseraj.ir:2083?path=%3Fed%3D2048\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=nurenbccc.appleseraj.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=nurenbccc.appleseraj.ir#%F0%9F%87%B8%F0%9F%87%A837926%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET",
+    "URL": "ss://bafacd98-136a-4530-838d-4e5c51838dac@cf5.danfeng.eu.org:2053?encryption=none\u0026security=tls\u0026sni=juzi8186.qea.ccwu.cc\u0026fp=firefox\u0026insecure=0\u0026allowInsecure=0\u0026ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query\u0026type=ws\u0026host=juzi8186.qea.ccwu.cc\u0026path=%2Fout%2Fcomics%2Fdocument%2Fjuzibaipiao%3Fed%3D2560#🇨🇦",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 28.286698403187238,
-      "DNSResolution": 6,
+      "Latency": 42,
+      "Throughput": 152.66385740997256,
+      "DNSResolution": 16,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l6.l-itx.info:7443?mode=gun\u0026security=reality\u0026encryption=none\u0026authority=colorlib.com\u0026pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA\u0026fp=chrome\u0026type=grpc\u0026serviceName=xyz\u0026sni=colorlib.com#🇺🇸",
+    "Protocol": "vmess",
+    "URL": "vmess://eyJhZGQiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiaWQiOiI0YjgwYWE4Ni00MzU0LTQwYmItZDJhMy00NzEyNmNmZjBiZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXNhdm0iLCJwb3J0IjoiMjA1MyIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoidXNhYXBwMS5qaXN1eXVuLnRvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 39,
-      "Throughput": 36.154542156593855,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://88e43fc6-3d53-433c-adf4-d7bfb1f33e5f@solar.appleseraj.ir:2083?path=%3Fed%3D2048\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=nurenbccc.appleseraj.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=nurenbccc.appleseraj.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40configNG",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 104.49413059080825,
-      "DNSResolution": 2,
+      "Latency": 44,
+      "Throughput": 9.873737751856648,
+      "DNSResolution": 55,
       "PacketLoss": 0
     }
   },
@@ -65,8 +65,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 407.088199373074,
+      "Latency": 9,
+      "Throughput": 153.47871694325033,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8b5acf77-2c2e-4eed-9ad1-be81851b99ea@e1-f55.pages.dev:443?allowInsecure=1\u0026encryption=none\u0026host=e1-f55.pages.dev\u0026path=%2F\u0026security=tls\u0026sni=e1-f55.pages.dev\u0026type=ws#🇨🇦",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 13,
+      "Throughput": 72.34636516849523,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -77,8 +89,8 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 499.04240001467184,
+      "Latency": 15,
+      "Throughput": 131.10849644350176,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -89,32 +101,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 338.0424048843747,
+      "Latency": 9,
+      "Throughput": 150.05144232353607,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://e7344606-2a4b-4375-975a-0eac96192b16@solar.appleseraj.ir:2083?path=%3Fed%3D2048\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=nurenbccc.appleseraj.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=nurenbccc.appleseraj.ir#%F0%9F%87%B8%F0%9F%87%A837926%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET",
+    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=/\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇺🇸",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 13.715203222194985,
-      "DNSResolution": 187,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://humanity@www.calmlunch.com:443?security=tls\u0026sni=www.calmlunch.com\u0026fp=chrome\u0026allowInsecure=0\u0026type=ws\u0026path=/assignment#@ReleaseNet",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 31.65474060465437,
+      "Latency": 18,
+      "Throughput": 146.5362198795029,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
