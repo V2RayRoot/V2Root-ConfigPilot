@@ -1,121 +1,121 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://258dc62e-e7fe-4993-9b73-3203b47998ea@web.subster.ir:2083?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F%3Fed%3D2048\u0026host=chikarmikoni.x-upload.org\u0026sni=chikarmikoni.x-upload.org\u0026fp=#%F0%9F%94%A5%20CFVPN%20%F0%9F%87%A9%F0%9F%87%AA%202",
+    "Protocol": "shadowsocks",
+    "URL": "ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@dnew.cc:443?encryption=none\u0026fp=chrome\u0026host=1-brc.pages.dev\u0026path=%2F\u0026security=tls\u0026sni=1-brc.pages.dev\u0026type=ws#🇸🇬",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 214.66305936128563,
-      "DNSResolution": 95,
+      "Latency": 10,
+      "Throughput": 344.60167901137567,
+      "DNSResolution": 54,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality\u0026encryption=none\u0026pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=microsoft.com\u0026sid=b00e098b#%40TanhaNet%E2%AD%90%EF%B8%8F",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 30.85140966916653,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://258dc62e-e7fe-4993-9b73-3203b47998ea@web.subster.ir:2083?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F%3Fed%3D2048\u0026host=chikarmikoni.x-upload.org\u0026sni=chikarmikoni.x-upload.org\u0026fp=#%F0%9F%94%A5%20CFVPN%20%F0%9F%87%A9%F0%9F%87%AA%202",
-    "Score": 100,
+    "URL": "ss://4b0d11ca-07e3-4249-978a-819f28fd1bcd@web.subster.ir:2083?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F%3Fed%3D2048\u0026host=chikarmikoni.x-upload.org\u0026sni=chikarmikoni.x-upload.org\u0026fp=#%F0%9F%94%A5%20CFVPN%20%F0%9F%87%A9%F0%9F%87%AA%202",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 5,
-      "Throughput": 215.1670731979556,
-      "DNSResolution": 3,
+      "Throughput": 65.93118615404214,
+      "DNSResolution": 173,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/\u0026security=tls\u0026encryption=none\u0026type=ws#🇨🇦",
-    "Score": 100,
+    "URL": "vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@amberpulse9.x-upload.org:2096?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=amberpulse9.x-upload.org\u0026sni=amberpulse9.x-upload.org\u0026fp=#%F0%9F%94%A5%20CFVPN%20%F0%9F%87%A9%F0%9F%87%AA%206",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 24,
-      "Throughput": 140.8300154955266,
-      "DNSResolution": 6,
+      "Latency": 2,
+      "Throughput": 20.065514003549158,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://258dc62e-e7fe-4993-9b73-3203b47998ea@web.subster.ir:2053?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=nazanMano.x-upload.org\u0026sni=nazanMano.x-upload.org\u0026fp=#%F0%9F%94%A5%20CFVPN%20%F0%9F%87%A9%F0%9F%87%AA%201",
-    "Score": 100,
+    "URL": "ss://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality\u0026encryption=none\u0026pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=microsoft.com\u0026sid=b00e098b#@v2Source",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 251.3783625508833,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://3ff8a900-6102-401d-a003-f65be762c1fc@web.subster.ir:2053?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=nazanMano.x-upload.org\u0026sni=nazanMano.x-upload.org\u0026fp=#%F0%9F%94%A5%20CFVPN%20%F0%9F%87%A9%F0%9F%87%AA%201",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 232.02521673257974,
-      "DNSResolution": 2,
+      "Latency": 2,
+      "Throughput": 30.460659253270723,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://258dc62e-e7fe-4993-9b73-3203b47998ea@web.subster.ir:2053?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=nazanMano.x-upload.org\u0026sni=nazanMano.x-upload.org\u0026fp=#%F0%9F%94%A5%20CFVPN%20%F0%9F%87%A9%F0%9F%87%AA%201",
-    "Score": 100,
+    "URL": "vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality\u0026encryption=none\u0026pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=microsoft.com\u0026sid=b00e098b#@v2Source",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 36.26193794557111,
-      "DNSResolution": 3,
+      "Latency": 2,
+      "Throughput": 19.83864264800548,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://69faf88a-d9a5-4abc-9aeb-4caf9155061a@web.subster.ir:2083?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F%3Fed%3D2048\u0026host=chikarmikoni.x-upload.org\u0026sni=chikarmikoni.x-upload.org\u0026fp=#%F0%9F%94%A5%20CFVPN%20%F0%9F%87%A9%F0%9F%87%AA%202",
-    "Score": 100,
+    "URL": "ss://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?encryption=none\u0026host=sni.111000.indevs.in\u0026path=%2F%3Fed\u0026security=tls\u0026sni=sni.111000.indevs.in\u0026type=ws#🇺🇸",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 130.24784226947227,
-      "DNSResolution": 3,
+      "Latency": 2,
+      "Throughput": 582.3718374297368,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=/\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇺🇸",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 427.28311656459675,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality\u0026encryption=none\u0026pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4\u0026headerType=none\u0026fp=chrome\u0026type=tcp\u0026sni=microsoft.com\u0026sid=b00e098b#%40TanhaNet%E2%AD%90%EF%B8%8F",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 30.037474678314982,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://3ff8a900-6102-401d-a003-f65be762c1fc@web.subster.ir:2083?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F%3Fed%3D2048\u0026host=chikarmikoni.x-upload.org\u0026sni=chikarmikoni.x-upload.org\u0026fp=#%F0%9F%94%A5%20CFVPN%20%F0%9F%87%A9%F0%9F%87%AA%202",
-    "Score": 100,
+    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=/\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇺🇸",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 40.77080904253124,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://69faf88a-d9a5-4abc-9aeb-4caf9155061a@web.subster.ir:2053?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=nazanMano.x-upload.org\u0026sni=nazanMano.x-upload.org\u0026fp=#%F0%9F%94%A5%20CFVPN%20%F0%9F%87%A9%F0%9F%87%AA%201",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 246.25781241366548,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/\u0026security=tls\u0026encryption=none\u0026type=ws#🇨🇦",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 23,
-      "Throughput": 140.6769960861198,
-      "DNSResolution": 16,
+      "Latency": 2,
+      "Throughput": 419.2498352217132,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
