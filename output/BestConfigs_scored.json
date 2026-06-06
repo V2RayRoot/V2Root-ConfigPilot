@@ -1,24 +1,12 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://1ed6f429-9d32-4769-a318-ca74135558d2@cedan.royalv.shop:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=cloud3.royalv.shop\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=cloud3.royalv.shop#%40@powerro",
+    "Protocol": "vless",
+    "URL": "vless://bafacd98-136a-4530-838d-4e5c51838dac@cf5.danfeng.eu.org:2053?encryption=none\u0026security=tls\u0026sni=juzi8186.qea.ccwu.cc\u0026fp=firefox\u0026insecure=0\u0026allowInsecure=0\u0026ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query\u0026type=ws\u0026host=juzi8186.qea.ccwu.cc\u0026path=%2Fout%2Fcomics%2Fdocument%2Fjuzibaipiao%3Fed%3D2560#🇨🇦",
     "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 11,
-      "Throughput": 54.74030814633223,
-      "DNSResolution": 9,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://1ed6f429-9d32-4769-a318-ca74135558d2@cedan.royalv.shop:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=cloud3.royalv.shop\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=cloud3.royalv.shop#%40@powerro",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 45.99577433371513,
+      "Throughput": 78.378695918014,
       "DNSResolution": 11,
       "PacketLoss": 0
     }
@@ -29,44 +17,20 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 7,
-      "Throughput": 324.57734552370107,
+      "Latency": 8,
+      "Throughput": 242.46517495423242,
       "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://bafacd98-136a-4530-838d-4e5c51838dac@cf5.danfeng.eu.org:2053?encryption=none\u0026security=tls\u0026sni=juzi8186.qea.ccwu.cc\u0026fp=firefox\u0026insecure=0\u0026allowInsecure=0\u0026ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query\u0026type=ws\u0026host=juzi8186.qea.ccwu.cc\u0026path=%2Fout%2Fcomics%2Fdocument%2Fjuzibaipiao%3Fed%3D2560#🇨🇦",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 8,
-      "Throughput": 219.77789520632817,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?encryption=none\u0026path=/\u0026security=tls\u0026type=ws#🇨🇦",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 91.7549632324099,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=/\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇺🇸",
+    "Protocol": "trojan",
+    "URL": "trojan://humanity@www.multiplydose.com:443?security=tls\u0026sni=www.multiplydose.com\u0026fp=chrome\u0026allowInsecure=0\u0026type=ws\u0026path=/assignment#@DeltaVpnO",
     "Score": 90,
     "Results": {
       "TLSOK": true,
       "Latency": 2,
-      "Throughput": 392.0751804158448,
+      "Throughput": 8.368302166805318,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -78,31 +42,19 @@
     "Results": {
       "TLSOK": true,
       "Latency": 3,
-      "Throughput": 20.06836192163887,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8c4604ef-749c-4b56-adf1-7da405002a21@shop.app:2053?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇨🇦",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 320.9156622407583,
+      "Throughput": 20.51374431510617,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@shop.app:2053?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇨🇦",
+    "URL": "vless://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?encryption=none\u0026path=/\u0026security=tls\u0026type=ws#🇨🇦",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 445.95946785886497,
+      "Latency": 2,
+      "Throughput": 107.41206053765214,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -113,8 +65,56 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 109.48298657653736,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4b76e80a-bde6-411f-a150-7d78f5de4c4f@solar.appleseraj.ir:2083?path=%3Fed%3D2048\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=finb.appleseraj.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=finb.appleseraj.ir#%40svscoonfig",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
       "Latency": 5,
-      "Throughput": 89.57374686636044,
+      "Throughput": 86.81856138301274,
+      "DNSResolution": 166,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@shop.app:2053?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇨🇦",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 529.0108911439742,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://4cb67898-2747-45a2-bb65-5b390431977c@core-shop.ir:443?mode=auto\u0026path=%2Fdownload\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026insecure=0\u0026host=core-shop.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=core-shop.ir#%F0%9F%9B%B0%EF%B8%8F%20Channel%20%3A%20%40NitruStore%201",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 69.2145386211199,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=/\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇺🇸",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 398.2310179949646,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
