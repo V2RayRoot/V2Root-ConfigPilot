@@ -1,121 +1,121 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=/\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇺🇸",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 273.571183871775,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=/\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇺🇸",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 259.4146354149423,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://8c4604ef-749c-4b56-adf1-7da405002a21@www.panel.com:2053?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇸🇬",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 0,
-      "DNSResolution": 29,
-      "PacketLoss": 0
-    }
-  },
-  {
     "Protocol": "shadowsocks",
     "URL": "ss://1ed6f429-9d32-4769-a318-ca74135558d2@cedan.royalv.shop:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=cloud3.royalv.shop\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=cloud3.royalv.shop#%40@powerro",
-    "Score": 70,
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 23,
-      "Throughput": 0,
-      "DNSResolution": 23,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://4a34a5f2-f155-415c-b09c-973ce7bdab35@IPv4-address.apiappirani.ir:443?path=%2F%3Fed%3D2048\u0026security=tls\u0026alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026fp=firefox\u0026type=ws\u0026sni=portal.iranisystem.com#@farsiproxy",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 105,
-      "Throughput": 34.5029563836613,
-      "DNSResolution": 98,
+      "Latency": 11,
+      "Throughput": 54.74030814633223,
+      "DNSResolution": 9,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
     "URL": "vless://1ed6f429-9d32-4769-a318-ca74135558d2@cedan.royalv.shop:443?path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=cloud3.royalv.shop\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=cloud3.royalv.shop#%40@powerro",
-    "Score": 70,
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 36,
-      "Throughput": 0,
-      "DNSResolution": 28,
+      "Latency": 10,
+      "Throughput": 45.99577433371513,
+      "DNSResolution": 11,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?security=reality\u0026type=tcp\u0026sni=as.pink-perfect.ru\u0026fp=chrome\u0026flow=xtls-rprx-vision\u0026sid=8ffa160e608bf539\u0026pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk\u0026encryption=none#🇦🇹",
-    "Score": 70,
+    "URL": "ss://bafacd98-136a-4530-838d-4e5c51838dac@cf5.danfeng.eu.org:2053?encryption=none\u0026security=tls\u0026sni=juzi8186.qea.ccwu.cc\u0026fp=firefox\u0026insecure=0\u0026allowInsecure=0\u0026ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query\u0026type=ws\u0026host=juzi8186.qea.ccwu.cc\u0026path=%2Fout%2Fcomics%2Fdocument%2Fjuzibaipiao%3Fed%3D2560#🇨🇦",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 201,
-      "Throughput": 16.94228215979976,
-      "DNSResolution": 21,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://1ed6f429-9d32-4769-a318-ca74135558d2@cedan.royalv.shop:443?encryption=none\u0026type=ws\u0026security=tls\u0026path=%2F\u0026host=cloud3.royalv.shop\u0026sni=cloud3.royalv.shop\u0026alpn=h2%2Chttp%2F1.1\u0026fp=chrome\u0026allowInsecure=1#@vpnferi",
-    "Score": 70,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 28,
-      "Throughput": 0,
-      "DNSResolution": 2,
+      "Latency": 7,
+      "Throughput": 324.57734552370107,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.panel.com:2053?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇸🇬",
-    "Score": 70,
+    "URL": "vless://bafacd98-136a-4530-838d-4e5c51838dac@cf5.danfeng.eu.org:2053?encryption=none\u0026security=tls\u0026sni=juzi8186.qea.ccwu.cc\u0026fp=firefox\u0026insecure=0\u0026allowInsecure=0\u0026ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query\u0026type=ws\u0026host=juzi8186.qea.ccwu.cc\u0026path=%2Fout%2Fcomics%2Fdocument%2Fjuzibaipiao%3Fed%3D2560#🇨🇦",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 39,
-      "Throughput": 0,
-      "DNSResolution": 35,
+      "Latency": 8,
+      "Throughput": 219.77789520632817,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?encryption=none\u0026path=/\u0026security=tls\u0026type=ws#🇨🇦",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 91.7549632324099,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=/\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇺🇸",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 392.0751804158448,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://4cb67898-2747-45a2-bb65-5b390431977c@core-shop.ir:443?mode=auto\u0026path=%2Fdownload\u0026security=tls\u0026alpn=h2\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026insecure=0\u0026host=core-shop.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=core-shop.ir#%F0%9F%9B%B0%EF%B8%8F%20Channel%20%3A%20%40NitruStore%201",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 20.06836192163887,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp\u0026security=reality\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc\u0026sid=a120\u0026sni=cdn.cdnjst.org\u0026spx=/#🇦🇱",
-    "Score": 70,
+    "URL": "ss://8c4604ef-749c-4b56-adf1-7da405002a21@shop.app:2053?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇨🇦",
+    "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 656,
-      "Throughput": 7.176704531916671,
-      "DNSResolution": 3,
+      "Latency": 2,
+      "Throughput": 320.9156622407583,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@shop.app:2053?ed=2048\u0026eh=Sec-WebSocket-Protocol\u0026encryption=none\u0026host=qyi.fqjd663.ggff.net\u0026path=%2F\u0026security=tls\u0026sni=qyi.fqjd663.ggff.net\u0026type=ws#🇨🇦",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 445.95946785886497,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?encryption=none\u0026path=/\u0026security=tls\u0026type=ws#🇨🇦",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 89.57374686636044,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
