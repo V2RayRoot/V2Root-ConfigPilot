@@ -1,37 +1,25 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=powered-by-surena.configfarsi6982dd6e0355e.workers.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=powered-by-surena.configfarsi6982dd6e0355e.workers.dev#🇺🇸",
+    "Protocol": "shadowsocks",
+    "URL": "ss://402a2d24-57bb-449c-90f5-e41dc0900dd6@xco.xonline.sbs:8443?type=xhttp\u0026encryption=none\u0026path=%2Fcocjslfnr\u0026host=xco.trevor.ir\u0026mode=auto\u0026x_padding_bytes=100-1000\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026security=tls\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026sni=xco.trevor.ir#%40XonlineVPN-config",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 55.70824605505015,
-      "DNSResolution": 2,
+      "Latency": 3,
+      "Throughput": 75.60996305678303,
+      "DNSResolution": 14,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vless",
-    "URL": "vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@cdn4.sudonetwork.com:2096?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=mh.sudonetwork.com\u0026fp=firefox\u0026type=ws\u0026sni=mh.sudonetwork.com#%40V2rayNG_Cafe",
+    "Protocol": "shadowsocks",
+    "URL": "ss://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net\u0026type=ws\u0026host=misaka.cndyw.ggff.net\u0026path=/?ed=2560fp=random\u0026security=tls#🇵🇱",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 12,
-      "Throughput": 74.28091823211302,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/\u0026security=tls\u0026encryption=none\u0026type=ws#🇨🇦",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 27,
-      "Throughput": 43.825311126566106,
-      "DNSResolution": 10,
+      "Latency": 3,
+      "Throughput": 118.82291819016834,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
@@ -41,69 +29,69 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 68.37383424642458,
-      "DNSResolution": 23,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net\u0026type=ws\u0026host=misaka.cndyw.ggff.net\u0026path=/?ed=2560fp=random\u0026security=tls#🇵🇱",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 57.53309880972433,
-      "DNSResolution": 2,
+      "Latency": 19,
+      "Throughput": 49.89968043496154,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://402a2d24-57bb-449c-90f5-e41dc0900dd6@xco.xonline.sbs:8443?type=xhttp\u0026encryption=none\u0026path=%2Fcocjslfnr\u0026host=xco.trevor.ir\u0026mode=auto\u0026x_padding_bytes=100-1000\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026security=tls\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026sni=xco.trevor.ir#%40XonlineVPN-config",
+    "URL": "ss://bafacd98-136a-4530-838d-4e5c51838dac@cf3.danfeng.eu.org:8443?encryption=none\u0026security=tls\u0026sni=juzi8186.qea.ccwu.cc\u0026fp=firefox\u0026insecure=0\u0026allowInsecure=0\u0026ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query\u0026type=ws\u0026host=juzi8186.qea.ccwu.cc\u0026path=%2Fshop%2Fjuzibaipiao%3Fed%3D2560#🇸🇬",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 45,
-      "Throughput": 49.176450285593155,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ae8afe68-10f6-4f27-90b1-b9a735a5a02a@xco.xonline.sbs:8443?type=xhttp\u0026encryption=none\u0026path=%2Fcocjslfnr\u0026host=xco.trevor.ir\u0026mode=auto\u0026x_padding_bytes=100-1000\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026security=tls\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026sni=xco.trevor.ir#%40XonlineVPN-apple%F0%9F%8D%8E",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 64.20950843455701,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026host=powered-by-surena.user68f797c2f3e1b.workers.dev\u0026fp=chrome\u0026type=ws\u0026sni=powered-by-surena.user68f797c2f3e1b.workers.dev#🇺🇸",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 30.850969225618307,
-      "DNSResolution": 31,
+      "Latency": 14,
+      "Throughput": 7.318577274469298,
+      "DNSResolution": 5,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/\u0026security=tls\u0026encryption=none\u0026type=ws#🇨🇦",
+    "URL": "ss://ad6d51ab-2d06-4d41-85b7-da9d703ea4fd@dnn4.avaaaal.ir:2087?path=%2F720f09dba195549b424f771551162528%2Fworkers%2Fservices6%2Fview6%2FAvaal6%2Fproduction6%2Fsettings\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=sv333.avaaal.ir\u0026fp=random\u0026type=ws\u0026allowInsecure=0\u0026sni=sv333.avaaal.ir#TELEGRAM%3A%40dena0vpn",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 31,
-      "Throughput": 93.02744204884569,
-      "DNSResolution": 38,
+      "Latency": 3,
+      "Throughput": 14.829419706121831,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ad6d51ab-2d06-4d41-85b7-da9d703ea4fd@dnn4.avaaaal.ir:2087?path=%2F720f09dba195549b424f771551162528%2Fworkers%2Fservices6%2Fview6%2FAvaal6%2Fproduction6%2Fsettings\u0026security=tls\u0026encryption=none\u0026host=sv333.avaaal.ir\u0026fp=random\u0026type=ws\u0026sni=sv333.avaaal.ir#%F0%9F%8D%92",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 35.42855395217189,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ae8afe68-10f6-4f27-90b1-b9a735a5a02a@xco.xonline.sbs:8443?type=xhttp\u0026encryption=none\u0026path=%2Fcocjslfnr\u0026host=xco.trevor.ir\u0026mode=auto\u0026x_padding_bytes=100-1000\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026security=tls\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026sni=xco.trevor.ir#@ReleaseNet",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 11,
+      "Throughput": 62.55047383430409,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://ad6d51ab-2d06-4d41-85b7-da9d703ea4fd@dnn4.avaaaal.ir:2087?path=%2F720f09dba195549b424f771551162528%2Fworkers%2Fservices6%2Fview6%2FAvaal6%2Fproduction6%2Fsettings\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=sv333.avaaal.ir\u0026fp=random\u0026type=ws\u0026allowInsecure=0\u0026sni=sv333.avaaal.ir#TELEGRAM%3A%40dena0vpn",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 76.46697494582506,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
@@ -113,9 +101,21 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 32,
-      "Throughput": 70.41417662700867,
-      "DNSResolution": 2,
+      "Latency": 3,
+      "Throughput": 11.769118644158459,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=%2F%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=mh.sudonetwork.com\u0026fp=firefox\u0026type=ws\u0026sni=mh.sudonetwork.com#%40V2rayNG_Cafe",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 2,
+      "Throughput": 35.6019664372341,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   }
