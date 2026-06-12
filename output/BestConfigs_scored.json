@@ -1,36 +1,12 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇨🇦",
+    "URL": "ss://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇸🇬",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 21,
-      "Throughput": 32.475300838907245,
-      "DNSResolution": 48,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://c013c9f9-64d5-4a1e-aa46-4c280cc57a80@xco.xonline.sbs:8443?type=xhttp\u0026encryption=none\u0026path=%2Fcocjslfnr\u0026host=xco.trevor.ir\u0026mode=auto\u0026x_padding_bytes=100-1000\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026security=tls\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026sni=xco.trevor.ir#%40XonlineVPN-%F0%9F%8D%93",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 24.047150811661226,
-      "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=greattehran.hozheen.ir\u0026type=ws\u0026sni=07e357aa7e747ca4.hOzHeEn.Ir#%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20HiByeVPNN%40",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 19,
-      "Throughput": 19.0270597659117,
+      "Latency": 38,
+      "Throughput": 38.430207495835035,
       "DNSResolution": 6,
       "PacketLoss": 0
     }
@@ -41,80 +17,104 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 35.57694662954592,
-      "DNSResolution": 47,
+      "Latency": 4,
+      "Throughput": 36.360411690943174,
+      "DNSResolution": 23,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://62f4392f-61bd-4893-a79c-8e3922e8bacc@xco.xonline.sbs:8443?type=xhttp\u0026encryption=none\u0026path=%2Fcocjslfnr\u0026host=xco.trevor.ir\u0026mode=auto\u0026x_padding_bytes=100-1000\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026security=tls\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026sni=xco.trevor.ir#%40XonlineVPN-%F0%9F%8D%91",
-    "Score": 100,
+    "URL": "ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none\u0026host=hhlfy.twiladaphne.ndjp.net\u0026path=%2Ffp%3Drandom\u0026security=tls\u0026sni=hhlfy.twiladaphne.ndjp.net\u0026type=ws#🇺🇸",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 21,
-      "Throughput": 20.3590829177807,
+      "Latency": 26,
+      "Throughput": 0,
+      "DNSResolution": 5,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0\u0026sni=r1.mizulina.top\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls#🇬🇪",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 102,
+      "Throughput": 10.490596247881943,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053/?type=ws\u0026encryption=none\u0026flow=\u0026host=josni.hoyes.cloudns.ch\u0026path=%2F\u0026security=tls\u0026sni=josni.hoyes.cloudns.ch#channel%E2%86%92%40networld_vpn",
-    "Score": 90,
+    "URL": "vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls#🇬🇪",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 24,
-      "Throughput": 82.10643315296021,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://humanity@www.multiplydose.com:443?path=/assignment\u0026security=tls\u0026fp=chrome\u0026type=ws\u0026sni=www.multiplydose.com#🇳🇱",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 20.074953905584668,
-      "DNSResolution": 0,
+      "Latency": 103,
+      "Throughput": 10.711615389862532,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://d195909a-eff4-489d-a261-955b904894cb@free.server6peekconfig.workers.dev:443?path=%2FeyJqdW5rIjoieUhYMWhoZEVEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=free.server6peekconfig.workers.dev\u0026fp=chrome\u0026type=ws\u0026sni=fREE.sERVer6PeeKCOnFIG.wOrkErs.dEv#@sora1co",
-    "Score": 90,
+    "URL": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560\u0026security=tls\u0026encryption=none\u0026host=powered-by-surena.user68f797c2f3e1b.workers.dev\u0026fp=chrome\u0026type=ws\u0026sni=powered-by-surena.user68f797c2f3e1b.workers.dev#🇺🇸",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 18,
-      "Throughput": 120.02533254668731,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://c013c9f9-64d5-4a1e-aa46-4c280cc57a80@xco.xonline.sbs:8443?type=xhttp\u0026encryption=none\u0026path=%2Fcocjslfnr\u0026host=xco.trevor.ir\u0026mode=auto\u0026x_padding_bytes=100-1000\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026security=tls\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026sni=xco.trevor.ir#%40XonlineVPN-%F0%9F%8D%93",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 20,
-      "Throughput": 20.15527025624942,
-      "DNSResolution": 154,
+      "Latency": 3,
+      "Throughput": 0,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://d195909a-eff4-489d-a261-955b904894cb@free.server6peekconfig.workers.dev:443?path=%2FeyJqdW5rIjoieUhYMWhoZEVEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=free.server6peekconfig.workers.dev\u0026fp=chrome\u0026type=ws\u0026sni=fREE.sERVer6PeeKCOnFIG.wOrkErs.dEv#@sora1co",
-    "Score": 90,
+    "URL": "ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none\u0026security=tls\u0026sni=hhlfy.twiladaphne.ndjp.net\u0026type=ws\u0026host=hhlfy.twiladaphne.ndjp.net\u0026path=/fp%3Drandom\u0026packetEncoding=xudp#🇸🇬",
+    "Score": 70,
     "Results": {
       "TLSOK": true,
-      "Latency": 19,
-      "Throughput": 123.66533988699862,
+      "Latency": 3,
+      "Throughput": 0,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0\u0026sni=r1.mizulina.top\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls#🇬🇪",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 251,
+      "Throughput": 10.835121910608947,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8\u0026security=reality\u0026sid=d3ee47fc2f553c44\u0026sni=storage.yandex.net\u0026type=tcp#🇨🇦",
+    "Score": 70,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 25,
+      "Throughput": 0,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=bazaryabab.global.ssl.fastly.net\u0026type=ws\u0026allowInsecure=1\u0026sni=default.ssl.fastly.net#🇩🇪",
+    "Score": 60,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 1,
+      "Throughput": 0,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
