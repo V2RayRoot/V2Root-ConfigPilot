@@ -1,121 +1,121 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0#🇨🇦",
+    "Protocol": "shadowsocks",
+    "URL": "ss://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?security=tls\u0026encryption=none\u0026headerType=none\u0026type=tcp\u0026sni=proxy.wastech.org#🇺🇸",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 47,
-      "Throughput": 87.796173807627,
-      "DNSResolution": 82,
+      "Latency": 10,
+      "Throughput": 316.0176467414117,
+      "DNSResolution": 13,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇨🇦",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 75.77412479772927,
+      "DNSResolution": 7,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8cb24aea-14f6-4fca-a069-d2d52cbf6190@cd2.phoneshop98.ir:443?path=%2Fnews\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026insecure=0\u0026host=cdn-pro6.postshup.ir.\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=cdn-pro6.postshup.ir.#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%40NetliVPN",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 514.0511380642401,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://8cb24aea-14f6-4fca-a069-d2d52cbf6190@cd2.phoneshop98.ir:443?path=%2Fnews\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026insecure=0\u0026host=cdn-pro6.postshup.ir.\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=cdn-pro6.postshup.ir.#%40filembad",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 19,
+      "Throughput": 487.0790411776013,
+      "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=greattehran.hozheen.ir\u0026type=ws\u0026sni=07e357aa7e747ca4.hOzHeEn.Ir#%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20HiByeVPNN%40",
+    "URL": "vless://8cb24aea-14f6-4fca-a069-d2d52cbf6190@cd2.phoneshop98.ir:443?path=%2Fnews\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026insecure=0\u0026host=cdn-pro6.postshup.ir.\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=cdn-pro6.postshup.ir.#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%40NetliVPN",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 91.70239898404746,
+      "Latency": 3,
+      "Throughput": 513.2614241246599,
+      "DNSResolution": 24,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇨🇦",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 55.081227011720806,
+      "DNSResolution": 11,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?security=tls\u0026encryption=none\u0026headerType=none\u0026type=tcp\u0026sni=proxy.wastech.org#🇺🇸",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 336.9103384727602,
       "DNSResolution": 6,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0#🇨🇦",
+    "Protocol": "vless",
+    "URL": "vless://8cb24aea-14f6-4fca-a069-d2d52cbf6190@cd2.phoneshop98.ir:443?path=%2Fnews\u0026security=tls\u0026alpn=h3%2Ch2\u0026encryption=none\u0026insecure=0\u0026host=cdn-pro6.postshup.ir.\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=cdn-pro6.postshup.ir.#%40filembad",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 27,
-      "Throughput": 145.1825973322734,
-      "DNSResolution": 34,
+      "Latency": 4,
+      "Throughput": 314.15520523759557,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://3d2960f9-3035-477f-abaa-93f462c07326@panel.toausbildung.ir:443?path=%2Fpanel.toausbildung.ir\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=panel.toausbildung.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=panel.toausbildung.ir#%40NetliVPN",
-    "Score": 90,
+    "URL": "ss://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=greattehran.hozheen.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=07e357aa7e747ca4.hOzHeEn.Ir#🇩🇪",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 401.0163559032189,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://f4428ca0-5841-4c05-8b2e-ff6a23bcfa2d@tr.rubikaweb.sbs:443?path=%2FhdtthGR\u0026security=tls\u0026encryption=mlkem768x25519plus.native.0rtt.jq3kL_MrocHd4g_S74rH4bP-C-lkS8vXwAh8JgNc9TU\u0026insecure=0\u0026host=tr.rubikaweb.sbs\u0026type=ws\u0026allowInsecure=0\u0026sni=tr.rubikaweb.sbs#@sora1co",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 390.83077774787375,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://f4428ca0-5841-4c05-8b2e-ff6a23bcfa2d@tr.rubikaweb.sbs:443?path=%2FhdtthGR\u0026security=tls\u0026encryption=mlkem768x25519plus.native.0rtt.jq3kL_MrocHd4g_S74rH4bP-C-lkS8vXwAh8JgNc9TU\u0026insecure=0\u0026host=tr.rubikaweb.sbs\u0026type=ws\u0026allowInsecure=0\u0026sni=tr.rubikaweb.sbs#@sora1co",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 19.045826744627966,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://3d2960f9-3035-477f-abaa-93f462c07326@panel.toausbildung.ir:443?path=%2Fpanel.toausbildung.ir\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=panel.toausbildung.ir\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=panel.toausbildung.ir#%40NetliVPN",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 18.24739371620205,
-      "DNSResolution": 0,
+      "Latency": 4,
+      "Throughput": 6.462492008199649,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
     "URL": "ss://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026host=greattehran.hozheen.ir\u0026type=ws\u0026sni=07e357aa7e747ca4.hOzHeEn.Ir#%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20HiByeVPNN%40",
-    "Score": 85,
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 97,
-      "Throughput": 87.41429615576729,
-      "DNSResolution": 94,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none\u0026security=tls\u0026type=ws\u0026path=/vless/#🇲🇽",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 77,
-      "Throughput": 38.76957917056284,
-      "DNSResolution": 14,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://0058c215-ab1e-400c-a403-b5b2fda7e846@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2095?security=reality\u0026type=tcp\u0026headerType=\u0026path=\u0026host=\u0026sni=refersion.com\u0026fp=random\u0026pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE\u0026sid=bc348c28dbc7b9f5\u0026spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5Bdirect%F0%9F%9F%A31%5D",
-    "Score": 85,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 98,
-      "Throughput": 23.14409699362404,
-      "DNSResolution": 3,
+      "Latency": 3,
+      "Throughput": 63.198467487722205,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
