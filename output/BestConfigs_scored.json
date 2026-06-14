@@ -1,13 +1,13 @@
 [
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=greattehran.hozheen.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=07e357aa7e747ca4.hOzHeEn.Ir#🇩🇪",
+    "URL": "ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none\u0026security=tls\u0026sni=hhlfy.twiladaphne.ndjp.net\u0026type=ws\u0026host=hhlfy.twiladaphne.ndjp.net\u0026path=/fp%3Drandom\u0026packetEncoding=xudp#🇯🇵",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 68.61875708477945,
-      "DNSResolution": 2,
+      "Latency": 8,
+      "Throughput": 15.49626949297289,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
@@ -17,45 +17,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 43,
-      "Throughput": 49.53995372188068,
+      "Latency": 11,
+      "Throughput": 45.99524067696738,
       "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none\u0026host=hhlfy.twiladaphne.ndjp.net\u0026path=%2Ffp%3Drandom\u0026security=tls\u0026sni=hhlfy.twiladaphne.ndjp.net\u0026type=ws#🇺🇸",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 29.21842189652496,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=greattehran.hozheen.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=07e357aa7e747ca4.hOzHeEn.Ir#🇩🇪",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 71.86622906361573,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=greattehran.hozheen.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=07e357aa7e747ca4.hOzHeEn.Ir#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20%40nitruStore%20159",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 69.9249050223126,
-      "DNSResolution": 5,
       "PacketLoss": 0
     }
   },
@@ -65,20 +29,68 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 42.11064467664944,
-      "DNSResolution": 1,
+      "Latency": 8,
+      "Throughput": 45.395940327308814,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0#🇨🇦",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 29,
+      "Throughput": 99.7443427814084,
+      "DNSResolution": 33,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://bb8e629e-2c93-4477-aa80-1a340ded231a@securitytrails.com:443?mode=auto\u0026path=%2Fforall\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026insecure=1\u0026host=fl.maybe-later.co.uk\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=1\u0026sni=fl.maybe-later.co.uk#%40Gp_Config%20%E2%9A%A1%EF%B8%8F%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D8%A7",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 257.14126286702736,
+      "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "trojan",
-    "URL": "trojan://humanity@www.multiplydose.com:443?path=%2F%2Fassignment\u0026security=tls\u0026insecure=1\u0026host=www.multiplydose.com\u0026type=ws\u0026allowInsecure=1\u0026sni=www.multiplydose.com#@netishield",
+    "URL": "trojan://humanity@www.calmlunch.com:443?path=%2Fassignment\u0026security=tls\u0026insecure=0\u0026host=www.calmlunch.com\u0026type=ws\u0026allowInsecure=0#@netishield",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 25.826534576123823,
+      "Latency": 6,
+      "Throughput": 32.690069451973095,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://humanity@www.calmlunch.com:443?path=%2Fassignment\u0026security=tls\u0026insecure=0\u0026host=www.calmlunch.com\u0026type=ws\u0026allowInsecure=0\u0026sni=www.calmlunch.com#@netishield",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 173.08965598474146,
+      "DNSResolution": 0,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://humanity@www.multiplydose.com:443?path=%2Fassignment\u0026security=tls\u0026insecure=1\u0026type=ws\u0026allowInsecure=1#@netishield",
+    "Score": 90,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 217.82413511021196,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
@@ -89,32 +101,20 @@
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 468.42189425012714,
-      "DNSResolution": 0,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://bb8e629e-2c93-4477-aa80-1a340ded231a@securitytrails.com:443?mode=auto\u0026path=%2Fforall\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026insecure=1\u0026host=fl.maybe-later.co.uk\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=1\u0026sni=fl.maybe-later.co.uk#%40Gp_Config%20%E2%9A%A1%EF%B8%8F%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D8%A7",
-    "Score": 90,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 592.1443174130399,
+      "Latency": 7,
+      "Throughput": 279.1072586866552,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "trojan",
-    "URL": "trojan://humanity@www.multiplydose.com:443?path=%2Fassignment\u0026security=tls\u0026insecure=1\u0026type=ws\u0026allowInsecure=1#https%3A%2F%2Ft.me%2FVPNgoma",
+    "URL": "trojan://humanity@www.multiplydose.com:443?path=%2Fassignment\u0026security=tls\u0026fp=chrome\u0026type=ws\u0026sni=www.multiplydose.com#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6",
     "Score": 90,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 357.04033556078895,
+      "Latency": 15,
+      "Throughput": 229.77106989222358,
       "DNSResolution": 0,
       "PacketLoss": 0
     }
