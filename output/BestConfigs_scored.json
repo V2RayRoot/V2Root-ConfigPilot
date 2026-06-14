@@ -5,9 +5,33 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 33,
-      "Throughput": 99.72453714383117,
-      "DNSResolution": 7,
+      "Latency": 21,
+      "Throughput": 124.77440203232545,
+      "DNSResolution": 11,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=greattehran.hozheen.ir\u0026type=ws\u0026allowInsecure=0\u0026sni=07e357aa7e747ca4.hOzHeEn.Ir#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20%40nitruStore%20159",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 26.034851501893307,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://708e7929-a262-4fb9-b09d-e70e2bc84b7b@gamefictoinspeed.info:8443?mode=stream-one\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026host=moback2.notrogame.com\u0026fp=chrome\u0026type=xhttp\u0026sni=moback2.notrogame.com#%40PasargadConfig%F0%9F%A6%81%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 22,
+      "Throughput": 23.661998782335797,
+      "DNSResolution": 40,
       "PacketLoss": 0
     }
   },
@@ -17,93 +41,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 26,
-      "Throughput": 31.591587495120873,
-      "DNSResolution": 3,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇨🇦",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 39,
-      "Throughput": 31.452831446792505,
-      "DNSResolution": 32,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://3f761d67-e57a-4b1c-835b-4110a458db38@re2-4bnt.onrender.com:443?path=%2Fws%2F3f761d67-e57a-4b1c-835b-4110a458db38\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=re2-4bnt.onrender.com\u0026fp=chrome\u0026type=ws\u0026sni=re2-4bnt.onrender.com#%40v2ray_phoenix",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 89.56527289256748,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://5c233eed-eb98-42c2-a950-93fd91b41d50@saas.sin.fan:443?encryption=mlkem768x25519plus.native.0rtt.mkHDiyn_CTQhHI4nNdiCvzY3vIC_LLhL7FFn84jDfUQ\u0026security=tls\u0026sni=thus1.466688.xyz\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026insecure=0\u0026allowInsecure=0\u0026type=xhttp\u0026host=thus1.466688.xyz\u0026path=%2Fsecure-xhttp%3Fhttps%3A%2F%2Ft.me%2Fdaily_free_vpn\u0026mode=packet-up\u0026extra=%7B%22headers%22%3A%7B%22hostname%22%3A%22thus1.466688.xyz%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#👁️‍🗨️",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 17.641796379444695,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://3f761d67-e57a-4b1c-835b-4110a458db38@re2-4bnt.onrender.com:443?path=%2Fws%2F3f761d67-e57a-4b1c-835b-4110a458db38\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=re2-4bnt.onrender.com\u0026fp=chrome\u0026type=ws\u0026sni=re2-4bnt.onrender.com#%40v2ray_phoenix",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
       "Latency": 29,
-      "Throughput": 68.23563186395548,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://3f761d67-e57a-4b1c-835b-4110a458db38@re2-4bnt.onrender.com:443?path=%2Fws%2F3f761d67-e57a-4b1c-835b-4110a458db38\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=re2-4bnt.onrender.com\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=re2-4bnt.onrender.com#%40VMESS_RAY%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 101.919337316392,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://708e7929-a262-4fb9-b09d-e70e2bc84b7b@gamefictoinspeed.info:8443?mode=stream-one\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026alpn=h2,http/1.1,h3\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026host=moback2.notrogame.com\u0026fp=chrome\u0026allowinsecure=0\u0026type=xhttp\u0026sni=moback2.notrogame.com#🇩🇪All¹²",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 78.16660386957129,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://5c233eed-eb98-42c2-a950-93fd91b41d50@saas.sin.fan:443?encryption=mlkem768x25519plus.native.0rtt.mkHDiyn_CTQhHI4nNdiCvzY3vIC_LLhL7FFn84jDfUQ\u0026security=tls\u0026sni=thus1.466688.xyz\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026insecure=0\u0026allowInsecure=0\u0026type=xhttp\u0026host=thus1.466688.xyz\u0026path=%2Fsecure-xhttp%3Fhttps%3A%2F%2Ft.me%2Fdaily_free_vpn\u0026mode=packet-up\u0026extra=%7B%22headers%22%3A%7B%22hostname%22%3A%22thus1.466688.xyz%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#👁️‍🗨️",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 5.120451972874014,
-      "DNSResolution": 2,
+      "Throughput": 32.567381229885086,
+      "DNSResolution": 25,
       "PacketLoss": 0
     }
   },
@@ -113,9 +53,69 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 103.47968819189916,
-      "DNSResolution": 15,
+      "Latency": 20,
+      "Throughput": 66.75361881797865,
+      "DNSResolution": 22,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://3f761d67-e57a-4b1c-835b-4110a458db38@re2-4bnt.onrender.com:443?path=%2Fws%2F3f761d67-e57a-4b1c-835b-4110a458db38\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=re2-4bnt.onrender.com\u0026fp=chrome\u0026type=ws\u0026sni=re2-4bnt.onrender.com#%40v2ray_phoenix",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 54.219207592109605,
+      "DNSResolution": 10,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://A4u%5Ep%28_UR*F6@www.speedtest.net:443?path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560\u0026security=tls\u0026alpn=http%2F1.1\u0026insecure=0\u0026host=027.electrocellco-cf-027.workers.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#@netishield",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 15,
+      "Throughput": 29.502672636050594,
+      "DNSResolution": 10,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://3f761d67-e57a-4b1c-835b-4110a458db38@re2-4bnt.onrender.com:443?path=%2Fws%2F3f761d67-e57a-4b1c-835b-4110a458db38\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026host=re2-4bnt.onrender.com\u0026fp=chrome\u0026type=ws\u0026sni=re2-4bnt.onrender.com#%40v2ray_phoenix",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 21,
+      "Throughput": 65.47648370755613,
+      "DNSResolution": 10,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://708e7929-a262-4fb9-b09d-e70e2bc84b7b@gamefictoinspeed.info:8443?mode=stream-one\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026insecure=0\u0026host=moback2.notrogame.com\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=moback2.notrogame.com#%40VMESS_RAY%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 20,
+      "Throughput": 50.87150389722776,
+      "DNSResolution": 16,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://5c233eed-eb98-42c2-a950-93fd91b41d50@saas.sin.fan:443?encryption=mlkem768x25519plus.native.0rtt.mkHDiyn_CTQhHI4nNdiCvzY3vIC_LLhL7FFn84jDfUQ\u0026security=tls\u0026sni=thus1.466688.xyz\u0026fp=chrome\u0026alpn=h2%2Chttp%2F1.1%2Ch3\u0026insecure=0\u0026allowInsecure=0\u0026type=xhttp\u0026host=thus1.466688.xyz\u0026path=%2Fsecure-xhttp%3Fhttps%3A%2F%2Ft.me%2Fdaily_free_vpn\u0026mode=packet-up\u0026extra=%7B%22headers%22%3A%7B%22hostname%22%3A%22thus1.466688.xyz%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#👁️‍🗨️",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 20.67336787339716,
+      "DNSResolution": 90,
       "PacketLoss": 0
     }
   }
