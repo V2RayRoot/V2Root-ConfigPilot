@@ -1,12 +1,36 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none\u0026host=hhlfy.twiladaphne.ndjp.net\u0026path=%2Ffp%3Drandom\u0026security=tls\u0026sni=hhlfy.twiladaphne.ndjp.net\u0026type=ws#🇺🇸",
+    "Protocol": "vless",
+    "URL": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇨🇦",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 36.43882439953338,
+      "Latency": 17,
+      "Throughput": 28.005779244599136,
+      "DNSResolution": 47,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@hcaptcha.com:443?encryption=none\u0026security=tls\u0026sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026fp=chrome\u0026type=ws\u0026host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026path=%2FeyJqdW5rIjoibzdwc3BmenB6NDNpeDR6ZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4053#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 34,
+      "Throughput": 51.77692685131169,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://fa937ff5-89cc-49a4-9bf9-da2b7285070d@suolar.yellowsky.ir:2053?mode=auto\u0026path=%2F\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=bulghari.appleseraj.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=bulghari.appleseraj.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 50.686718231025424,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -17,69 +41,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 208.64662928762303,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://c0f081af-7d91-4c68-84ac-4a36e0034633@hcaptcha.com:443?encryption=none\u0026security=tls\u0026sni=tvv98wmo.2xxmomfn8t5fmb22g32w.workers.dev\u0026fp=chrome\u0026type=ws\u0026host=tvv98wmo.2xxmomfn8t5fmb22g32w.workers.dev\u0026path=%2FeyJqdW5rIjoiYWwzY3dmZmtmMDNvYnAzNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D636#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 24,
-      "Throughput": 195.8920410557396,
-      "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@hcaptcha.com:443?encryption=none\u0026security=tls\u0026sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026fp=chrome\u0026type=ws\u0026host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026path=%2FeyJqdW5rIjoibzdwc3BmenB6NDNpeDR6ZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4053\u0026fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath-FRAG",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 161.66037491223358,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@hcaptcha.com:443?encryption=none\u0026security=tls\u0026sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026fp=chrome\u0026type=ws\u0026host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026path=%2FeyJqdW5rIjoibzdwc3BmenB6NDNpeDR6ZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4053#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 172.23691989232867,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://c0f081af-7d91-4c68-84ac-4a36e0034633@hcaptcha.com:443?encryption=none\u0026security=tls\u0026sni=tvv98wmo.2xxmomfn8t5fmb22g32w.workers.dev\u0026fp=chrome\u0026type=ws\u0026host=tvv98wmo.2xxmomfn8t5fmb22g32w.workers.dev\u0026path=%2FeyJqdW5rIjoiYWwzY3dmZmtmMDNvYnAzNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D636\u0026fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath-FRAG",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 205.32682460987775,
-      "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@hcaptcha.com:443?encryption=none\u0026security=tls\u0026sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026fp=chrome\u0026type=ws\u0026host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026path=%2FeyJqdW5rIjoibzdwc3BmenB6NDNpeDR6ZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4053#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 193.75438081682438,
-      "DNSResolution": 5,
+      "Latency": 16,
+      "Throughput": 47.30465357046005,
+      "DNSResolution": 17,
       "PacketLoss": 0
     }
   },
@@ -89,8 +53,8 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 26.608747494690796,
+      "Latency": 31,
+      "Throughput": 59.76892660573797,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
@@ -101,21 +65,57 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 200.8366755485013,
+      "Latency": 32,
+      "Throughput": 53.31649171992884,
       "DNSResolution": 1,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2Fjdhfyws\u0026security=tls\u0026encryption=none\u0026host=amooaliii.net\u0026fp=chrome\u0026type=ws\u0026sni=amooaliii.net#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
-    "Score": 90,
+    "URL": "ss://04c808e2-0b59-47b0-a54b-32fc7ef1c902@shopify.com:443?sni=misaka.cndyw.ggff.net\u0026type=ws\u0026host=misaka.cndyw.ggff.net\u0026path=/?ed=2560fp=random\u0026security=tls#🇨🇦",
+    "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 2,
-      "Throughput": 61.6157698970164,
-      "DNSResolution": 0,
+      "Latency": 32,
+      "Throughput": 15.552496750976507,
+      "DNSResolution": 18,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@hcaptcha.com:443?encryption=none\u0026security=tls\u0026sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026fp=chrome\u0026type=ws\u0026host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026path=%2FeyJqdW5rIjoibzdwc3BmenB6NDNpeDR6ZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4053\u0026fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath-FRAG",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 53.063217500928346,
+      "DNSResolution": 15,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@shopify.com:443?sni=misaka.cndyw.ggff.net\u0026type=ws\u0026host=misaka.cndyw.ggff.net\u0026path=/?ed=2560fp=random\u0026security=tls#🇨🇦",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 31,
+      "Throughput": 44.490020020953914,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@hcaptcha.com:443?encryption=none\u0026security=tls\u0026sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026fp=chrome\u0026type=ws\u0026host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev\u0026path=%2FeyJqdW5rIjoibzdwc3BmenB6NDNpeDR6ZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4053#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 26,
+      "Throughput": 53.975033875068604,
+      "DNSResolution": 1,
       "PacketLoss": 0
     }
   }
