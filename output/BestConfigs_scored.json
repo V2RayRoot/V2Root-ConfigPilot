@@ -1,25 +1,109 @@
 [
   {
-    "Protocol": "trojan",
-    "URL": "trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?fp=chrome\u0026host=hhcm.hhxaf.cc.cd\u0026path=%2F\u0026security=tls\u0026sni=hhcm.hhxaf.cc.cd\u0026type=ws#🇸🇬",
+    "Protocol": "shadowsocks",
+    "URL": "ss://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?encryption=none\u0026security=tls\u0026sni=t1s1.rittbo.kdns.fr\u0026fp=chrome\u0026insecure=0\u0026allowInsecure=0\u0026ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query\u0026type=ws\u0026host=t1s1.rittbo.kdns.fr\u0026path=%2F#🇸🇬",
     "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 7,
-      "Throughput": 9.115511504268897,
-      "DNSResolution": 19,
+      "Throughput": 7.392863570654982,
+      "DNSResolution": 18,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto\u0026path=%3Fed%3D2560\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D\u0026insecure=0\u0026host=frankloyal.appleseraj.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=frankloyal.appleseraj.ir#%F0%9F%87%AA%F0%9F%87%B8%20%40VConfing",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 57.730391710088945,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto\u0026path=%3Fed%3D2560\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=nurenbbbB.appleseraj.IR.\u0026fp=chrome\u0026type=xhttp\u0026sni=nurenbbbB.appleseraj.IR.#telegram%3A%40sil3nt_network",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 25.001820757596672,
+      "DNSResolution": 8,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "shadowsocks",
-    "URL": "ss://708e7929-a262-4fb9-b09d-e70e2bc84b7b@gamefictoinspeed.info:8443?mode=stream-one\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026host=moback2hi.notrogame.com\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=moback2hi.notrogame.com#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20%40nitruStore%201",
+    "URL": "ss://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto\u0026path=%3Fed%3D2560\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D\u0026insecure=0\u0026host=polobash.appleseraj.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=polobash.appleseraj.ir#[🇵🇱]@NetliVPN",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 31.952586324015865,
+      "DNSResolution": 1,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://489bea29-796a-46ba-80d8-6e39b080433a@hcaptcha.com:2087?alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026fp=chrome\u0026host=api.dbssl.ir\u0026mode=auto\u0026path=%2F\u0026security=tls\u0026sni=api.dbssl.ir\u0026type=xhttp\u0026x_padding_bytes=100-1000#Imported3",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 139.78112198287909,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto\u0026path=%3Fed%3D2560\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D\u0026insecure=0\u0026host=polobash.appleseraj.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=polobash.appleseraj.ir#%40JZ_CONFIG",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 3,
+      "Throughput": 47.8087856065866,
+      "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇸🇬",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 24.097524440530112,
+      "DNSResolution": 3,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto\u0026path=%3Fed%3D2560\u0026security=tls\u0026encryption=none\u0026alpn=h2,http/1.1\u0026host=nuren1.aPPleseraj.IR.\u0026fp=chrome\u0026allowinsecure=0\u0026type=xhttp\u0026sni=nuren1.aPPleseraj.IR.#🇩🇪All⁵",
     "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 4,
-      "Throughput": 49.370853939827775,
+      "Throughput": 48.45123536690173,
       "DNSResolution": 2,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vmess",
+    "URL": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJjZi5zY3BuYi50b3AiLCJwb3J0IjoiNDQzIiwiaWQiOiI3Yzg0YWU2OS1mMGIzLTQ3ZGMtODNjNS1lN2I1ZjAwZjViZWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoidmllbm5hLWJyZWFkLXRocmVhdHMtYW1lbmRtZW50LnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii83Yzg0YWU2OS1mMGIzLTQ3ZGMtODNjNS1lN2I1ZjAwZjViZWQtdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2aWVubmEtYnJlYWQtdGhyZWF0cy1hbWVuZG1lbnQudHJ5Y2xvdWRmbGFyZS5jb20iLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 119.35791053951537,
+      "DNSResolution": 9,
       "PacketLoss": 0
     }
   },
@@ -29,93 +113,9 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 11,
-      "Throughput": 28.74754207167746,
-      "DNSResolution": 24,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto\u0026path=%3Fed%3D2560\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D\u0026insecure=0\u0026host=frankloyal.appleseraj.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=frankloyal.appleseraj.ir#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40AryaNet_Shop%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 29.250640777334027,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto\u0026path=%3Fed%3D2560\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D\u0026host=frankloyal.appleseraj.ir\u0026fp=chrome\u0026type=xhttp\u0026sni=frankloyal.appleseraj.ir#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 26.37097516329147,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://708e7929-a262-4fb9-b09d-e70e2bc84b7b@gamefictoinspeed.info:8443?mode=stream-one\u0026path=%2F\u0026security=tls\u0026encryption=none\u0026host=moback2hi.notrogame.com\u0026fp=chrome\u0026type=xhttp\u0026sni=moback2hi.notrogame.com#%40v2ray_phoenix",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 42,
-      "Throughput": 27.187856978686185,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "trojan",
-    "URL": "trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560\u0026security=tls\u0026alpn=http/1.1\u0026insecure=0\u0026host=027.electrocellco-cf-027.workers.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#🇸🇬",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 24,
-      "Throughput": 46.136352136353594,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto\u0026path=%3Fed%3D2560\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D\u0026insecure=0\u0026host=frankloyal.appleseraj.ir\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=frankloyal.appleseraj.ir#%F0%9F%87%AA%F0%9F%87%B8%20%40VConfing",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 54.69093890642022,
-      "DNSResolution": 1,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto\u0026path=%3Fed%3D2560\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026host=nurenbbbB.appleseraj.IR.\u0026fp=chrome\u0026type=xhttp\u0026sni=nurenbbbB.appleseraj.IR.#telegram%3A%40sil3nt_network",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 66.56341737649825,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto\u0026path=%3Fed%3D2560\u0026security=tls\u0026alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=nuren1.aPPleseraj.IR.\u0026fp=chrome\u0026type=xhttp\u0026allowInsecure=0\u0026sni=nuren1.aPPleseraj.IR.#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20%40nitruStore%2032",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 58.77638081422846,
-      "DNSResolution": 2,
+      "Latency": 10,
+      "Throughput": 30.827784351417446,
+      "DNSResolution": 10,
       "PacketLoss": 0
     }
   }
