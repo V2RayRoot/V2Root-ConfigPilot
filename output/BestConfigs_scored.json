@@ -1,73 +1,49 @@
 [
   {
-    "Protocol": "shadowsocks",
-    "URL": "ss://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇸🇬",
+    "Protocol": "vless",
+    "URL": "vless://f33d71f3-e9f0-4a65-9436-a5287c6a205b@xpymhar1.azangooo.ir:2053?encryption=none\u0026security=tls\u0026type=ws\u0026headerType=none\u0026path=%2F%3Fed%3D2560\u0026host=cpno-3x.farshe500shaneh.ir\u0026sni=cpno-3x.farshe500shaneh.ir#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%28MCI%29%202",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 10,
-      "Throughput": 70.75415545345967,
-      "DNSResolution": 24,
+      "Latency": 8,
+      "Throughput": 35.496378359979026,
+      "DNSResolution": 10,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇸🇬",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 62.58764813361911,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇨🇦",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 88.13828950506318,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://3509334e-bda5-4c03-91b3-b0122ae00291@cuddly-coral.ir:8443?security=tls\u0026type=xhttp\u0026headerType=\u0026path=%2F\u0026host=mx.khazarservers.ir\u0026mode=auto\u0026extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D\u0026sni=mx.khazarservers.ir\u0026fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%D9%BE%D9%86%DB%8C%D8%B1%20%D9%87%D9%84%D9%86%D8%AF%DB%8C%20%F0%9F%A7%80",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 29.85652261454315,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://03808096-43a3-462a-848d-7bb4c27fa922@www.speedtest.net:443?path=%2FeyJqdW5rIjoiM3d6MzhCZDZhVG5zbkNNdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=1\u0026host=ez-a6003c.poriputak.workers.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=1\u0026sni=ez-A6003c.pOrIpUtak.wORkERs.DeV#%40Gp_Config%20%E2%9A%A1%EF%B8%8F%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D8%A7",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 109.37665111745407,
-      "DNSResolution": 12,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇨🇦",
+    "URL": "vless://9cbe9ddd-85e0-46de-8a53-212d8c7d33b8@de6.xonline.sbs:8443?alpn=h2%2Chttp%2F1.1%2Ch3\u0026encryption=none\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026fp=chrome\u0026host=xco.trevor.ir\u0026mode=auto\u0026path=%2FgetFile\u0026security=tls\u0026sni=xco.trevor.ir\u0026type=xhttp\u0026x_padding_bytes=100-1000#%5B6%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%40XonlineVPN%20%7C%20Free-500GB",
     "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 12,
-      "Throughput": 88.22307716755664,
-      "DNSResolution": 30,
+      "Throughput": 44.4761378932175,
+      "DNSResolution": 10,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://9cbe9ddd-85e0-46de-8a53-212d8c7d33b8@de11.xonline.sbs:8443?alpn=h2%2Chttp%2F1.1%2Ch3\u0026encryption=none\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026fp=chrome\u0026host=xco.trevor.ir\u0026mode=auto\u0026path=%2FgetFile\u0026security=tls\u0026sni=xco.trevor.ir\u0026type=xhttp\u0026x_padding_bytes=100-1000#%5B11%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%40XonlineVPN%20%7C%20Free-500GB",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 8,
+      "Throughput": 53.9970645305824,
+      "DNSResolution": 11,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://9cbe9ddd-85e0-46de-8a53-212d8c7d33b8@de1.xonline.sbs:8443?alpn=h2%2Chttp%2F1.1%2Ch3\u0026encryption=none\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026fp=chrome\u0026host=xco.trevor.ir\u0026mode=auto\u0026path=%2FgetFile\u0026security=tls\u0026sni=xco.trevor.ir\u0026type=xhttp\u0026x_padding_bytes=100-1000#%5B1%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%40XonlineVPN%20%7C%20Free-500GB",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 11,
+      "Throughput": 60.08213753920313,
+      "DNSResolution": 8,
       "PacketLoss": 0
     }
   },
@@ -77,45 +53,69 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 5,
-      "Throughput": 85.40698558467801,
-      "DNSResolution": 12,
+      "Latency": 20,
+      "Throughput": 54.14847106004844,
+      "DNSResolution": 3,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://f33d71f3-e9f0-4a65-9436-a5287c6a205b@xpymhar1.azangooo.ir:2053?encryption=none\u0026security=tls\u0026type=ws\u0026headerType=none\u0026path=%2F%3Fed%3D2560\u0026host=cpno-3x.farshe500shaneh.ir\u0026sni=cpno-3x.farshe500shaneh.ir#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%28MCI%29%202",
+    "URL": "vless://9cbe9ddd-85e0-46de-8a53-212d8c7d33b8@de8.xonline.sbs:8443?alpn=h2%2Chttp%2F1.1%2Ch3\u0026encryption=none\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026fp=chrome\u0026host=xco.trevor.ir\u0026mode=auto\u0026path=%2FgetFile\u0026security=tls\u0026sni=xco.trevor.ir\u0026type=xhttp\u0026x_padding_bytes=100-1000#%5B8%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%40XonlineVPN%20%7C%20Free-500GB",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 6,
-      "Throughput": 71.9350254795209,
-      "DNSResolution": 6,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://3509334e-bda5-4c03-91b3-b0122ae00291@colourful-peach.ir:2083?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=mx.khazarservers.ir\u0026sni=mx.khazarservers.ir\u0026fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%D8%B4%D9%87%D8%B1%20%D8%AF%D9%88%DA%86%D8%B1%D8%AE%D9%87%20%D9%87%D8%A7%20%F0%9F%9A%B2",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 30.763473976681304,
+      "Latency": 10,
+      "Throughput": 59.30884364917381,
       "DNSResolution": 2,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net\u0026type=ws\u0026host=misaka.cndyw.ggff.net\u0026path=/?ed=2560fp=random\u0026security=tls#🇵🇱",
+    "URL": "vless://9cbe9ddd-85e0-46de-8a53-212d8c7d33b8@de2.xonline.sbs:8443?alpn=h2%2Chttp%2F1.1%2Ch3\u0026encryption=none\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026fp=chrome\u0026host=xco.trevor.ir\u0026mode=auto\u0026path=%2FgetFile\u0026security=tls\u0026sni=xco.trevor.ir\u0026type=xhttp\u0026x_padding_bytes=100-1000#%5B2%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%40XonlineVPN%20%7C%20Free-500GB",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 64.25490021724019,
-      "DNSResolution": 13,
+      "Latency": 12,
+      "Throughput": 39.8298389619866,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://9cbe9ddd-85e0-46de-8a53-212d8c7d33b8@de1.xonline.sbs:8443?alpn=h2%2Chttp%2F1.1%2Ch3\u0026encryption=none\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026fp=chrome\u0026host=xco.trevor.ir\u0026mode=auto\u0026path=%2FgetFile\u0026security=tls\u0026sni=xco.trevor.ir\u0026type=xhttp\u0026x_padding_bytes=100-1000#%5B1%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%40XonlineVPN%20%7C%20Free-500GB",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 5,
+      "Throughput": 80.71236816857957,
+      "DNSResolution": 85,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://9cbe9ddd-85e0-46de-8a53-212d8c7d33b8@de8.xonline.sbs:8443?alpn=h2%2Chttp%2F1.1%2Ch3\u0026encryption=none\u0026extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D\u0026fp=chrome\u0026host=xco.trevor.ir\u0026mode=auto\u0026path=%2FgetFile\u0026security=tls\u0026sni=xco.trevor.ir\u0026type=xhttp\u0026x_padding_bytes=100-1000#%5B8%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%40XonlineVPN%20%7C%20Free-500GB",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 7,
+      "Throughput": 65.05171342879271,
+      "DNSResolution": 7,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://3509334e-bda5-4c03-91b3-b0122ae00291@continuous-silver.ir:2083?security=tls\u0026type=ws\u0026headerType=\u0026path=%2F\u0026host=mx.khazarservers.ir\u0026sni=mx.khazarservers.ir\u0026fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%D9%88%D8%A7%D9%81%D9%84%20%D8%AF%D8%A7%D8%BA%20%F0%9F%A7%87%20",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 4,
+      "Throughput": 19.927857866426987,
+      "DNSResolution": 2,
       "PacketLoss": 0
     }
   }
