@@ -1,36 +1,84 @@
 [
   {
-    "Protocol": "vless",
-    "URL": "vless://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=%2Fws%2Fdeffbfcd-0626-365b-ff92-9b93f2fd6459\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=rvg-production-1ab7.up.railway.app\u0026type=ws\u0026allowInsecure=1\u0026sni=rvg-production-1ab7.up.railway.app#telegram%3A%20nmsc_ir%20%E2%80%A2%20%E2%91%A9",
+    "Protocol": "shadowsocks",
+    "URL": "ss://a9eb583f-d23a-0906-654b-28a53101b83d@rvg-production-6b96.up.railway.app:443?path=%2Fws%2Fa9eb583f-d23a-0906-654b-28a53101b83d\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=rvg-production-6b96.up.railway.app\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=rvg-production-6b96.up.railway.app#tel%3A%20%40gottavpn%2F%2010G",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 12,
-      "Throughput": 26.43078390229406,
+      "Latency": 23,
+      "Throughput": 78.11682061962223,
+      "DNSResolution": 8,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇸🇬",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 16,
+      "Throughput": 29.19095242922344,
+      "DNSResolution": 11,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "trojan",
+    "URL": "trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560\u0026security=tls\u0026alpn=http/1.1\u0026insecure=0\u0026host=027.electrocellco-cf-027.workers.dev\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#🇸🇬",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 6,
+      "Throughput": 51.870094900423396,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0#🇨🇦",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 21,
+      "Throughput": 136.68975481924505,
+      "DNSResolution": 13,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "shadowsocks",
+    "URL": "ss://75747938-b9db-ec4a-e44a-5db2d21bd5b8@rvg-production-cdb5.up.railway.app:443?path=%2Fws%2F75747938-b9db-ec4a-e44a-5db2d21bd5b8\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=rvg-production-cdb5.up.railway.app\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=rvg-production-cdb5.up.railway.app#%40VPN_DLS%20%F0%9F%87%BA%F0%9F%87%B8%20%D8%A8%D8%B9%D8%AF%20%D8%A7%D8%B2%20%D9%85%D9%88%D8%B9%D9%88%D8%AF%20%D9%85%D9%82%D8%B1%D8%B1%20%D8%B4%D8%AF%D9%87%20%D9%88%D8%A7%D8%B1%D8%AF%20%D9%86%DA%A9%D9%86%DB%8C%D8%AF",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 469.31308403813404,
       "DNSResolution": 4,
       "PacketLoss": 0
     }
   },
   {
     "Protocol": "vless",
-    "URL": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇸🇬",
+    "URL": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026type=ws\u0026allowInsecure=0#🇨🇦",
     "Score": 100,
     "Results": {
       "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 84.31571060854053,
-      "DNSResolution": 2,
+      "Latency": 28,
+      "Throughput": 158.95375683528474,
+      "DNSResolution": 5,
       "PacketLoss": 0
     }
   },
   {
-    "Protocol": "vmess",
-    "URL": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJhZGQiOiJ5ZzEueWdra2suZHBkbnMub3JnIiwicG9ydCI6IjQ0MyIsImlkIjoiYTIyNDNjMjQtYTgyYy00MDk4LWJjNGQtZTg1MzMxYTFlMWQxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImFzc29jaWF0aW9ucy1icnlhbi1tYW5jaGVzdGVyLWxhdGluby50cnljbG91ZGZsYXJlLmNvbSIsInBhdGgiOiIvYTIyNDNjMjQtYTgyYy00MDk4LWJjNGQtZTg1MzMxYTFlMWQxLXZtIiwidGxzIjoidGxzIiwic25pIjoiYXNzb2NpYXRpb25zLWJyeWFuLW1hbmNoZXN0ZXItbGF0aW5vLnRyeWNsb3VkZmxhcmUuY29tIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+    "Protocol": "vless",
+    "URL": "vless://a9eb583f-d23a-0906-654b-28a53101b83d@rvg-production-6b96.up.railway.app:443?path=%2Fws%2Fa9eb583f-d23a-0906-654b-28a53101b83d\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=rvg-production-6b96.up.railway.app\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=rvg-production-6b96.up.railway.app#tel%3A%20%40gottavpn%2F%2010G",
     "Score": 100,
     "Results": {
       "TLSOK": true,
       "Latency": 6,
-      "Throughput": 293.5727458218543,
+      "Throughput": 72.07919037914357,
       "DNSResolution": 4,
       "PacketLoss": 0
     }
@@ -41,80 +89,32 @@
     "Score": 100,
     "Results": {
       "TLSOK": true,
+      "Latency": 9,
+      "Throughput": 10.280632428113538,
+      "DNSResolution": 6,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇸🇬",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
+      "Latency": 17,
+      "Throughput": 41.45038632278183,
+      "DNSResolution": 23,
+      "PacketLoss": 0
+    }
+  },
+  {
+    "Protocol": "vless",
+    "URL": "vless://75747938-b9db-ec4a-e44a-5db2d21bd5b8@rvg-production-cdb5.up.railway.app:443?path=%2Fws%2F75747938-b9db-ec4a-e44a-5db2d21bd5b8\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=rvg-production-cdb5.up.railway.app\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=rvg-production-cdb5.up.railway.app#%40VPN_DLS%20%F0%9F%87%BA%F0%9F%87%B8%20%D8%A8%D8%B9%D8%AF%20%D8%A7%D8%B2%20%D9%85%D9%88%D8%B9%D9%88%D8%AF%20%D9%85%D9%82%D8%B1%D8%B1%20%D8%B4%D8%AF%D9%87%20%D9%88%D8%A7%D8%B1%D8%AF%20%D9%86%DA%A9%D9%86%DB%8C%D8%AF",
+    "Score": 100,
+    "Results": {
+      "TLSOK": true,
       "Latency": 7,
-      "Throughput": 7.878687321072242,
-      "DNSResolution": 2,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://06b65903-406d-4a41-8400-6fd5c0ee7798@saas.sin.fan:2096?path=%2F\u0026security=tls\u0026encryption=none\u0026insecure=0\u0026fp=random\u0026type=ws\u0026allowInsecure=0\u0026sni=sp.linuxdododo.ccwu.cc#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20%40nitruStore%2065",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 124.99189505680492,
-      "DNSResolution": 22,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://a9eb583f-d23a-0906-654b-28a53101b83d@rvg-production-6b96.up.railway.app:443?path=%2Fws%2Fa9eb583f-d23a-0906-654b-28a53101b83d\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=rvg-production-6b96.up.railway.app\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=rvg-production-6b96.up.railway.app#tel%3A%20%40gottavpn%2F%2010G",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 14,
-      "Throughput": 45.615371518071065,
-      "DNSResolution": 5,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?security=tls\u0026encryption=none\u0026fp=firefox\u0026type=ws\u0026sni=t1s1.rittbo.kdns.fr#%40v2ray_phoenix",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 3,
-      "Throughput": 7.433948116506099,
-      "DNSResolution": 19,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?\u0026security=tls\u0026sni=fgnix832fx.fx6hsv0.ccwu.cc\u0026type=ws\u0026headerType=none\u0026host=fgnix832fx.fx6hsv0.ccwu.cc\u0026path=%2F#🇨🇦",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 4,
-      "Throughput": 72.9730359615226,
-      "DNSResolution": 10,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "vless",
-    "URL": "vless://a9eb583f-d23a-0906-654b-28a53101b83d@rvg-production-6b96.up.railway.app:443?path=%2Fws%2Fa9eb583f-d23a-0906-654b-28a53101b83d\u0026security=tls\u0026alpn=http%2F1.1\u0026encryption=none\u0026insecure=0\u0026host=rvg-production-6b96.up.railway.app\u0026fp=chrome\u0026type=ws\u0026allowInsecure=0\u0026sni=rvg-production-6b96.up.railway.app#tel%3A%20%40gottavpn%2F%2010G",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 21,
-      "Throughput": 44.49146376487556,
-      "DNSResolution": 4,
-      "PacketLoss": 0
-    }
-  },
-  {
-    "Protocol": "shadowsocks",
-    "URL": "ss://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=%2Fws%2Fdeffbfcd-0626-365b-ff92-9b93f2fd6459\u0026security=tls\u0026encryption=none\u0026insecure=1\u0026host=rvg-production-1ab7.up.railway.app\u0026type=ws\u0026allowInsecure=1\u0026sni=rvg-production-1ab7.up.railway.app#telegram%3A%20nmsc_ir%20%E2%80%A2%20%E2%91%A9",
-    "Score": 100,
-    "Results": {
-      "TLSOK": true,
-      "Latency": 12,
-      "Throughput": 180.39191722446293,
+      "Throughput": 476.57468616365475,
       "DNSResolution": 4,
       "PacketLoss": 0
     }
